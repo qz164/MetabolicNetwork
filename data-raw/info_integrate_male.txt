@@ -1,0 +1,26 @@
+Colname	Variable	Type
+Name_map	feature_ID	Name
+ChEBI	ChEBI	Metabolite
+HMDB lip	HMDB_Lip	Metabolite
+KEGG	KEGG	Metabolite
+HMDB accession	HMDB	Metabolite
+Ensembl	Ensembl	Gene
+Uniprot	Uniprot	Gene
+4_adj pval	adj_p_value_male_8w	Condition 4
+4_logFC	logFC_male_8w	Condition 4
+4_pval	p_value_male_8w	Condition 4
+4_significance	significance_male_8w	Condition 4
+3_adj pval	adj_p_value_male_4w	Condition 3
+3_logFC	logFC_male_4w	Condition 3
+3_pval	p_value_male_4w	Condition 3
+3_significance	significance_male_4w	Condition 3
+2_adj pval	adj_p_value_male_2w	Condition 2
+2_logFC	logFC_male_2w	Condition 2
+2_pval	p_value_male_2w	Condition 2
+2_significance	significance_male_2w	Condition 2
+1_adj pval	adj_p_value_male_1w	Condition 1
+1_logFC	logFC_male_1w	Condition 1
+1_pval	p_value_male_1w	Condition 1
+1_significance	significance_male_1w	Condition 1
+MaxSig	MaxSignificance_male	MaxSignificance
+Differential feature	Differential_male	Differential feature

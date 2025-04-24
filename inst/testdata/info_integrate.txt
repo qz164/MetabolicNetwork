@@ -1,0 +1,50 @@
+Colname	Variable	Type	NodeColor	NodeSize	NodeDifferential
+Name_map	feature_ID	Name			
+ChEBI	ChEBI	Metabolite			
+HMDB lip	HMDB_Lip	Metabolite			
+KEGG	KEGG	Metabolite			
+HMDB accession	HMDB	Metabolite			
+Ensembl	Ensembl	Gene			
+Uniprot	Uniprot	Gene			
+8_adj pval	adj_p_value_female_8w	Condition 8			
+8_logFC	logFC_female_8w	Condition 8	Color8		
+8_pval	p_value_female_8w	Condition 8			
+8_log10p	log10p_female_8w	Condition 8		Size8	
+8_diff	Differential_female_8w	Condition 8			Differential8
+7_adj pval	adj_p_value_female_4w	Condition 7			
+7_logFC	logFC_female_4w	Condition 7	Color7		
+7_pval	p_value_female_4w	Condition 7			
+7_log10p	log10p_female_4w	Condition 7		Size7	
+7_diff	Differential_female_4w	Condition 7			Differential7
+6_adj pval	adj_p_value_female_2w	Condition 6			
+6_logFC	logFC_female_2w	Condition 6	Color6		
+6_pval	p_value_female_2w	Condition 6			
+6_log10p	log10p_female_2w	Condition 6		Size6	
+6_diff	Differential_female_2w	Condition 6			Differential6
+5_adj pval	adj_p_value_female_1w	Condition 5			
+5_logFC	logFC_female_1w	Condition 5	Color5		
+5_pval	p_value_female_1w	Condition 5			
+5_log10p	log10p_female_1w	Condition 5		Size5	
+5_diff	Differential_female_1w	Condition 5			Differential5
+4_adj pval	adj_p_value_male_8w	Condition 4			
+4_logFC	logFC_male_8w	Condition 4	Color4		
+4_pval	p_value_male_8w	Condition 4			
+4_log10p	log10p_male_8w	Condition 4		Size4	
+4_diff	Differential_male_8w	Condition 4			Differential4
+3_adj pval	adj_p_value_male_4w	Condition 3			
+3_logFC	logFC_male_4w	Condition 3	Color3		
+3_pval	p_value_male_4w	Condition 3			
+3_log10p	log10p_male_4w	Condition 3		Size3	
+3_diff	Differential_male_4w	Condition 3			Differential3
+2_adj pval	adj_p_value_male_2w	Condition 2			
+2_logFC	logFC_male_2w	Condition 2	Color2		
+2_pval	p_value_male_2w	Condition 2			
+2_log10p	log10p_male_2w	Condition 2		Size2	
+2_diff	Differential_male_2w	Condition 2			Differential2
+1_adj pval	adj_p_value_male_1w	Condition 1			
+1_logFC	logFC_male_1w	Condition 1	Color1		
+1_pval	p_value_male_1w	Condition 1			
+1_log10p	log10p_male_1w	Condition 1		Size1	
+1_diff	Differential_male_1w	Condition 1			Differential1
+MaxSig	MaxSignificance	MaxSignificance			
+Differential feature	Differential	Differential feature			

@@ -1,0 +1,1176 @@
+type1	type2	mappingID1	mappingID2	Reaction ID	Relationship	pair1	pair2	SeedNode1	SeedNode2	detectedPair1	detectedPair2	SigNode1	SigNode2	sorted_pairs	EdgeColor	EdgeLine	Size8	Size7	Size6	Size5	Size4	Size3	Size2	Size1
+input	catalyst	C00473	AABR07057436.1	R02124	Metabolite_GeneProduct	Retinol	AABR07057436.1	*		*	*	*		AABR07057436.1_C00473	Enzyme	Solid								
+input	catalyst	C00010	Aacs	R01357	Metabolite_GeneProduct	CoA	Aacs	*		*	*	*		Aacs_C00010	Enzyme	Solid								
+input	catalyst	C00422	Aadac	R01369, R02250	Metabolite_GeneProduct	Triacylglycerol	Aadac	*	*	*	*	*	*	Aadac_C00422	Enzyme	Solid					*			
+input	catalyst	C00641	Aadac	R02687, R02688	Metabolite_GeneProduct	1,2-Diacyl-sn-glycerol	Aadac	*	*	*	*	*	*	Aadac_C00641	Enzyme	Solid								
+output	catalyst	C00025	Aadat	R00372, R01939, R01956, R04171, R12688	Metabolite_GeneProduct	L-Glutamate	Aadat	*		*	*	*		Aadat_C00025	Enzyme	Solid								
+input	catalyst	C00010	Aasdhppt	R01625	Metabolite_GeneProduct	CoA	Aasdhppt	*		*	*	*		Aasdhppt_C00010	Enzyme	Solid								
+output	catalyst	C00025	Aass	R02313	Metabolite_GeneProduct	L-Glutamate	Aass	*		*	*	*		Aass_C00025	Enzyme	Solid								
+output	catalyst	C00025	Abat	R00908, R01648, R04188	Metabolite_GeneProduct	L-Glutamate	Abat	*		*	*	*		Abat_C00025	Enzyme	Solid								
+input	catalyst	C00334	Abat	R01648	Metabolite_GeneProduct	4-Aminobutanoate	Abat	*		*	*	*		Abat_C00334	Enzyme	Solid								
+output	catalyst	C00010	Abhd10	R01274	Metabolite_GeneProduct	CoA	Abhd10	*		*	*	*		Abhd10_C00010	Enzyme	Solid	*						*	
+output	catalyst	C00010	Abhd17a	R01274	Metabolite_GeneProduct	CoA	Abhd17a	*		*	*	*		Abhd17a_C00010	Enzyme	Solid								
+output	catalyst	C00010	Abhd17b	R01274	Metabolite_GeneProduct	CoA	Abhd17b	*		*	*	*		Abhd17b_C00010	Enzyme	Solid								
+output	catalyst	C00010	Abhd17c	R01274	Metabolite_GeneProduct	CoA	Abhd17c	*		*	*	*		Abhd17c_C00010	Enzyme	Solid								
+input	catalyst	C00010	Abhd5	R02241	Metabolite_GeneProduct	CoA	Abhd5	*	*	*	*	*	*	Abhd5_C00010	Enzyme	Solid								
+input	catalyst	C00416	Abhd5	R02241	Metabolite_GeneProduct	Phosphatidate	Abhd5		*	*	*		*	Abhd5_C00416	Enzyme	Solid								
+input	catalyst	C00010	Acaa1a	R05506, R05586, R08091, R08095	Metabolite_GeneProduct	CoA	Acaa1a	*		*	*	*		Acaa1a_C00010	Enzyme	Solid								
+input	catalyst	C05270	Acaa1a	R04747	Metabolite_GeneProduct	Hexanoyl-CoA	Acaa1a	*		*	*	*		Acaa1a_C05270	Enzyme	Solid								
+input	catalyst	C00010	Acaa2	R05506, R05586, R08091, R08095	Metabolite_GeneProduct	CoA	Acaa2	*	*	*	*	*	*	Acaa2_C00010	Enzyme	Solid								
+input	catalyst	C00024	Acaa2	R00227, R00238, R00391, R00829, R00927, R01177, R03778, R03858, R03991, R04742, R04747, R07891, R07895, R07899, R07937, R07953	Metabolite_GeneProduct	Acetyl-CoA	Acaa2		*	*	*		*	Acaa2_C00024	Enzyme	Solid								
+output	catalyst	C00249	Acaa2	R01274	Metabolite_GeneProduct	Hexadecanoic acid	Acaa2		*	*	*		*	Acaa2_C00249	Enzyme	Solid						*	*	
+output	catalyst	C00712	Acaa2	R08176	Metabolite_GeneProduct	(9Z)-Octadecenoic acid	Acaa2		*	*	*		*	Acaa2_C00712	Enzyme	Solid								
+output	catalyst	C01530	Acaa2	R08174	Metabolite_GeneProduct	Octadecanoic acid	Acaa2		*	*	*		*	Acaa2_C01530	Enzyme	Solid								
+input	catalyst	C02041	Acaa2	R08175	Metabolite_GeneProduct	Eicosanoyl-CoA	Acaa2		*	*	*		*	Acaa2_C02041	Enzyme	Solid								
+input	catalyst	C05270	Acaa2	R04747	Metabolite_GeneProduct	Hexanoyl-CoA	Acaa2	*	*	*	*	*	*	Acaa2_C05270	Enzyme	Solid								
+output	catalyst	C06425	Acaa2	R08175	Metabolite_GeneProduct	Icosanoic acid	Acaa2		*	*	*		*	Acaa2_C06425	Enzyme	Solid								
+input	catalyst	C00016	Acadl	R01279, R03777, R03857, R03990, R04754	Metabolite_GeneProduct	FAD	Acadl	*		*	*	*		Acadl_C00016	Enzyme	Solid								
+input	catalyst	C00016	Acadm	R01175, R01279, R03777, R03857, R03990, R04095, R04751, R04754	Metabolite_GeneProduct	FAD	Acadm	*		*	*	*		Acadm_C00016	Enzyme	Solid								
+input	catalyst	C05270	Acadm	R04751	Metabolite_GeneProduct	Hexanoyl-CoA	Acadm	*		*	*	*		Acadm_C05270	Enzyme	Solid								
+input	catalyst	C00016	Acads	R01175, R04751	Metabolite_GeneProduct	FAD	Acads	*		*	*	*		Acads_C00016	Enzyme	Solid								
+input	catalyst	C05270	Acads	R04751	Metabolite_GeneProduct	Hexanoyl-CoA	Acads	*		*	*	*		Acads_C05270	Enzyme	Solid								
+input	catalyst	C00016	Acadsb	R04751	Metabolite_GeneProduct	FAD	Acadsb	*		*	*	*		Acadsb_C00016	Enzyme	Solid								
+input	catalyst	C05270	Acadsb	R04751	Metabolite_GeneProduct	Hexanoyl-CoA	Acadsb	*		*	*	*		Acadsb_C05270	Enzyme	Solid								
+input	catalyst	C00016	Acadvl	R01279, R03990	Metabolite_GeneProduct	FAD	Acadvl	*		*	*	*		Acadvl_C00016	Enzyme	Solid								
+output	catalyst	C00010	Acat1	R00238, R00927, R01177	Metabolite_GeneProduct	CoA	Acat1	*		*	*	*		Acat1_C00010	Enzyme	Solid								
+output	catalyst	C00010	Acat2	R00238, R00927, R01177	Metabolite_GeneProduct	CoA	Acat2	*	*	*	*	*	*	Acat2_C00010	Enzyme	Solid								
+input	catalyst	C00024	Acat2	R00238, R00927, R01177	Metabolite_GeneProduct	Acetyl-CoA	Acat2		*	*	*		*	Acat2_C00024	Enzyme	Solid								
+output	catalyst	C00010	Acat2l1	R00238, R00927, R01177	Metabolite_GeneProduct	CoA	Acat2l1	*		*	*	*		Acat2l1_C00010	Enzyme	Solid								
+output	catalyst	C00114	Ache	R01026	Metabolite_GeneProduct	Choline	Ache	*		*	*	*		Ache_C00114	Enzyme	Solid								
+input	catalyst	C01996	Ache	R01026	Metabolite_GeneProduct	Acetylcholine	Ache	*		*	*	*		Ache_C01996	Enzyme	Solid								
+input	catalyst	C00002	Acly	R00352	Metabolite_GeneProduct	ATP	Acly		*	*	*		*	Acly_C00002	Enzyme	Solid								
+output	catalyst	C00008	Acly	R00352	Metabolite_GeneProduct	ADP	Acly		*	*	*		*	Acly_C00008	Enzyme	Solid								
+input	catalyst	C00010	Acly	R00352	Metabolite_GeneProduct	CoA	Acly	*	*	*	*	*	*	Acly_C00010	Enzyme	Solid								
+output	catalyst	C00024	Acly	R00352	Metabolite_GeneProduct	Acetyl-CoA	Acly		*	*	*		*	Acly_C00024	Enzyme	Solid								
+input	catalyst	C00158	Acly	R00352	Metabolite_GeneProduct	Citrate	Acly		*	*	*		*	Acly_C00158	Enzyme	Solid								
+input	catalyst	C00010	Acnat1	R03974	Metabolite_GeneProduct	CoA	Acnat1	*		*	*	*		Acnat1_C00010	Enzyme	Solid								
+input	catalyst	C02528	Acnat1	R03974	Metabolite_GeneProduct	Chenodeoxycholate	Acnat1	*		*	*	*		Acnat1_C02528	Enzyme	Solid					*			
+input	catalyst	C00010	Acnat2	R03974	Metabolite_GeneProduct	CoA	Acnat2	*		*	*	*		Acnat2_C00010	Enzyme	Solid								
+input	catalyst	C02528	Acnat2	R03974	Metabolite_GeneProduct	Chenodeoxycholate	Acnat2	*		*	*	*		Acnat2_C02528	Enzyme	Solid					*			
+input	catalyst	C00311	Aco1	R01900	Metabolite_GeneProduct	Isocitrate	Aco1	*		*	*	*		Aco1_C00311	Enzyme	Solid								
+output	catalyst	C00417	Aco1	R01325, R01900	Metabolite_GeneProduct	cis-Aconitate	Aco1	*		*	*	*		Aco1_C00417	Enzyme	Solid								
+input	catalyst	C00311	Aco2	R01900	Metabolite_GeneProduct	Isocitrate	Aco2	*		*	*	*		Aco2_C00311	Enzyme	Solid								
+output	catalyst	C00417	Aco2	R01325, R01900	Metabolite_GeneProduct	cis-Aconitate	Aco2	*		*	*	*		Aco2_C00417	Enzyme	Solid								
+output	catalyst	C00010	Acot1	R01274, R08174, R08175, R08176, R08177, R08178, R08179, R08180, R08181, R08182, R08183, R09450	Metabolite_GeneProduct	CoA	Acot1	*		*	*	*		Acot1_C00010	Enzyme	Solid				*		*		*
+output	catalyst	C00010	Acot12	R00227	Metabolite_GeneProduct	CoA	Acot12	*		*	*	*		Acot12_C00010	Enzyme	Solid								
+output	catalyst	C00010	Acot2	R01274, R08174, R08175, R08176, R08177, R08178, R08179, R08180, R08181, R08182, R08183, R09450	Metabolite_GeneProduct	CoA	Acot2	*		*	*	*		Acot2_C00010	Enzyme	Solid								
+output	catalyst	C00010	Acot4	R01274, R08174, R08175, R08176, R08177, R08178, R08179, R08180, R08181, R08182, R08183, R09450	Metabolite_GeneProduct	CoA	Acot4	*		*	*	*		Acot4_C00010	Enzyme	Solid								
+output	catalyst	C00010	Acot7	R01274, R08174, R08175, R08176, R08177, R08178, R08179, R08180, R08181, R08182, R08183, R09450	Metabolite_GeneProduct	CoA	Acot7	*	*	*	*	*	*	Acot7_C00010	Enzyme	Solid								
+output	catalyst	C00249	Acot7	R01274	Metabolite_GeneProduct	Hexadecanoic acid	Acot7		*	*	*		*	Acot7_C00249	Enzyme	Solid						*	*	
+output	catalyst	C00712	Acot7	R08176	Metabolite_GeneProduct	(9Z)-Octadecenoic acid	Acot7		*	*	*		*	Acot7_C00712	Enzyme	Solid								
+output	catalyst	C01530	Acot7	R08174	Metabolite_GeneProduct	Octadecanoic acid	Acot7		*	*	*		*	Acot7_C01530	Enzyme	Solid								
+input	catalyst	C02041	Acot7	R08175	Metabolite_GeneProduct	Eicosanoyl-CoA	Acot7		*	*	*		*	Acot7_C02041	Enzyme	Solid								
+output	catalyst	C06425	Acot7	R08175	Metabolite_GeneProduct	Icosanoic acid	Acot7		*	*	*		*	Acot7_C06425	Enzyme	Solid								
+input	catalyst	C00010	Acot8	R03974	Metabolite_GeneProduct	CoA	Acot8	*		*	*	*		Acot8_C00010	Enzyme	Solid								
+output	catalyst	C00042	Acot8	R00407	Metabolite_GeneProduct	Succinate	Acot8	*		*	*	*		Acot8_C00042	Enzyme	Solid								
+input	catalyst	C02528	Acot8	R03974	Metabolite_GeneProduct	Chenodeoxycholate	Acot8	*		*	*	*		Acot8_C02528	Enzyme	Solid					*			
+input	catalyst	C00016	Acox1	R01175, R01279, R03777, R03857, R03990, R04751, R04754, R07888, R07892, R07896	Metabolite_GeneProduct	FAD	Acox1	*		*	*	*		Acox1_C00016	Enzyme	Solid								
+input	catalyst	C05270	Acox1	R04751	Metabolite_GeneProduct	Hexanoyl-CoA	Acox1	*		*	*	*		Acox1_C05270	Enzyme	Solid								
+input	catalyst	C00016	Acox3	R01175, R01279, R03777, R03857, R03990, R04751, R04754, R07888, R07892, R07896	Metabolite_GeneProduct	FAD	Acox3	*	*	*	*	*	*	Acox3_C00016	Enzyme	Solid								
+input	catalyst	C05270	Acox3	R04751	Metabolite_GeneProduct	Hexanoyl-CoA	Acox3	*	*	*	*	*	*	Acox3_C05270	Enzyme	Solid								
+input	catalyst	C00111	Acp1	R01010	Metabolite_GeneProduct	Glycerone phosphate	Acp1	*		*	*	*		Acp1_C00111	Enzyme	Solid	*							
+input	catalyst	C00111	Acp2	R01010	Metabolite_GeneProduct	Glycerone phosphate	Acp2	*		*	*	*		Acp2_C00111	Enzyme	Solid	*							
+input	catalyst	C00111	Acp5	R01010	Metabolite_GeneProduct	Glycerone phosphate	Acp5	*		*	*	*		Acp5_C00111	Enzyme	Solid	*							
+input	catalyst	C00010	Acsbg1	R00390, R01280	Metabolite_GeneProduct	CoA	Acsbg1	*		*	*	*		Acsbg1_C00010	Enzyme	Solid								
+input	catalyst	C00002	Acsf2	R00389, R01176	Metabolite_GeneProduct	ATP	Acsf2		*	*	*		*	Acsf2_C00002	Enzyme	Solid								
+input	catalyst	C00010	Acsf2	R00389, R01176	Metabolite_GeneProduct	CoA	Acsf2	*	*	*	*	*	*	Acsf2_C00010	Enzyme	Solid								
+output	catalyst	C00020	Acsf2	R00389, R01176	Metabolite_GeneProduct	AMP	Acsf2		*	*	*		*	Acsf2_C00020	Enzyme	Solid								
+input	catalyst	C00010	Acsl1	R00390, R01280, R01598, R03631	Metabolite_GeneProduct	CoA	Acsl1	*		*	*	*		Acsl1_C00010	Enzyme	Solid								
+input	catalyst	C00010	Acsl3	R00389, R00390, R01176, R01280, R01598	Metabolite_GeneProduct	CoA	Acsl3	*		*	*	*		Acsl3_C00010	Enzyme	Solid								
+input	catalyst	C00010	Acsl4	R00390, R01280, R01598	Metabolite_GeneProduct	CoA	Acsl4	*		*	*	*		Acsl4_C00010	Enzyme	Solid								
+input	catalyst	C00010	Acsl5	R00390, R01280, R01598	Metabolite_GeneProduct	CoA	Acsl5	*		*	*	*		Acsl5_C00010	Enzyme	Solid								
+input	catalyst	C00010	Acsm3	R00389, R00925, R00926, R01176	Metabolite_GeneProduct	CoA	Acsm3	*		*	*	*		Acsm3_C00010	Enzyme	Solid								
+input	catalyst	C00002	Acsm5	R00389, R01176	Metabolite_GeneProduct	ATP	Acsm5		*	*	*		*	Acsm5_C00002	Enzyme	Solid								
+input	catalyst	C00010	Acsm5	R00389, R01176	Metabolite_GeneProduct	CoA	Acsm5	*	*	*	*	*	*	Acsm5_C00010	Enzyme	Solid								
+output	catalyst	C00020	Acsm5	R00389, R01176	Metabolite_GeneProduct	AMP	Acsm5		*	*	*		*	Acsm5_C00020	Enzyme	Solid								
+input	catalyst	C00010	Acss3	R00235, R00236, R00925, R00926	Metabolite_GeneProduct	CoA	Acss3	*		*	*	*		Acss3_C00010	Enzyme	Solid								
+input	catalyst	C00044	Adcy10	R00434	Metabolite_GeneProduct	GTP	Adcy10	*		*	*	*		Adcy10_C00044	Enzyme	Solid								
+input	catalyst	C00044	Adcy3	R00434	Metabolite_GeneProduct	GTP	Adcy3	*		*	*	*		Adcy3_C00044	Enzyme	Solid								
+input	catalyst	C00044	Adcy4	R00434	Metabolite_GeneProduct	GTP	Adcy4	*		*	*	*		Adcy4_C00044	Enzyme	Solid								
+input	catalyst	C00044	Adcy5	R00434	Metabolite_GeneProduct	GTP	Adcy5	*		*	*	*		Adcy5_C00044	Enzyme	Solid								
+input	catalyst	C00044	Adcy6	R00434	Metabolite_GeneProduct	GTP	Adcy6	*		*	*	*		Adcy6_C00044	Enzyme	Solid								
+input	catalyst	C00114	Adh4	R08557, R08558	Metabolite_GeneProduct	Choline	Adh4	*		*	*	*		Adh4_C00114	Enzyme	Solid								
+input	catalyst	C00473	Adh4	R02124	Metabolite_GeneProduct	Retinol	Adh4	*		*	*	*		Adh4_C00473	Enzyme	Solid								
+input	catalyst	C00114	Adh6	R08557, R08558	Metabolite_GeneProduct	Choline	Adh6	*		*	*	*		Adh6_C00114	Enzyme	Solid								
+input	catalyst	C00473	Adh6	R02124	Metabolite_GeneProduct	Retinol	Adh6	*		*	*	*		Adh6_C00473	Enzyme	Solid								
+input	catalyst	C00114	Adh7	R08557, R08558	Metabolite_GeneProduct	Choline	Adh7	*		*	*	*		Adh7_C00114	Enzyme	Solid								
+input	catalyst	C00473	Adh7	R02124	Metabolite_GeneProduct	Retinol	Adh7	*		*	*	*		Adh7_C00473	Enzyme	Solid								
+output	catalyst	C00062	Adprh	R01886	Metabolite_GeneProduct	L-Arginine	Adprh	*		*	*	*		Adprh_C00062	Enzyme	Solid								
+output	catalyst	C00117	Adprm	R01054	Metabolite_GeneProduct	D-Ribose 5-phosphate	Adprm	*		*	*	*		Adprm_C00117	Enzyme	Solid	*							
+output	catalyst	C00049	Aga	R03421	Metabolite_GeneProduct	L-Aspartate	Aga	*		*	*	*		Aga_C00049	Enzyme	Solid								
+input	catalyst	C00062	Agmat	R00551	Metabolite_GeneProduct	L-Arginine	Agmat	*	*	*	*	*	*	Agmat_C00062	Enzyme	Solid								
+output	catalyst	C00077	Agmat	R00551	Metabolite_GeneProduct	L-Ornithine	Agmat		*	*	*		*	Agmat_C00077	Enzyme	Solid								
+output	catalyst	C00099	Agmat	R00913	Metabolite_GeneProduct	beta-Alanine	Agmat		*	*	*		*	Agmat_C00099	Enzyme	Solid								
+output	catalyst	C00334	Agmat	R01990	Metabolite_GeneProduct	4-Aminobutanoate	Agmat	*	*	*	*	*	*	Agmat_C00334	Enzyme	Solid								
+input	catalyst	C01035	Agmat	R01990	Metabolite_GeneProduct	4-Guanidinobutanoate	Agmat		*	*	*		*	Agmat_C01035	Enzyme	Solid								
+input	catalyst	C03065	Agmat	R00913	Metabolite_GeneProduct	3-Guanidinopropanoate	Agmat	*	*	*	*	*	*	Agmat_C03065	Enzyme	Solid								
+input	catalyst	C00010	Agpat4	R02241	Metabolite_GeneProduct	CoA	Agpat4	*		*	*	*		Agpat4_C00010	Enzyme	Solid								
+output	catalyst	C00025	Agxt	R00372	Metabolite_GeneProduct	L-Glutamate	Agxt	*		*	*	*		Agxt_C00025	Enzyme	Solid								
+output	catalyst	C00025	Agxt2	R00372	Metabolite_GeneProduct	L-Glutamate	Agxt2	*		*	*	*		Agxt2_C00025	Enzyme	Solid								
+input	catalyst	C00075	Ak3	R00157	Metabolite_GeneProduct	UTP	Ak3	*		*	*	*		Ak3_C00075	Enzyme	Solid								
+input	catalyst	C00002	Ak4	R00124, R00127, R00139, R00156, R00330, R00331, R00570, R00722, R01137, R01547, R01857, R02093, R02326, R02331, R03530, R11894, R11895, R12853	Metabolite_GeneProduct	ATP	Ak4		*	*	*		*	Ak4_C00002	Enzyme	Solid								
+input	catalyst	C00008	Ak4	R00124, R11319	Metabolite_GeneProduct	ADP	Ak4		*	*	*		*	Ak4_C00008	Enzyme	Solid								
+input	catalyst	C00015	Ak4	R00156	Metabolite_GeneProduct	UDP	Ak4		*	*	*		*	Ak4_C00015	Enzyme	Solid								
+input	catalyst	C00020	Ak4	R00127, R00157, R00333	Metabolite_GeneProduct	AMP	Ak4		*	*	*		*	Ak4_C00020	Enzyme	Solid								
+input	catalyst	C00035	Ak4	R00330	Metabolite_GeneProduct	GDP	Ak4		*	*	*		*	Ak4_C00035	Enzyme	Solid								
+output	catalyst	C00044	Ak4	R00330	Metabolite_GeneProduct	GTP	Ak4	*	*	*	*	*	*	Ak4_C00044	Enzyme	Solid								
+output	catalyst	C00063	Ak4	R00570	Metabolite_GeneProduct	CTP	Ak4	*	*	*	*	*	*	Ak4_C00063	Enzyme	Solid								
+input	catalyst	C00075	Ak4	R00157	Metabolite_GeneProduct	UTP	Ak4	*	*	*	*	*	*	Ak4_C00075	Enzyme	Solid								
+input	catalyst	C00112	Ak4	R00570	Metabolite_GeneProduct	CDP	Ak4		*	*	*		*	Ak4_C00112	Enzyme	Solid								
+output	catalyst	C00131	Ak4	R01137	Metabolite_GeneProduct	dATP	Ak4		*	*	*		*	Ak4_C00131	Enzyme	Solid								
+output	catalyst	C00458	Ak4	R02326	Metabolite_GeneProduct	dCTP	Ak4		*	*	*		*	Ak4_C00458	Enzyme	Solid								
+output	catalyst	C00459	Ak4	R02093	Metabolite_GeneProduct	dTTP	Ak4		*	*	*		*	Ak4_C00459	Enzyme	Solid								
+input	catalyst	C00124	Akr1b1	R01093, R01095	Metabolite_GeneProduct	D-Galactose	Akr1b1	*		*	*	*		Akr1b1_C00124	Enzyme	Solid								
+input	catalyst	C00473	Akr1b1	R08379	Metabolite_GeneProduct	Retinol	Akr1b1	*		*	*	*		Akr1b1_C00473	Enzyme	Solid								
+input	catalyst	C00004	Akr1b7	R01093	Metabolite_GeneProduct	NADH	Akr1b7		*	*	*		*	Akr1b7_C00004	Enzyme	Solid					*	*	*	
+input	catalyst	C00005	Akr1b7	R01095	Metabolite_GeneProduct	NADPH	Akr1b7		*	*	*		*	Akr1b7_C00005	Enzyme	Solid						*		
+input	catalyst	C00124	Akr1b7	R01093, R01095	Metabolite_GeneProduct	D-Galactose	Akr1b7	*	*	*	*	*	*	Akr1b7_C00124	Enzyme	Solid						*		
+output	catalyst	C00010	Alas1	R00830	Metabolite_GeneProduct	CoA	Alas1	*		*	*	*		Alas1_C00010	Enzyme	Solid								
+output	catalyst	C00010	Alas2	R00830	Metabolite_GeneProduct	CoA	Alas2	*		*	*	*		Alas2_C00010	Enzyme	Solid								
+output	catalyst	C00334	Aldh1a1	R01986, R02549	Metabolite_GeneProduct	4-Aminobutanoate	Aldh1a1	*		*	*	*		Aldh1a1_C00334	Enzyme	Solid								
+output	catalyst	C00334	Aldh1a7	R01986, R02549	Metabolite_GeneProduct	4-Aminobutanoate	Aldh1a7	*		*	*	*		Aldh1a7_C00334	Enzyme	Solid			*					
+output	catalyst	C00334	Aldh1b1	R01986, R02549	Metabolite_GeneProduct	4-Aminobutanoate	Aldh1b1	*		*	*	*		Aldh1b1_C00334	Enzyme	Solid								
+output	catalyst	C00334	Aldh2	R01986, R02549	Metabolite_GeneProduct	4-Aminobutanoate	Aldh2	*		*	*	*		Aldh2_C00334	Enzyme	Solid								
+output	catalyst	C00334	Aldh3a2	R01986, R02549	Metabolite_GeneProduct	4-Aminobutanoate	Aldh3a2	*		*	*	*		Aldh3a2_C00334	Enzyme	Solid								
+output	catalyst	C00025	Aldh4a1	R00245, R00707, R00708, R13148	Metabolite_GeneProduct	L-Glutamate	Aldh4a1	*		*	*	*		Aldh4a1_C00025	Enzyme	Solid								
+output	catalyst	C00042	Aldh5a1	R00713	Metabolite_GeneProduct	Succinate	Aldh5a1	*		*	*	*		Aldh5a1_C00042	Enzyme	Solid								
+input	catalyst	C00010	Aldh6a1	R00705, R00706, R00922, R00935	Metabolite_GeneProduct	CoA	Aldh6a1	*		*	*	*		Aldh6a1_C00010	Enzyme	Solid								
+output	catalyst	C00004	Aldh7a1	R00538, R00631, R00710, R00904, R01752, R02549, R02565, R02678, R02940, R02957, R03102, R03283, R03869, R04065, R04506, R04903, R05050, R05286, R06366, R08146, R11231	Metabolite_GeneProduct	NADH	Aldh7a1		*	*	*		*	Aldh7a1_C00004	Enzyme	Solid					*		*	
+output	catalyst	C00005	Aldh7a1	R00264, R01986, R02566, R03103, R11232	Metabolite_GeneProduct	NADPH	Aldh7a1		*	*	*		*	Aldh7a1_C00005	Enzyme	Solid								
+output	catalyst	C00026	Aldh7a1	R00264	Metabolite_GeneProduct	2-Oxoglutarate	Aldh7a1		*	*	*		*	Aldh7a1_C00026	Enzyme	Solid								
+output	catalyst	C00099	Aldh7a1	R00904	Metabolite_GeneProduct	beta-Alanine	Aldh7a1		*	*	*		*	Aldh7a1_C00099	Enzyme	Solid								
+output	catalyst	C00334	Aldh7a1	R01986, R02549	Metabolite_GeneProduct	4-Aminobutanoate	Aldh7a1	*	*	*	*	*	*	Aldh7a1_C00334	Enzyme	Solid								
+output	catalyst	C00719	Aldh7a1	R02565, R02566	Metabolite_GeneProduct	Betaine	Aldh7a1		*	*	*		*	Aldh7a1_C00719	Enzyme	Solid								
+output	catalyst	C00956	Aldh7a1	R03102, R03103, R11231, R11232	Metabolite_GeneProduct	L-2-Aminoadipate	Aldh7a1		*	*	*		*	Aldh7a1_C00956	Enzyme	Solid								
+output	catalyst	C01181	Aldh7a1	R03283	Metabolite_GeneProduct	4-Trimethylammoniobutanoate	Aldh7a1		*	*	*		*	Aldh7a1_C01181	Enzyme	Solid								
+output	catalyst	C02835	Aldh7a1	R04065	Metabolite_GeneProduct	Imidazole-4-acetate	Aldh7a1		*	*	*		*	Aldh7a1_C02835	Enzyme	Solid								
+output	catalyst	C00334	Aldh9a1	R01986, R02549	Metabolite_GeneProduct	4-Aminobutanoate	Aldh9a1	*		*	*	*		Aldh9a1_C00334	Enzyme	Solid								
+output	catalyst	C00111	Aldoa	R01068, R01070, R01829, R02568	Metabolite_GeneProduct	Glycerone phosphate	Aldoa	*		*	*	*		Aldoa_C00111	Enzyme	Solid	*							
+output	catalyst	C00111	Aldob	R01068, R01070, R01829, R02568	Metabolite_GeneProduct	Glycerone phosphate	Aldob	*		*	*	*		Aldob_C00111	Enzyme	Solid	*							
+output	catalyst	C00111	Aldoc	R01068, R01070, R01829, R02568	Metabolite_GeneProduct	Glycerone phosphate	Aldoc	*	*	*	*	*	*	Aldoc_C00111	Enzyme	Solid	*							
+output	catalyst	C00118	Aldoc	R01068, R01070	Metabolite_GeneProduct	D-Glyceraldehyde 3-phosphate	Aldoc		*	*	*		*	Aldoc_C00118	Enzyme	Solid								
+output	catalyst	C00279	Aldoc	R01829	Metabolite_GeneProduct	D-Erythrose 4-phosphate	Aldoc		*	*	*		*	Aldoc_C00279	Enzyme	Solid	*							
+input	catalyst	C00354	Aldoc	R01068	Metabolite_GeneProduct	D-Fructose 1,6-bisphosphate	Aldoc		*	*	*		*	Aldoc_C00354	Enzyme	Solid								
+input	catalyst	C00043	Alg14	R04494	Metabolite_GeneProduct	UDP-N-acetyl-alpha-D-glucosamine	Alg14	*		*	*	*		Alg14_C00043	Enzyme	Solid								
+input	catalyst	C00111	Alpl	R01010	Metabolite_GeneProduct	Glycerone phosphate	Alpl	*		*	*	*		Alpl_C00111	Enzyme	Solid	*							
+output	catalyst	C00097	Anpep	R00899	Metabolite_GeneProduct	L-Cysteine	Anpep	*		*	*	*		Anpep_C00097	Enzyme	Solid			*				*	*
+input	catalyst	C02918	Aox1	R04085, R08408	Metabolite_GeneProduct	1-Methylnicotinamide	Aox1	*		*	*	*		Aox1_C02918	Enzyme	Solid								
+input	catalyst	C02918	Aox2	R04085, R08408	Metabolite_GeneProduct	1-Methylnicotinamide	Aox2	*		*	*	*		Aox2_C02918	Enzyme	Solid								
+output	catalyst	C00777	Aox3	R02125	Metabolite_GeneProduct	Retinoate	Aox3		*	*	*		*	Aox3_C00777	Enzyme	Solid								
+output	catalyst	C00847	Aox3	R01709	Metabolite_GeneProduct	4-Pyridoxate	Aox3		*	*	*		*	Aox3_C00847	Enzyme	Solid								
+input	catalyst	C02918	Aox3	R04085, R08408	Metabolite_GeneProduct	1-Methylnicotinamide	Aox3	*	*	*	*	*	*	Aox3_C02918	Enzyme	Solid								
+output	catalyst	C05842	Aox3	R08408	Metabolite_GeneProduct	N1-Methyl-2-pyridone-5-carboxamide	Aox3		*	*	*		*	Aox3_C05842	Enzyme	Solid								
+input	catalyst	C00044	Arf1	R00335	Metabolite_GeneProduct	GTP	Arf1	*		*	*	*		Arf1_C00044	Enzyme	Solid								
+input	catalyst	C00044	Arf6	R00335	Metabolite_GeneProduct	GTP	Arf6	*		*	*	*		Arf6_C00044	Enzyme	Solid								
+input	catalyst	C00062	Arg1	R00551	Metabolite_GeneProduct	L-Arginine	Arg1	*		*	*	*		Arg1_C00062	Enzyme	Solid								
+input	catalyst	C00044	Arl8b	R00335	Metabolite_GeneProduct	GTP	Arl8b	*		*	*	*		Arl8b_C00044	Enzyme	Solid								
+output	catalyst	C02686	Arsg	R04856	Metabolite_GeneProduct	Galactosylceramide	Arsg	*		*	*	*		Arsg_C02686	Enzyme	Solid								
+output	catalyst	C02686	Arsk	R04856	Metabolite_GeneProduct	Galactosylceramide	Arsk	*		*	*	*		Arsk_C02686	Enzyme	Solid								
+output	catalyst	C00153	Art2b	R00102, R00555	Metabolite_GeneProduct	Nicotinamide	Art2b	*		*	*	*		Art2b_C00153	Enzyme	Solid								
+output	catalyst	C00051	As3mt	R12917, R12918, R12919	Metabolite_GeneProduct	Glutathione	As3mt	*		*	*	*		As3mt_C00051	Enzyme	Solid				*				
+output	catalyst	C12144	Asah1	R06528	Metabolite_GeneProduct	Phytosphingosine	Asah1	*		*	*	*		Asah1_C12144	Enzyme	Solid								
+output	catalyst	C12144	Asah2	R06528	Metabolite_GeneProduct	Phytosphingosine	Asah2	*		*	*	*		Asah2_C12144	Enzyme	Solid								
+output	catalyst	C00062	Asl	R01086	Metabolite_GeneProduct	L-Arginine	Asl	*	*	*	*	*	*	Asl_C00062	Enzyme	Solid								
+output	catalyst	C00122	Asl	R01086	Metabolite_GeneProduct	Fumarate	Asl		*	*	*		*	Asl_C00122	Enzyme	Solid								
+output	catalyst	C00025	Asns	R00578	Metabolite_GeneProduct	L-Glutamate	Asns	*		*	*	*		Asns_C00025	Enzyme	Solid								
+input	catalyst	C00049	Asns	R00483, R00578	Metabolite_GeneProduct	L-Aspartate	Asns	*		*	*	*		Asns_C00049	Enzyme	Solid								
+input	catalyst	C00064	Asns	R00578	Metabolite_GeneProduct	L-Glutamine	Asns	*		*	*	*		Asns_C00064	Enzyme	Solid								
+output	catalyst	C00049	Aspa	R00488, R00526, R00546	Metabolite_GeneProduct	L-Aspartate	Aspa	*		*	*	*		Aspa_C00049	Enzyme	Solid								
+input	catalyst	C01042	Aspa	R00488	Metabolite_GeneProduct	N-Acetyl-L-aspartate	Aspa	*		*	*	*		Aspa_C01042	Enzyme	Solid								
+input	catalyst	C00049	Aspdh	R07164, R07165, R07407, R07410	Metabolite_GeneProduct	L-Aspartate	Aspdh	*		*	*	*		Aspdh_C00049	Enzyme	Solid								
+output	catalyst	C00049	Aspg	R00485	Metabolite_GeneProduct	L-Aspartate	Aspg	*		*	*	*		Aspg_C00049	Enzyme	Solid								
+input	catalyst	C00157	Aspg	R01309	Metabolite_GeneProduct	Phosphatidylcholine	Aspg	*		*	*	*		Aspg_C00157	Enzyme	Solid								
+input	catalyst	C00670	Aspg	R02744	Metabolite_GeneProduct	sn-Glycero-3-phosphocholine	Aspg	*		*	*	*		Aspg_C00670	Enzyme	Solid								
+input	catalyst	C04230	Aspg	R02746, R07291	Metabolite_GeneProduct	1-Acyl-sn-glycero-3-phosphocholine	Aspg	*		*	*	*		Aspg_C04230	Enzyme	Solid								
+input	catalyst	C04438	Aspg	R03416	Metabolite_GeneProduct	1-Acyl-sn-glycero-3-phosphoethanolamine	Aspg	*		*	*	*		Aspg_C04438	Enzyme	Solid								
+output	catalyst	C00049	Asrgl1	R00485	Metabolite_GeneProduct	L-Aspartate	Asrgl1	*		*	*	*		Asrgl1_C00049	Enzyme	Solid								
+input	catalyst	C00002	Ass1	R01954	Metabolite_GeneProduct	ATP	Ass1		*	*	*		*	Ass1_C00002	Enzyme	Solid								
+output	catalyst	C00020	Ass1	R01954	Metabolite_GeneProduct	AMP	Ass1		*	*	*		*	Ass1_C00020	Enzyme	Solid								
+input	catalyst	C00049	Ass1	R01954	Metabolite_GeneProduct	L-Aspartate	Ass1	*	*	*	*	*	*	Ass1_C00049	Enzyme	Solid								
+input	catalyst	C00327	Ass1	R01954	Metabolite_GeneProduct	L-Citrulline	Ass1		*	*	*		*	Ass1_C00327	Enzyme	Solid								
+output	catalyst	C00010	Atat1	R04192	Metabolite_GeneProduct	CoA	Atat1	*		*	*	*		Atat1_C00010	Enzyme	Solid								
+input	catalyst	C00062	Azin2	R00566	Metabolite_GeneProduct	L-Arginine	Azin2	*		*	*	*		Azin2_C00062	Enzyme	Solid							*	
+input	catalyst	C00010	Baat	R03974	Metabolite_GeneProduct	CoA	Baat	*		*	*	*		Baat_C00010	Enzyme	Solid								
+input	catalyst	C02528	Baat	R03974	Metabolite_GeneProduct	Chenodeoxycholate	Baat	*		*	*	*		Baat_C02528	Enzyme	Solid					*			
+output	catalyst	C00042	Bbox1	R02397	Metabolite_GeneProduct	Succinate	Bbox1	*		*	*	*		Bbox1_C00042	Enzyme	Solid								
+output	catalyst	C00025	Bcat2	R01090, R01214, R02199, R10991	Metabolite_GeneProduct	L-Glutamate	Bcat2	*		*	*	*		Bcat2_C00025	Enzyme	Solid								
+input	output	C00025	C00002	R03905, R04212	Metabolite_Metabolite	L-Glutamate	ATP	*		*	*	*		C00002_C00025	Metabolic Transformation	Solid								
+input	output	C00010	C00004	R00705, R00922, R00935	Metabolite_Metabolite	CoA	NADH	*		*	*	*		C00004_C00010	Metabolic Transformation	Solid					*		*	
+input	output	C00025	C00004	R00243	Metabolite_Metabolite	L-Glutamate	NADH	*		*	*	*		C00004_C00025	Metabolic Transformation	Solid					*		*	
+input	output	C00029	C00004	R00286	Metabolite_Metabolite	UDP-glucose	NADH	*		*	*	*		C00004_C00029	Metabolic Transformation	Solid					*		*	
+input	output	C00049	C00004	R07164, R07410	Metabolite_Metabolite	L-Aspartate	NADH	*		*	*	*		C00004_C00049	Metabolic Transformation	Solid					*		*	
+input	output	C00051	C00004	R00094	Metabolite_Metabolite	Glutathione	NADH	*		*	*	*		C00004_C00051	Metabolic Transformation	Solid				*	*		*	
+input	output	C00092	C00004	R10520	Metabolite_Metabolite	D-Glucose 6-phosphate	NADH	*		*	*	*		C00004_C00092	Metabolic Transformation	Solid					*		*	
+input	output	C00114	C00004	R08557	Metabolite_Metabolite	Choline	NADH	*		*	*	*		C00004_C00114	Metabolic Transformation	Solid					*		*	
+input	output	C00311	C00004	R00709	Metabolite_Metabolite	Isocitrate	NADH	*		*	*	*		C00004_C00311	Metabolic Transformation	Solid					*		*	
+input	output	C00473	C00004	R02124	Metabolite_Metabolite	Retinol	NADH	*		*	*	*		C00004_C00473	Metabolic Transformation	Solid					*		*	
+input	output	C01157	C00004	R03291	Metabolite_Metabolite	Hydroxyproline	NADH	*		*	*	*		C00004_C01157	Metabolic Transformation	Solid					*		*	
+input	output	C00010	C00005	R00706, R02082	Metabolite_Metabolite	CoA	NADPH	*		*	*	*		C00005_C00010	Metabolic Transformation	Solid								
+input	output	C00025	C00005	R00248	Metabolite_Metabolite	L-Glutamate	NADPH	*		*	*	*		C00005_C00025	Metabolic Transformation	Solid								
+input	output	C00049	C00005	R07165, R07407	Metabolite_Metabolite	L-Aspartate	NADPH	*		*	*	*		C00005_C00049	Metabolic Transformation	Solid								
+input	output	C00051	C00005	R00115, R00900	Metabolite_Metabolite	Glutathione	NADPH	*		*	*	*		C00005_C00051	Metabolic Transformation	Solid				*				
+input	output	C00092	C00005	R00835	Metabolite_Metabolite	D-Glucose 6-phosphate	NADPH	*		*	*	*		C00005_C00092	Metabolic Transformation	Solid								
+input	output	C00097	C00005	R00900	Metabolite_Metabolite	L-Cysteine	NADPH	*		*	*	*		C00005_C00097	Metabolic Transformation	Solid			*				*	*
+input	output	C00114	C00005	R08558	Metabolite_Metabolite	Choline	NADPH	*		*	*	*		C00005_C00114	Metabolic Transformation	Solid								
+input	output	C00311	C00005	R00267, R01899	Metabolite_Metabolite	Isocitrate	NADPH	*		*	*	*		C00005_C00311	Metabolic Transformation	Solid								
+input	output	C00473	C00005	R08379	Metabolite_Metabolite	Retinol	NADPH	*		*	*	*		C00005_C00473	Metabolic Transformation	Solid								
+input	output	C01157	C00005	R03293	Metabolite_Metabolite	Hydroxyproline	NADPH	*		*	*	*		C00005_C01157	Metabolic Transformation	Solid								
+input	output	C00010	C00008	R00352, R00405, R02404	Metabolite_Metabolite	CoA	ADP	*		*	*	*		C00008_C00010	Metabolic Transformation	Solid								
+input	output	C00025	C00008	R00253, R10677, R10678, R10993	Metabolite_Metabolite	L-Glutamate	ADP	*		*	*	*		C00008_C00025	Metabolic Transformation	Solid								
+input	output	C00042	C00008	R00405	Metabolite_Metabolite	Succinate	ADP	*		*	*	*		C00008_C00042	Metabolic Transformation	Solid								
+input	output	C00049	C00008	R04591	Metabolite_Metabolite	L-Aspartate	ADP	*		*	*	*		C00008_C00049	Metabolic Transformation	Solid								
+input	output	C00064	C00008	R00573	Metabolite_Metabolite	L-Glutamine	ADP	*		*	*	*		C00008_C00064	Metabolic Transformation	Solid								
+input	output	C00075	C00008	R00157, R00571, R00573	Metabolite_Metabolite	UTP	ADP	*		*	*	*		C00008_C00075	Metabolic Transformation	Solid								
+input	output	C00085	C00008	R00756, R13202	Metabolite_Metabolite	D-Fructose 6-phosphate	ADP	*		*	*	*		C00008_C00085	Metabolic Transformation	Solid	*	*						
+input	output	C00114	C00008	R01021	Metabolite_Metabolite	Choline	ADP	*		*	*	*		C00008_C00114	Metabolic Transformation	Solid								
+input	output	C00641	C00008	R02240	Metabolite_Metabolite	1,2-Diacyl-sn-glycerol	ADP	*		*	*	*		C00008_C00641	Metabolic Transformation	Solid								
+input	output	C01042	C00008	R10678	Metabolite_Metabolite	N-Acetyl-L-aspartate	ADP	*		*	*	*		C00008_C01042	Metabolic Transformation	Solid								
+input	output	C01194	C00008	R03361, R03362	Metabolite_Metabolite	1-Phosphatidyl-D-myo-inositol	ADP	*		*	*	*		C00008_C01194	Metabolic Transformation	Solid								
+input	output	C05382	C00008	R01843	Metabolite_Metabolite	Sedoheptulose 7-phosphate	ADP	*		*	*	*		C00008_C05382	Metabolic Transformation	Solid	*	*						
+input	output	C00020	C00010	R08743	Metabolite_Metabolite	AMP	CoA		*	*	*		*	C00010_C00020	Metabolic Transformation	Solid								
+input	output	C00024	C00010	R00227, R00238, R00391, R00487, R00829, R00927, R01023, R01177, R01624, R02058, R02387, R02396, R02569, R02911, R03437, R03552, R03760, R03778, R03858, R03991, R04024, R04192, R04742, R04747, R04950, R05188, R07891, R07895, R07899, R07937, R07953, R08036, R08248, R08250, R08386, R11902	Metabolite_Metabolite	Acetyl-CoA	CoA		*	*	*		*	C00010_C00024	Metabolic Transformation	Solid								
+input	output	C00037	C00010	R00395, R00830, R02452, R03718, R05841, R08744	Metabolite_Metabolite	Glycine	CoA		*	*	*		*	C00010_C00037	Metabolic Transformation	Solid								
+input	output	C00049	C00010	R00487	Metabolite_Metabolite	L-Aspartate	CoA	*	*	*	*	*	*	C00010_C00049	Metabolic Transformation	Solid								
+input	output	C00065	C00010	R01281	Metabolite_Metabolite	L-Serine	CoA		*	*	*		*	C00010_C00065	Metabolic Transformation	Solid								
+input	output	C00093	C00010	R00851, R02617	Metabolite_Metabolite	sn-Glycerol 3-phosphate	CoA		*	*	*		*	C00010_C00093	Metabolic Transformation	Solid								
+input	output	C00111	C00010	R01013	Metabolite_Metabolite	Glycerone phosphate	CoA	*	*	*	*	*	*	C00010_C00111	Metabolic Transformation	Solid	*							
+input	output	C00114	C00010	R01023	Metabolite_Metabolite	Choline	CoA	*	*	*	*	*	*	C00010_C00114	Metabolic Transformation	Solid								
+input	output	C00187	C00010	R01461	Metabolite_Metabolite	Cholesterol	CoA		*	*	*		*	C00010_C00187	Metabolic Transformation	Solid								
+input	output	C00245	C00010	R03720, R08745	Metabolite_Metabolite	Taurine	CoA		*	*	*		*	C00010_C00245	Metabolic Transformation	Solid								
+input	output	C00319	C00010	R01496	Metabolite_Metabolite	Sphingosine	CoA		*	*	*		*	C00010_C00319	Metabolic Transformation	Solid								
+input	output	C00473	C00010	R02366, R02367	Metabolite_Metabolite	Retinol	CoA	*	*	*	*	*	*	C00010_C00473	Metabolic Transformation	Solid								
+input	output	C00487	C00010	R02396	Metabolite_Metabolite	Carnitine	CoA		*	*	*		*	C00010_C00487	Metabolic Transformation	Solid								
+input	output	C00641	C00010	R02694	Metabolite_Metabolite	1,2-Diacyl-sn-glycerol	CoA	*	*	*	*	*	*	C00010_C00641	Metabolic Transformation	Solid								
+input	output	C00780	C00010	R02911	Metabolite_Metabolite	Serotonin	CoA		*	*	*		*	C00010_C00780	Metabolic Transformation	Solid								
+input	output	C00836	C00010	R06517	Metabolite_Metabolite	Sphinganine	CoA		*	*	*		*	C00010_C00836	Metabolic Transformation	Solid								
+input	output	C02041	C00010	R08175	Metabolite_Metabolite	Eicosanoyl-CoA	CoA		*	*	*		*	C00010_C02041	Metabolic Transformation	Solid								
+input	output	C04230	C00010	R01318	Metabolite_Metabolite	1-Acyl-sn-glycero-3-phosphocholine	CoA	*	*	*	*	*	*	C00010_C04230	Metabolic Transformation	Solid								
+input	output	C05270	C00010	R04747	Metabolite_Metabolite	Hexanoyl-CoA	CoA	*	*	*	*	*	*	C00010_C05270	Metabolic Transformation	Solid								
+input	output	C12144	C00010	R06527	Metabolite_Metabolite	Phytosphingosine	CoA	*	*	*	*	*	*	C00010_C12144	Metabolic Transformation	Solid								
+input	output	C00029	C00015	R00292, R01497, R03681, R04491	Metabolite_Metabolite	UDP-glucose	UDP	*		*	*	*		C00015_C00029	Metabolic Transformation	Solid								
+input	output	C00043	C00015	R00414, R02790, R03514, R04493, R04494, R04575, R04642, R04653, R04654, R04662, R04665, R05327, R07258, R07259, R07334, R09676, R09677, R10596, R11879	Metabolite_Metabolite	UDP-N-acetyl-alpha-D-glucosamine	UDP	*		*	*	*		C00015_C00043	Metabolic Transformation	Solid								
+input	output	C00075	C00015	R00157, R00159, R00659, R00769, R03238	Metabolite_Metabolite	UTP	UDP	*		*	*	*		C00015_C00075	Metabolic Transformation	Solid								
+input	output	C00085	C00015	R00769	Metabolite_Metabolite	D-Fructose 6-phosphate	UDP	*		*	*	*		C00015_C00085	Metabolic Transformation	Solid	*	*						
+input	output	C00016	C00020	R00160, R07636	Metabolite_Metabolite	FAD	AMP	*		*	*	*		C00016_C00020	Metabolic Transformation	Solid								
+input	output	C00025	C00020	R05578	Metabolite_Metabolite	L-Glutamate	AMP	*		*	*	*		C00020_C00025	Metabolic Transformation	Solid								
+input	output	C00049	C00020	R00483, R00578, R01954, R05577	Metabolite_Metabolite	L-Aspartate	AMP	*		*	*	*		C00020_C00049	Metabolic Transformation	Solid								
+input	output	C00062	C00020	R03646	Metabolite_Metabolite	L-Arginine	AMP	*		*	*	*		C00020_C00062	Metabolic Transformation	Solid								
+input	output	C00064	C00020	R00257, R00578, R01231, R03652, R08244	Metabolite_Metabolite	L-Glutamine	AMP	*		*	*	*		C00020_C00064	Metabolic Transformation	Solid								
+input	output	C00078	C00020	R03664	Metabolite_Metabolite	L-Tryptophan	AMP	*		*	*	*		C00020_C00078	Metabolic Transformation	Solid								
+input	output	C00117	C00020	R01049	Metabolite_Metabolite	D-Ribose 5-phosphate	AMP	*		*	*	*		C00020_C00117	Metabolic Transformation	Solid	*							
+input	output	C00350	C00021	R02056	Metabolite_Metabolite	Phosphatidylethanolamine	S-Adenosyl-L-homocysteine	*		*	*	*		C00021_C00350	Metabolic Transformation	Solid								
+input	output	C00388	C00021	R02155	Metabolite_Metabolite	Histamine	S-Adenosyl-L-homocysteine	*		*	*	*		C00021_C00388	Metabolic Transformation	Solid				*				
+input	output	C00097	C00022	R00782	Metabolite_Metabolite	L-Cysteine	Pyruvate	*		*	*	*		C00022_C00097	Metabolic Transformation	Solid			*				*	*
+input	output	C00026	C00025	R00258, R00355, R00372, R00667, R00668, R00694, R00734, R00895, R00908, R01090, R01214, R01648, R01939, R01956, R02199, R02433, R02619, R04171, R04188, R05052, R10991, R12688	Metabolite_Metabolite	2-Oxoglutarate	L-Glutamate		*	*	*		*	C00025_C00026	Metabolic Transformation	Solid								
+input	output	C00037	C00025	R00372	Metabolite_Metabolite	Glycine	L-Glutamate		*	*	*		*	C00025_C00037	Metabolic Transformation	Solid								
+input	output	C00041	C00025	R00258	Metabolite_Metabolite	L-Alanine	L-Glutamate		*	*	*		*	C00025_C00041	Metabolic Transformation	Solid								
+input	output	C00049	C00025	R00355, R00578	Metabolite_Metabolite	L-Aspartate	L-Glutamate	*	*	*	*	*	*	C00025_C00049	Metabolic Transformation	Solid								
+input	output	C00051	C00025	R00494	Metabolite_Metabolite	Glutathione	L-Glutamate	*	*	*	*	*	*	C00025_C00051	Metabolic Transformation	Solid				*				
+input	output	C00064	C00025	R00257, R00573, R00578, R00768, R01231, R08244	Metabolite_Metabolite	L-Glutamine	L-Glutamate	*	*	*	*	*	*	C00025_C00064	Metabolic Transformation	Solid								
+input	output	C00075	C00025	R00573	Metabolite_Metabolite	UTP	L-Glutamate	*	*	*	*	*	*	C00025_C00075	Metabolic Transformation	Solid								
+input	output	C00077	C00025	R00667, R00668	Metabolite_Metabolite	L-Ornithine	L-Glutamate		*	*	*		*	C00025_C00077	Metabolic Transformation	Solid								
+input	output	C00079	C00025	R00694	Metabolite_Metabolite	L-Phenylalanine	L-Glutamate		*	*	*		*	C00025_C00079	Metabolic Transformation	Solid								
+input	output	C00082	C00025	R00734	Metabolite_Metabolite	L-Tyrosine	L-Glutamate		*	*	*		*	C00025_C00082	Metabolic Transformation	Solid								
+input	output	C00085	C00025	R00768	Metabolite_Metabolite	D-Fructose 6-phosphate	L-Glutamate	*	*	*	*	*	*	C00025_C00085	Metabolic Transformation	Solid	*	*						
+input	output	C00097	C00025	R00895	Metabolite_Metabolite	L-Cysteine	L-Glutamate	*	*	*	*	*	*	C00025_C00097	Metabolic Transformation	Solid			*				*	*
+input	output	C00099	C00025	R00908	Metabolite_Metabolite	beta-Alanine	L-Glutamate		*	*	*		*	C00025_C00099	Metabolic Transformation	Solid								
+input	output	C00123	C00025	R01090	Metabolite_Metabolite	L-Leucine	L-Glutamate		*	*	*		*	C00025_C00123	Metabolic Transformation	Solid								
+input	output	C00183	C00025	R01214	Metabolite_Metabolite	L-Valine	L-Glutamate		*	*	*		*	C00025_C00183	Metabolic Transformation	Solid								
+input	output	C00328	C00025	R01956, R12688	Metabolite_Metabolite	L-Kynurenine	L-Glutamate		*	*	*		*	C00025_C00328	Metabolic Transformation	Solid								
+input	output	C00334	C00025	R01648	Metabolite_Metabolite	4-Aminobutanoate	L-Glutamate	*	*	*	*	*	*	C00025_C00334	Metabolic Transformation	Solid								
+input	output	C00407	C00025	R02199	Metabolite_Metabolite	L-Isoleucine	L-Glutamate		*	*	*		*	C00025_C00407	Metabolic Transformation	Solid								
+input	output	C00655	C00025	R01231	Metabolite_Metabolite	Xanthosine 5'-phosphate	L-Glutamate		*	*	*		*	C00025_C00655	Metabolic Transformation	Solid								
+input	output	C00956	C00025	R01939	Metabolite_Metabolite	L-2-Aminoadipate	L-Glutamate		*	*	*		*	C00025_C00956	Metabolic Transformation	Solid								
+input	output	C01879	C00025	R00251	Metabolite_Metabolite	5-Oxoproline	L-Glutamate		*	*	*		*	C00025_C01879	Metabolic Transformation	Solid								
+input	output	C02356	C00025	R10991	Metabolite_Metabolite	(S)-2-Aminobutanoate	L-Glutamate		*	*	*		*	C00025_C02356	Metabolic Transformation	Solid								
+input	output	C00311	C00026	R00267, R00709	Metabolite_Metabolite	Isocitrate	2-Oxoglutarate	*		*	*	*		C00026_C00311	Metabolic Transformation	Solid								
+input	output	C00092	C00031	R00303	Metabolite_Metabolite	D-Glucose 6-phosphate	D-Glucose	*		*	*	*		C00031_C00092	Metabolic Transformation	Solid								
+input	output	C00010	C00035	R00432, R02405	Metabolite_Metabolite	CoA	GDP	*		*	*	*		C00010_C00035	Metabolic Transformation	Solid								
+input	output	C00042	C00035	R00432	Metabolite_Metabolite	Succinate	GDP	*		*	*	*		C00035_C00042	Metabolic Transformation	Solid								
+input	output	C00044	C00035	R00335, R00430, R00431, R00432, R00517, R00968, R02405	Metabolite_Metabolite	GTP	GDP	*		*	*	*		C00035_C00044	Metabolic Transformation	Solid								
+input	output	C00097	C00041	R07460, R11528	Metabolite_Metabolite	L-Cysteine	L-Alanine	*		*	*	*		C00041_C00097	Metabolic Transformation	Solid			*				*	*
+input	output	C00026	C00042	R01252, R02397, R03218, R03219, R03376, R03451, R05722, R09510, R09511, R10056, R12459, R12460, R12461, R12645, R13015	Metabolite_Metabolite	2-Oxoglutarate	Succinate		*	*	*		*	C00026_C00042	Metabolic Transformation	Solid								
+input	output	C00148	C00042	R01252	Metabolite_Metabolite	L-Proline	Succinate		*	*	*		*	C00042_C00148	Metabolic Transformation	Solid								
+input	output	C01181	C00042	R02397	Metabolite_Metabolite	4-Trimethylammoniobutanoate	Succinate		*	*	*		*	C00042_C01181	Metabolic Transformation	Solid								
+input	output	C03793	C00042	R03451	Metabolite_Metabolite	N6,N6,N6-Trimethyl-L-lysine	Succinate		*	*	*		*	C00042_C03793	Metabolic Transformation	Solid								
+input	output	C00075	C00043	R00416	Metabolite_Metabolite	UTP	UDP-N-acetyl-alpha-D-glucosamine	*	*	*	*	*	*	C00043_C00075	Metabolic Transformation	Solid								
+input	output	C04501	C00043	R00416	Metabolite_Metabolite	N-Acetyl-alpha-D-glucosamine 1-phosphate	UDP-N-acetyl-alpha-D-glucosamine		*	*	*		*	C00043_C04501	Metabolic Transformation	Solid								
+input	output	C00002	C00044	R00330	Metabolite_Metabolite	ATP	GTP		*	*	*		*	C00002_C00044	Metabolic Transformation	Solid								
+input	output	C00152	C00049	R00485	Metabolite_Metabolite	L-Asparagine	L-Aspartate		*	*	*		*	C00049_C00152	Metabolic Transformation	Solid								
+input	output	C01042	C00049	R00488	Metabolite_Metabolite	N-Acetyl-L-aspartate	L-Aspartate	*	*	*	*	*	*	C00049_C01042	Metabolic Transformation	Solid								
+input	output	C00002	C00051	R00497	Metabolite_Metabolite	ATP	Glutathione		*	*	*		*	C00002_C00051	Metabolic Transformation	Solid				*				
+input	output	C00019	C00051	R12917, R12918, R12919	Metabolite_Metabolite	S-Adenosyl-L-methionine	Glutathione		*	*	*		*	C00019_C00051	Metabolic Transformation	Solid				*				
+input	output	C00037	C00051	R00497	Metabolite_Metabolite	Glycine	Glutathione		*	*	*		*	C00037_C00051	Metabolic Transformation	Solid				*				
+input	output	C00127	C00051	R03915	Metabolite_Metabolite	Glutathione disulfide	Glutathione	*	*	*	*	*	*	C00051_C00127	Metabolic Transformation	Solid				*				
+input	output	C00029	C00052	R00291, R00955	Metabolite_Metabolite	UDP-glucose	UDP-alpha-D-galactose	*		*	*	*		C00029_C00052	Metabolic Transformation	Solid								
+input	output	C00044	C00055	R00517	Metabolite_Metabolite	GTP	CMP	*		*	*	*		C00044_C00055	Metabolic Transformation	Solid								
+input	output	C00063	C00055	R00515	Metabolite_Metabolite	CTP	CMP	*		*	*	*		C00055_C00063	Metabolic Transformation	Solid								
+input	output	C00641	C00055	R01321, R02057, R04920, R04922	Metabolite_Metabolite	1,2-Diacyl-sn-glycerol	CMP	*		*	*	*		C00055_C00641	Metabolic Transformation	Solid								
+input	output	C00002	C00063	R00570, R00571, R00573	Metabolite_Metabolite	ATP	CTP		*	*	*		*	C00002_C00063	Metabolic Transformation	Solid								
+input	output	C00064	C00063	R00573	Metabolite_Metabolite	L-Glutamine	CTP	*	*	*	*	*	*	C00063_C00064	Metabolic Transformation	Solid								
+input	output	C00075	C00063	R00571, R00573	Metabolite_Metabolite	UTP	CTP	*	*	*	*	*	*	C00063_C00075	Metabolic Transformation	Solid								
+input	output	C00112	C00063	R00570	Metabolite_Metabolite	CDP	CTP		*	*	*		*	C00063_C00112	Metabolic Transformation	Solid								
+input	output	C00002	C00064	R00253	Metabolite_Metabolite	ATP	L-Glutamine		*	*	*		*	C00002_C00064	Metabolic Transformation	Solid								
+input	output	C00025	C00073	R07396	Metabolite_Metabolite	L-Glutamate	L-Methionine	*		*	*	*		C00025_C00073	Metabolic Transformation	Solid								
+input	output	C00044	C00074	R00430, R00431	Metabolite_Metabolite	GTP	Phosphoenolpyruvate	*		*	*	*		C00044_C00074	Metabolic Transformation	Solid								
+input	output	C00063	C00074	R00572	Metabolite_Metabolite	CTP	Phosphoenolpyruvate	*		*	*	*		C00063_C00074	Metabolic Transformation	Solid								
+input	output	C00075	C00074	R00659	Metabolite_Metabolite	UTP	Phosphoenolpyruvate	*		*	*	*		C00074_C00075	Metabolic Transformation	Solid								
+input	output	C00002	C00075	R00156	Metabolite_Metabolite	ATP	UTP		*	*	*		*	C00002_C00075	Metabolic Transformation	Solid								
+input	output	C00062	C00077	R00551, R00565, R01686, R01989	Metabolite_Metabolite	L-Arginine	L-Ornithine	*		*	*	*		C00062_C00077	Metabolic Transformation	Solid								
+input	output	C00334	C00077	R01989	Metabolite_Metabolite	4-Aminobutanoate	L-Ornithine	*		*	*	*		C00077_C00334	Metabolic Transformation	Solid								
+input	output	C00064	C00079	R01375	Metabolite_Metabolite	L-Glutamine	L-Phenylalanine	*		*	*	*		C00064_C00079	Metabolic Transformation	Solid								
+input	output	C00002	C00085	R00760	Metabolite_Metabolite	ATP	D-Fructose 6-phosphate		*	*	*		*	C00002_C00085	Metabolic Transformation	Solid	*	*						
+input	output	C00092	C00085	R00771	Metabolite_Metabolite	D-Glucose 6-phosphate	D-Fructose 6-phosphate	*	*	*	*	*	*	C00085_C00092	Metabolic Transformation	Solid	*	*						
+input	output	C00118	C00085	R08575	Metabolite_Metabolite	D-Glyceraldehyde 3-phosphate	D-Fructose 6-phosphate		*	*	*		*	C00085_C00118	Metabolic Transformation	Solid	*	*						
+input	output	C00131	C00085	R01140	Metabolite_Metabolite	dATP	D-Fructose 6-phosphate		*	*	*		*	C00085_C00131	Metabolic Transformation	Solid	*	*						
+input	output	C00354	C00085	R00762	Metabolite_Metabolite	D-Fructose 1,6-bisphosphate	D-Fructose 6-phosphate		*	*	*		*	C00085_C00354	Metabolic Transformation	Solid	*	*						
+input	output	C05382	C00085	R08575	Metabolite_Metabolite	Sedoheptulose 7-phosphate	D-Fructose 6-phosphate	*	*	*	*	*	*	C00085_C05382	Metabolic Transformation	Solid	*	*						
+input	output	C00002	C00092	R00299	Metabolite_Metabolite	ATP	D-Glucose 6-phosphate		*	*	*		*	C00002_C00092	Metabolic Transformation	Solid								
+input	output	C00131	C00092	R01139	Metabolite_Metabolite	dATP	D-Glucose 6-phosphate		*	*	*		*	C00092_C00131	Metabolic Transformation	Solid								
+input	output	C00670	C00093	R01030	Metabolite_Metabolite	sn-Glycero-3-phosphocholine	sn-Glycerol 3-phosphate	*		*	*	*		C00093_C00670	Metabolic Transformation	Solid								
+input	output	C00044	C00096	R00885	Metabolite_Metabolite	GTP	GDP-mannose	*		*	*	*		C00044_C00096	Metabolic Transformation	Solid								
+input	output	C00065	C00097	R00891	Metabolite_Metabolite	L-Serine	L-Cysteine		*	*	*		*	C00065_C00097	Metabolic Transformation	Solid			*				*	*
+input	output	C00049	C00099	R00489	Metabolite_Metabolite	L-Aspartate	beta-Alanine	*		*	*	*		C00049_C00099	Metabolic Transformation	Solid								
+input	output	C03065	C00099	R00913	Metabolite_Metabolite	3-Guanidinopropanoate	beta-Alanine	*		*	*	*		C00099_C03065	Metabolic Transformation	Solid								
+input	output	C00029	C00105	R00287	Metabolite_Metabolite	UDP-glucose	UMP	*		*	*	*		C00029_C00105	Metabolic Transformation	Solid								
+input	output	C00044	C00105	R00968	Metabolite_Metabolite	GTP	UMP	*		*	*	*		C00044_C00105	Metabolic Transformation	Solid								
+input	output	C00075	C00105	R00662	Metabolite_Metabolite	UTP	UMP	*		*	*	*		C00075_C00105	Metabolic Transformation	Solid								
+input	output	C00002	C00111	R01011	Metabolite_Metabolite	ATP	Glycerone phosphate		*	*	*		*	C00002_C00111	Metabolic Transformation	Solid	*							
+input	output	C00016	C00111	R00848	Metabolite_Metabolite	FAD	Glycerone phosphate	*	*	*	*	*	*	C00016_C00111	Metabolic Transformation	Solid	*							
+input	output	C00093	C00111	R00842, R00848, R00849, R08657	Metabolite_Metabolite	sn-Glycerol 3-phosphate	Glycerone phosphate		*	*	*		*	C00093_C00111	Metabolic Transformation	Solid	*							
+input	output	C00118	C00111	R01015	Metabolite_Metabolite	D-Glyceraldehyde 3-phosphate	Glycerone phosphate		*	*	*		*	C00111_C00118	Metabolic Transformation	Solid	*							
+input	output	C00354	C00111	R01068	Metabolite_Metabolite	D-Fructose 1,6-bisphosphate	Glycerone phosphate		*	*	*		*	C00111_C00354	Metabolic Transformation	Solid	*							
+input	output	C00085	C00112	R00767	Metabolite_Metabolite	D-Fructose 6-phosphate	CDP	*		*	*	*		C00085_C00112	Metabolic Transformation	Solid	*	*						
+input	output	C00157	C00114	R01310	Metabolite_Metabolite	Phosphatidylcholine	Choline	*	*	*	*	*	*	C00114_C00157	Metabolic Transformation	Solid								
+input	output	C00670	C00114	R01030	Metabolite_Metabolite	sn-Glycero-3-phosphocholine	Choline	*	*	*	*	*	*	C00114_C00670	Metabolic Transformation	Solid								
+input	output	C01996	C00114	R01026	Metabolite_Metabolite	Acetylcholine	Choline	*	*	*	*	*	*	C00114_C01996	Metabolic Transformation	Solid								
+input	output	C00118	C00117	R01641	Metabolite_Metabolite	D-Glyceraldehyde 3-phosphate	D-Ribose 5-phosphate		*	*	*		*	C00117_C00118	Metabolic Transformation	Solid	*							
+input	output	C00301	C00117	R01054	Metabolite_Metabolite	ADP-ribose	D-Ribose 5-phosphate		*	*	*		*	C00117_C00301	Metabolic Transformation	Solid	*							
+input	output	C05382	C00117	R01641, R06863	Metabolite_Metabolite	Sedoheptulose 7-phosphate	D-Ribose 5-phosphate	*	*	*	*	*	*	C00117_C05382	Metabolic Transformation	Solid	*	*						
+input	output	C00025	C00119	R01072	Metabolite_Metabolite	L-Glutamate	5-Phospho-alpha-D-ribose 1-diphosphate	*		*	*	*		C00025_C00119	Metabolic Transformation	Solid								
+input	output	C00117	C00119	R01049	Metabolite_Metabolite	D-Ribose 5-phosphate	5-Phospho-alpha-D-ribose 1-diphosphate	*		*	*	*		C00117_C00119	Metabolic Transformation	Solid	*							
+input	output	C00144	C00119	R01229	Metabolite_Metabolite	GMP	5-Phospho-alpha-D-ribose 1-diphosphate	*		*	*	*		C00119_C00144	Metabolic Transformation	Solid								
+input	output	C00042	C00122	R02164, R13223	Metabolite_Metabolite	Succinate	Fumarate	*		*	*	*		C00042_C00122	Metabolic Transformation	Solid								
+input	output	C02686	C00124	R03617	Metabolite_Metabolite	Galactosylceramide	D-Galactose	*	*	*	*	*	*	C00124_C02686	Metabolic Transformation	Solid								
+input	output	C00386	C00135	R01166	Metabolite_Metabolite	Carnosine	L-Histidine		*	*	*		*	C00135_C00386	Metabolic Transformation	Solid								
+input	output	C00002	C00144	R01230, R01231	Metabolite_Metabolite	ATP	GMP		*	*	*		*	C00002_C00144	Metabolic Transformation	Solid								
+input	output	C00035	C00144	R00328	Metabolite_Metabolite	GDP	GMP		*	*	*		*	C00035_C00144	Metabolic Transformation	Solid								
+input	output	C00044	C00144	R00426, R10823	Metabolite_Metabolite	GTP	GMP	*	*	*	*	*	*	C00044_C00144	Metabolic Transformation	Solid								
+input	output	C00064	C00144	R01231	Metabolite_Metabolite	L-Glutamine	GMP	*	*	*	*	*	*	C00064_C00144	Metabolic Transformation	Solid								
+input	output	C00130	C00144	R01134	Metabolite_Metabolite	IMP	GMP		*	*	*		*	C00130_C00144	Metabolic Transformation	Solid								
+input	output	C00655	C00144	R01230, R01231	Metabolite_Metabolite	Xanthosine 5'-phosphate	GMP		*	*	*		*	C00144_C00655	Metabolic Transformation	Solid								
+input	output	C00064	C00152	R00578	Metabolite_Metabolite	L-Glutamine	L-Asparagine	*		*	*	*		C00064_C00152	Metabolic Transformation	Solid								
+input	output	C00455	C00153	R01271	Metabolite_Metabolite	Nicotinamide D-ribonucleotide	Nicotinamide		*	*	*		*	C00153_C00455	Metabolic Transformation	Solid								
+input	output	C00019	C00157	R01320	Metabolite_Metabolite	S-Adenosyl-L-methionine	Phosphatidylcholine		*	*	*		*	C00019_C00157	Metabolic Transformation	Solid								
+input	output	C00641	C00157	R01321	Metabolite_Metabolite	1,2-Diacyl-sn-glycerol	Phosphatidylcholine	*	*	*	*	*	*	C00157_C00641	Metabolic Transformation	Solid								
+input	output	C04230	C00157	R01318	Metabolite_Metabolite	1-Acyl-sn-glycero-3-phosphocholine	Phosphatidylcholine	*	*	*	*	*	*	C00157_C04230	Metabolic Transformation	Solid								
+input	output	C00029	C00167	R00286	Metabolite_Metabolite	UDP-glucose	UDP-glucuronate	*		*	*	*		C00029_C00167	Metabolic Transformation	Solid								
+input	output	C02530	C00187	R01462	Metabolite_Metabolite	Cholesterol ester	Cholesterol	*		*	*	*		C00187_C02530	Metabolic Transformation	Solid								
+input	output	C00350	C00189	R02051, R07376	Metabolite_Metabolite	Phosphatidylethanolamine	Ethanolamine	*		*	*	*		C00189_C00350	Metabolic Transformation	Solid								
+input	output	C00144	C00242	R01229	Metabolite_Metabolite	GMP	Guanine	*	*	*	*	*	*	C00144_C00242	Metabolic Transformation	Solid								
+input	output	C00330	C00242	R01969	Metabolite_Metabolite	Deoxyguanosine	Guanine		*	*	*		*	C00242_C00330	Metabolic Transformation	Solid								
+input	output	C00387	C00242	R02147	Metabolite_Metabolite	Guanosine	Guanine	*	*	*	*	*	*	C00242_C00387	Metabolic Transformation	Solid								
+input	output	C00085	C00279	R01067	Metabolite_Metabolite	D-Fructose 6-phosphate	D-Erythrose 4-phosphate	*		*	*	*		C00085_C00279	Metabolic Transformation	Solid	*	*						
+input	output	C05382	C00279	R01827, R08575	Metabolite_Metabolite	Sedoheptulose 7-phosphate	D-Erythrose 4-phosphate	*		*	*	*		C00279_C05382	Metabolic Transformation	Solid	*	*						
+input	output	C00158	C00311	R01324	Metabolite_Metabolite	Citrate	Isocitrate		*	*	*		*	C00158_C00311	Metabolic Transformation	Solid								
+input	output	C00062	C00327	R00557	Metabolite_Metabolite	L-Arginine	L-Citrulline	*		*	*	*		C00062_C00327	Metabolic Transformation	Solid								
+input	output	C01035	C00334	R01990	Metabolite_Metabolite	4-Guanidinobutanoate	4-Aminobutanoate		*	*	*		*	C00334_C01035	Metabolic Transformation	Solid								
+input	output	C00641	C00350	R02057	Metabolite_Metabolite	1,2-Diacyl-sn-glycerol	Phosphatidylethanolamine	*	*	*	*	*	*	C00350_C00641	Metabolic Transformation	Solid								
+input	output	C02737	C00350	R02055	Metabolite_Metabolite	Phosphatidylserine	Phosphatidylethanolamine	*	*	*	*	*	*	C00350_C02737	Metabolic Transformation	Solid								
+input	output	C00063	C00354	R00767	Metabolite_Metabolite	CTP	D-Fructose 1,6-bisphosphate	*		*	*	*		C00063_C00354	Metabolic Transformation	Solid								
+input	output	C00075	C00354	R00769	Metabolite_Metabolite	UTP	D-Fructose 1,6-bisphosphate	*		*	*	*		C00075_C00354	Metabolic Transformation	Solid								
+input	output	C00385	C00366	R02103, R02107	Metabolite_Metabolite	Xanthine	Urate		*	*	*		*	C00366_C00385	Metabolic Transformation	Solid								
+input	output	C00242	C00385	R01676	Metabolite_Metabolite	Guanine	Xanthine	*		*	*	*		C00242_C00385	Metabolic Transformation	Solid								
+input	output	C00144	C00387	R01227	Metabolite_Metabolite	GMP	Guanosine	*	*	*	*	*	*	C00144_C00387	Metabolic Transformation	Solid								
+input	output	C00135	C00388	R01167	Metabolite_Metabolite	L-Histidine	Histamine	*	*	*	*	*	*	C00135_C00388	Metabolic Transformation	Solid				*				
+input	output	C00157	C00416	R01310	Metabolite_Metabolite	Phosphatidylcholine	Phosphatidate	*		*	*	*		C00157_C00416	Metabolic Transformation	Solid								
+input	output	C00350	C00416	R02051	Metabolite_Metabolite	Phosphatidylethanolamine	Phosphatidate	*		*	*	*		C00350_C00416	Metabolic Transformation	Solid								
+input	output	C00641	C00416	R02240	Metabolite_Metabolite	1,2-Diacyl-sn-glycerol	Phosphatidate	*		*	*	*		C00416_C00641	Metabolic Transformation	Solid								
+input	output	C00158	C00417	R01325	Metabolite_Metabolite	Citrate	cis-Aconitate		*	*	*		*	C00158_C00417	Metabolic Transformation	Solid								
+input	output	C00311	C00417	R01900	Metabolite_Metabolite	Isocitrate	cis-Aconitate	*	*	*	*	*	*	C00311_C00417	Metabolic Transformation	Solid								
+input	output	C00641	C00422	R02694	Metabolite_Metabolite	1,2-Diacyl-sn-glycerol	Triacylglycerol	*	*	*	*	*	*	C00422_C00641	Metabolic Transformation	Solid					*			
+input	output	C00157	C00550	R08969	Metabolite_Metabolite	Phosphatidylcholine	Sphingomyelin	*	*	*	*	*	*	C00157_C00550	Metabolic Transformation	Solid								
+input	output	C00062	C00581	R00565	Metabolite_Metabolite	L-Arginine	Guanidinoacetate	*		*	*	*		C00062_C00581	Metabolic Transformation	Solid								
+input	output	C00114	C00588	R01021	Metabolite_Metabolite	Choline	Choline phosphate	*		*	*	*		C00114_C00588	Metabolic Transformation	Solid								
+input	output	C00550	C00588	R02541	Metabolite_Metabolite	Sphingomyelin	Choline phosphate	*		*	*	*		C00550_C00588	Metabolic Transformation	Solid								
+input	output	C00670	C00588	R02591	Metabolite_Metabolite	sn-Glycero-3-phosphocholine	Choline phosphate	*		*	*	*		C00588_C00670	Metabolic Transformation	Solid								
+input	output	C01194	C00641	R03332	Metabolite_Metabolite	1-Phosphatidyl-D-myo-inositol	1,2-Diacyl-sn-glycerol	*	*	*	*	*	*	C00641_C01194	Metabolic Transformation	Solid								
+input	output	C00078	C00643	R01814, R07213, R12542	Metabolite_Metabolite	L-Tryptophan	5-Hydroxy-L-tryptophan	*		*	*	*		C00078_C00643	Metabolic Transformation	Solid								
+input	output	C00157	C00670	R01309	Metabolite_Metabolite	Phosphatidylcholine	sn-Glycero-3-phosphocholine	*	*	*	*	*	*	C00157_C00670	Metabolic Transformation	Solid								
+input	output	C04230	C00670	R02746, R07291	Metabolite_Metabolite	1-Acyl-sn-glycero-3-phosphocholine	sn-Glycero-3-phosphocholine	*	*	*	*	*	*	C00670_C04230	Metabolic Transformation	Solid								
+input	output	C00135	C00785	R01168	Metabolite_Metabolite	L-Histidine	Urocanate	*		*	*	*		C00135_C00785	Metabolic Transformation	Solid								
+input	output	C00062	C01035	R01989	Metabolite_Metabolite	L-Arginine	4-Guanidinobutanoate	*		*	*	*		C00062_C01035	Metabolic Transformation	Solid								
+input	output	C00024	C01042	R00487	Metabolite_Metabolite	Acetyl-CoA	N-Acetyl-L-aspartate		*	*	*		*	C00024_C01042	Metabolic Transformation	Solid								
+input	output	C00005	C01104	R05623	Metabolite_Metabolite	NADPH	Trimethylamine N-oxide		*	*	*		*	C00005_C01104	Metabolic Transformation	Solid			*	*				
+input	output	C00026	C01157	R01252	Metabolite_Metabolite	2-Oxoglutarate	Hydroxyproline		*	*	*		*	C00026_C01157	Metabolic Transformation	Solid								
+input	output	C00148	C01157	R01252	Metabolite_Metabolite	L-Proline	Hydroxyproline		*	*	*		*	C00148_C01157	Metabolic Transformation	Solid								
+input	output	C00051	C01879	R11861	Metabolite_Metabolite	Glutathione	5-Oxoproline	*		*	*	*		C00051_C01879	Metabolic Transformation	Solid				*				
+input	output	C00024	C01996	R01023	Metabolite_Metabolite	Acetyl-CoA	Acetylcholine		*	*	*		*	C00024_C01996	Metabolic Transformation	Solid								
+input	output	C00020	C02528	R08743	Metabolite_Metabolite	AMP	Chenodeoxycholate		*	*	*		*	C00020_C02528	Metabolic Transformation	Solid					*			
+input	output	C00052	C02686	R01500	Metabolite_Metabolite	UDP-alpha-D-galactose	Galactosylceramide		*	*	*		*	C00052_C02686	Metabolic Transformation	Solid								
+input	output	C00065	C02737	R07376	Metabolite_Metabolite	L-Serine	Phosphatidylserine		*	*	*		*	C00065_C02737	Metabolic Transformation	Solid								
+input	output	C00010	C04438	R04480	Metabolite_Metabolite	CoA	1-Acyl-sn-glycero-3-phosphoethanolamine	*	*	*	*	*	*	C00010_C04438	Metabolic Transformation	Solid								
+input	output	C00350	C04438	R02053, R04480	Metabolite_Metabolite	Phosphatidylethanolamine	1-Acyl-sn-glycero-3-phosphoethanolamine	*	*	*	*	*	*	C00350_C04438	Metabolic Transformation	Solid								
+input	output	C00051	C04805	R07034	Metabolite_Metabolite	Glutathione	5(S)-HETE	*		*	*	*		C00051_C04805	Metabolic Transformation	Solid				*				
+input	output	C00388	C05127	R02155	Metabolite_Metabolite	Histamine	N-Methylhistamine	*		*	*	*		C00388_C05127	Metabolic Transformation	Solid				*				
+input	output	C00005	C05270	R06985	Metabolite_Metabolite	NADPH	Hexanoyl-CoA		*	*	*		*	C00005_C05270	Metabolic Transformation	Solid								
+input	output	C02918	C05842	R08408	Metabolite_Metabolite	1-Methylnicotinamide	N1-Methyl-2-pyridone-5-carboxamide	*		*	*	*		C02918_C05842	Metabolic Transformation	Solid								
+input	output	C00836	C12144	R06525	Metabolite_Metabolite	Sphinganine	Phytosphingosine		*	*	*		*	C00836_C12144	Metabolic Transformation	Solid								
+input	output	C00051	C14777	R13043	Metabolite_Metabolite	Glutathione	12(S)-HETE	*		*	*	*		C00051_C14777	Metabolic Transformation	Solid				*				
+output	catalyst	C00144	Cant1	R00328	Metabolite_GeneProduct	GMP	Cant1	*		*	*	*		C00144_Cant1	Enzyme	Solid								
+input	catalyst	C00065	Cbs	R00891, R01289, R01290, R04942	Metabolite_GeneProduct	L-Serine	Cbs		*	*	*		*	C00065_Cbs	Enzyme	Solid								
+output	catalyst	C00097	Cbs	R00891	Metabolite_GeneProduct	L-Cysteine	Cbs	*	*	*	*	*	*	C00097_Cbs	Enzyme	Solid			*				*	*
+output	catalyst	C00153	Cd38	R00102, R00119, R10629, R10631	Metabolite_GeneProduct	Nicotinamide	Cd38	*		*	*	*		C00153_Cd38	Enzyme	Solid								
+input	catalyst	C00044	Cdc42	R00335	Metabolite_GeneProduct	GTP	Cdc42	*		*	*	*		C00044_Cdc42	Enzyme	Solid								
+output	catalyst	C01194	Cdipt	R01802	Metabolite_GeneProduct	1-Phosphatidyl-D-myo-inositol	Cdipt	*		*	*	*		C01194_Cdipt	Enzyme	Solid								
+input	catalyst	C00097	Cdo1	R00893	Metabolite_GeneProduct	L-Cysteine	Cdo1	*		*	*	*		C00097_Cdo1	Enzyme	Solid			*				*	*
+input	catalyst	C00063	Cds1	R01799	Metabolite_GeneProduct	CTP	Cds1	*	*	*	*	*	*	C00063_Cds1	Enzyme	Solid								
+input	catalyst	C00416	Cds1	R01799	Metabolite_GeneProduct	Phosphatidate	Cds1		*	*	*		*	C00416_Cds1	Enzyme	Solid								
+input	catalyst	C00063	Cds2	R01799	Metabolite_GeneProduct	CTP	Cds2	*		*	*	*		C00063_Cds2	Enzyme	Solid								
+output	catalyst	C00010	Cdyl2	R03552	Metabolite_GeneProduct	CoA	Cdyl2	*		*	*	*		C00010_Cdyl2	Enzyme	Solid								
+input	catalyst	C00422	Cel	R01369, R02250	Metabolite_GeneProduct	Triacylglycerol	Cel	*		*	*	*		C00422_Cel	Enzyme	Solid		*	*		*		*	
+input	catalyst	C00641	Cel	R02687, R02688	Metabolite_GeneProduct	1,2-Diacyl-sn-glycerol	Cel	*		*	*	*		C00641_Cel	Enzyme	Solid		*	*				*	
+input	catalyst	C02530	Cel	R01462	Metabolite_GeneProduct	Cholesterol ester	Cel	*		*	*	*		C02530_Cel	Enzyme	Solid		*	*				*	
+output	catalyst	C00157	Cept1	R01321	Metabolite_GeneProduct	Phosphatidylcholine	Cept1	*		*	*	*		C00157_Cept1	Enzyme	Solid								
+output	catalyst	C00350	Cept1	R02057	Metabolite_GeneProduct	Phosphatidylethanolamine	Cept1	*		*	*	*		C00350_Cept1	Enzyme	Solid								
+input	catalyst	C00641	Cept1	R01321, R02057, R04920, R04922	Metabolite_GeneProduct	1,2-Diacyl-sn-glycerol	Cept1	*		*	*	*		C00641_Cept1	Enzyme	Solid								
+output	catalyst	C00010	Cers4	R01496, R06517, R06527	Metabolite_GeneProduct	CoA	Cers4	*		*	*	*		C00010_Cers4	Enzyme	Solid								
+input	catalyst	C12144	Cers4	R06527	Metabolite_GeneProduct	Phytosphingosine	Cers4	*		*	*	*		C12144_Cers4	Enzyme	Solid								
+input	catalyst	C00051	Chac1	R11861	Metabolite_GeneProduct	Glutathione	Chac1	*		*	*	*		C00051_Chac1	Enzyme	Solid				*				
+input	catalyst	C00051	Chac2	R11861	Metabolite_GeneProduct	Glutathione	Chac2	*		*	*	*		C00051_Chac2	Enzyme	Solid				*				
+input	catalyst	C00114	Chdh	R01025	Metabolite_GeneProduct	Choline	Chdh	*		*	*	*		C00114_Chdh	Enzyme	Solid								
+input	catalyst	C00114	Chka	R01021	Metabolite_GeneProduct	Choline	Chka	*		*	*	*		C00114_Chka	Enzyme	Solid								
+input	catalyst	C00002	Chkb	R01021, R01468	Metabolite_GeneProduct	ATP	Chkb		*	*	*		*	C00002_Chkb	Enzyme	Solid								
+output	catalyst	C00008	Chkb	R01021, R01468	Metabolite_GeneProduct	ADP	Chkb		*	*	*		*	C00008_Chkb	Enzyme	Solid								
+input	catalyst	C00114	Chkb	R01021	Metabolite_GeneProduct	Choline	Chkb	*	*	*	*	*	*	C00114_Chkb	Enzyme	Solid								
+input	catalyst	C00189	Chkb	R01468	Metabolite_GeneProduct	Ethanolamine	Chkb		*	*	*		*	C00189_Chkb	Enzyme	Solid								
+output	catalyst	C00346	Chkb	R01468	Metabolite_GeneProduct	Ethanolamine phosphate	Chkb		*	*	*		*	C00346_Chkb	Enzyme	Solid								
+output	catalyst	C00588	Chkb	R01021	Metabolite_GeneProduct	Choline phosphate	Chkb		*	*	*		*	C00588_Chkb	Enzyme	Solid								
+output	catalyst	C00157	Chpt1	R01321	Metabolite_GeneProduct	Phosphatidylcholine	Chpt1	*		*	*	*		C00157_Chpt1	Enzyme	Solid								
+input	catalyst	C00641	Chpt1	R01321, R04922	Metabolite_GeneProduct	1,2-Diacyl-sn-glycerol	Chpt1	*		*	*	*		C00641_Chpt1	Enzyme	Solid								
+output	catalyst	C00025	Cisd1	R00895	Metabolite_GeneProduct	L-Glutamate	Cisd1	*		*	*	*		C00025_Cisd1	Enzyme	Solid								
+input	catalyst	C00097	Cisd1	R00895	Metabolite_GeneProduct	L-Cysteine	Cisd1	*		*	*	*		C00097_Cisd1	Enzyme	Solid			*				*	*
+input	catalyst	C00051	Clic1	R01108	Metabolite_GeneProduct	Glutathione	Clic1	*		*	*	*		C00051_Clic1	Enzyme	Solid				*				
+output	catalyst	C00127	Clic1	R01108	Metabolite_GeneProduct	Glutathione disulfide	Clic1	*		*	*	*		C00127_Clic1	Enzyme	Solid								
+output	catalyst	C00010	Clock	R03552	Metabolite_GeneProduct	CoA	Clock	*	*	*	*	*	*	C00010_Clock	Enzyme	Solid								
+input	catalyst	C00024	Clock	R03552	Metabolite_GeneProduct	Acetyl-CoA	Clock		*	*	*		*	C00024_Clock	Enzyme	Solid								
+input	catalyst	C00010	Clybl	R00472	Metabolite_GeneProduct	CoA	Clybl	*		*	*	*		C00010_Clybl	Enzyme	Solid								
+input	catalyst	C00063	Cmas	R01117, R02599, R04215, R11441	Metabolite_GeneProduct	CTP	Cmas	*		*	*	*		C00063_Cmas	Enzyme	Solid								
+output	catalyst	C00044	Cmpk1	R00330	Metabolite_GeneProduct	GTP	Cmpk1	*		*	*	*		C00044_Cmpk1	Enzyme	Solid								
+output	catalyst	C00063	Cmpk1	R00570	Metabolite_GeneProduct	CTP	Cmpk1	*		*	*	*		C00063_Cmpk1	Enzyme	Solid								
+output	catalyst	C00075	Cmpk1	R00156	Metabolite_GeneProduct	UTP	Cmpk1	*		*	*	*		C00075_Cmpk1	Enzyme	Solid								
+output	catalyst	C00135	Cndp1	R01166, R01992	Metabolite_GeneProduct	L-Histidine	Cndp1	*		*	*	*		C00135_Cndp1	Enzyme	Solid								
+output	catalyst	C00334	Cndp1	R01992	Metabolite_GeneProduct	4-Aminobutanoate	Cndp1	*		*	*	*		C00334_Cndp1	Enzyme	Solid								
+output	catalyst	C00135	Cndp2	R01166, R01992	Metabolite_GeneProduct	L-Histidine	Cndp2	*		*	*	*		C00135_Cndp2	Enzyme	Solid								
+output	catalyst	C00334	Cndp2	R01992	Metabolite_GeneProduct	4-Aminobutanoate	Cndp2	*		*	*	*		C00334_Cndp2	Enzyme	Solid								
+input	catalyst	C00051	Cp	R00274, R12578	Metabolite_GeneProduct	Glutathione	Cp	*		*	*	*		C00051_Cp	Enzyme	Solid				*				
+output	catalyst	C00127	Cp	R00274, R12578	Metabolite_GeneProduct	Glutathione disulfide	Cp	*		*	*	*		C00127_Cp	Enzyme	Solid								
+output	catalyst	C00010	Cpt1a	R01923	Metabolite_GeneProduct	CoA	Cpt1a	*		*	*	*		C00010_Cpt1a	Enzyme	Solid								
+output	catalyst	C00010	Cpt1b	R01923	Metabolite_GeneProduct	CoA	Cpt1b	*		*	*	*		C00010_Cpt1b	Enzyme	Solid								
+output	catalyst	C00010	Cpt1c	R01274, R01923	Metabolite_GeneProduct	CoA	Cpt1c	*		*	*	*		C00010_Cpt1c	Enzyme	Solid								
+output	catalyst	C00010	Cpt2	R01923	Metabolite_GeneProduct	CoA	Cpt2	*		*	*	*		C00010_Cpt2	Enzyme	Solid								
+output	catalyst	C00010	Crat	R02396, R03779	Metabolite_GeneProduct	CoA	Crat	*		*	*	*		C00010_Crat	Enzyme	Solid								
+output	catalyst	C00010	Crebbp	R03552	Metabolite_GeneProduct	CoA	Crebbp	*		*	*	*		C00010_Crebbp	Enzyme	Solid								
+output	catalyst	C00010	Crot	R03779	Metabolite_GeneProduct	CoA	Crot	*	*	*	*	*	*	C00010_Crot	Enzyme	Solid								
+input	catalyst	C00010	Cs	R00351	Metabolite_GeneProduct	CoA	Cs	*		*	*	*		C00010_Cs	Enzyme	Solid								
+input	catalyst	C00049	Csad	R00489	Metabolite_GeneProduct	L-Aspartate	Csad	*		*	*	*		C00049_Csad	Enzyme	Solid								
+output	catalyst	C00025	Ctps2	R00573	Metabolite_GeneProduct	L-Glutamate	Ctps2	*		*	*	*		C00025_Ctps2	Enzyme	Solid								
+output	catalyst	C00063	Ctps2	R00571, R00573	Metabolite_GeneProduct	CTP	Ctps2	*		*	*	*		C00063_Ctps2	Enzyme	Solid								
+input	catalyst	C00064	Ctps2	R00573	Metabolite_GeneProduct	L-Glutamine	Ctps2	*		*	*	*		C00064_Ctps2	Enzyme	Solid								
+input	catalyst	C00075	Ctps2	R00571, R00573	Metabolite_GeneProduct	UTP	Ctps2	*		*	*	*		C00075_Ctps2	Enzyme	Solid								
+input	catalyst	C00422	Daglb	R01369, R02250	Metabolite_GeneProduct	Triacylglycerol	Daglb	*		*	*	*		C00422_Daglb	Enzyme	Solid					*			
+input	catalyst	C00641	Daglb	R02687, R02688	Metabolite_GeneProduct	1,2-Diacyl-sn-glycerol	Daglb	*		*	*	*		C00641_Daglb	Enzyme	Solid								
+input	catalyst	C00049	Dars2	R05577	Metabolite_GeneProduct	L-Aspartate	Dars2	*		*	*	*		C00049_Dars2	Enzyme	Solid								
+input	catalyst	C00078	Ddc	R00685	Metabolite_GeneProduct	L-Tryptophan	Ddc	*		*	*	*		C00078_Ddc	Enzyme	Solid								
+output	catalyst	C12144	Degs1	R06525	Metabolite_GeneProduct	Phytosphingosine	Degs1	*		*	*	*		C12144_Degs1	Enzyme	Solid								
+output	catalyst	C00010	Desi1	R01274	Metabolite_GeneProduct	CoA	Desi1	*		*	*	*		C00010_Desi1	Enzyme	Solid								
+output	catalyst	C00010	Desi2	R01274	Metabolite_GeneProduct	CoA	Desi2	*		*	*	*		C00010_Desi2	Enzyme	Solid								
+input	catalyst	C00010	Dgat1	R02251	Metabolite_GeneProduct	CoA	Dgat1	*		*	*	*		C00010_Dgat1	Enzyme	Solid								
+input	catalyst	C00422	Dgat1	R02251	Metabolite_GeneProduct	Triacylglycerol	Dgat1	*		*	*	*		C00422_Dgat1	Enzyme	Solid					*			
+input	catalyst	C00473	Dgat1	R02366, R02367	Metabolite_GeneProduct	Retinol	Dgat1	*		*	*	*		C00473_Dgat1	Enzyme	Solid								
+input	catalyst	C00641	Dgat1	R02694	Metabolite_GeneProduct	1,2-Diacyl-sn-glycerol	Dgat1	*		*	*	*		C00641_Dgat1	Enzyme	Solid								
+input	catalyst	C00010	Dgat2	R02251	Metabolite_GeneProduct	CoA	Dgat2	*		*	*	*		C00010_Dgat2	Enzyme	Solid								
+input	catalyst	C00422	Dgat2	R02251	Metabolite_GeneProduct	Triacylglycerol	Dgat2	*		*	*	*		C00422_Dgat2	Enzyme	Solid					*			
+input	catalyst	C00473	Dgat2	R02366, R02367	Metabolite_GeneProduct	Retinol	Dgat2	*		*	*	*		C00473_Dgat2	Enzyme	Solid								
+input	catalyst	C00641	Dgat2	R02694	Metabolite_GeneProduct	1,2-Diacyl-sn-glycerol	Dgat2	*		*	*	*		C00641_Dgat2	Enzyme	Solid								
+input	catalyst	C00641	Dgka	R02240	Metabolite_GeneProduct	1,2-Diacyl-sn-glycerol	Dgka	*		*	*	*		C00641_Dgka	Enzyme	Solid								
+input	catalyst	C00641	Dgkg	R02240	Metabolite_GeneProduct	1,2-Diacyl-sn-glycerol	Dgkg	*		*	*	*		C00641_Dgkg	Enzyme	Solid								
+input	catalyst	C00002	Dgkq	R02240, R04126	Metabolite_GeneProduct	ATP	Dgkq		*	*	*		*	C00002_Dgkq	Enzyme	Solid								
+output	catalyst	C00008	Dgkq	R02240, R04126	Metabolite_GeneProduct	ADP	Dgkq		*	*	*		*	C00008_Dgkq	Enzyme	Solid								
+output	catalyst	C00416	Dgkq	R02240	Metabolite_GeneProduct	Phosphatidate	Dgkq		*	*	*		*	C00416_Dgkq	Enzyme	Solid								
+input	catalyst	C00641	Dgkq	R02240	Metabolite_GeneProduct	1,2-Diacyl-sn-glycerol	Dgkq	*	*	*	*	*	*	C00641_Dgkq	Enzyme	Solid								
+input	catalyst	C00641	Dgkz	R02240	Metabolite_GeneProduct	1,2-Diacyl-sn-glycerol	Dgkz	*		*	*	*		C00641_Dgkz	Enzyme	Solid								
+input	catalyst	C00473	Dhrs4	R08379	Metabolite_GeneProduct	Retinol	Dhrs4	*		*	*	*		C00473_Dhrs4	Enzyme	Solid								
+output	catalyst	C00004	Dhrs9	R02124, R02476, R04330, R04831, R04834, R04844, R04847	Metabolite_GeneProduct	NADH	Dhrs9		*	*	*		*	C00004_Dhrs9	Enzyme	Solid				*	*		*	
+output	catalyst	C00005	Dhrs9	R02477	Metabolite_GeneProduct	NADPH	Dhrs9		*	*	*		*	C00005_Dhrs9	Enzyme	Solid				*				
+input	catalyst	C00473	Dhrs9	R02124	Metabolite_GeneProduct	Retinol	Dhrs9	*	*	*	*	*	*	C00473_Dhrs9	Enzyme	Solid				*				
+output	catalyst	C05472	Dhrs9	R04834	Metabolite_GeneProduct	Urocortisol	Dhrs9		*	*	*		*	C05472_Dhrs9	Enzyme	Solid				*				
+output	catalyst	C00010	Dlat	R02569	Metabolite_GeneProduct	CoA	Dlat	*		*	*	*		C00010_Dlat	Enzyme	Solid								
+output	catalyst	C00010	Dlst	R02570, R02571	Metabolite_GeneProduct	CoA	Dlst	*		*	*	*		C00010_Dlst	Enzyme	Solid								
+input	catalyst	C00044	Eif2s3	R00335	Metabolite_GeneProduct	GTP	Eif2s3	*		*	*	*		C00044_Eif2s3	Enzyme	Solid								
+input	catalyst	C00044	Eif2s3y	R00335	Metabolite_GeneProduct	GTP	Eif2s3y	*		*	*	*		C00044_Eif2s3y	Enzyme	Solid			*	*				
+input	catalyst	C00044	Eif5b	R00335	Metabolite_GeneProduct	GTP	Eif5b	*		*	*	*		C00044_Eif5b	Enzyme	Solid								
+output	catalyst	C00010	Elovl2	R07758, R09419, R10825	Metabolite_GeneProduct	CoA	Elovl2	*		*	*	*		C00010_Elovl2	Enzyme	Solid								
+output	catalyst	C00010	Elovl5	R07758, R09419, R10825	Metabolite_GeneProduct	CoA	Elovl5	*	*	*	*	*	*	C00010_Elovl5	Enzyme	Solid								
+output	catalyst	C00010	Elovl6	R07758, R09419, R10825	Metabolite_GeneProduct	CoA	Elovl6	*		*	*	*		C00010_Elovl6	Enzyme	Solid								
+input	catalyst	C00016	Enpp1	R00160	Metabolite_GeneProduct	FAD	Enpp1	*		*	*	*		C00016_Enpp1	Enzyme	Solid								
+input	catalyst	C00029	Enpp1	R00287	Metabolite_GeneProduct	UDP-glucose	Enpp1	*		*	*	*		C00029_Enpp1	Enzyme	Solid								
+input	catalyst	C00044	Enpp1	R00426	Metabolite_GeneProduct	GTP	Enpp1	*		*	*	*		C00044_Enpp1	Enzyme	Solid								
+input	catalyst	C00063	Enpp1	R00515	Metabolite_GeneProduct	CTP	Enpp1	*		*	*	*		C00063_Enpp1	Enzyme	Solid								
+input	catalyst	C00075	Enpp1	R00662	Metabolite_GeneProduct	UTP	Enpp1	*		*	*	*		C00075_Enpp1	Enzyme	Solid								
+output	catalyst	C00144	Enpp1	R00426	Metabolite_GeneProduct	GMP	Enpp1	*		*	*	*		C00144_Enpp1	Enzyme	Solid								
+output	catalyst	C00114	Enpp2	R01310	Metabolite_GeneProduct	Choline	Enpp2	*		*	*	*		C00114_Enpp2	Enzyme	Solid								
+input	catalyst	C00157	Enpp2	R01310	Metabolite_GeneProduct	Phosphatidylcholine	Enpp2	*		*	*	*		C00157_Enpp2	Enzyme	Solid								
+input	catalyst	C00350	Enpp2	R02051	Metabolite_GeneProduct	Phosphatidylethanolamine	Enpp2	*		*	*	*		C00350_Enpp2	Enzyme	Solid								
+input	catalyst	C00002	Enpp3	R00087	Metabolite_GeneProduct	ATP	Enpp3		*	*	*		*	C00002_Enpp3	Enzyme	Solid								
+input	catalyst	C00016	Enpp3	R00160	Metabolite_GeneProduct	FAD	Enpp3	*	*	*	*	*	*	C00016_Enpp3	Enzyme	Solid								
+output	catalyst	C00020	Enpp3	R00087, R00103, R00160, R03004, R03036	Metabolite_GeneProduct	AMP	Enpp3		*	*	*		*	C00020_Enpp3	Enzyme	Solid								
+input	catalyst	C00029	Enpp3	R00287	Metabolite_GeneProduct	UDP-glucose	Enpp3	*	*	*	*	*	*	C00029_Enpp3	Enzyme	Solid								
+input	catalyst	C00044	Enpp3	R00426	Metabolite_GeneProduct	GTP	Enpp3	*	*	*	*	*	*	C00044_Enpp3	Enzyme	Solid								
+output	catalyst	C00055	Enpp3	R00515	Metabolite_GeneProduct	CMP	Enpp3		*	*	*		*	C00055_Enpp3	Enzyme	Solid								
+input	catalyst	C00063	Enpp3	R00515	Metabolite_GeneProduct	CTP	Enpp3	*	*	*	*	*	*	C00063_Enpp3	Enzyme	Solid								
+input	catalyst	C00075	Enpp3	R00662	Metabolite_GeneProduct	UTP	Enpp3	*	*	*	*	*	*	C00075_Enpp3	Enzyme	Solid								
+output	catalyst	C00105	Enpp3	R00287, R00662	Metabolite_GeneProduct	UMP	Enpp3		*	*	*		*	C00105_Enpp3	Enzyme	Solid								
+output	catalyst	C00144	Enpp3	R00426	Metabolite_GeneProduct	GMP	Enpp3	*	*	*	*	*	*	C00144_Enpp3	Enzyme	Solid								
+output	catalyst	C00455	Enpp3	R00103	Metabolite_GeneProduct	Nicotinamide D-ribonucleotide	Enpp3		*	*	*		*	C00455_Enpp3	Enzyme	Solid								
+input	catalyst	C00459	Enpp3	R11323	Metabolite_GeneProduct	dTTP	Enpp3		*	*	*		*	C00459_Enpp3	Enzyme	Solid								
+input	catalyst	C00044	Entpd1	R00335	Metabolite_GeneProduct	GTP	Entpd1	*		*	*	*		C00044_Entpd1	Enzyme	Solid								
+input	catalyst	C00063	Entpd1	R00569	Metabolite_GeneProduct	CTP	Entpd1	*		*	*	*		C00063_Entpd1	Enzyme	Solid								
+input	catalyst	C00075	Entpd1	R00159	Metabolite_GeneProduct	UTP	Entpd1	*		*	*	*		C00075_Entpd1	Enzyme	Solid								
+output	catalyst	C00144	Entpd1	R00328	Metabolite_GeneProduct	GMP	Entpd1	*		*	*	*		C00144_Entpd1	Enzyme	Solid								
+input	catalyst	C00015	Entpd5	R00155	Metabolite_GeneProduct	UDP	Entpd5		*	*	*		*	C00015_Entpd5	Enzyme	Solid								
+input	catalyst	C00035	Entpd5	R00328	Metabolite_GeneProduct	GDP	Entpd5		*	*	*		*	C00035_Entpd5	Enzyme	Solid								
+output	catalyst	C00105	Entpd5	R00155	Metabolite_GeneProduct	UMP	Entpd5		*	*	*		*	C00105_Entpd5	Enzyme	Solid								
+output	catalyst	C00130	Entpd5	R00961	Metabolite_GeneProduct	IMP	Entpd5		*	*	*		*	C00130_Entpd5	Enzyme	Solid								
+output	catalyst	C00144	Entpd5	R00328	Metabolite_GeneProduct	GMP	Entpd5	*	*	*	*	*	*	C00144_Entpd5	Enzyme	Solid								
+output	catalyst	C00144	Entpd6	R00328	Metabolite_GeneProduct	GMP	Entpd6	*		*	*	*		C00144_Entpd6	Enzyme	Solid								
+input	catalyst	C00044	Entpd8	R00335	Metabolite_GeneProduct	GTP	Entpd8	*		*	*	*		C00044_Entpd8	Enzyme	Solid								
+input	catalyst	C00063	Entpd8	R00569	Metabolite_GeneProduct	CTP	Entpd8	*		*	*	*		C00063_Entpd8	Enzyme	Solid								
+input	catalyst	C00075	Entpd8	R00159	Metabolite_GeneProduct	UTP	Entpd8	*		*	*	*		C00075_Entpd8	Enzyme	Solid								
+output	catalyst	C00144	Entpd8	R00328	Metabolite_GeneProduct	GMP	Entpd8	*		*	*	*		C00144_Entpd8	Enzyme	Solid								
+input	catalyst	C00043	Eogt	R09676, R09677	Metabolite_GeneProduct	UDP-N-acetyl-alpha-D-glucosamine	Eogt	*		*	*	*		C00043_Eogt	Enzyme	Solid								
+output	catalyst	C00051	Esd	R00527	Metabolite_GeneProduct	Glutathione	Esd	*		*	*	*		C00051_Esd	Enzyme	Solid				*				
+input	catalyst	C00043	Ext1	R07334	Metabolite_GeneProduct	UDP-N-acetyl-alpha-D-glucosamine	Ext1	*		*	*	*		C00043_Ext1	Enzyme	Solid								
+input	catalyst	C00043	Extl3	R07334	Metabolite_GeneProduct	UDP-N-acetyl-alpha-D-glucosamine	Extl3	*		*	*	*		C00043_Extl3	Enzyme	Solid								
+output	catalyst	C00010	Far1	R09470, R10104	Metabolite_GeneProduct	CoA	Far1	*		*	*	*		C00010_Far1	Enzyme	Solid								
+input	catalyst	C00005	Fasn	R05188, R07763, R10116, R10120	Metabolite_GeneProduct	NADPH	Fasn		*	*	*		*	C00005_Fasn	Enzyme	Solid								
+output	catalyst	C00010	Fasn	R01624, R01626, R05188	Metabolite_GeneProduct	CoA	Fasn	*	*	*	*	*	*	C00010_Fasn	Enzyme	Solid								
+input	catalyst	C00024	Fasn	R01624, R05188	Metabolite_GeneProduct	Acetyl-CoA	Fasn		*	*	*		*	C00024_Fasn	Enzyme	Solid								
+output	catalyst	C00249	Fasn	R01706	Metabolite_GeneProduct	Hexadecanoic acid	Fasn		*	*	*		*	C00249_Fasn	Enzyme	Solid						*	*	
+output	catalyst	C00712	Fasn	R02814	Metabolite_GeneProduct	(9Z)-Octadecenoic acid	Fasn		*	*	*		*	C00712_Fasn	Enzyme	Solid								
+output	catalyst	C01530	Fasn	R08163	Metabolite_GeneProduct	Octadecanoic acid	Fasn		*	*	*		*	C01530_Fasn	Enzyme	Solid								
+output	catalyst	C02679	Fasn	R04014	Metabolite_GeneProduct	Dodecanoic acid	Fasn		*	*	*		*	C02679_Fasn	Enzyme	Solid								
+output	catalyst	C06424	Fasn	R08159	Metabolite_GeneProduct	Tetradecanoic acid	Fasn	*	*	*	*	*	*	C06424_Fasn	Enzyme	Solid							*	
+output	catalyst	C00085	Fbp1	R00762	Metabolite_GeneProduct	D-Fructose 6-phosphate	Fbp1	*		*	*	*		C00085_Fbp1	Enzyme	Solid	*	*						
+output	catalyst	C05382	Fbp1	R01845	Metabolite_GeneProduct	Sedoheptulose 7-phosphate	Fbp1	*		*	*	*		C05382_Fbp1	Enzyme	Solid	*	*						
+output	catalyst	C00085	Fbp2	R00762	Metabolite_GeneProduct	D-Fructose 6-phosphate	Fbp2	*		*	*	*		C00085_Fbp2	Enzyme	Solid	*	*						
+output	catalyst	C05382	Fbp2	R01845	Metabolite_GeneProduct	Sedoheptulose 7-phosphate	Fbp2	*		*	*	*		C05382_Fbp2	Enzyme	Solid	*	*						
+input	catalyst	C00005	Fmo1	R03344, R04523, R05623, R08266	Metabolite_GeneProduct	NADPH	Fmo1		*	*	*		*	C00005_Fmo1	Enzyme	Solid								
+output	catalyst	C01104	Fmo1	R05623	Metabolite_GeneProduct	Trimethylamine N-oxide	Fmo1	*	*	*	*	*	*	C01104_Fmo1	Enzyme	Solid			*	*				
+output	catalyst	C01104	Fmo3	R05623	Metabolite_GeneProduct	Trimethylamine N-oxide	Fmo3	*		*	*	*		C01104_Fmo3	Enzyme	Solid			*	*				
+input	catalyst	C00025	Ftcd	R02287, R03189	Metabolite_GeneProduct	L-Glutamate	Ftcd	*		*	*	*		C00025_Ftcd	Enzyme	Solid								
+input	catalyst	C00092	G6pc3	R00303	Metabolite_GeneProduct	D-Glucose 6-phosphate	G6pc3	*		*	*	*		C00092_G6pc3	Enzyme	Solid								
+output	catalyst	C00004	G6pd	R10520, R10907	Metabolite_GeneProduct	NADH	G6pd		*	*	*		*	C00004_G6pd	Enzyme	Solid					*		*	
+output	catalyst	C00005	G6pd	R00835, R02736	Metabolite_GeneProduct	NADPH	G6pd		*	*	*		*	C00005_G6pd	Enzyme	Solid								
+input	catalyst	C00092	G6pd	R00835, R10520	Metabolite_GeneProduct	D-Glucose 6-phosphate	G6pd	*	*	*	*	*	*	C00092_G6pd	Enzyme	Solid								
+input	catalyst	C00029	Gale	R00291	Metabolite_GeneProduct	UDP-glucose	Gale	*		*	*	*		C00029_Gale	Enzyme	Solid								
+input	catalyst	C00043	Gale	R00418	Metabolite_GeneProduct	UDP-N-acetyl-alpha-D-glucosamine	Gale	*		*	*	*		C00043_Gale	Enzyme	Solid								
+input	catalyst	C00124	Galm	R10619	Metabolite_GeneProduct	D-Galactose	Galm	*		*	*	*		C00124_Galm	Enzyme	Solid								
+input	catalyst	C00029	Galt	R00955	Metabolite_GeneProduct	UDP-glucose	Galt	*		*	*	*		C00029_Galt	Enzyme	Solid								
+input	catalyst	C00025	Gatb	R03905, R04212	Metabolite_GeneProduct	L-Glutamate	Gatb	*		*	*	*		C00025_Gatb	Enzyme	Solid								
+output	catalyst	C00064	Gatb	R03905, R04212	Metabolite_GeneProduct	L-Glutamine	Gatb	*		*	*	*		C00064_Gatb	Enzyme	Solid								
+input	catalyst	C00025	Gatc	R03905, R04212	Metabolite_GeneProduct	L-Glutamate	Gatc	*		*	*	*		C00025_Gatc	Enzyme	Solid			*		*			*
+output	catalyst	C00064	Gatc	R03905, R04212	Metabolite_GeneProduct	L-Glutamine	Gatc	*		*	*	*		C00064_Gatc	Enzyme	Solid			*		*			*
+input	catalyst	C00062	Gatm	R00565, R01686, R01989	Metabolite_GeneProduct	L-Arginine	Gatm	*		*	*	*		C00062_Gatm	Enzyme	Solid								
+input	catalyst	C00334	Gatm	R01989	Metabolite_GeneProduct	4-Aminobutanoate	Gatm	*		*	*	*		C00334_Gatm	Enzyme	Solid								
+output	catalyst	C00124	Gba2	R03617, R13179	Metabolite_GeneProduct	D-Galactose	Gba2	*		*	*	*		C00124_Gba2	Enzyme	Solid								
+input	catalyst	C02686	Gba2	R03617	Metabolite_GeneProduct	Galactosylceramide	Gba2	*		*	*	*		C02686_Gba2	Enzyme	Solid								
+input	catalyst	C00044	Gch1	R00424, R00428	Metabolite_GeneProduct	GTP	Gch1	*	*	*	*	*	*	C00044_Gch1	Enzyme	Solid								
+input	catalyst	C00002	Gck	R00299, R00760, R00867, R01326, R01600, R01786, R01961, R02848, R02865, R03920	Metabolite_GeneProduct	ATP	Gck		*	*	*		*	C00002_Gck	Enzyme	Solid		*			*			
+output	catalyst	C00008	Gck	R00299, R00760, R00867, R01326, R01600, R01786, R01961, R02848, R02865, R03920	Metabolite_GeneProduct	ADP	Gck		*	*	*		*	C00008_Gck	Enzyme	Solid		*			*			
+input	catalyst	C00031	Gck	R00299, R00725, R01139	Metabolite_GeneProduct	D-Glucose	Gck		*	*	*		*	C00031_Gck	Enzyme	Solid		*			*			
+output	catalyst	C00085	Gck	R00760, R00876, R01140	Metabolite_GeneProduct	D-Fructose 6-phosphate	Gck	*	*	*	*	*	*	C00085_Gck	Enzyme	Solid	*	*			*			
+output	catalyst	C00092	Gck	R00299, R00725, R01139	Metabolite_GeneProduct	D-Glucose 6-phosphate	Gck	*	*	*	*	*	*	C00092_Gck	Enzyme	Solid		*			*			
+input	catalyst	C00131	Gck	R01139, R01140, R01330, R01965, R02850, R02868	Metabolite_GeneProduct	dATP	Gck		*	*	*		*	C00131_Gck	Enzyme	Solid		*			*			
+input	catalyst	C00025	Gclc	R10993	Metabolite_GeneProduct	L-Glutamate	Gclc	*		*	*	*		C00025_Gclc	Enzyme	Solid								
+input	catalyst	C00043	Gcnt3	R02790, R03514, R04575, R04654, R11879	Metabolite_GeneProduct	UDP-N-acetyl-alpha-D-glucosamine	Gcnt3	*		*	*	*		C00043_Gcnt3	Enzyme	Solid								
+input	catalyst	C00242	Gda	R01676	Metabolite_GeneProduct	Guanine	Gda	*		*	*	*		C00242_Gda	Enzyme	Solid								
+output	catalyst	C00025	Gfpt1	R00768	Metabolite_GeneProduct	L-Glutamate	Gfpt1	*		*	*	*		C00025_Gfpt1	Enzyme	Solid								
+input	catalyst	C00064	Gfpt1	R00768	Metabolite_GeneProduct	L-Glutamine	Gfpt1	*		*	*	*		C00064_Gfpt1	Enzyme	Solid								
+input	catalyst	C00085	Gfpt1	R00768	Metabolite_GeneProduct	D-Fructose 6-phosphate	Gfpt1	*		*	*	*		C00085_Gfpt1	Enzyme	Solid	*	*						
+output	catalyst	C00025	Gfpt2	R00768	Metabolite_GeneProduct	L-Glutamate	Gfpt2	*		*	*	*		C00025_Gfpt2	Enzyme	Solid								
+input	catalyst	C00064	Gfpt2	R00768	Metabolite_GeneProduct	L-Glutamine	Gfpt2	*		*	*	*		C00064_Gfpt2	Enzyme	Solid								
+input	catalyst	C00085	Gfpt2	R00768	Metabolite_GeneProduct	D-Fructose 6-phosphate	Gfpt2	*		*	*	*		C00085_Gfpt2	Enzyme	Solid	*	*						
+output	catalyst	C00025	Ggh	R04242	Metabolite_GeneProduct	L-Glutamate	Ggh	*		*	*	*		C00025_Ggh	Enzyme	Solid								
+input	catalyst	C00025	Ggt1	R03970, R03971	Metabolite_GeneProduct	L-Glutamate	Ggt1	*		*	*	*		C00025_Ggt1	Enzyme	Solid								
+input	catalyst	C00051	Ggt1	R00494, R01262	Metabolite_GeneProduct	Glutathione	Ggt1	*		*	*	*		C00051_Ggt1	Enzyme	Solid				*				
+input	catalyst	C00025	Ggt7	R03970, R03971	Metabolite_GeneProduct	L-Glutamate	Ggt7	*		*	*	*		C00025_Ggt7	Enzyme	Solid								
+input	catalyst	C00051	Ggt7	R00494, R01262	Metabolite_GeneProduct	Glutathione	Ggt7	*		*	*	*		C00051_Ggt7	Enzyme	Solid				*				
+output	catalyst	C00051	Glo1	R02530	Metabolite_GeneProduct	Glutathione	Glo1	*		*	*	*		C00051_Glo1	Enzyme	Solid				*				
+output	catalyst	C00004	Glud1	R00145, R00243	Metabolite_GeneProduct	NADH	Glud1		*	*	*		*	C00004_Glud1	Enzyme	Solid					*		*	
+output	catalyst	C00005	Glud1	R00146, R00248	Metabolite_GeneProduct	NADPH	Glud1		*	*	*		*	C00005_Glud1	Enzyme	Solid								
+input	catalyst	C00025	Glud1	R00243, R00248	Metabolite_GeneProduct	L-Glutamate	Glud1	*	*	*	*	*	*	C00025_Glud1	Enzyme	Solid								
+output	catalyst	C00026	Glud1	R00243, R00248	Metabolite_GeneProduct	2-Oxoglutarate	Glud1		*	*	*		*	C00026_Glud1	Enzyme	Solid								
+output	catalyst	C00010	Glul	R10484	Metabolite_GeneProduct	CoA	Glul	*		*	*	*		C00010_Glul	Enzyme	Solid								
+input	catalyst	C00025	Glul	R00253	Metabolite_GeneProduct	L-Glutamate	Glul	*		*	*	*		C00025_Glul	Enzyme	Solid								
+output	catalyst	C00064	Glul	R00253	Metabolite_GeneProduct	L-Glutamine	Glul	*		*	*	*		C00064_Glul	Enzyme	Solid								
+output	catalyst	C00010	Glyat	R00395, R02452	Metabolite_GeneProduct	CoA	Glyat	*	*	*	*	*	*	C00010_Glyat	Enzyme	Solid								
+input	catalyst	C00037	Glyat	R00395, R02452	Metabolite_GeneProduct	Glycine	Glyat		*	*	*		*	C00037_Glyat	Enzyme	Solid								
+output	catalyst	C01586	Glyat	R02452	Metabolite_GeneProduct	Hippurate	Glyat		*	*	*		*	C01586_Glyat	Enzyme	Solid								
+output	catalyst	C00010	Glyatl1	R05841	Metabolite_GeneProduct	CoA	Glyatl1	*	*	*	*	*	*	C00010_Glyatl1	Enzyme	Solid								
+input	catalyst	C00037	Glyatl1	R05841	Metabolite_GeneProduct	Glycine	Glyatl1		*	*	*		*	C00037_Glyatl1	Enzyme	Solid								
+output	catalyst	C05598	Glyatl1	R05841	Metabolite_GeneProduct	Phenylacetylglycine	Glyatl1		*	*	*		*	C05598_Glyatl1	Enzyme	Solid								
+output	catalyst	C00010	Glyatl2	R00395, R02452	Metabolite_GeneProduct	CoA	Glyatl2	*	*	*	*	*	*	C00010_Glyatl2	Enzyme	Solid								
+input	catalyst	C00037	Glyatl2	R00395, R02452	Metabolite_GeneProduct	Glycine	Glyatl2		*	*	*		*	C00037_Glyatl2	Enzyme	Solid								
+output	catalyst	C01586	Glyatl2	R02452	Metabolite_GeneProduct	Hippurate	Glyatl2		*	*	*		*	C01586_Glyatl2	Enzyme	Solid								
+input	catalyst	C00044	Gmppa	R00885	Metabolite_GeneProduct	GTP	Gmppa	*		*	*	*		C00044_Gmppa	Enzyme	Solid								
+output	catalyst	C00144	Gmpr	R01134	Metabolite_GeneProduct	GMP	Gmpr	*		*	*	*		C00144_Gmpr	Enzyme	Solid								
+output	catalyst	C00025	Gmps	R01231, R08244	Metabolite_GeneProduct	L-Glutamate	Gmps	*		*	*	*		C00025_Gmps	Enzyme	Solid								
+input	catalyst	C00064	Gmps	R01231, R08244	Metabolite_GeneProduct	L-Glutamine	Gmps	*		*	*	*		C00064_Gmps	Enzyme	Solid								
+output	catalyst	C00144	Gmps	R01230, R01231	Metabolite_GeneProduct	GMP	Gmps	*		*	*	*		C00144_Gmps	Enzyme	Solid								
+input	catalyst	C00002	Gne	R02650, R02705	Metabolite_GeneProduct	ATP	Gne		*	*	*		*	C00002_Gne	Enzyme	Solid								
+output	catalyst	C00008	Gne	R02650, R02705	Metabolite_GeneProduct	ADP	Gne		*	*	*		*	C00008_Gne	Enzyme	Solid								
+output	catalyst	C00015	Gne	R00414	Metabolite_GeneProduct	UDP	Gne		*	*	*		*	C00015_Gne	Enzyme	Solid								
+input	catalyst	C00043	Gne	R00414	Metabolite_GeneProduct	UDP-N-acetyl-alpha-D-glucosamine	Gne	*	*	*	*	*	*	C00043_Gne	Enzyme	Solid								
+output	catalyst	C00010	Gnpat	R01013	Metabolite_GeneProduct	CoA	Gnpat	*		*	*	*		C00010_Gnpat	Enzyme	Solid								
+input	catalyst	C00111	Gnpat	R01013	Metabolite_GeneProduct	Glycerone phosphate	Gnpat	*		*	*	*		C00111_Gnpat	Enzyme	Solid	*							
+output	catalyst	C00025	Got1	R00355, R00694, R00734, R00895, R02433, R02619, R05052	Metabolite_GeneProduct	L-Glutamate	Got1	*		*	*	*		C00025_Got1	Enzyme	Solid								
+input	catalyst	C00049	Got1	R00355	Metabolite_GeneProduct	L-Aspartate	Got1	*		*	*	*		C00049_Got1	Enzyme	Solid								
+input	catalyst	C00097	Got1	R00895, R00896	Metabolite_GeneProduct	L-Cysteine	Got1	*		*	*	*		C00097_Got1	Enzyme	Solid			*				*	*
+output	catalyst	C00025	Got2	R00355, R00694, R00734, R00895, R01956, R02433, R02619, R04171, R05052, R12688	Metabolite_GeneProduct	L-Glutamate	Got2	*		*	*	*		C00025_Got2	Enzyme	Solid								
+input	catalyst	C00049	Got2	R00355	Metabolite_GeneProduct	L-Aspartate	Got2	*		*	*	*		C00049_Got2	Enzyme	Solid								
+input	catalyst	C00097	Got2	R00895, R00896	Metabolite_GeneProduct	L-Cysteine	Got2	*		*	*	*		C00097_Got2	Enzyme	Solid			*				*	*
+output	catalyst	C00010	Gpam	R00851, R02617	Metabolite_GeneProduct	CoA	Gpam	*		*	*	*		C00010_Gpam	Enzyme	Solid								
+input	catalyst	C00010	Gpat2	R02241	Metabolite_GeneProduct	CoA	Gpat2	*		*	*	*		C00010_Gpat2	Enzyme	Solid								
+input	catalyst	C00010	Gpat3	R02241	Metabolite_GeneProduct	CoA	Gpat3	*		*	*	*		C00010_Gpat3	Enzyme	Solid								
+output	catalyst	C00114	Gpcpd1	R01030	Metabolite_GeneProduct	Choline	Gpcpd1	*		*	*	*		C00114_Gpcpd1	Enzyme	Solid								
+input	catalyst	C00670	Gpcpd1	R01030	Metabolite_GeneProduct	sn-Glycero-3-phosphocholine	Gpcpd1	*		*	*	*		C00670_Gpcpd1	Enzyme	Solid								
+output	catalyst	C00004	Gpd1	R00842	Metabolite_GeneProduct	NADH	Gpd1		*	*	*		*	C00004_Gpd1	Enzyme	Solid					*		*	
+input	catalyst	C00093	Gpd1	R00842	Metabolite_GeneProduct	sn-Glycerol 3-phosphate	Gpd1		*	*	*		*	C00093_Gpd1	Enzyme	Solid								
+output	catalyst	C00111	Gpd1	R00842	Metabolite_GeneProduct	Glycerone phosphate	Gpd1	*	*	*	*	*	*	C00111_Gpd1	Enzyme	Solid	*							
+input	catalyst	C00016	Gpd2	R00848	Metabolite_GeneProduct	FAD	Gpd2	*		*	*	*		C00016_Gpd2	Enzyme	Solid								
+output	catalyst	C00111	Gpd2	R00848, R00849, R08657	Metabolite_GeneProduct	Glycerone phosphate	Gpd2	*		*	*	*		C00111_Gpd2	Enzyme	Solid	*							
+output	catalyst	C00085	Gpi	R00771, R13199	Metabolite_GeneProduct	D-Fructose 6-phosphate	Gpi	*	*	*	*	*	*	C00085_Gpi	Enzyme	Solid	*	*						
+input	catalyst	C00092	Gpi	R00771	Metabolite_GeneProduct	D-Glucose 6-phosphate	Gpi	*	*	*	*	*	*	C00092_Gpi	Enzyme	Solid								
+output	catalyst	C00025	Gpt	R00258	Metabolite_GeneProduct	L-Glutamate	Gpt	*		*	*	*		C00025_Gpt	Enzyme	Solid								
+input	catalyst	C00051	Gpx1	R00274, R03167, R07034, R07035, R13043	Metabolite_GeneProduct	Glutathione	Gpx1	*		*	*	*		C00051_Gpx1	Enzyme	Solid				*				
+output	catalyst	C00127	Gpx1	R00274, R03167, R07034, R07035, R13043	Metabolite_GeneProduct	Glutathione disulfide	Gpx1	*		*	*	*		C00127_Gpx1	Enzyme	Solid								
+input	catalyst	C00051	Gpx2	R00274, R03167, R07034, R07035, R13043	Metabolite_GeneProduct	Glutathione	Gpx2	*		*	*	*		C00051_Gpx2	Enzyme	Solid				*	*			
+output	catalyst	C00127	Gpx2	R00274, R03167, R07034, R07035, R13043	Metabolite_GeneProduct	Glutathione disulfide	Gpx2	*		*	*	*		C00127_Gpx2	Enzyme	Solid					*			
+input	catalyst	C00051	Gpx3	R00274	Metabolite_GeneProduct	Glutathione	Gpx3	*		*	*	*		C00051_Gpx3	Enzyme	Solid				*				
+output	catalyst	C00127	Gpx3	R00274	Metabolite_GeneProduct	Glutathione disulfide	Gpx3	*		*	*	*		C00127_Gpx3	Enzyme	Solid								
+input	catalyst	C00051	Gpx4	R00274, R03167, R07034, R07035, R13043	Metabolite_GeneProduct	Glutathione	Gpx4	*		*	*	*		C00051_Gpx4	Enzyme	Solid				*				
+output	catalyst	C00127	Gpx4	R00274, R03167, R07034, R07035, R13043	Metabolite_GeneProduct	Glutathione disulfide	Gpx4	*		*	*	*		C00127_Gpx4	Enzyme	Solid								
+input	catalyst	C00051	Gsr	R00094, R00115	Metabolite_GeneProduct	Glutathione	Gsr	*		*	*	*		C00051_Gsr	Enzyme	Solid				*				
+output	catalyst	C00127	Gsr	R00094, R00115	Metabolite_GeneProduct	Glutathione disulfide	Gsr	*		*	*	*		C00127_Gsr	Enzyme	Solid								
+output	catalyst	C00051	Gss	R00497	Metabolite_GeneProduct	Glutathione	Gss	*		*	*	*		C00051_Gss	Enzyme	Solid				*				
+input	catalyst	C00051	Gsta1	R03522, R07002, R07003, R07004, R07023, R07024, R07025, R07026, R07069, R07070, R07083, R07084, R07091, R07092, R07093, R07094, R07100, R07113, R07116, R08280, R08511, R08512, R09409, R11905	Metabolite_GeneProduct	Glutathione	Gsta1	*		*	*	*		C00051_Gsta1	Enzyme	Solid				*				
+input	catalyst	C00051	Gsta2	R03522, R07002, R07003, R07004, R07023, R07024, R07025, R07026, R07069, R07070, R07083, R07084, R07091, R07092, R07093, R07094, R07100, R07113, R07116, R08280, R08511, R08512, R09409, R11905	Metabolite_GeneProduct	Glutathione	Gsta2	*	*	*	*	*	*	C00051_Gsta2	Enzyme	Solid				*				
+input	catalyst	C00051	Gsta3	R03522, R07002, R07003, R07004, R07023, R07024, R07025, R07026, R07069, R07070, R07083, R07084, R07091, R07092, R07093, R07094, R07100, R07113, R07116, R08280, R08511, R08512, R09409, R11905	Metabolite_GeneProduct	Glutathione	Gsta3	*		*	*	*		C00051_Gsta3	Enzyme	Solid				*				
+input	catalyst	C00051	Gsta4	R03522, R07002, R07003, R07004, R07023, R07024, R07025, R07026, R07069, R07070, R07083, R07084, R07091, R07092, R07093, R07094, R07100, R07113, R07116, R08280, R08511, R08512, R09409, R11905	Metabolite_GeneProduct	Glutathione	Gsta4	*		*	*	*		C00051_Gsta4	Enzyme	Solid				*				
+input	catalyst	C00051	Gsta5	R03522, R07002, R07003, R07004, R07023, R07024, R07025, R07026, R07069, R07070, R07083, R07084, R07091, R07092, R07093, R07094, R07100, R07113, R07116, R08280, R08511, R08512, R09409, R11905	Metabolite_GeneProduct	Glutathione	Gsta5	*		*	*	*		C00051_Gsta5	Enzyme	Solid				*				
+input	catalyst	C00051	Gsta6	R03522, R07002, R07003, R07004, R07023, R07024, R07025, R07026, R07069, R07070, R07083, R07084, R07091, R07092, R07093, R07094, R07100, R07113, R07116, R08280, R08511, R08512, R09409, R11905	Metabolite_GeneProduct	Glutathione	Gsta6	*		*	*	*		C00051_Gsta6	Enzyme	Solid				*				
+input	catalyst	C00051	Gstk1	R03522, R07002, R07003, R07004, R07023, R07024, R07025, R07026, R07069, R07070, R07083, R07084, R07091, R07092, R07093, R07094, R07100, R07113, R07116, R08280, R08511, R08512, R09409, R11905	Metabolite_GeneProduct	Glutathione	Gstk1	*		*	*	*		C00051_Gstk1	Enzyme	Solid				*				
+input	catalyst	C00051	Gstm1	R03522, R07002, R07003, R07004, R07023, R07024, R07025, R07026, R07069, R07070, R07083, R07084, R07091, R07092, R07093, R07094, R07100, R07113, R07116, R08280, R08511, R08512, R09409, R11905	Metabolite_GeneProduct	Glutathione	Gstm1	*	*	*	*	*	*	C00051_Gstm1	Enzyme	Solid				*				
+input	catalyst	C00051	Gstm2	R03522, R07002, R07003, R07004, R07023, R07024, R07025, R07026, R07069, R07070, R07083, R07084, R07091, R07092, R07093, R07094, R07100, R07113, R07116, R08280, R08511, R08512, R09409, R11905	Metabolite_GeneProduct	Glutathione	Gstm2	*	*	*	*	*	*	C00051_Gstm2	Enzyme	Solid				*				
+input	catalyst	C00051	Gstm4	R03059, R03522, R07002, R07003, R07004, R07023, R07024, R07025, R07026, R07069, R07070, R07083, R07084, R07091, R07092, R07093, R07094, R07100, R07113, R07116, R08280, R08511, R08512, R09409, R11905	Metabolite_GeneProduct	Glutathione	Gstm4	*		*	*	*		C00051_Gstm4	Enzyme	Solid				*				
+input	catalyst	C00051	Gsto1	R01108, R03522, R05748, R07002, R07003, R07004, R07023, R07024, R07025, R07026, R07069, R07070, R07083, R07084, R07091, R07092, R07093, R07094, R07100, R07113, R07116, R08280, R08511, R08512, R09409, R11905	Metabolite_GeneProduct	Glutathione	Gsto1	*		*	*	*		C00051_Gsto1	Enzyme	Solid				*				
+output	catalyst	C00127	Gsto1	R01108, R05748	Metabolite_GeneProduct	Glutathione disulfide	Gsto1	*		*	*	*		C00127_Gsto1	Enzyme	Solid								
+input	catalyst	C00051	Gsto2	R01108, R03522, R05748, R07002, R07003, R07004, R07023, R07024, R07025, R07026, R07069, R07070, R07083, R07084, R07091, R07092, R07093, R07094, R07100, R07113, R07116, R08280, R08511, R08512, R09409, R11905	Metabolite_GeneProduct	Glutathione	Gsto2	*		*	*	*		C00051_Gsto2	Enzyme	Solid	*	*	*	*	*	*	*	
+output	catalyst	C00127	Gsto2	R01108, R05748	Metabolite_GeneProduct	Glutathione disulfide	Gsto2	*		*	*	*		C00127_Gsto2	Enzyme	Solid	*	*	*	*	*	*	*	
+input	catalyst	C00051	Gstp1	R03522, R07002, R07003, R07004, R07023, R07024, R07025, R07026, R07069, R07070, R07083, R07084, R07091, R07092, R07093, R07094, R07100, R07113, R07116, R08280, R08511, R08512, R09409, R11905	Metabolite_GeneProduct	Glutathione	Gstp1	*		*	*	*		C00051_Gstp1	Enzyme	Solid				*				
+input	catalyst	C00051	Gstt1	R03522, R07002, R07003, R07004, R07023, R07024, R07025, R07026, R07069, R07070, R07083, R07084, R07091, R07092, R07093, R07094, R07100, R07113, R07116, R08280, R08511, R08512, R09409, R11905	Metabolite_GeneProduct	Glutathione	Gstt1	*		*	*	*		C00051_Gstt1	Enzyme	Solid				*				
+input	catalyst	C00051	Gstt2	R03522, R07002, R07003, R07004, R07023, R07024, R07025, R07026, R07069, R07070, R07083, R07084, R07091, R07092, R07093, R07094, R07100, R07113, R07116, R08280, R08511, R08512, R09409, R11905	Metabolite_GeneProduct	Glutathione	Gstt2	*		*	*	*		C00051_Gstt2	Enzyme	Solid				*				
+input	catalyst	C00051	Gstz1	R03522, R07002, R07003, R07004, R07023, R07024, R07025, R07026, R07069, R07070, R07083, R07084, R07091, R07092, R07093, R07094, R07100, R07113, R07116, R08280, R08511, R08512, R09409, R11905	Metabolite_GeneProduct	Glutathione	Gstz1	*		*	*	*		C00051_Gstz1	Enzyme	Solid				*				
+output	catalyst	C00010	Gtf2b	R03552	Metabolite_GeneProduct	CoA	Gtf2b	*		*	*	*		C00010_Gtf2b	Enzyme	Solid								
+input	catalyst	C00044	Gucy1a1	R00434	Metabolite_GeneProduct	GTP	Gucy1a1	*		*	*	*		C00044_Gucy1a1	Enzyme	Solid								
+input	catalyst	C00044	Gucy1a2	R00434	Metabolite_GeneProduct	GTP	Gucy1a2	*		*	*	*		C00044_Gucy1a2	Enzyme	Solid								
+input	catalyst	C00044	Gucy1b1	R00434	Metabolite_GeneProduct	GTP	Gucy1b1	*		*	*	*		C00044_Gucy1b1	Enzyme	Solid								
+input	catalyst	C00044	Gucy1b2	R00434	Metabolite_GeneProduct	GTP	Gucy1b2	*	*	*	*	*	*	C00044_Gucy1b2	Enzyme	Solid								
+input	catalyst	C00044	Gucy2c	R00434	Metabolite_GeneProduct	GTP	Gucy2c	*	*	*	*	*	*	C00044_Gucy2c	Enzyme	Solid		*				*		
+input	catalyst	C00044	Gucy2g	R00434	Metabolite_GeneProduct	GTP	Gucy2g	*		*	*	*		C00044_Gucy2g	Enzyme	Solid								
+input	catalyst	C00029	Gyg1	R03681	Metabolite_GeneProduct	UDP-glucose	Gyg1	*		*	*	*		C00029_Gyg1	Enzyme	Solid								
+input	catalyst	C00029	Gys1	R00292	Metabolite_GeneProduct	UDP-glucose	Gys1	*		*	*	*		C00029_Gys1	Enzyme	Solid								
+input	catalyst	C00029	Gys2	R00292	Metabolite_GeneProduct	UDP-glucose	Gys2	*		*	*	*		C00029_Gys2	Enzyme	Solid								
+input	catalyst	C00010	Hadhb	R05506, R05586, R08091, R08095	Metabolite_GeneProduct	CoA	Hadhb	*		*	*	*		C00010_Hadhb	Enzyme	Solid								
+input	catalyst	C05270	Hadhb	R04747	Metabolite_GeneProduct	Hexanoyl-CoA	Hadhb	*		*	*	*		C05270_Hadhb	Enzyme	Solid								
+output	catalyst	C00051	Hagh	R01736, R04090	Metabolite_GeneProduct	Glutathione	Hagh	*		*	*	*		C00051_Hagh	Enzyme	Solid				*				
+input	catalyst	C00135	Hal	R01168	Metabolite_GeneProduct	L-Histidine	Hal	*		*	*	*		C00135_Hal	Enzyme	Solid								
+output	catalyst	C00010	Hat1	R03552	Metabolite_GeneProduct	CoA	Hat1	*		*	*	*		C00010_Hat1	Enzyme	Solid								
+input	catalyst	C00135	Hdc	R01167	Metabolite_GeneProduct	L-Histidine	Hdc	*		*	*	*		C00135_Hdc	Enzyme	Solid								
+output	catalyst	C00388	Hdc	R01167	Metabolite_GeneProduct	Histamine	Hdc	*		*	*	*		C00388_Hdc	Enzyme	Solid				*				
+input	catalyst	C00010	Hibch	R03158	Metabolite_GeneProduct	CoA	Hibch	*		*	*	*		C00010_Hibch	Enzyme	Solid								
+output	catalyst	C00085	Hk1	R00760, R00876, R01140	Metabolite_GeneProduct	D-Fructose 6-phosphate	Hk1	*		*	*	*		C00085_Hk1	Enzyme	Solid	*	*						
+output	catalyst	C00092	Hk1	R00299, R00725, R01139	Metabolite_GeneProduct	D-Glucose 6-phosphate	Hk1	*		*	*	*		C00092_Hk1	Enzyme	Solid								
+output	catalyst	C00085	Hk2	R00760, R00876, R01140	Metabolite_GeneProduct	D-Fructose 6-phosphate	Hk2	*		*	*	*		C00085_Hk2	Enzyme	Solid	*	*						
+output	catalyst	C00092	Hk2	R00299, R00725, R01139	Metabolite_GeneProduct	D-Glucose 6-phosphate	Hk2	*		*	*	*		C00092_Hk2	Enzyme	Solid								
+output	catalyst	C00085	Hk3	R00760, R00876, R01140	Metabolite_GeneProduct	D-Fructose 6-phosphate	Hk3	*		*	*	*		C00085_Hk3	Enzyme	Solid	*	*						
+output	catalyst	C00092	Hk3	R00299, R00725, R01139	Metabolite_GeneProduct	D-Glucose 6-phosphate	Hk3	*		*	*	*		C00092_Hk3	Enzyme	Solid								
+output	catalyst	C00005	Hmgcr	R02082	Metabolite_GeneProduct	NADPH	Hmgcr		*	*	*		*	C00005_Hmgcr	Enzyme	Solid								
+input	catalyst	C00010	Hmgcr	R02082	Metabolite_GeneProduct	CoA	Hmgcr	*	*	*	*	*	*	C00010_Hmgcr	Enzyme	Solid								
+input	catalyst	C00010	Hmgcs1	R01978	Metabolite_GeneProduct	CoA	Hmgcs1	*	*	*	*	*	*	C00010_Hmgcs1	Enzyme	Solid								
+output	catalyst	C00024	Hmgcs1	R01978	Metabolite_GeneProduct	Acetyl-CoA	Hmgcs1		*	*	*		*	C00024_Hmgcs1	Enzyme	Solid								
+input	catalyst	C00010	Hmgcs2	R01978	Metabolite_GeneProduct	CoA	Hmgcs2	*		*	*	*		C00010_Hmgcs2	Enzyme	Solid								
+input	catalyst	C00051	Hpgds	R03522, R07002, R07003, R07004, R07023, R07024, R07025, R07026, R07069, R07070, R07083, R07084, R07091, R07092, R07093, R07094, R07100, R07113, R07116, R08280, R08511, R08512, R09409, R11905	Metabolite_GeneProduct	Glutathione	Hpgds	*		*	*	*		C00051_Hpgds	Enzyme	Solid				*				
+input	catalyst	C00144	Hprt1	R01229	Metabolite_GeneProduct	GMP	Hprt1	*		*	*	*		C00144_Hprt1	Enzyme	Solid								
+output	catalyst	C00242	Hprt1	R01229	Metabolite_GeneProduct	Guanine	Hprt1	*		*	*	*		C00242_Hprt1	Enzyme	Solid								
+output	catalyst	C00042	Hr	R09510, R09511, R10056	Metabolite_GeneProduct	Succinate	Hr	*		*	*	*		C00042_Hr	Enzyme	Solid								
+input	catalyst	C00044	Hras	R00335	Metabolite_GeneProduct	GTP	Hras	*		*	*	*		C00044_Hras	Enzyme	Solid								
+input	catalyst	C00473	Hsd17b13	R02124	Metabolite_GeneProduct	Retinol	Hsd17b13	*		*	*	*		C00473_Hsd17b13	Enzyme	Solid								
+input	catalyst	C00473	Hsd17b6	R02124	Metabolite_GeneProduct	Retinol	Hsd17b6	*		*	*	*		C00473_Hsd17b6	Enzyme	Solid								
+input	catalyst	C00311	Idh1	R00267, R01899	Metabolite_GeneProduct	Isocitrate	Idh1	*		*	*	*		C00311_Idh1	Enzyme	Solid								
+input	catalyst	C00311	Idh2	R00267, R01899	Metabolite_GeneProduct	Isocitrate	Idh2	*		*	*	*		C00311_Idh2	Enzyme	Solid								
+input	catalyst	C00311	Idh3a	R00709	Metabolite_GeneProduct	Isocitrate	Idh3a	*		*	*	*		C00311_Idh3a	Enzyme	Solid								
+input	catalyst	C00311	Idh3g	R00709	Metabolite_GeneProduct	Isocitrate	Idh3g	*		*	*	*		C00311_Idh3g	Enzyme	Solid								
+input	catalyst	C00078	Ido2	R00678	Metabolite_GeneProduct	L-Tryptophan	Ido2	*		*	*	*		C00078_Ido2	Enzyme	Solid								
+output	catalyst	C00153	Il1r1	R00102, R10629	Metabolite_GeneProduct	Nicotinamide	Il1r1	*		*	*	*		C00153_Il1r1	Enzyme	Solid								
+output	catalyst	C00153	Il1rap	R00102, R10629	Metabolite_GeneProduct	Nicotinamide	Il1rap	*		*	*	*		C00153_Il1rap	Enzyme	Solid								
+output	catalyst	C00153	Il1rl2	R00102, R10629	Metabolite_GeneProduct	Nicotinamide	Il1rl2	*		*	*	*		C00153_Il1rl2	Enzyme	Solid					*		*	
+output	catalyst	C00124	Impa1	R10622	Metabolite_GeneProduct	D-Galactose	Impa1	*		*	*	*		C00124_Impa1	Enzyme	Solid								
+input	catalyst	C00092	Isyna1	R07324	Metabolite_GeneProduct	D-Glucose 6-phosphate	Isyna1	*		*	*	*		C00092_Isyna1	Enzyme	Solid								
+input	catalyst	C00016	Itpa	R00160	Metabolite_GeneProduct	FAD	Itpa	*		*	*	*		C00016_Itpa	Enzyme	Solid								
+input	catalyst	C00029	Itpa	R00287	Metabolite_GeneProduct	UDP-glucose	Itpa	*		*	*	*		C00029_Itpa	Enzyme	Solid								
+input	catalyst	C00044	Itpa	R00426	Metabolite_GeneProduct	GTP	Itpa	*		*	*	*		C00044_Itpa	Enzyme	Solid								
+input	catalyst	C00063	Itpa	R00515	Metabolite_GeneProduct	CTP	Itpa	*		*	*	*		C00063_Itpa	Enzyme	Solid								
+input	catalyst	C00075	Itpa	R00662	Metabolite_GeneProduct	UTP	Itpa	*		*	*	*		C00075_Itpa	Enzyme	Solid								
+output	catalyst	C00144	Itpa	R00426	Metabolite_GeneProduct	GMP	Itpa	*		*	*	*		C00144_Itpa	Enzyme	Solid								
+input	catalyst	C00016	Ivd	R01175, R04095, R04751	Metabolite_GeneProduct	FAD	Ivd	*		*	*	*		C00016_Ivd	Enzyme	Solid								
+input	catalyst	C05270	Ivd	R04751	Metabolite_GeneProduct	Hexanoyl-CoA	Ivd	*		*	*	*		C05270_Ivd	Enzyme	Solid								
+output	catalyst	C00010	Kat5	R03552	Metabolite_GeneProduct	CoA	Kat5	*		*	*	*		C00010_Kat5	Enzyme	Solid								
+output	catalyst	C00010	Kat6a	R03552	Metabolite_GeneProduct	CoA	Kat6a	*		*	*	*		C00010_Kat6a	Enzyme	Solid								
+output	catalyst	C00010	Kat7	R03552	Metabolite_GeneProduct	CoA	Kat7	*		*	*	*		C00010_Kat7	Enzyme	Solid								
+output	catalyst	C00010	Kat8	R03552	Metabolite_GeneProduct	CoA	Kat8	*		*	*	*		C00010_Kat8	Enzyme	Solid								
+output	catalyst	C00042	Kdm3a	R09510, R09511, R10056	Metabolite_GeneProduct	Succinate	Kdm3a	*		*	*	*		C00042_Kdm3a	Enzyme	Solid								
+output	catalyst	C00042	Kdm4b	R12459, R12460	Metabolite_GeneProduct	Succinate	Kdm4b	*		*	*	*		C00042_Kdm4b	Enzyme	Solid								
+output	catalyst	C00042	Kdm4c	R12459, R12460	Metabolite_GeneProduct	Succinate	Kdm4c	*		*	*	*		C00042_Kdm4c	Enzyme	Solid								
+output	catalyst	C00042	Kdm8	R12645	Metabolite_GeneProduct	Succinate	Kdm8	*		*	*	*		C00042_Kdm8	Enzyme	Solid								
+input	catalyst	C00044	Kras	R00335	Metabolite_GeneProduct	GTP	Kras	*		*	*	*		C00044_Kras	Enzyme	Solid								
+output	catalyst	C00025	Kyat1	R01956, R04171, R12688	Metabolite_GeneProduct	L-Glutamate	Kyat1	*		*	*	*		C00025_Kyat1	Enzyme	Solid								
+input	catalyst	C00064	Kyat1	R01375	Metabolite_GeneProduct	L-Glutamine	Kyat1	*		*	*	*		C00064_Kyat1	Enzyme	Solid								
+input	catalyst	C00097	Kyat1	R00782	Metabolite_GeneProduct	L-Cysteine	Kyat1	*		*	*	*		C00097_Kyat1	Enzyme	Solid			*				*	*
+output	catalyst	C00025	Kyat3	R01956, R04171, R12688	Metabolite_GeneProduct	L-Glutamate	Kyat3	*		*	*	*		C00025_Kyat3	Enzyme	Solid								
+input	catalyst	C00064	Kyat3	R01375	Metabolite_GeneProduct	L-Glutamine	Kyat3	*		*	*	*		C00064_Kyat3	Enzyme	Solid								
+input	catalyst	C00097	Kyat3	R00782	Metabolite_GeneProduct	L-Cysteine	Kyat3	*		*	*	*		C00097_Kyat3	Enzyme	Solid			*				*	*
+input	catalyst	C00051	Lancl1	R03522, R07002, R07003, R07004, R07023, R07024, R07025, R07026, R07069, R07070, R07083, R07084, R07091, R07092, R07093, R07094, R07100, R07113, R07116, R08280, R08511, R08512, R09409, R11905	Metabolite_GeneProduct	Glutathione	Lancl1	*	*	*	*	*	*	C00051_Lancl1	Enzyme	Solid				*				
+output	catalyst	C00097	Lap3	R00899	Metabolite_GeneProduct	L-Cysteine	Lap3	*		*	*	*		C00097_Lap3	Enzyme	Solid			*				*	*
+input	catalyst	C00157	Lcat	R02114	Metabolite_GeneProduct	Phosphatidylcholine	Lcat	*		*	*	*		C00157_Lcat	Enzyme	Solid								
+output	catalyst	C04230	Lcat	R02114	Metabolite_GeneProduct	1-Acyl-sn-glycero-3-phosphocholine	Lcat	*		*	*	*		C04230_Lcat	Enzyme	Solid								
+input	catalyst	C02530	Ldah	R01462	Metabolite_GeneProduct	Cholesterol ester	Ldah	*		*	*	*		C02530_Ldah	Enzyme	Solid								
+input	catalyst	C00044	Lig1	R10823	Metabolite_GeneProduct	GTP	Lig1	*		*	*	*		C00044_Lig1	Enzyme	Solid								
+output	catalyst	C00144	Lig1	R10823	Metabolite_GeneProduct	GMP	Lig1	*		*	*	*		C00144_Lig1	Enzyme	Solid								
+output	catalyst	C00187	Lipa	R01462	Metabolite_GeneProduct	Cholesterol	Lipa		*	*	*		*	C00187_Lipa	Enzyme	Solid								
+input	catalyst	C02530	Lipa	R01462	Metabolite_GeneProduct	Cholesterol ester	Lipa	*	*	*	*	*	*	C02530_Lipa	Enzyme	Solid								
+input	catalyst	C00157	Lipc	R01309, R01314, R01316, R07860	Metabolite_GeneProduct	Phosphatidylcholine	Lipc	*	*	*	*	*	*	C00157_Lipc	Enzyme	Solid								
+input	catalyst	C00350	Lipc	R02054	Metabolite_GeneProduct	Phosphatidylethanolamine	Lipc	*	*	*	*	*	*	C00350_Lipc	Enzyme	Solid								
+input	catalyst	C00422	Lipc	R01369, R02250	Metabolite_GeneProduct	Triacylglycerol	Lipc	*	*	*	*	*	*	C00422_Lipc	Enzyme	Solid					*			
+input	catalyst	C00641	Lipc	R02687, R02688	Metabolite_GeneProduct	1,2-Diacyl-sn-glycerol	Lipc	*	*	*	*	*	*	C00641_Lipc	Enzyme	Solid								
+input	catalyst	C00670	Lipc	R02744	Metabolite_GeneProduct	sn-Glycero-3-phosphocholine	Lipc	*	*	*	*	*	*	C00670_Lipc	Enzyme	Solid								
+input	catalyst	C02737	Lipc	R04034	Metabolite_GeneProduct	Phosphatidylserine	Lipc	*	*	*	*	*	*	C02737_Lipc	Enzyme	Solid								
+input	catalyst	C04230	Lipc	R02746, R07291	Metabolite_GeneProduct	1-Acyl-sn-glycero-3-phosphocholine	Lipc	*	*	*	*	*	*	C04230_Lipc	Enzyme	Solid								
+input	catalyst	C04438	Lipc	R03416	Metabolite_GeneProduct	1-Acyl-sn-glycero-3-phosphoethanolamine	Lipc	*	*	*	*	*	*	C04438_Lipc	Enzyme	Solid								
+input	catalyst	C00422	Lipe	R01369	Metabolite_GeneProduct	Triacylglycerol	Lipe	*		*	*	*		C00422_Lipe	Enzyme	Solid					*			
+input	catalyst	C00157	Lipg	R01314, R01316, R07860	Metabolite_GeneProduct	Phosphatidylcholine	Lipg	*		*	*	*		C00157_Lipg	Enzyme	Solid		*						
+input	catalyst	C00350	Lipg	R02054	Metabolite_GeneProduct	Phosphatidylethanolamine	Lipg	*		*	*	*		C00350_Lipg	Enzyme	Solid		*						
+input	catalyst	C00422	Lipg	R01369, R02250	Metabolite_GeneProduct	Triacylglycerol	Lipg	*		*	*	*		C00422_Lipg	Enzyme	Solid		*			*			
+input	catalyst	C00641	Lipg	R02687, R02688	Metabolite_GeneProduct	1,2-Diacyl-sn-glycerol	Lipg	*		*	*	*		C00641_Lipg	Enzyme	Solid		*						
+input	catalyst	C02737	Lipg	R04034	Metabolite_GeneProduct	Phosphatidylserine	Lipg	*		*	*	*		C02737_Lipg	Enzyme	Solid		*						
+input	catalyst	C00010	Lpcat1	R02241, R04480	Metabolite_GeneProduct	CoA	Lpcat1	*		*	*	*		C00010_Lpcat1	Enzyme	Solid								
+output	catalyst	C00157	Lpcat1	R01318	Metabolite_GeneProduct	Phosphatidylcholine	Lpcat1	*		*	*	*		C00157_Lpcat1	Enzyme	Solid								
+input	catalyst	C00350	Lpcat1	R04480	Metabolite_GeneProduct	Phosphatidylethanolamine	Lpcat1	*		*	*	*		C00350_Lpcat1	Enzyme	Solid								
+input	catalyst	C04230	Lpcat1	R01318	Metabolite_GeneProduct	1-Acyl-sn-glycero-3-phosphocholine	Lpcat1	*		*	*	*		C04230_Lpcat1	Enzyme	Solid								
+output	catalyst	C04438	Lpcat1	R04480	Metabolite_GeneProduct	1-Acyl-sn-glycero-3-phosphoethanolamine	Lpcat1	*		*	*	*		C04438_Lpcat1	Enzyme	Solid								
+input	catalyst	C00010	Lpcat2	R02241, R04480	Metabolite_GeneProduct	CoA	Lpcat2	*		*	*	*		C00010_Lpcat2	Enzyme	Solid								
+output	catalyst	C00157	Lpcat2	R01318	Metabolite_GeneProduct	Phosphatidylcholine	Lpcat2	*		*	*	*		C00157_Lpcat2	Enzyme	Solid								
+input	catalyst	C00350	Lpcat2	R04480	Metabolite_GeneProduct	Phosphatidylethanolamine	Lpcat2	*		*	*	*		C00350_Lpcat2	Enzyme	Solid								
+input	catalyst	C04230	Lpcat2	R01318	Metabolite_GeneProduct	1-Acyl-sn-glycero-3-phosphocholine	Lpcat2	*		*	*	*		C04230_Lpcat2	Enzyme	Solid								
+output	catalyst	C04438	Lpcat2	R04480	Metabolite_GeneProduct	1-Acyl-sn-glycero-3-phosphoethanolamine	Lpcat2	*		*	*	*		C04438_Lpcat2	Enzyme	Solid								
+input	catalyst	C00010	Lpcat3	R04480	Metabolite_GeneProduct	CoA	Lpcat3	*		*	*	*		C00010_Lpcat3	Enzyme	Solid								
+output	catalyst	C00157	Lpcat3	R01318	Metabolite_GeneProduct	Phosphatidylcholine	Lpcat3	*		*	*	*		C00157_Lpcat3	Enzyme	Solid								
+input	catalyst	C00350	Lpcat3	R04480	Metabolite_GeneProduct	Phosphatidylethanolamine	Lpcat3	*		*	*	*		C00350_Lpcat3	Enzyme	Solid								
+input	catalyst	C04230	Lpcat3	R01318	Metabolite_GeneProduct	1-Acyl-sn-glycero-3-phosphocholine	Lpcat3	*		*	*	*		C04230_Lpcat3	Enzyme	Solid								
+output	catalyst	C04438	Lpcat3	R04480	Metabolite_GeneProduct	1-Acyl-sn-glycero-3-phosphoethanolamine	Lpcat3	*		*	*	*		C04438_Lpcat3	Enzyme	Solid								
+input	catalyst	C00157	Lpl	R01314, R01316, R07860	Metabolite_GeneProduct	Phosphatidylcholine	Lpl	*		*	*	*		C00157_Lpl	Enzyme	Solid								
+input	catalyst	C00350	Lpl	R02054	Metabolite_GeneProduct	Phosphatidylethanolamine	Lpl	*		*	*	*		C00350_Lpl	Enzyme	Solid								
+input	catalyst	C00422	Lpl	R01369	Metabolite_GeneProduct	Triacylglycerol	Lpl	*		*	*	*		C00422_Lpl	Enzyme	Solid					*			
+input	catalyst	C02737	Lpl	R04034	Metabolite_GeneProduct	Phosphatidylserine	Lpl	*		*	*	*		C02737_Lpl	Enzyme	Solid								
+input	catalyst	C00157	Lrat	R04514, R08387	Metabolite_GeneProduct	Phosphatidylcholine	Lrat	*		*	*	*		C00157_Lrat	Enzyme	Solid								
+input	catalyst	C00473	Lrat	R08387	Metabolite_GeneProduct	Retinol	Lrat	*		*	*	*		C00473_Lrat	Enzyme	Solid								
+input	catalyst	C00051	Ltc4s	R03059	Metabolite_GeneProduct	Glutathione	Ltc4s	*	*	*	*	*	*	C00051_Ltc4s	Enzyme	Solid	*		*	*				
+output	catalyst	C00010	Lypla1	R01274	Metabolite_GeneProduct	CoA	Lypla1	*		*	*	*		C00010_Lypla1	Enzyme	Solid								
+input	catalyst	C00157	Lypla1	R01309	Metabolite_GeneProduct	Phosphatidylcholine	Lypla1	*		*	*	*		C00157_Lypla1	Enzyme	Solid								
+input	catalyst	C00670	Lypla1	R02744	Metabolite_GeneProduct	sn-Glycero-3-phosphocholine	Lypla1	*		*	*	*		C00670_Lypla1	Enzyme	Solid								
+input	catalyst	C04230	Lypla1	R02746, R07291	Metabolite_GeneProduct	1-Acyl-sn-glycero-3-phosphocholine	Lypla1	*		*	*	*		C04230_Lypla1	Enzyme	Solid								
+input	catalyst	C04438	Lypla1	R03416	Metabolite_GeneProduct	1-Acyl-sn-glycero-3-phosphoethanolamine	Lypla1	*		*	*	*		C04438_Lypla1	Enzyme	Solid								
+output	catalyst	C00010	Lypla2	R01274	Metabolite_GeneProduct	CoA	Lypla2	*		*	*	*		C00010_Lypla2	Enzyme	Solid								
+input	catalyst	C00157	Lypla2	R01309	Metabolite_GeneProduct	Phosphatidylcholine	Lypla2	*		*	*	*		C00157_Lypla2	Enzyme	Solid								
+input	catalyst	C00670	Lypla2	R02744	Metabolite_GeneProduct	sn-Glycero-3-phosphocholine	Lypla2	*		*	*	*		C00670_Lypla2	Enzyme	Solid								
+input	catalyst	C04230	Lypla2	R02746, R07291	Metabolite_GeneProduct	1-Acyl-sn-glycero-3-phosphocholine	Lypla2	*		*	*	*		C04230_Lypla2	Enzyme	Solid								
+input	catalyst	C04438	Lypla2	R03416	Metabolite_GeneProduct	1-Acyl-sn-glycero-3-phosphoethanolamine	Lypla2	*		*	*	*		C04438_Lypla2	Enzyme	Solid								
+input	catalyst	C00010	Mboat1	R02241	Metabolite_GeneProduct	CoA	Mboat1	*		*	*	*		C00010_Mboat1	Enzyme	Solid								
+output	catalyst	C05270	Mecr	R06985	Metabolite_GeneProduct	Hexanoyl-CoA	Mecr	*		*	*	*		C05270_Mecr	Enzyme	Solid								
+input	catalyst	C00043	Mgat2	R04653, R07258	Metabolite_GeneProduct	UDP-N-acetyl-alpha-D-glucosamine	Mgat2	*		*	*	*		C00043_Mgat2	Enzyme	Solid								
+input	catalyst	C00043	Mgat3	R07259	Metabolite_GeneProduct	UDP-N-acetyl-alpha-D-glucosamine	Mgat3	*		*	*	*		C00043_Mgat3	Enzyme	Solid								
+input	catalyst	C00043	Mgat4a	R04662	Metabolite_GeneProduct	UDP-N-acetyl-alpha-D-glucosamine	Mgat4a	*		*	*	*		C00043_Mgat4a	Enzyme	Solid								
+input	catalyst	C00043	Mgat5	R04665	Metabolite_GeneProduct	UDP-N-acetyl-alpha-D-glucosamine	Mgat5	*		*	*	*		C00043_Mgat5	Enzyme	Solid								
+input	catalyst	C00051	Mgst1	R03522, R07002, R07003, R07004, R07023, R07024, R07025, R07026, R07069, R07070, R07083, R07084, R07091, R07092, R07093, R07094, R07100, R07113, R07116, R08280, R08511, R08512, R09409, R11905	Metabolite_GeneProduct	Glutathione	Mgst1	*		*	*	*		C00051_Mgst1	Enzyme	Solid				*				
+input	catalyst	C00051	Mgst3	R03522, R07002, R07003, R07004, R07023, R07024, R07025, R07026, R07069, R07070, R07083, R07084, R07091, R07092, R07093, R07094, R07100, R07113, R07116, R08280, R08511, R08512, R09409, R11905	Metabolite_GeneProduct	Glutathione	Mgst3	*		*	*	*		C00051_Mgst3	Enzyme	Solid				*				
+output	catalyst	C00085	Mpi	R00772	Metabolite_GeneProduct	D-Fructose 6-phosphate	Mpi	*		*	*	*		C00085_Mpi	Enzyme	Solid	*	*						
+input	catalyst	C00044	Mras	R00335	Metabolite_GeneProduct	GTP	Mras	*		*	*	*		C00044_Mras	Enzyme	Solid								
+output	catalyst	C01194	Mtm1	R03363	Metabolite_GeneProduct	1-Phosphatidyl-D-myo-inositol	Mtm1	*		*	*	*		C01194_Mtm1	Enzyme	Solid								
+output	catalyst	C01194	Mtmr14	R03363	Metabolite_GeneProduct	1-Phosphatidyl-D-myo-inositol	Mtmr14	*		*	*	*		C01194_Mtmr14	Enzyme	Solid								
+output	catalyst	C01194	Mtmr3	R03363	Metabolite_GeneProduct	1-Phosphatidyl-D-myo-inositol	Mtmr3	*		*	*	*		C01194_Mtmr3	Enzyme	Solid								
+output	catalyst	C01194	Mtmr4	R03363	Metabolite_GeneProduct	1-Phosphatidyl-D-myo-inositol	Mtmr4	*		*	*	*		C01194_Mtmr4	Enzyme	Solid								
+output	catalyst	C01194	Mtmr6	R03363	Metabolite_GeneProduct	1-Phosphatidyl-D-myo-inositol	Mtmr6	*		*	*	*		C01194_Mtmr6	Enzyme	Solid								
+output	catalyst	C00010	Naa60	R03552	Metabolite_GeneProduct	CoA	Naa60	*		*	*	*		C00010_Naa60	Enzyme	Solid								
+output	catalyst	C12144	Naaa	R06528	Metabolite_GeneProduct	Phytosphingosine	Naaa	*		*	*	*		C12144_Naaa	Enzyme	Solid								
+output	catalyst	C00025	Nadsyn1	R00257	Metabolite_GeneProduct	L-Glutamate	Nadsyn1	*		*	*	*		C00025_Nadsyn1	Enzyme	Solid								
+input	catalyst	C00064	Nadsyn1	R00257	Metabolite_GeneProduct	L-Glutamine	Nadsyn1	*		*	*	*		C00064_Nadsyn1	Enzyme	Solid								
+output	catalyst	C00153	Nampt	R01271	Metabolite_GeneProduct	Nicotinamide	Nampt	*		*	*	*		C00153_Nampt	Enzyme	Solid								
+output	catalyst	C00010	Nat1	R02387, R08036, R08248, R08250, R11902	Metabolite_GeneProduct	CoA	Nat1	*		*	*	*		C00010_Nat1	Enzyme	Solid								
+output	catalyst	C00010	Nat2	R02387, R04024, R08036, R08248, R08250, R08386, R11902	Metabolite_GeneProduct	CoA	Nat2	*		*	*	*		C00010_Nat2	Enzyme	Solid								
+output	catalyst	C00010	Nat8f1	R04950	Metabolite_GeneProduct	CoA	Nat8f1	*	*	*	*	*	*	C00010_Nat8f1	Enzyme	Solid		*	*	*				
+input	catalyst	C00024	Nat8f1	R04950	Metabolite_GeneProduct	Acetyl-CoA	Nat8f1		*	*	*		*	C00024_Nat8f1	Enzyme	Solid		*	*	*				
+output	catalyst	C00010	Nat8f2	R04950	Metabolite_GeneProduct	CoA	Nat8f2	*		*	*	*		C00010_Nat8f2	Enzyme	Solid								
+output	catalyst	C00010	Nat8f3	R03552, R04950	Metabolite_GeneProduct	CoA	Nat8f3	*		*	*	*		C00010_Nat8f3	Enzyme	Solid								
+output	catalyst	C00010	Nat8f4	R04950	Metabolite_GeneProduct	CoA	Nat8f4	*		*	*	*		C00010_Nat8f4	Enzyme	Solid								
+output	catalyst	C00010	Nat8f5	R04950	Metabolite_GeneProduct	CoA	Nat8f5	*		*	*	*		C00010_Nat8f5	Enzyme	Solid								
+output	catalyst	C00010	Ncoa3	R03552	Metabolite_GeneProduct	CoA	Ncoa3	*		*	*	*		C00010_Ncoa3	Enzyme	Solid								
+input	catalyst	C02686	Neu1	R04018	Metabolite_GeneProduct	Galactosylceramide	Neu1	*	*	*	*	*	*	C02686_Neu1	Enzyme	Solid								
+input	catalyst	C02686	Neu2	R04018	Metabolite_GeneProduct	Galactosylceramide	Neu2	*		*	*	*		C02686_Neu2	Enzyme	Solid								
+input	catalyst	C02686	Neu3	R04018	Metabolite_GeneProduct	Galactosylceramide	Neu3	*		*	*	*		C02686_Neu3	Enzyme	Solid								
+output	catalyst	C00041	Nfs1	R07460, R11528	Metabolite_GeneProduct	L-Alanine	Nfs1		*	*	*		*	C00041_Nfs1	Enzyme	Solid								
+input	catalyst	C00097	Nfs1	R07460, R11528	Metabolite_GeneProduct	L-Cysteine	Nfs1	*	*	*	*	*	*	C00097_Nfs1	Enzyme	Solid			*				*	*
+output	catalyst	C00044	Nme1	R00330	Metabolite_GeneProduct	GTP	Nme1	*		*	*	*		C00044_Nme1	Enzyme	Solid								
+output	catalyst	C00063	Nme1	R00570	Metabolite_GeneProduct	CTP	Nme1	*		*	*	*		C00063_Nme1	Enzyme	Solid								
+output	catalyst	C00075	Nme1	R00156	Metabolite_GeneProduct	UTP	Nme1	*		*	*	*		C00075_Nme1	Enzyme	Solid								
+output	catalyst	C00044	Nme2	R00330	Metabolite_GeneProduct	GTP	Nme2	*		*	*	*		C00044_Nme2	Enzyme	Solid								
+output	catalyst	C00063	Nme2	R00570	Metabolite_GeneProduct	CTP	Nme2	*		*	*	*		C00063_Nme2	Enzyme	Solid								
+output	catalyst	C00075	Nme2	R00156	Metabolite_GeneProduct	UTP	Nme2	*		*	*	*		C00075_Nme2	Enzyme	Solid								
+output	catalyst	C00044	Nme6	R00330	Metabolite_GeneProduct	GTP	Nme6	*		*	*	*		C00044_Nme6	Enzyme	Solid								
+output	catalyst	C00063	Nme6	R00570	Metabolite_GeneProduct	CTP	Nme6	*		*	*	*		C00063_Nme6	Enzyme	Solid								
+output	catalyst	C00075	Nme6	R00156	Metabolite_GeneProduct	UTP	Nme6	*		*	*	*		C00075_Nme6	Enzyme	Solid								
+output	catalyst	C00044	Nme7	R00330	Metabolite_GeneProduct	GTP	Nme7	*		*	*	*		C00044_Nme7	Enzyme	Solid								
+output	catalyst	C00063	Nme7	R00570	Metabolite_GeneProduct	CTP	Nme7	*		*	*	*		C00063_Nme7	Enzyme	Solid								
+output	catalyst	C00075	Nme7	R00156	Metabolite_GeneProduct	UTP	Nme7	*		*	*	*		C00075_Nme7	Enzyme	Solid								
+output	catalyst	C00010	Nmt1	R03992	Metabolite_GeneProduct	CoA	Nmt1	*		*	*	*		C00010_Nmt1	Enzyme	Solid								
+input	catalyst	C00062	Nos1	R00557, R00558	Metabolite_GeneProduct	L-Arginine	Nos1	*		*	*	*		C00062_Nos1	Enzyme	Solid								
+input	catalyst	C00062	Nos3	R00557, R00558	Metabolite_GeneProduct	L-Arginine	Nos3	*		*	*	*		C00062_Nos3	Enzyme	Solid								
+input	catalyst	C00044	Npr1	R00434	Metabolite_GeneProduct	GTP	Npr1	*		*	*	*		C00044_Npr1	Enzyme	Solid								
+input	catalyst	C00044	Npr2	R00434	Metabolite_GeneProduct	GTP	Npr2	*	*	*	*	*	*	C00044_Npr2	Enzyme	Solid								
+input	catalyst	C00044	Nras	R00335	Metabolite_GeneProduct	GTP	Nras	*		*	*	*		C00044_Nras	Enzyme	Solid								
+input	catalyst	C00144	Nt5c	R01227	Metabolite_GeneProduct	GMP	Nt5c	*		*	*	*		C00144_Nt5c	Enzyme	Solid								
+output	catalyst	C00387	Nt5c	R01227	Metabolite_GeneProduct	Guanosine	Nt5c	*		*	*	*		C00387_Nt5c	Enzyme	Solid								
+input	catalyst	C00144	Nt5c2	R01227	Metabolite_GeneProduct	GMP	Nt5c2	*		*	*	*		C00144_Nt5c2	Enzyme	Solid								
+output	catalyst	C00387	Nt5c2	R01227	Metabolite_GeneProduct	Guanosine	Nt5c2	*		*	*	*		C00387_Nt5c2	Enzyme	Solid								
+input	catalyst	C00144	Nt5c3b	R01227	Metabolite_GeneProduct	GMP	Nt5c3b	*		*	*	*		C00144_Nt5c3b	Enzyme	Solid								
+output	catalyst	C00387	Nt5c3b	R01227	Metabolite_GeneProduct	Guanosine	Nt5c3b	*		*	*	*		C00387_Nt5c3b	Enzyme	Solid								
+input	catalyst	C00144	Nt5e	R01227	Metabolite_GeneProduct	GMP	Nt5e	*		*	*	*		C00144_Nt5e	Enzyme	Solid								
+output	catalyst	C00387	Nt5e	R01227	Metabolite_GeneProduct	Guanosine	Nt5e	*		*	*	*		C00387_Nt5e	Enzyme	Solid								
+input	catalyst	C00144	Nt5m	R01227	Metabolite_GeneProduct	GMP	Nt5m	*		*	*	*		C00144_Nt5m	Enzyme	Solid								
+output	catalyst	C00387	Nt5m	R01227	Metabolite_GeneProduct	Guanosine	Nt5m	*		*	*	*		C00387_Nt5m	Enzyme	Solid								
+input	catalyst	C00010	Nudt19	R10747	Metabolite_GeneProduct	CoA	Nudt19	*		*	*	*		C00010_Nudt19	Enzyme	Solid								
+output	catalyst	C00044	Nudt2	R01232	Metabolite_GeneProduct	GTP	Nudt2	*		*	*	*		C00044_Nudt2	Enzyme	Solid								
+output	catalyst	C00075	Nudt2	R00969	Metabolite_GeneProduct	UTP	Nudt2	*		*	*	*		C00075_Nudt2	Enzyme	Solid								
+output	catalyst	C00144	Nudt2	R01232	Metabolite_GeneProduct	GMP	Nudt2	*		*	*	*		C00144_Nudt2	Enzyme	Solid								
+input	catalyst	C00029	Nudt22	R00287	Metabolite_GeneProduct	UDP-glucose	Nudt22	*		*	*	*		C00029_Nudt22	Enzyme	Solid								
+input	catalyst	C00117	Nudt5	R11553	Metabolite_GeneProduct	D-Ribose 5-phosphate	Nudt5	*		*	*	*		C00117_Nudt5	Enzyme	Solid	*							
+output	catalyst	C00117	Nudt9	R01054	Metabolite_GeneProduct	D-Ribose 5-phosphate	Nudt9	*		*	*	*		C00117_Nudt9	Enzyme	Solid	*							
+output	catalyst	C00025	Oat	R00667, R00668	Metabolite_GeneProduct	L-Glutamate	Oat	*		*	*	*		C00025_Oat	Enzyme	Solid								
+output	catalyst	C00010	Oga	R03552	Metabolite_GeneProduct	CoA	Oga	*		*	*	*		C00010_Oga	Enzyme	Solid								
+input	catalyst	C00043	Ogt	R09676, R09677	Metabolite_GeneProduct	UDP-N-acetyl-alpha-D-glucosamine	Ogt	*		*	*	*		C00043_Ogt	Enzyme	Solid								
+output	catalyst	C00025	Oplah	R00251	Metabolite_GeneProduct	L-Glutamate	Oplah	*		*	*	*		C00025_Oplah	Enzyme	Solid								
+output	catalyst	C00042	Oxct1	R00410, R01780	Metabolite_GeneProduct	Succinate	Oxct1	*		*	*	*		C00042_Oxct1	Enzyme	Solid								
+output	catalyst	C00042	P3h1	R03218	Metabolite_GeneProduct	Succinate	P3h1	*		*	*	*		C00042_P3h1	Enzyme	Solid								
+output	catalyst	C00042	P3h2	R03218	Metabolite_GeneProduct	Succinate	P3h2	*		*	*	*		C00042_P3h2	Enzyme	Solid								
+output	catalyst	C00042	P4ha1	R01252, R03219	Metabolite_GeneProduct	Succinate	P4ha1	*		*	*	*		C00042_P4ha1	Enzyme	Solid								
+output	catalyst	C01157	P4ha1	R01252	Metabolite_GeneProduct	Hydroxyproline	P4ha1	*		*	*	*		C01157_P4ha1	Enzyme	Solid								
+output	catalyst	C00042	P4ha3	R01252, R03219	Metabolite_GeneProduct	Succinate	P4ha3	*		*	*	*		C00042_P4ha3	Enzyme	Solid								
+output	catalyst	C01157	P4ha3	R01252	Metabolite_GeneProduct	Hydroxyproline	P4ha3	*		*	*	*		C01157_P4ha3	Enzyme	Solid								
+input	catalyst	C00002	Paics	R04591	Metabolite_GeneProduct	ATP	Paics		*	*	*		*	C00002_Paics	Enzyme	Solid								
+output	catalyst	C00008	Paics	R04591	Metabolite_GeneProduct	ADP	Paics		*	*	*		*	C00008_Paics	Enzyme	Solid								
+input	catalyst	C00049	Paics	R04591	Metabolite_GeneProduct	L-Aspartate	Paics	*	*	*	*	*	*	C00049_Paics	Enzyme	Solid								
+output	catalyst	C00153	Parp1	R04176	Metabolite_GeneProduct	Nicotinamide	Parp1	*		*	*	*		C00153_Parp1	Enzyme	Solid								
+input	catalyst	C00044	Pck1	R00431	Metabolite_GeneProduct	GTP	Pck1	*		*	*	*		C00044_Pck1	Enzyme	Solid								
+output	catalyst	C00097	Pcyox1	R07360, R09562	Metabolite_GeneProduct	L-Cysteine	Pcyox1	*		*	*	*		C00097_Pcyox1	Enzyme	Solid			*				*	*
+input	catalyst	C00063	Pcyt1a	R01890, R02590	Metabolite_GeneProduct	CTP	Pcyt1a	*		*	*	*		C00063_Pcyt1a	Enzyme	Solid								
+input	catalyst	C00063	Pcyt2	R02038, R04247	Metabolite_GeneProduct	CTP	Pcyt2	*	*	*	*	*	*	C00063_Pcyt2	Enzyme	Solid								
+input	catalyst	C00346	Pcyt2	R02038	Metabolite_GeneProduct	Ethanolamine phosphate	Pcyt2		*	*	*		*	C00346_Pcyt2	Enzyme	Solid								
+output	catalyst	C00144	Pde2a	R01234	Metabolite_GeneProduct	GMP	Pde2a	*		*	*	*		C00144_Pde2a	Enzyme	Solid								
+output	catalyst	C00144	Pde3a	R01234	Metabolite_GeneProduct	GMP	Pde3a	*		*	*	*		C00144_Pde3a	Enzyme	Solid								
+output	catalyst	C00144	Pde3b	R01234	Metabolite_GeneProduct	GMP	Pde3b	*		*	*	*		C00144_Pde3b	Enzyme	Solid								
+output	catalyst	C00144	Pde5a	R01234	Metabolite_GeneProduct	GMP	Pde5a	*		*	*	*		C00144_Pde5a	Enzyme	Solid								
+output	catalyst	C05270	Pecr	R06985	Metabolite_GeneProduct	Hexanoyl-CoA	Pecr	*		*	*	*		C05270_Pecr	Enzyme	Solid								
+output	catalyst	C00157	Pemt	R01320	Metabolite_GeneProduct	Phosphatidylcholine	Pemt	*		*	*	*		C00157_Pemt	Enzyme	Solid								
+input	catalyst	C00350	Pemt	R02056	Metabolite_GeneProduct	Phosphatidylethanolamine	Pemt	*		*	*	*		C00350_Pemt	Enzyme	Solid								
+input	catalyst	C00085	Pfkfb1	R13202	Metabolite_GeneProduct	D-Fructose 6-phosphate	Pfkfb1	*		*	*	*		C00085_Pfkfb1	Enzyme	Solid	*	*						
+input	catalyst	C00085	Pfkfb2	R13202	Metabolite_GeneProduct	D-Fructose 6-phosphate	Pfkfb2	*		*	*	*		C00085_Pfkfb2	Enzyme	Solid	*	*						
+input	catalyst	C00085	Pfkfb3	R13202	Metabolite_GeneProduct	D-Fructose 6-phosphate	Pfkfb3	*		*	*	*		C00085_Pfkfb3	Enzyme	Solid	*	*						
+input	catalyst	C00063	Pfkl	R00767, R03237	Metabolite_GeneProduct	CTP	Pfkl	*		*	*	*		C00063_Pfkl	Enzyme	Solid								
+input	catalyst	C00075	Pfkl	R00769, R03238	Metabolite_GeneProduct	UTP	Pfkl	*		*	*	*		C00075_Pfkl	Enzyme	Solid								
+input	catalyst	C00085	Pfkl	R00756, R00767, R00769, R00770	Metabolite_GeneProduct	D-Fructose 6-phosphate	Pfkl	*		*	*	*		C00085_Pfkl	Enzyme	Solid	*	*						
+input	catalyst	C05382	Pfkl	R01843	Metabolite_GeneProduct	Sedoheptulose 7-phosphate	Pfkl	*		*	*	*		C05382_Pfkl	Enzyme	Solid	*	*						
+input	catalyst	C00063	Pfkm	R00767, R03237	Metabolite_GeneProduct	CTP	Pfkm	*		*	*	*		C00063_Pfkm	Enzyme	Solid								
+input	catalyst	C00075	Pfkm	R00769, R03238	Metabolite_GeneProduct	UTP	Pfkm	*		*	*	*		C00075_Pfkm	Enzyme	Solid								
+input	catalyst	C00085	Pfkm	R00756, R00767, R00769, R00770	Metabolite_GeneProduct	D-Fructose 6-phosphate	Pfkm	*		*	*	*		C00085_Pfkm	Enzyme	Solid	*	*						
+input	catalyst	C05382	Pfkm	R01843	Metabolite_GeneProduct	Sedoheptulose 7-phosphate	Pfkm	*		*	*	*		C05382_Pfkm	Enzyme	Solid	*	*						
+input	catalyst	C00063	Pfkp	R00767, R03237	Metabolite_GeneProduct	CTP	Pfkp	*		*	*	*		C00063_Pfkp	Enzyme	Solid								
+input	catalyst	C00075	Pfkp	R00769, R03238	Metabolite_GeneProduct	UTP	Pfkp	*		*	*	*		C00075_Pfkp	Enzyme	Solid								
+input	catalyst	C00085	Pfkp	R00756, R00767, R00769, R00770	Metabolite_GeneProduct	D-Fructose 6-phosphate	Pfkp	*		*	*	*		C00085_Pfkp	Enzyme	Solid	*	*						
+input	catalyst	C05382	Pfkp	R01843	Metabolite_GeneProduct	Sedoheptulose 7-phosphate	Pfkp	*		*	*	*		C05382_Pfkp	Enzyme	Solid	*	*						
+output	catalyst	C00092	Pgm1	R08639	Metabolite_GeneProduct	D-Glucose 6-phosphate	Pgm1	*		*	*	*		C00092_Pgm1	Enzyme	Solid								
+output	catalyst	C00117	Pgm1	R01057	Metabolite_GeneProduct	D-Ribose 5-phosphate	Pgm1	*		*	*	*		C00117_Pgm1	Enzyme	Solid	*							
+output	catalyst	C00042	Phyh	R05722	Metabolite_GeneProduct	Succinate	Phyh	*		*	*	*		C00042_Phyh	Enzyme	Solid								
+input	catalyst	C00002	Pi4k2a	R03361	Metabolite_GeneProduct	ATP	Pi4k2a		*	*	*		*	C00002_Pi4k2a	Enzyme	Solid								
+output	catalyst	C00008	Pi4k2a	R03361	Metabolite_GeneProduct	ADP	Pi4k2a		*	*	*		*	C00008_Pi4k2a	Enzyme	Solid								
+input	catalyst	C01194	Pi4k2a	R03361	Metabolite_GeneProduct	1-Phosphatidyl-D-myo-inositol	Pi4k2a	*	*	*	*	*	*	C01194_Pi4k2a	Enzyme	Solid								
+input	catalyst	C01194	Pi4k2b	R03361	Metabolite_GeneProduct	1-Phosphatidyl-D-myo-inositol	Pi4k2b	*		*	*	*		C01194_Pi4k2b	Enzyme	Solid								
+input	catalyst	C01194	Pi4ka	R03361	Metabolite_GeneProduct	1-Phosphatidyl-D-myo-inositol	Pi4ka	*		*	*	*		C01194_Pi4ka	Enzyme	Solid								
+input	catalyst	C01194	Pi4kb	R03361	Metabolite_GeneProduct	1-Phosphatidyl-D-myo-inositol	Pi4kb	*		*	*	*		C01194_Pi4kb	Enzyme	Solid								
+input	catalyst	C01194	Pik3c2b	R03362	Metabolite_GeneProduct	1-Phosphatidyl-D-myo-inositol	Pik3c2b	*		*	*	*		C01194_Pik3c2b	Enzyme	Solid								
+input	catalyst	C01194	Pik3c2g	R03362	Metabolite_GeneProduct	1-Phosphatidyl-D-myo-inositol	Pik3c2g	*		*	*	*		C01194_Pik3c2g	Enzyme	Solid								
+input	catalyst	C01194	Pik3c3	R03362	Metabolite_GeneProduct	1-Phosphatidyl-D-myo-inositol	Pik3c3	*		*	*	*		C01194_Pik3c3	Enzyme	Solid								
+input	catalyst	C01194	Pik3ca	R03362	Metabolite_GeneProduct	1-Phosphatidyl-D-myo-inositol	Pik3ca	*		*	*	*		C01194_Pik3ca	Enzyme	Solid								
+output	catalyst	C00350	Pisd	R02055	Metabolite_GeneProduct	Phosphatidylethanolamine	Pisd	*		*	*	*		C00350_Pisd	Enzyme	Solid								
+input	catalyst	C02737	Pisd	R02055	Metabolite_GeneProduct	Phosphatidylserine	Pisd	*		*	*	*		C02737_Pisd	Enzyme	Solid								
+input	catalyst	C00044	Pklr	R00430	Metabolite_GeneProduct	GTP	Pklr	*		*	*	*		C00044_Pklr	Enzyme	Solid								
+input	catalyst	C00063	Pklr	R00572	Metabolite_GeneProduct	CTP	Pklr	*		*	*	*		C00063_Pklr	Enzyme	Solid								
+input	catalyst	C00075	Pklr	R00659	Metabolite_GeneProduct	UTP	Pklr	*		*	*	*		C00075_Pklr	Enzyme	Solid								
+input	catalyst	C00044	Pkm	R00430	Metabolite_GeneProduct	GTP	Pkm	*		*	*	*		C00044_Pkm	Enzyme	Solid								
+input	catalyst	C00063	Pkm	R00572	Metabolite_GeneProduct	CTP	Pkm	*		*	*	*		C00063_Pkm	Enzyme	Solid								
+input	catalyst	C00075	Pkm	R00659	Metabolite_GeneProduct	UTP	Pkm	*		*	*	*		C00075_Pkm	Enzyme	Solid								
+input	catalyst	C02737	Pla1a	R04034	Metabolite_GeneProduct	Phosphatidylserine	Pla1a	*		*	*	*		C02737_Pla1a	Enzyme	Solid								
+input	catalyst	C00157	Pla2g12b	R01313, R01315, R01317, R07064, R07859	Metabolite_GeneProduct	Phosphatidylcholine	Pla2g12b	*		*	*	*		C00157_Pla2g12b	Enzyme	Solid								
+input	catalyst	C00350	Pla2g12b	R02053	Metabolite_GeneProduct	Phosphatidylethanolamine	Pla2g12b	*		*	*	*		C00350_Pla2g12b	Enzyme	Solid								
+output	catalyst	C04230	Pla2g12b	R01313, R01315, R01317, R07064, R07859	Metabolite_GeneProduct	1-Acyl-sn-glycero-3-phosphocholine	Pla2g12b	*		*	*	*		C04230_Pla2g12b	Enzyme	Solid								
+output	catalyst	C04438	Pla2g12b	R02053	Metabolite_GeneProduct	1-Acyl-sn-glycero-3-phosphoethanolamine	Pla2g12b	*		*	*	*		C04438_Pla2g12b	Enzyme	Solid								
+input	catalyst	C00157	Pla2g15	R01309, R01313, R01314, R01315, R01316, R01317, R07064, R07859, R07860	Metabolite_GeneProduct	Phosphatidylcholine	Pla2g15	*		*	*	*		C00157_Pla2g15	Enzyme	Solid								
+input	catalyst	C00350	Pla2g15	R02053, R02054	Metabolite_GeneProduct	Phosphatidylethanolamine	Pla2g15	*		*	*	*		C00350_Pla2g15	Enzyme	Solid								
+input	catalyst	C00670	Pla2g15	R02744	Metabolite_GeneProduct	sn-Glycero-3-phosphocholine	Pla2g15	*		*	*	*		C00670_Pla2g15	Enzyme	Solid								
+input	catalyst	C02737	Pla2g15	R04034	Metabolite_GeneProduct	Phosphatidylserine	Pla2g15	*		*	*	*		C02737_Pla2g15	Enzyme	Solid								
+input	catalyst	C04230	Pla2g15	R02746, R07291	Metabolite_GeneProduct	1-Acyl-sn-glycero-3-phosphocholine	Pla2g15	*		*	*	*		C04230_Pla2g15	Enzyme	Solid								
+input	catalyst	C04438	Pla2g15	R03416	Metabolite_GeneProduct	1-Acyl-sn-glycero-3-phosphoethanolamine	Pla2g15	*		*	*	*		C04438_Pla2g15	Enzyme	Solid								
+input	catalyst	C00157	Pla2g2a	R01313, R01315, R01317, R07064, R07859	Metabolite_GeneProduct	Phosphatidylcholine	Pla2g2a	*		*	*	*		C00157_Pla2g2a	Enzyme	Solid								
+input	catalyst	C00350	Pla2g2a	R02053	Metabolite_GeneProduct	Phosphatidylethanolamine	Pla2g2a	*		*	*	*		C00350_Pla2g2a	Enzyme	Solid								
+output	catalyst	C04230	Pla2g2a	R01313, R01315, R01317, R07064, R07859	Metabolite_GeneProduct	1-Acyl-sn-glycero-3-phosphocholine	Pla2g2a	*		*	*	*		C04230_Pla2g2a	Enzyme	Solid								
+output	catalyst	C04438	Pla2g2a	R02053	Metabolite_GeneProduct	1-Acyl-sn-glycero-3-phosphoethanolamine	Pla2g2a	*		*	*	*		C04438_Pla2g2a	Enzyme	Solid								
+input	catalyst	C00157	Pla2g4a	R01309, R01313, R01315, R01317, R07064, R07859	Metabolite_GeneProduct	Phosphatidylcholine	Pla2g4a	*		*	*	*		C00157_Pla2g4a	Enzyme	Solid								
+input	catalyst	C00350	Pla2g4a	R02053	Metabolite_GeneProduct	Phosphatidylethanolamine	Pla2g4a	*		*	*	*		C00350_Pla2g4a	Enzyme	Solid								
+input	catalyst	C00670	Pla2g4a	R02744	Metabolite_GeneProduct	sn-Glycero-3-phosphocholine	Pla2g4a	*		*	*	*		C00670_Pla2g4a	Enzyme	Solid								
+input	catalyst	C04230	Pla2g4a	R02746, R07291	Metabolite_GeneProduct	1-Acyl-sn-glycero-3-phosphocholine	Pla2g4a	*		*	*	*		C04230_Pla2g4a	Enzyme	Solid								
+input	catalyst	C04438	Pla2g4a	R03416	Metabolite_GeneProduct	1-Acyl-sn-glycero-3-phosphoethanolamine	Pla2g4a	*		*	*	*		C04438_Pla2g4a	Enzyme	Solid								
+output	catalyst	C00010	Pla2g6	R01274, R08174, R08175, R08176, R08177, R08178, R08179, R08180, R08181, R08182, R08183, R09450	Metabolite_GeneProduct	CoA	Pla2g6	*		*	*	*		C00010_Pla2g6	Enzyme	Solid								
+input	catalyst	C00157	Pla2g6	R01309, R01313, R01315, R01317, R07064, R07859	Metabolite_GeneProduct	Phosphatidylcholine	Pla2g6	*		*	*	*		C00157_Pla2g6	Enzyme	Solid								
+input	catalyst	C00350	Pla2g6	R02053	Metabolite_GeneProduct	Phosphatidylethanolamine	Pla2g6	*		*	*	*		C00350_Pla2g6	Enzyme	Solid								
+input	catalyst	C00670	Pla2g6	R02744	Metabolite_GeneProduct	sn-Glycero-3-phosphocholine	Pla2g6	*		*	*	*		C00670_Pla2g6	Enzyme	Solid								
+input	catalyst	C04230	Pla2g6	R02746, R07291	Metabolite_GeneProduct	1-Acyl-sn-glycero-3-phosphocholine	Pla2g6	*		*	*	*		C04230_Pla2g6	Enzyme	Solid								
+input	catalyst	C04438	Pla2g6	R03416	Metabolite_GeneProduct	1-Acyl-sn-glycero-3-phosphoethanolamine	Pla2g6	*		*	*	*		C04438_Pla2g6	Enzyme	Solid								
+output	catalyst	C00641	Plcb1	R03332, R03435, R10952	Metabolite_GeneProduct	1,2-Diacyl-sn-glycerol	Plcb1	*		*	*	*		C00641_Plcb1	Enzyme	Solid								
+input	catalyst	C01194	Plcb1	R03332	Metabolite_GeneProduct	1-Phosphatidyl-D-myo-inositol	Plcb1	*		*	*	*		C01194_Plcb1	Enzyme	Solid								
+output	catalyst	C00641	Plcb2	R03332, R03435, R10952	Metabolite_GeneProduct	1,2-Diacyl-sn-glycerol	Plcb2	*		*	*	*		C00641_Plcb2	Enzyme	Solid								
+input	catalyst	C01194	Plcb2	R03332	Metabolite_GeneProduct	1-Phosphatidyl-D-myo-inositol	Plcb2	*		*	*	*		C01194_Plcb2	Enzyme	Solid								
+output	catalyst	C00641	Plcb3	R03332, R03435, R10952	Metabolite_GeneProduct	1,2-Diacyl-sn-glycerol	Plcb3	*		*	*	*		C00641_Plcb3	Enzyme	Solid								
+input	catalyst	C01194	Plcb3	R03332	Metabolite_GeneProduct	1-Phosphatidyl-D-myo-inositol	Plcb3	*		*	*	*		C01194_Plcb3	Enzyme	Solid								
+output	catalyst	C00641	Plcb4	R03332, R03435, R10952	Metabolite_GeneProduct	1,2-Diacyl-sn-glycerol	Plcb4	*		*	*	*		C00641_Plcb4	Enzyme	Solid								
+input	catalyst	C01194	Plcb4	R03332	Metabolite_GeneProduct	1-Phosphatidyl-D-myo-inositol	Plcb4	*		*	*	*		C01194_Plcb4	Enzyme	Solid								
+output	catalyst	C00641	Plcd1	R03332, R03435, R10952	Metabolite_GeneProduct	1,2-Diacyl-sn-glycerol	Plcd1	*		*	*	*		C00641_Plcd1	Enzyme	Solid								
+input	catalyst	C01194	Plcd1	R03332	Metabolite_GeneProduct	1-Phosphatidyl-D-myo-inositol	Plcd1	*		*	*	*		C01194_Plcd1	Enzyme	Solid								
+output	catalyst	C00641	Plce1	R03332, R03435, R10952	Metabolite_GeneProduct	1,2-Diacyl-sn-glycerol	Plce1	*		*	*	*		C00641_Plce1	Enzyme	Solid								
+input	catalyst	C01194	Plce1	R03332	Metabolite_GeneProduct	1-Phosphatidyl-D-myo-inositol	Plce1	*		*	*	*		C01194_Plce1	Enzyme	Solid								
+output	catalyst	C00641	Plcg1	R03332, R03435, R10952	Metabolite_GeneProduct	1,2-Diacyl-sn-glycerol	Plcg1	*		*	*	*		C00641_Plcg1	Enzyme	Solid								
+input	catalyst	C01194	Plcg1	R03332	Metabolite_GeneProduct	1-Phosphatidyl-D-myo-inositol	Plcg1	*		*	*	*		C01194_Plcg1	Enzyme	Solid								
+output	catalyst	C00641	Plcg2	R03332, R03435, R10952	Metabolite_GeneProduct	1,2-Diacyl-sn-glycerol	Plcg2	*		*	*	*		C00641_Plcg2	Enzyme	Solid								
+input	catalyst	C01194	Plcg2	R03332	Metabolite_GeneProduct	1-Phosphatidyl-D-myo-inositol	Plcg2	*		*	*	*		C01194_Plcg2	Enzyme	Solid								
+output	catalyst	C00114	Pld1	R01310	Metabolite_GeneProduct	Choline	Pld1	*		*	*	*		C00114_Pld1	Enzyme	Solid								
+input	catalyst	C00157	Pld1	R01310	Metabolite_GeneProduct	Phosphatidylcholine	Pld1	*		*	*	*		C00157_Pld1	Enzyme	Solid								
+input	catalyst	C00350	Pld1	R02051	Metabolite_GeneProduct	Phosphatidylethanolamine	Pld1	*		*	*	*		C00350_Pld1	Enzyme	Solid								
+output	catalyst	C00114	Pld2	R01310	Metabolite_GeneProduct	Choline	Pld2	*		*	*	*		C00114_Pld2	Enzyme	Solid								
+input	catalyst	C00157	Pld2	R01310	Metabolite_GeneProduct	Phosphatidylcholine	Pld2	*		*	*	*		C00157_Pld2	Enzyme	Solid								
+input	catalyst	C00350	Pld2	R02051	Metabolite_GeneProduct	Phosphatidylethanolamine	Pld2	*		*	*	*		C00350_Pld2	Enzyme	Solid								
+output	catalyst	C00114	Pld3	R01310	Metabolite_GeneProduct	Choline	Pld3	*		*	*	*		C00114_Pld3	Enzyme	Solid								
+input	catalyst	C00157	Pld3	R01310	Metabolite_GeneProduct	Phosphatidylcholine	Pld3	*		*	*	*		C00157_Pld3	Enzyme	Solid								
+input	catalyst	C00350	Pld3	R02051	Metabolite_GeneProduct	Phosphatidylethanolamine	Pld3	*		*	*	*		C00350_Pld3	Enzyme	Solid								
+output	catalyst	C00114	Pld4	R01310	Metabolite_GeneProduct	Choline	Pld4	*		*	*	*		C00114_Pld4	Enzyme	Solid								
+input	catalyst	C00157	Pld4	R01310	Metabolite_GeneProduct	Phosphatidylcholine	Pld4	*		*	*	*		C00157_Pld4	Enzyme	Solid								
+input	catalyst	C00350	Pld4	R02051	Metabolite_GeneProduct	Phosphatidylethanolamine	Pld4	*		*	*	*		C00350_Pld4	Enzyme	Solid								
+output	catalyst	C00042	Plod1	R03376	Metabolite_GeneProduct	Succinate	Plod1	*		*	*	*		C00042_Plod1	Enzyme	Solid								
+output	catalyst	C00042	Plod2	R03376	Metabolite_GeneProduct	Succinate	Plod2	*		*	*	*		C00042_Plod2	Enzyme	Solid								
+input	catalyst	C00029	Plod3	R04491	Metabolite_GeneProduct	UDP-glucose	Plod3	*		*	*	*		C00029_Plod3	Enzyme	Solid								
+output	catalyst	C00042	Plod3	R03376	Metabolite_GeneProduct	Succinate	Plod3	*		*	*	*		C00042_Plod3	Enzyme	Solid								
+output	catalyst	C00641	Plpp1	R02239	Metabolite_GeneProduct	1,2-Diacyl-sn-glycerol	Plpp1	*		*	*	*		C00641_Plpp1	Enzyme	Solid								
+output	catalyst	C00641	Plpp2	R02239	Metabolite_GeneProduct	1,2-Diacyl-sn-glycerol	Plpp2	*		*	*	*		C00641_Plpp2	Enzyme	Solid								
+output	catalyst	C00641	Plpp3	R02239	Metabolite_GeneProduct	1,2-Diacyl-sn-glycerol	Plpp3	*		*	*	*		C00641_Plpp3	Enzyme	Solid								
+output	catalyst	C00153	Pnp	R02294	Metabolite_GeneProduct	Nicotinamide	Pnp	*		*	*	*		C00153_Pnp	Enzyme	Solid								
+output	catalyst	C00242	Pnp	R01969, R02147	Metabolite_GeneProduct	Guanine	Pnp	*		*	*	*		C00242_Pnp	Enzyme	Solid								
+input	catalyst	C00387	Pnp	R02147	Metabolite_GeneProduct	Guanosine	Pnp	*		*	*	*		C00387_Pnp	Enzyme	Solid								
+input	catalyst	C00157	Pnpla2	R01313, R01315, R01317, R07064, R07859	Metabolite_GeneProduct	Phosphatidylcholine	Pnpla2	*		*	*	*		C00157_Pnpla2	Enzyme	Solid	*	*	*	*		*	*	*
+input	catalyst	C00350	Pnpla2	R02053	Metabolite_GeneProduct	Phosphatidylethanolamine	Pnpla2	*		*	*	*		C00350_Pnpla2	Enzyme	Solid	*	*	*	*		*	*	*
+input	catalyst	C00422	Pnpla2	R01369, R02250	Metabolite_GeneProduct	Triacylglycerol	Pnpla2	*		*	*	*		C00422_Pnpla2	Enzyme	Solid	*	*	*	*	*	*	*	*
+input	catalyst	C00641	Pnpla2	R02687, R02688	Metabolite_GeneProduct	1,2-Diacyl-sn-glycerol	Pnpla2	*		*	*	*		C00641_Pnpla2	Enzyme	Solid	*	*	*	*		*	*	*
+output	catalyst	C04230	Pnpla2	R01313, R01315, R01317, R07064, R07859	Metabolite_GeneProduct	1-Acyl-sn-glycero-3-phosphocholine	Pnpla2	*		*	*	*		C04230_Pnpla2	Enzyme	Solid	*	*	*	*		*	*	*
+output	catalyst	C04438	Pnpla2	R02053	Metabolite_GeneProduct	1-Acyl-sn-glycero-3-phosphoethanolamine	Pnpla2	*		*	*	*		C04438_Pnpla2	Enzyme	Solid	*	*	*	*		*	*	*
+input	catalyst	C00157	Pnpla7	R01309	Metabolite_GeneProduct	Phosphatidylcholine	Pnpla7	*	*	*	*	*	*	C00157_Pnpla7	Enzyme	Solid								
+input	catalyst	C00670	Pnpla7	R02744	Metabolite_GeneProduct	sn-Glycero-3-phosphocholine	Pnpla7	*	*	*	*	*	*	C00670_Pnpla7	Enzyme	Solid								
+input	catalyst	C04230	Pnpla7	R02746, R07291	Metabolite_GeneProduct	1-Acyl-sn-glycero-3-phosphocholine	Pnpla7	*	*	*	*	*	*	C04230_Pnpla7	Enzyme	Solid								
+input	catalyst	C04438	Pnpla7	R03416	Metabolite_GeneProduct	1-Acyl-sn-glycero-3-phosphoethanolamine	Pnpla7	*	*	*	*	*	*	C04438_Pnpla7	Enzyme	Solid								
+input	catalyst	C00157	Pnpla8	R01309	Metabolite_GeneProduct	Phosphatidylcholine	Pnpla8	*		*	*	*		C00157_Pnpla8	Enzyme	Solid								
+input	catalyst	C00670	Pnpla8	R02744	Metabolite_GeneProduct	sn-Glycero-3-phosphocholine	Pnpla8	*		*	*	*		C00670_Pnpla8	Enzyme	Solid								
+input	catalyst	C04230	Pnpla8	R02746, R07291	Metabolite_GeneProduct	1-Acyl-sn-glycero-3-phosphocholine	Pnpla8	*		*	*	*		C04230_Pnpla8	Enzyme	Solid								
+input	catalyst	C04438	Pnpla8	R03416	Metabolite_GeneProduct	1-Acyl-sn-glycero-3-phosphoethanolamine	Pnpla8	*		*	*	*		C04438_Pnpla8	Enzyme	Solid								
+input	catalyst	C00044	Polr1a	R00441	Metabolite_GeneProduct	GTP	Polr1a	*		*	*	*		C00044_Polr1a	Enzyme	Solid								
+input	catalyst	C00063	Polr1a	R00442	Metabolite_GeneProduct	CTP	Polr1a	*		*	*	*		C00063_Polr1a	Enzyme	Solid								
+input	catalyst	C00075	Polr1a	R00443	Metabolite_GeneProduct	UTP	Polr1a	*		*	*	*		C00075_Polr1a	Enzyme	Solid								
+input	catalyst	C00044	Polr1b	R00441	Metabolite_GeneProduct	GTP	Polr1b	*		*	*	*		C00044_Polr1b	Enzyme	Solid								
+input	catalyst	C00063	Polr1b	R00442	Metabolite_GeneProduct	CTP	Polr1b	*		*	*	*		C00063_Polr1b	Enzyme	Solid								
+input	catalyst	C00075	Polr1b	R00443	Metabolite_GeneProduct	UTP	Polr1b	*		*	*	*		C00075_Polr1b	Enzyme	Solid								
+input	catalyst	C00044	Polr3a	R00441	Metabolite_GeneProduct	GTP	Polr3a	*		*	*	*		C00044_Polr3a	Enzyme	Solid								
+input	catalyst	C00063	Polr3a	R00442	Metabolite_GeneProduct	CTP	Polr3a	*		*	*	*		C00063_Polr3a	Enzyme	Solid								
+input	catalyst	C00075	Polr3a	R00443	Metabolite_GeneProduct	UTP	Polr3a	*		*	*	*		C00075_Polr3a	Enzyme	Solid								
+input	catalyst	C00043	Pomgnt2	R10596	Metabolite_GeneProduct	UDP-N-acetyl-alpha-D-glucosamine	Pomgnt2	*		*	*	*		C00043_Pomgnt2	Enzyme	Solid								
+input	catalyst	C00025	Ppat	R01072	Metabolite_GeneProduct	L-Glutamate	Ppat	*		*	*	*		C00025_Ppat	Enzyme	Solid								
+output	catalyst	C00064	Ppat	R01072	Metabolite_GeneProduct	L-Glutamine	Ppat	*		*	*	*		C00064_Ppat	Enzyme	Solid								
+output	catalyst	C00010	Ppt1	R01274	Metabolite_GeneProduct	CoA	Ppt1	*		*	*	*		C00010_Ppt1	Enzyme	Solid								
+output	catalyst	C00010	Ppt2	R01274	Metabolite_GeneProduct	CoA	Ppt2	*		*	*	*		C00010_Ppt2	Enzyme	Solid								
+input	catalyst	C00010	Prdx6	R04480	Metabolite_GeneProduct	CoA	Prdx6	*		*	*	*		C00010_Prdx6	Enzyme	Solid								
+input	catalyst	C00051	Prdx6	R12578	Metabolite_GeneProduct	Glutathione	Prdx6	*		*	*	*		C00051_Prdx6	Enzyme	Solid				*				
+output	catalyst	C00127	Prdx6	R12578	Metabolite_GeneProduct	Glutathione disulfide	Prdx6	*		*	*	*		C00127_Prdx6	Enzyme	Solid								
+input	catalyst	C00157	Prdx6	R01313, R01315, R01317, R07064, R07859	Metabolite_GeneProduct	Phosphatidylcholine	Prdx6	*		*	*	*		C00157_Prdx6	Enzyme	Solid								
+input	catalyst	C00350	Prdx6	R02053, R04480	Metabolite_GeneProduct	Phosphatidylethanolamine	Prdx6	*		*	*	*		C00350_Prdx6	Enzyme	Solid								
+input	catalyst	C04230	Prdx6	R01318	Metabolite_GeneProduct	1-Acyl-sn-glycero-3-phosphocholine	Prdx6	*		*	*	*		C04230_Prdx6	Enzyme	Solid								
+output	catalyst	C04438	Prdx6	R02053, R04480	Metabolite_GeneProduct	1-Acyl-sn-glycero-3-phosphoethanolamine	Prdx6	*		*	*	*		C04438_Prdx6	Enzyme	Solid								
+input	catalyst	C01157	Prodh2	R03295	Metabolite_GeneProduct	Hydroxyproline	Prodh2	*		*	*	*		C01157_Prodh2	Enzyme	Solid								
+input	catalyst	C00117	Prps1	R01049	Metabolite_GeneProduct	D-Ribose 5-phosphate	Prps1	*		*	*	*		C00117_Prps1	Enzyme	Solid	*							
+input	catalyst	C00117	Prps2	R01049	Metabolite_GeneProduct	D-Ribose 5-phosphate	Prps2	*		*	*	*		C00117_Prps2	Enzyme	Solid	*							
+input	catalyst	C00350	Ptdss1	R07376	Metabolite_GeneProduct	Phosphatidylethanolamine	Ptdss1	*		*	*	*		C00350_Ptdss1	Enzyme	Solid								
+output	catalyst	C02737	Ptdss1	R07376	Metabolite_GeneProduct	Phosphatidylserine	Ptdss1	*		*	*	*		C02737_Ptdss1	Enzyme	Solid								
+input	catalyst	C00350	Ptdss2	R07376	Metabolite_GeneProduct	Phosphatidylethanolamine	Ptdss2	*		*	*	*		C00350_Ptdss2	Enzyme	Solid								
+output	catalyst	C02737	Ptdss2	R07376	Metabolite_GeneProduct	Phosphatidylserine	Ptdss2	*		*	*	*		C02737_Ptdss2	Enzyme	Solid								
+output	catalyst	C01194	Pten	R03363	Metabolite_GeneProduct	1-Phosphatidyl-D-myo-inositol	Pten	*		*	*	*		C01194_Pten	Enzyme	Solid								
+input	catalyst	C01157	Pycr2	R03291, R03293	Metabolite_GeneProduct	Hydroxyproline	Pycr2	*		*	*	*		C01157_Pycr2	Enzyme	Solid								
+output	catalyst	C00004	Pycr3	R01248, R03291	Metabolite_GeneProduct	NADH	Pycr3		*	*	*		*	C00004_Pycr3	Enzyme	Solid					*		*	
+output	catalyst	C00005	Pycr3	R01251, R03293	Metabolite_GeneProduct	NADPH	Pycr3		*	*	*		*	C00005_Pycr3	Enzyme	Solid								
+input	catalyst	C00148	Pycr3	R01248, R01251	Metabolite_GeneProduct	L-Proline	Pycr3		*	*	*		*	C00148_Pycr3	Enzyme	Solid								
+input	catalyst	C01157	Pycr3	R03291, R03293	Metabolite_GeneProduct	Hydroxyproline	Pycr3	*	*	*	*	*	*	C01157_Pycr3	Enzyme	Solid								
+input	catalyst	C00025	Qrsl1	R03905, R04212	Metabolite_GeneProduct	L-Glutamate	Qrsl1	*		*	*	*		C00025_Qrsl1	Enzyme	Solid								
+output	catalyst	C00064	Qrsl1	R03905, R04212	Metabolite_GeneProduct	L-Glutamine	Qrsl1	*		*	*	*		C00064_Qrsl1	Enzyme	Solid								
+output	catalyst	C00242	Qtrt1	R03789	Metabolite_GeneProduct	Guanine	Qtrt1	*		*	*	*		C00242_Qtrt1	Enzyme	Solid								
+input	catalyst	C00044	Rab10	R00335	Metabolite_GeneProduct	GTP	Rab10	*		*	*	*		C00044_Rab10	Enzyme	Solid								
+input	catalyst	C00044	Rab11a	R00335	Metabolite_GeneProduct	GTP	Rab11a	*		*	*	*		C00044_Rab11a	Enzyme	Solid								
+input	catalyst	C00044	Rab11b	R00335	Metabolite_GeneProduct	GTP	Rab11b	*		*	*	*		C00044_Rab11b	Enzyme	Solid								
+input	catalyst	C00044	Rab14	R00335	Metabolite_GeneProduct	GTP	Rab14	*		*	*	*		C00044_Rab14	Enzyme	Solid								
+input	catalyst	C00044	Rab1a	R00335	Metabolite_GeneProduct	GTP	Rab1a	*		*	*	*		C00044_Rab1a	Enzyme	Solid								
+input	catalyst	C00044	Rab27a	R00335	Metabolite_GeneProduct	GTP	Rab27a	*		*	*	*		C00044_Rab27a	Enzyme	Solid								
+input	catalyst	C00044	Rab2a	R00335	Metabolite_GeneProduct	GTP	Rab2a	*		*	*	*		C00044_Rab2a	Enzyme	Solid								
+input	catalyst	C00044	Rab4a	R00335	Metabolite_GeneProduct	GTP	Rab4a	*		*	*	*		C00044_Rab4a	Enzyme	Solid								
+input	catalyst	C00044	Rab4b	R00335	Metabolite_GeneProduct	GTP	Rab4b	*		*	*	*		C00044_Rab4b	Enzyme	Solid								
+input	catalyst	C00044	Rab7a	R00335	Metabolite_GeneProduct	GTP	Rab7a	*		*	*	*		C00044_Rab7a	Enzyme	Solid								
+input	catalyst	C00044	Rab8a	R00335	Metabolite_GeneProduct	GTP	Rab8a	*		*	*	*		C00044_Rab8a	Enzyme	Solid								
+input	catalyst	C00044	Rac1	R00335	Metabolite_GeneProduct	GTP	Rac1	*		*	*	*		C00044_Rac1	Enzyme	Solid								
+input	catalyst	C00044	Rala	R00335	Metabolite_GeneProduct	GTP	Rala	*		*	*	*		C00044_Rala	Enzyme	Solid								
+output	catalyst	C00035	Ralb	R00335	Metabolite_GeneProduct	GDP	Ralb		*	*	*		*	C00035_Ralb	Enzyme	Solid								
+input	catalyst	C00044	Ralb	R00335	Metabolite_GeneProduct	GTP	Ralb	*	*	*	*	*	*	C00044_Ralb	Enzyme	Solid								
+input	catalyst	C00044	Rap1a	R00335	Metabolite_GeneProduct	GTP	Rap1a	*		*	*	*		C00044_Rap1a	Enzyme	Solid								
+input	catalyst	C00044	Rap2b	R00335	Metabolite_GeneProduct	GTP	Rap2b	*		*	*	*		C00044_Rap2b	Enzyme	Solid								
+input	catalyst	C00044	Rasl11a	R00335	Metabolite_GeneProduct	GTP	Rasl11a	*		*	*	*		C00044_Rasl11a	Enzyme	Solid								
+input	catalyst	C00044	Rasl11b	R00335	Metabolite_GeneProduct	GTP	Rasl11b	*		*	*	*		C00044_Rasl11b	Enzyme	Solid		*	*		*			
+input	catalyst	C00473	Rdh10	R08379	Metabolite_GeneProduct	Retinol	Rdh10	*		*	*	*		C00473_Rdh10	Enzyme	Solid								
+input	catalyst	C00473	Rdh16	R02124	Metabolite_GeneProduct	Retinol	Rdh16	*		*	*	*		C00473_Rdh16	Enzyme	Solid								
+output	catalyst	C00473	Retsat	R07163	Metabolite_GeneProduct	Retinol	Retsat	*	*	*	*	*	*	C00473_Retsat	Enzyme	Solid								
+input	catalyst	C00044	Rhoa	R00335	Metabolite_GeneProduct	GTP	Rhoa	*		*	*	*		C00044_Rhoa	Enzyme	Solid								
+output	catalyst	C00042	Riox1	R09510, R09511, R10056, R12459, R12460, R12461, R13015	Metabolite_GeneProduct	Succinate	Riox1	*		*	*	*		C00042_Riox1	Enzyme	Solid								
+input	catalyst	C00026	Riox2	R09510, R12459, R12460, R13015	Metabolite_GeneProduct	2-Oxoglutarate	Riox2		*	*	*		*	C00026_Riox2	Enzyme	Solid								
+output	catalyst	C00042	Riox2	R09510, R12459, R12460, R13015	Metabolite_GeneProduct	Succinate	Riox2	*	*	*	*	*	*	C00042_Riox2	Enzyme	Solid								
+output	catalyst	C01194	Sacm1l	R03363	Metabolite_GeneProduct	1-Phosphatidyl-D-myo-inositol	Sacm1l	*		*	*	*		C01194_Sacm1l	Enzyme	Solid								
+input	catalyst	C00044	Sar1b	R00335	Metabolite_GeneProduct	GTP	Sar1b	*		*	*	*		C00044_Sar1b	Enzyme	Solid								
+output	catalyst	C00153	Sarm1	R00102, R10629	Metabolite_GeneProduct	Nicotinamide	Sarm1	*	*	*	*	*	*	C00153_Sarm1	Enzyme	Solid								
+output	catalyst	C00301	Sarm1	R00102, R10630	Metabolite_GeneProduct	ADP-ribose	Sarm1		*	*	*		*	C00301_Sarm1	Enzyme	Solid								
+input	catalyst	C00010	Scp2	R05506, R05586, R08091, R08095	Metabolite_GeneProduct	CoA	Scp2	*		*	*	*		C00010_Scp2	Enzyme	Solid								
+input	catalyst	C05270	Scp2	R04747	Metabolite_GeneProduct	Hexanoyl-CoA	Scp2	*		*	*	*		C05270_Scp2	Enzyme	Solid								
+input	catalyst	C00042	Sdha	R02164, R13223	Metabolite_GeneProduct	Succinate	Sdha	*		*	*	*		C00042_Sdha	Enzyme	Solid								
+input	catalyst	C00042	Sdhb	R02164, R13223	Metabolite_GeneProduct	Succinate	Sdhb	*		*	*	*		C00042_Sdhb	Enzyme	Solid								
+input	catalyst	C00025	Sdsl	R00260	Metabolite_GeneProduct	L-Glutamate	Sdsl	*		*	*	*		C00025_Sdsl	Enzyme	Solid								
+input	catalyst	C00051	Selenot	R00900	Metabolite_GeneProduct	Glutathione	Selenot	*		*	*	*		C00051_Selenot	Enzyme	Solid				*				
+input	catalyst	C00097	Selenot	R00900	Metabolite_GeneProduct	L-Cysteine	Selenot	*		*	*	*		C00097_Selenot	Enzyme	Solid			*				*	*
+input	catalyst	C00157	Sgms1	R08969	Metabolite_GeneProduct	Phosphatidylcholine	Sgms1	*		*	*	*		C00157_Sgms1	Enzyme	Solid								
+output	catalyst	C00550	Sgms1	R08969	Metabolite_GeneProduct	Sphingomyelin	Sgms1	*		*	*	*		C00550_Sgms1	Enzyme	Solid								
+output	catalyst	C00641	Sgms1	R08969	Metabolite_GeneProduct	1,2-Diacyl-sn-glycerol	Sgms1	*		*	*	*		C00641_Sgms1	Enzyme	Solid								
+input	catalyst	C00157	Sgms2	R08969	Metabolite_GeneProduct	Phosphatidylcholine	Sgms2	*		*	*	*		C00157_Sgms2	Enzyme	Solid								
+output	catalyst	C00550	Sgms2	R08969	Metabolite_GeneProduct	Sphingomyelin	Sgms2	*		*	*	*		C00550_Sgms2	Enzyme	Solid								
+output	catalyst	C00641	Sgms2	R08969	Metabolite_GeneProduct	1,2-Diacyl-sn-glycerol	Sgms2	*		*	*	*		C00641_Sgms2	Enzyme	Solid								
+output	catalyst	C00153	Sirt2	R10633, R10634	Metabolite_GeneProduct	Nicotinamide	Sirt2	*		*	*	*		C00153_Sirt2	Enzyme	Solid								
+output	catalyst	C00153	Sirt4	R13186	Metabolite_GeneProduct	Nicotinamide	Sirt4	*		*	*	*		C00153_Sirt4	Enzyme	Solid								
+output	catalyst	C00153	Sirt5	R10633, R10634	Metabolite_GeneProduct	Nicotinamide	Sirt5	*		*	*	*		C00153_Sirt5	Enzyme	Solid								
+output	catalyst	C00153	Sirt7	R10633, R10634	Metabolite_GeneProduct	Nicotinamide	Sirt7	*		*	*	*		C00153_Sirt7	Enzyme	Solid								
+input	catalyst	C00010	Slc27a1	R00390, R01280, R01598	Metabolite_GeneProduct	CoA	Slc27a1	*		*	*	*		C00010_Slc27a1	Enzyme	Solid								
+input	catalyst	C00010	Slc27a2	R00390, R01280, R01598, R02794, R03631, R04507, R04580, R08733, R08738	Metabolite_GeneProduct	CoA	Slc27a2	*		*	*	*		C00010_Slc27a2	Enzyme	Solid								
+output	catalyst	C02528	Slc27a2	R08743	Metabolite_GeneProduct	Chenodeoxycholate	Slc27a2	*		*	*	*		C02528_Slc27a2	Enzyme	Solid					*			
+input	catalyst	C00002	Slc27a5	R00390, R01280, R02794, R04507, R04580, R08733, R08738	Metabolite_GeneProduct	ATP	Slc27a5		*	*	*		*	C00002_Slc27a5	Enzyme	Solid								
+input	catalyst	C00010	Slc27a5	R00390, R01280, R02794, R04507, R04580, R08733, R08738	Metabolite_GeneProduct	CoA	Slc27a5	*	*	*	*	*	*	C00010_Slc27a5	Enzyme	Solid								
+input	catalyst	C00020	Slc27a5	R08743	Metabolite_GeneProduct	AMP	Slc27a5		*	*	*		*	C00020_Slc27a5	Enzyme	Solid								
+input	catalyst	C00249	Slc27a5	R01280	Metabolite_GeneProduct	Hexadecanoic acid	Slc27a5		*	*	*		*	C00249_Slc27a5	Enzyme	Solid						*	*	
+output	catalyst	C02528	Slc27a5	R08743	Metabolite_GeneProduct	Chenodeoxycholate	Slc27a5	*	*	*	*	*	*	C02528_Slc27a5	Enzyme	Solid					*			
+input	catalyst	C00550	Smpd2	R02541	Metabolite_GeneProduct	Sphingomyelin	Smpd2	*		*	*	*		C00550_Smpd2	Enzyme	Solid								
+input	catalyst	C00550	Smpd3	R02541	Metabolite_GeneProduct	Sphingomyelin	Smpd3	*		*	*	*		C00550_Smpd3	Enzyme	Solid								
+output	catalyst	C00010	Soat1	R01461, R12496	Metabolite_GeneProduct	CoA	Soat1	*		*	*	*		C00010_Soat1	Enzyme	Solid								
+output	catalyst	C02530	Soat1	R01461	Metabolite_GeneProduct	Cholesterol ester	Soat1	*		*	*	*		C02530_Soat1	Enzyme	Solid								
+output	catalyst	C00010	Soat2	R01461, R12496	Metabolite_GeneProduct	CoA	Soat2	*		*	*	*		C00010_Soat2	Enzyme	Solid								
+output	catalyst	C02530	Soat2	R01461	Metabolite_GeneProduct	Cholesterol ester	Soat2	*		*	*	*		C02530_Soat2	Enzyme	Solid								
+output	catalyst	C00010	Sptlc1	R01281	Metabolite_GeneProduct	CoA	Sptlc1	*		*	*	*		C00010_Sptlc1	Enzyme	Solid								
+output	catalyst	C00010	Sptlc2	R01281	Metabolite_GeneProduct	CoA	Sptlc2	*		*	*	*		C00010_Sptlc2	Enzyme	Solid								
+input	catalyst	C00010	Sucla2	R00432, R00727, R02405, R02406	Metabolite_GeneProduct	CoA	Sucla2	*		*	*	*		C00010_Sucla2	Enzyme	Solid								
+input	catalyst	C00042	Sucla2	R00432, R00727	Metabolite_GeneProduct	Succinate	Sucla2	*		*	*	*		C00042_Sucla2	Enzyme	Solid								
+input	catalyst	C00044	Sucla2	R00432, R02405	Metabolite_GeneProduct	GTP	Sucla2	*		*	*	*		C00044_Sucla2	Enzyme	Solid								
+input	catalyst	C00010	Suclg1	R00405, R00432, R00727, R02404, R02405, R02406	Metabolite_GeneProduct	CoA	Suclg1	*		*	*	*		C00010_Suclg1	Enzyme	Solid								
+input	catalyst	C00042	Suclg1	R00405, R00432, R00727	Metabolite_GeneProduct	Succinate	Suclg1	*		*	*	*		C00042_Suclg1	Enzyme	Solid								
+input	catalyst	C00044	Suclg1	R00432, R02405	Metabolite_GeneProduct	GTP	Suclg1	*		*	*	*		C00044_Suclg1	Enzyme	Solid								
+input	catalyst	C00010	Suclg2	R00405, R02404	Metabolite_GeneProduct	CoA	Suclg2	*		*	*	*		C00010_Suclg2	Enzyme	Solid								
+input	catalyst	C00042	Suclg2	R00405	Metabolite_GeneProduct	Succinate	Suclg2	*		*	*	*		C00042_Suclg2	Enzyme	Solid								
+output	catalyst	C02686	Sulf1	R04856	Metabolite_GeneProduct	Galactosylceramide	Sulf1	*		*	*	*		C02686_Sulf1	Enzyme	Solid								
+output	catalyst	C00085	Taldo1	R08575	Metabolite_GeneProduct	D-Fructose 6-phosphate	Taldo1	*		*	*	*		C00085_Taldo1	Enzyme	Solid	*	*						
+input	catalyst	C05382	Taldo1	R01827, R08575	Metabolite_GeneProduct	Sedoheptulose 7-phosphate	Taldo1	*		*	*	*		C05382_Taldo1	Enzyme	Solid	*	*						
+input	catalyst	C00063	Tamm41	R01799	Metabolite_GeneProduct	CTP	Tamm41	*		*	*	*		C00063_Tamm41	Enzyme	Solid								
+input	catalyst	C00025	Tat	R07396	Metabolite_GeneProduct	L-Glutamate	Tat	*		*	*	*		C00025_Tat	Enzyme	Solid								
+input	catalyst	C00078	Tdo2	R00678	Metabolite_GeneProduct	L-Tryptophan	Tdo2	*	*	*	*	*	*	C00078_Tdo2	Enzyme	Solid								
+output	catalyst	C00010	Them4	R01274, R08174, R08175, R08176, R08177, R08178, R08179, R08180, R08181, R08182, R08183, R09450	Metabolite_GeneProduct	CoA	Them4	*		*	*	*		C00010_Them4	Enzyme	Solid								
+input	catalyst	C00016	Tkfc	R07636	Metabolite_GeneProduct	FAD	Tkfc	*		*	*	*		C00016_Tkfc	Enzyme	Solid								
+output	catalyst	C00111	Tkfc	R01011	Metabolite_GeneProduct	Glycerone phosphate	Tkfc	*		*	*	*		C00111_Tkfc	Enzyme	Solid	*							
+input	catalyst	C00085	Tkt	R01067	Metabolite_GeneProduct	D-Fructose 6-phosphate	Tkt	*	*	*	*	*	*	C00085_Tkt	Enzyme	Solid	*	*						
+input	catalyst	C00117	Tkt	R06590	Metabolite_GeneProduct	D-Ribose 5-phosphate	Tkt	*	*	*	*	*	*	C00117_Tkt	Enzyme	Solid	*							
+input	catalyst	C00118	Tkt	R01067, R01641, R01830	Metabolite_GeneProduct	D-Glyceraldehyde 3-phosphate	Tkt		*	*	*		*	C00118_Tkt	Enzyme	Solid								
+output	catalyst	C00279	Tkt	R01067, R01830	Metabolite_GeneProduct	D-Erythrose 4-phosphate	Tkt		*	*	*		*	C00279_Tkt	Enzyme	Solid	*							
+input	catalyst	C05382	Tkt	R01641, R06863	Metabolite_GeneProduct	Sedoheptulose 7-phosphate	Tkt	*	*	*	*	*	*	C05382_Tkt	Enzyme	Solid	*	*						
+output	catalyst	C00670	Tmem86b	R02745	Metabolite_GeneProduct	sn-Glycero-3-phosphocholine	Tmem86b	*		*	*	*		C00670_Tmem86b	Enzyme	Solid								
+output	catalyst	C00042	Tmlhe	R03451	Metabolite_GeneProduct	Succinate	Tmlhe	*		*	*	*		C00042_Tmlhe	Enzyme	Solid								
+input	catalyst	C00111	Tpi1	R01016	Metabolite_GeneProduct	Glycerone phosphate	Tpi1	*		*	*	*		C00111_Tpi1	Enzyme	Solid	*							
+output	catalyst	C00020	Trpm2	R01054	Metabolite_GeneProduct	AMP	Trpm2		*	*	*		*	C00020_Trpm2	Enzyme	Solid								
+output	catalyst	C00117	Trpm2	R01054	Metabolite_GeneProduct	D-Ribose 5-phosphate	Trpm2	*	*	*	*	*	*	C00117_Trpm2	Enzyme	Solid	*							
+input	catalyst	C00301	Trpm2	R01054	Metabolite_GeneProduct	ADP-ribose	Trpm2		*	*	*		*	C00301_Trpm2	Enzyme	Solid								
+input	catalyst	C00075	Tut1	R00443	Metabolite_GeneProduct	UTP	Tut1	*		*	*	*		C00075_Tut1	Enzyme	Solid								
+input	catalyst	C00051	Txndc12	R02824	Metabolite_GeneProduct	Glutathione	Txndc12	*		*	*	*		C00051_Txndc12	Enzyme	Solid				*				
+input	catalyst	C00127	Txndc12	R03915	Metabolite_GeneProduct	Glutathione disulfide	Txndc12	*		*	*	*		C00127_Txndc12	Enzyme	Solid								
+input	catalyst	C00005	Txnrd1	R00113, R09372	Metabolite_GeneProduct	NADPH	Txnrd1		*	*	*		*	C00005_Txnrd1	Enzyme	Solid								
+input	catalyst	C00051	Txnrd1	R00900	Metabolite_GeneProduct	Glutathione	Txnrd1	*	*	*	*	*	*	C00051_Txnrd1	Enzyme	Solid				*				
+input	catalyst	C00097	Txnrd1	R00900	Metabolite_GeneProduct	L-Cysteine	Txnrd1	*	*	*	*	*	*	C00097_Txnrd1	Enzyme	Solid			*				*	*
+input	catalyst	C00005	Txnrd2	R09372	Metabolite_GeneProduct	NADPH	Txnrd2		*	*	*		*	C00005_Txnrd2	Enzyme	Solid								
+input	catalyst	C00051	Txnrd2	R00900	Metabolite_GeneProduct	Glutathione	Txnrd2	*	*	*	*	*	*	C00051_Txnrd2	Enzyme	Solid				*				
+input	catalyst	C00097	Txnrd2	R00900	Metabolite_GeneProduct	L-Cysteine	Txnrd2	*	*	*	*	*	*	C00097_Txnrd2	Enzyme	Solid			*				*	*
+output	catalyst	C00242	Tymp	R01969	Metabolite_GeneProduct	Guanine	Tymp	*		*	*	*		C00242_Tymp	Enzyme	Solid								
+output	catalyst	C00043	Uap1l1	R00416	Metabolite_GeneProduct	UDP-N-acetyl-alpha-D-glucosamine	Uap1l1	*		*	*	*		C00043_Uap1l1	Enzyme	Solid								
+input	catalyst	C00075	Uap1l1	R00416, R10183	Metabolite_GeneProduct	UTP	Uap1l1	*		*	*	*		C00075_Uap1l1	Enzyme	Solid								
+input	catalyst	C00044	Uck2	R00517, R00968	Metabolite_GeneProduct	GTP	Uck2	*		*	*	*		C00044_Uck2	Enzyme	Solid								
+input	catalyst	C00029	Ugcg	R01497	Metabolite_GeneProduct	UDP-glucose	Ugcg	*		*	*	*		C00029_Ugcg	Enzyme	Solid								
+output	catalyst	C00004	Ugdh	R00286	Metabolite_GeneProduct	NADH	Ugdh		*	*	*		*	C00004_Ugdh	Enzyme	Solid					*		*	
+input	catalyst	C00029	Ugdh	R00286	Metabolite_GeneProduct	UDP-glucose	Ugdh	*	*	*	*	*	*	C00029_Ugdh	Enzyme	Solid								
+output	catalyst	C00167	Ugdh	R00286	Metabolite_GeneProduct	UDP-glucuronate	Ugdh		*	*	*		*	C00167_Ugdh	Enzyme	Solid								
+input	catalyst	C00366	Uox	R02106	Metabolite_GeneProduct	Urate	Uox	*	*	*	*	*	*	C00366_Uox	Enzyme	Solid								
+output	catalyst	C00366	Xdh	R02103, R02107	Metabolite_GeneProduct	Urate	Xdh	*		*	*	*		C00366_Xdh	Enzyme	Solid								
+output	catalyst	C00010	Zdhhc12	R10484	Metabolite_GeneProduct	CoA	Zdhhc12	*		*	*	*		C00010_Zdhhc12	Enzyme	Solid								
+output	catalyst	C00010	Zdhhc15	R10484	Metabolite_GeneProduct	CoA	Zdhhc15	*		*	*	*		C00010_Zdhhc15	Enzyme	Solid								
+output	catalyst	C00010	Zdhhc17	R10484	Metabolite_GeneProduct	CoA	Zdhhc17	*		*	*	*		C00010_Zdhhc17	Enzyme	Solid								
+output	catalyst	C00010	Zdhhc18	R10484	Metabolite_GeneProduct	CoA	Zdhhc18	*		*	*	*		C00010_Zdhhc18	Enzyme	Solid								
+output	catalyst	C00010	Zdhhc2	R10484	Metabolite_GeneProduct	CoA	Zdhhc2	*		*	*	*		C00010_Zdhhc2	Enzyme	Solid								
+output	catalyst	C00010	Zdhhc23	R10484	Metabolite_GeneProduct	CoA	Zdhhc23	*		*	*	*		C00010_Zdhhc23	Enzyme	Solid								
+output	catalyst	C00010	Zdhhc24	R10484	Metabolite_GeneProduct	CoA	Zdhhc24	*		*	*	*		C00010_Zdhhc24	Enzyme	Solid								
+output	catalyst	C00010	Zdhhc3	R10484	Metabolite_GeneProduct	CoA	Zdhhc3	*		*	*	*		C00010_Zdhhc3	Enzyme	Solid								
+output	catalyst	C00010	Zdhhc4	R10484	Metabolite_GeneProduct	CoA	Zdhhc4	*		*	*	*		C00010_Zdhhc4	Enzyme	Solid								
+output	catalyst	C00010	Zdhhc5	R10484	Metabolite_GeneProduct	CoA	Zdhhc5	*		*	*	*		C00010_Zdhhc5	Enzyme	Solid								
+output	catalyst	C00010	Zdhhc7	R10484	Metabolite_GeneProduct	CoA	Zdhhc7	*		*	*	*		C00010_Zdhhc7	Enzyme	Solid								

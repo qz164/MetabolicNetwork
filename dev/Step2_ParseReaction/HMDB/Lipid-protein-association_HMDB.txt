@@ -1,0 +1,995 @@
+class	HMDB_id	protein_accession	Protein name	uniprot_id	gene_name	protein_type
+TG	HMDB_TG	HMDBP00221	Pancreatic triacylglycerol lipase	P16233	PNLIP	Enzyme
+TG	HMDB_TG	HMDBP00226	Hepatic triacylglycerol lipase	P11150	LIPC	Enzyme
+TG	HMDB_TG	HMDBP00229	Inactive pancreatic lipase-related protein 1	P54315	PNLIPRP1	Enzyme
+TG	HMDB_TG	HMDBP00232	Patatin-like phospholipase domain-containing protein 3	Q9NST1	PNPLA3	Enzyme
+TG	HMDB_TG	HMDBP00236	Gastric triacylglycerol lipase	P07098	LIPF	Enzyme
+TG	HMDB_TG	HMDBP00239	Endothelial lipase	Q9Y5X9	LIPG	Enzyme
+TG	HMDB_TG	HMDBP00241	Bile salt-activated lipase	P19835	CEL	Unknown
+TG	HMDB_TG	HMDBP00243	Diacylglycerol O-acyltransferase 1	O75907	DGAT1	Enzyme
+TG	HMDB_TG	HMDBP00245	Pancreatic lipase-related protein 2	P54317	PNLIPRP2	Enzyme
+TG	HMDB_TG	HMDBP00310	Lipoprotein lipase	P06858	LPL	Enzyme
+TG	HMDB_TG	HMDBP00314	Monoglyceride lipase	Q99685	MGLL	Enzyme
+TG	HMDB_TG	HMDBP00497	Liver carboxylesterase 1	P23141	CES1	Enzyme
+TG	HMDB_TG	HMDBP00531	Hormone-sensitive lipase	Q05469	LIPE	Unknown
+TG	HMDB_TG	HMDBP01619	Microsomal triglyceride transfer protein large subunit	P55157	MTTP	Transporter
+TG	HMDB_TG	HMDBP02802	Protein disulfide-isomerase	P07237	P4HB	Enzyme
+TG	HMDB_TG	HMDBP03089	2-acylglycerol O-acyltransferase 2	Q3SYC2	MOGAT2	Enzyme
+TG	HMDB_TG	HMDBP03160	Patatin-like phospholipase domain-containing protein 4	P41247	PNPLA4	Enzyme
+TG	HMDB_TG	HMDBP04483	Diacylglycerol O-acyltransferase 2	Q96PD7	DGAT2	Enzyme
+TG	HMDB_TG	HMDBP04645	2-acylglycerol O-acyltransferase 1	Q96PD6	MOGAT1	Enzyme
+TG	HMDB_TG	HMDBP07284	2-acylglycerol O-acyltransferase 3	Q86VF5	MOGAT3	Enzyme
+TG	HMDB_TG	HMDBP07301	"Phospholipase B1, membrane-associated"	Q6P1J6	PLB1	Unknown
+TG	HMDB_TG	HMDBP07314	Glycerol-3-phosphate acyltransferase 3	Q53EU6	AGPAT9	Enzyme
+TG	HMDB_TG	HMDBP07347	Patatin-like phospholipase domain-containing protein 2	Q96AD5	PNPLA2	Enzyme
+TG	HMDB_TG	HMDBP10934	Pancreatic lipase-related protein 3	Q17RR3	PNLIPRP3	Enzyme
+TG	HMDB_TG	HMDBP10984	Perilipin-4	Q96Q06	PLIN4	Unknown
+TG	HMDB_TG	HMDBP10985	Apolipoprotein C-II	P02655	APOC2	Unknown
+TG	HMDB_TG	HMDBP00227	Lysosomal acid lipase/cholesteryl ester hydrolase	P38571	LIPA	Enzyme
+TG	HMDB_TG	HMDBP00308	"Carnitine O-palmitoyltransferase 1, muscle isoform"	Q92523	CPT1B	Enzyme
+TG	HMDB_TG	HMDBP00309	"Carnitine O-palmitoyltransferase 1, liver isoform"	P50416	CPT1A	Enzyme
+TG	HMDB_TG	HMDBP00311	"Carnitine O-palmitoyltransferase 2, mitochondrial"	P23786	CPT2	Enzyme
+TG	HMDB_TG	HMDBP01620	Apolipoprotein A-I	P02647	APOA1	Enzyme
+TG	HMDB_TG	HMDBP01622	Cholesteryl ester transfer protein	P11597	CETP	Transporter
+TG	HMDB_TG	HMDBP01986	Apolipoprotein E	P02649	APOE	Enzyme
+TG	HMDB_TG	HMDBP01987	Apolipoprotein C-III precursor	P02656	APOC3	Transporter
+TG	HMDB_TG	HMDBP02081	Apolipoprotein B-100	P04114	APOB	Enzyme
+TG	HMDB_TG	HMDBP02093	Apolipoprotein A-IV precursor	P06727	APOA4	Transporter
+TG	HMDB_TG	HMDBP02136	Platelet glycoprotein 4	P16671	CD36	Transporter
+TG	HMDB_TG	HMDBP03176	Long-chain fatty acid transport protein 1	Q6PCB7	SLC27A1	Transporter
+TG	HMDB_TG	HMDBP10986	Apolipoprotein A-V	Q6Q788	APOA5	Unknown
+PC	HMDB_PC	HMDBP00056	Acyl-protein thioesterase 1	O75608	LYPLA1	Enzyme
+PC	HMDB_PC	HMDBP00057	Group XV phospholipase A2	Q8NCC3	PLA2G15	Unknown
+PC	HMDB_PC	HMDBP00058	Calcium-dependent phospholipase A2	P39877	PLA2G5	Unknown
+PC	HMDB_PC	HMDBP00059	Group IIF secretory phospholipase A2	Q9BZM2	PLA2G2F	Unknown
+PC	HMDB_PC	HMDBP00060	Cytosolic phospholipase A2	P47712	PLA2G4A	Unknown
+PC	HMDB_PC	HMDBP00061	Phospholipase A2	P04054	PLA2G1B	Unknown
+PC	HMDB_PC	HMDBP00062	Group XIIB secretory phospholipase A2-like protein	Q9BX93	PLA2G12B	Unknown
+PC	HMDB_PC	HMDBP00063	Group 10 secretory phospholipase A2	O15496	PLA2G10	Unknown
+PC	HMDB_PC	HMDBP00065	Group IIE secretory phospholipase A2	Q9NZK7	PLA2G2E	Unknown
+PC	HMDB_PC	HMDBP00066	Acyl-protein thioesterase 2	O95372	LYPLA2	Enzyme
+PC	HMDB_PC	HMDBP00067	Group XIIA secretory phospholipase A2	Q9BZM1	PLA2G12A	Unknown
+PC	HMDB_PC	HMDBP00068	85/88 kDa calcium-independent phospholipase A2	O60733	PLA2G6	Unknown
+PC	HMDB_PC	HMDBP00069	Phosphatidylcholine-sterol acyltransferase	P04180	LCAT	Enzyme
+PC	HMDB_PC	HMDBP00070	Eosinophil lysophospholipase	Q05315	CLC	Enzyme
+PC	HMDB_PC	HMDBP00072	"Phospholipase A2, membrane associated"	P14555	PLA2G2A	Unknown
+PC	HMDB_PC	HMDBP00073	Group IID secretory phospholipase A2	Q9UNK4	PLA2G2D	Unknown
+PC	HMDB_PC	HMDBP00080	Phospholipase D2	O14939	PLD2	Enzyme
+PC	HMDB_PC	HMDBP00081	Phosphatidylethanolamine N-methyltransferase	Q9UBM1	PEMT	Unknown
+PC	HMDB_PC	HMDBP00082	Phospholipase D1	Q13393	PLD1	Unknown
+PC	HMDB_PC	HMDBP00529	Cytosolic phospholipase A2 gamma	Q9UP65	PLA2G4C	Unknown
+PC	HMDB_PC	HMDBP00532	Group 3 secretory phospholipase A2	Q9NZ20	PLA2G3	Unknown
+PC	HMDB_PC	HMDBP00540	"D-beta-hydroxybutyrate dehydrogenase, mitochondrial"	Q02338	BDH1	Unknown
+PC	HMDB_PC	HMDBP00732	Choline-phosphate cytidylyltransferase B	Q9Y5K3	PCYT1B	Enzyme
+PC	HMDB_PC	HMDBP00755	Choline-phosphate cytidylyltransferase A	P49585	PCYT1A	Enzyme
+PC	HMDB_PC	HMDBP00770	Phosphatidylcholine:ceramide cholinephosphotransferase 2	Q8NHU3	SGMS2	Enzyme
+PC	HMDB_PC	HMDBP00775	Phosphatidylcholine:ceramide cholinephosphotransferase 1	Q86VZ5	SGMS1	Enzyme
+PC	HMDB_PC	HMDBP00778	Choline kinase alpha	P35790	CHKA	Enzyme
+PC	HMDB_PC	HMDBP01131	Probable phospholipid-transporting ATPase IG	Q8NB49	ATP11C	Unknown
+PC	HMDB_PC	HMDBP01132	Probable phospholipid-transporting ATPase IH	P98196	ATP11A	Unknown
+PC	HMDB_PC	HMDBP01169	Probable phospholipid-transporting ATPase VA	O60312	ATP10A	Unknown
+PC	HMDB_PC	HMDBP01192	Probable phospholipid-transporting ATPase IC	O43520	ATP8B1	Unknown
+PC	HMDB_PC	HMDBP01220	Probable phospholipid-transporting ATPase IIA	O75110	ATP9A	Unknown
+PC	HMDB_PC	HMDBP01239	Probable phospholipid-transporting ATPase VD	Q9P241	ATP10D	Unknown
+PC	HMDB_PC	HMDBP01247	Probable phospholipid-transporting ATPase IB	Q9NTI2	ATP8A2	Unknown
+PC	HMDB_PC	HMDBP01359	Probable phospholipid-transporting ATPase IA	Q9Y2Q0	ATP8A1	Unknown
+PC	HMDB_PC	HMDBP01463	Probable phospholipid-transporting ATPase IM	Q8TF62	ATP8B4	Unknown
+PC	HMDB_PC	HMDBP01485	Probable phospholipid-transporting ATPase IF	Q9Y2G3	ATP11B	Unknown
+PC	HMDB_PC	HMDBP01489	Probable phospholipid-transporting ATPase IK	O60423	ATP8B3	Unknown
+PC	HMDB_PC	HMDBP01672	Phosphatidylinositol transfer protein beta isoform	P48739	PITPNB	Unknown
+PC	HMDB_PC	HMDBP01901	Multidrug resistance protein 3	P21439	ABCB4	Transporter
+PC	HMDB_PC	HMDBP01912	Lecithin retinol acyltransferase	O95237	LRAT	Enzyme
+PC	HMDB_PC	HMDBP01967	Phospholipid scramblase 1	O15162	PLSCR1	Unknown
+PC	HMDB_PC	HMDBP02190	Phosphatidylserine synthase 1	P48651	PTDSS1	Enzyme
+PC	HMDB_PC	HMDBP02524	Phosphatidylinositol transfer protein alpha isoform	Q00169	PITPNA	Unknown
+PC	HMDB_PC	HMDBP02549	Phospholipid transfer protein	P55058	PLTP	Unknown
+PC	HMDB_PC	HMDBP02855	Cholinephosphotransferase 1	Q8WUD6	CHPT1	Unknown
+PC	HMDB_PC	HMDBP03089	2-acylglycerol O-acyltransferase 2	Q3SYC2	MOGAT2	Enzyme
+PC	HMDB_PC	HMDBP03349	Choline/ethanolaminephosphotransferase 1	Q9Y6K0	CEPT1	Unknown
+PC	HMDB_PC	HMDBP04457	"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase delta-3"	Q8N3E9	PLCD3	Unknown
+PC	HMDB_PC	HMDBP07287	Lysophospholipid acyltransferase 5	Q6P1A2	LPCAT3	Enzyme
+PC	HMDB_PC	HMDBP07288	Putative inactive group IIC secretory phospholipase A2	Q5R387	PLA2G2C	Unknown
+PC	HMDB_PC	HMDBP07289	Lysophosphatidylcholine acyltransferase 1	Q8NF37	LPCAT1	Unknown
+PC	HMDB_PC	HMDBP07290	Lysophosphatidylcholine acyltransferase 2	Q7L5N7	LPCAT2	Enzyme
+PC	HMDB_PC	HMDBP07291	Phospholipase D3	Q8IV08	PLD3	Enzyme
+PC	HMDB_PC	HMDBP07292	Phospholipase D4	Q96BZ4	PLD4	Enzyme
+PC	HMDB_PC	HMDBP07293	Phosphatidylcholine transfer protein	Q9UKL6	PCTP	Unknown
+PC	HMDB_PC	HMDBP07294	Phospholipid scramblase 2	Q9NRY7	PLSCR2	Unknown
+PC	HMDB_PC	HMDBP07295	Phospholipid scramblase 3	Q9NRY6	PLSCR3	Unknown
+PC	HMDB_PC	HMDBP07296	Phospholipid scramblase 4	Q9NRQ2	PLSCR4	Unknown
+PC	HMDB_PC	HMDBP07297	Phospholipid scramblase family member 5	A0PG75	PLSCR5	Unknown
+PC	HMDB_PC	HMDBP07298	Probable phospholipid-transporting ATPase VB	O94823	ATP10B	Unknown
+PC	HMDB_PC	HMDBP07299	Probable phospholipid-transporting ATPase ID	P98198	ATP8B2	Unknown
+PC	HMDB_PC	HMDBP07301	"Phospholipase B1, membrane-associated"	Q6P1J6	PLB1	Unknown
+PC	HMDB_PC	HMDBP07304	Phosphatidylethanolamine-binding protein 1	P30086	PEBP1	Enzyme
+PC	HMDB_PC	HMDBP07305	Phosphatidylethanolamine-binding protein 4	Q96S96	PEBP4	Enzyme
+PC	HMDB_PC	HMDBP07336	Membrane-associated phosphatidylinositol transfer protein 1	O00562	PITPNM1	Unknown
+PC	HMDB_PC	HMDBP07337	Membrane-associated phosphatidylinositol transfer protein 2	Q9BZ72	PITPNM2	Unknown
+PC	HMDB_PC	HMDBP07338	Membrane-associated phosphatidylinositol transfer protein 3	Q9BZ71	PITPNM3	Unknown
+PC	HMDB_PC	HMDBP07863	Cytosolic phospholipase A2 delta	Q86XP0	PLA2G4D	Unknown
+PC	HMDB_PC	HMDBP07864	Cytosolic phospholipase A2 epsilon	Q3MJ16	PLA2G4E	Unknown
+PC	HMDB_PC	HMDBP07865	Cytosolic phospholipase A2 zeta	Q68DD2	PLA2G4F	Unknown
+PC	HMDB_PC	HMDBP08305	ADP-ribosylation factor GTPase-activating protein 1	Q8N6T3	ARFGAP1	Unknown
+PC	HMDB_PC	HMDBP09120	Cytosolic phospholipase A2 beta	P0C869	PLA2G4B	Unknown
+PC	HMDB_PC	HMDBP09354	Phospholipase D1 variant	Q59EA4		Enzyme
+PC	HMDB_PC	HMDBP10645	Phospholipase D6	Q8N2A8	PLD6	Enzyme
+PC	HMDB_PC	HMDBP10677	Neuropathy target esterase	Q8IY17	PNPLA6	Enzyme
+PC	HMDB_PC	HMDBP10986	Apolipoprotein A-V	Q6Q788	APOA5	Unknown
+PC	HMDB_PC	HMDBP10987	Uteroglobin	P11684	SCGB1A1	Unknown
+PC	HMDB_PC	HMDBP00528	Platelet-activating factor acetylhydrolase IB subunit gamma	Q15102	PAFAH1B3	Enzyme
+PC	HMDB_PC	HMDBP00530	Platelet-activating factor acetylhydrolase IB subunit beta	P68402	PAFAH1B2	Enzyme
+PC	HMDB_PC	HMDBP00534	"Platelet-activating factor acetylhydrolase 2, cytoplasmic"	Q99487	PAFAH2	Enzyme
+PC	HMDB_PC	HMDBP00556	Platelet-activating factor acetylhydrolase IB subunit alpha	P43034	PAFAH1B1	Unknown
+CE	HMDB_CE	HMDBP00069	Phosphatidylcholine-sterol acyltransferase	P04180	LCAT	Enzyme
+CE	HMDB_CE	HMDBP00227	Lysosomal acid lipase/cholesteryl ester hydrolase	P38571	LIPA	Enzyme
+CE	HMDB_CE	HMDBP00241	Bile salt-activated lipase	P19835	CEL	Unknown
+CE	HMDB_CE	HMDBP00497	Liver carboxylesterase 1	P23141	CES1	Enzyme
+CE	HMDB_CE	HMDBP00499	Sterol O-acyltransferase 2	O75908	SOAT2	Enzyme
+CE	HMDB_CE	HMDBP00504	Sterol O-acyltransferase 1	P35610	SOAT1	Enzyme
+CE	HMDB_CE	HMDBP02237	Scavenger receptor class B member 1	Q8WTV0	SCARB1	Enzyme
+CE	HMDB_CE	HMDBP10944	Neutral cholesterol ester hydrolase 1	Q6PIU2	NCEH1	Enzyme
+PS	HMDB_PS	HMDBP00063	Group 10 secretory phospholipase A2	O15496	PLA2G10	Unknown
+PS	HMDB_PS	HMDBP00225	Diacylglycerol kinase gamma	P49619	DGKG	Unknown
+PS	HMDB_PS	HMDBP00233	Diacylglycerol kinase alpha	P23743	DGKA	Unknown
+PS	HMDB_PS	HMDBP00234	Diacylglycerol kinase delta	Q16760	DGKD	Unknown
+PS	HMDB_PS	HMDBP00238	Diacylglycerol kinase beta	Q9Y6T7	DGKB	Unknown
+PS	HMDB_PS	HMDBP01180	Protein kinase C alpha type	P17252	PRKCA	Unknown
+PS	HMDB_PS	HMDBP01359	Probable phospholipid-transporting ATPase IA	Q9Y2Q0	ATP8A1	Unknown
+PS	HMDB_PS	HMDBP01967	Phospholipid scramblase 1	O15162	PLSCR1	Unknown
+PS	HMDB_PS	HMDBP02190	Phosphatidylserine synthase 1	P48651	PTDSS1	Enzyme
+PS	HMDB_PS	HMDBP02237	Scavenger receptor class B member 1	Q8WTV0	SCARB1	Enzyme
+PS	HMDB_PS	HMDBP02246	C-X-C motif chemokine 16	Q9H2A7	CXCL16	Unknown
+PS	HMDB_PS	HMDBP02255	Phosphatidylserine decarboxylase proenzyme	Q9UG56	PISD	Enzyme
+PS	HMDB_PS	HMDBP02642	Bifunctional arginine demethylase and lysyl-hydroxylase JMJD6	Q6NYC1	JMJD6	Unknown
+PS	HMDB_PS	HMDBP02960	Phosphatidylserine synthase 2	Q9BVG9	PTDSS2	Enzyme
+PS	HMDB_PS	HMDBP03089	2-acylglycerol O-acyltransferase 2	Q3SYC2	MOGAT2	Enzyme
+PS	HMDB_PS	HMDBP03120	Phosphatidylinositol-4-phosphate 3-kinase C2 domain-containing subunit alpha	O00443	PIK3C2A	Unknown
+PS	HMDB_PS	HMDBP03264	"Phosphatidylinositol 3,4,5-trisphosphate 5-phosphatase 2"	O15357	INPPL1	Enzyme
+PS	HMDB_PS	HMDBP04457	"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase delta-3"	Q8N3E9	PLCD3	Unknown
+PS	HMDB_PS	HMDBP06631	Sphingomyelin phosphodiesterase 3	Q9NY59	SMPD3	Unknown
+PS	HMDB_PS	HMDBP07294	Phospholipid scramblase 2	Q9NRY7	PLSCR2	Unknown
+PS	HMDB_PS	HMDBP07295	Phospholipid scramblase 3	Q9NRY6	PLSCR3	Unknown
+PS	HMDB_PS	HMDBP07296	Phospholipid scramblase 4	Q9NRQ2	PLSCR4	Unknown
+PS	HMDB_PS	HMDBP07297	Phospholipid scramblase family member 5	A0PG75	PLSCR5	Unknown
+PS	HMDB_PS	HMDBP07307	Phospholipase A1 member A	Q53H76	PLA1A	Enzyme
+PS	HMDB_PS	HMDBP07308	Serum deprivation-response protein	O95810	SDPR	Unknown
+PS	HMDB_PS	HMDBP07464	Transcriptional regulator ATRX	P46100	ATRX	Unknown
+PS	HMDB_PS	HMDBP07620	Copine-1	Q99829	CPNE1	Unknown
+PS	HMDB_PS	HMDBP07624	Copine-6	O95741	CPNE6	Unknown
+PS	HMDB_PS	HMDBP08328	Cdc42-interacting protein 4	Q15642	TRIP10	Unknown
+PS	HMDB_PS	HMDBP08388	Formin-binding protein 1-like	Q5T0N5	FNBP1L	Unknown
+PS	HMDB_PS	HMDBP08396	Formin-binding protein 1	Q96RU3	FNBP1	Unknown
+PS	HMDB_PS	HMDBP08771	Sphingomyelin phosphodiesterase 4	Q9NXE4	SMPD4	Unknown
+PS	HMDB_PS	HMDBP10743	Serine incorporator 1	Q9NRX5	SERINC1	Unknown
+PS	HMDB_PS	HMDBP10945	Protein kinase C delta-binding protein	Q969G5	PRKCDBP	Enzyme
+PS	HMDB_PS	HMDBP10988	Annexin A9	O76027	ANXA9	Unknown
+PS	HMDB_PS	HMDBP10989	Phosphatidylserine receptor transcript variant 2	B2WTI4	JMJD6	Unknown
+PS	HMDB_PS	HMDBP10990	Serine incorporator 5	Q86VE9	SERINC5	Unknown
+PS	HMDB_PS	HMDBP10991	Adseverin	Q9Y6U3	SCIN	Unknown
+PS	HMDB_PS	HMDBP10992	Serine incorporator 4	A6NH21	SERINC4	Unknown
+PS	HMDB_PS	HMDBP10993	Phosphatidylserine receptor transcript variant 1	B2WTI3	JMJD6	Unknown
+PS	HMDB_PS	HMDBP11590	Lactadherin	Q08431	MFGE8	Enzyme
+PA	HMDB_PA	HMDBP00080	Phospholipase D2	O14939	PLD2	Enzyme
+PA	HMDB_PA	HMDBP00220	Diacylglycerol kinase theta	P52824	DGKQ	Unknown
+PA	HMDB_PA	HMDBP00225	Diacylglycerol kinase gamma	P49619	DGKG	Unknown
+PA	HMDB_PA	HMDBP00231	Lipid phosphate phosphohydrolase 2	O43688	PPAP2C	Unknown
+PA	HMDB_PA	HMDBP00233	Diacylglycerol kinase alpha	P23743	DGKA	Unknown
+PA	HMDB_PA	HMDBP00234	Diacylglycerol kinase delta	Q16760	DGKD	Unknown
+PA	HMDB_PA	HMDBP00237	Lipid phosphate phosphohydrolase 1	O14494	PPAP2A	Unknown
+PA	HMDB_PA	HMDBP00238	Diacylglycerol kinase beta	Q9Y6T7	DGKB	Unknown
+PA	HMDB_PA	HMDBP00240	Diacylglycerol kinase iota	O75912	DGKI	Unknown
+PA	HMDB_PA	HMDBP00242	Lipid phosphate phosphohydrolase 3	O14495	PPAP2B	Unknown
+PA	HMDB_PA	HMDBP00246	Diacylglycerol kinase zeta	Q13574	DGKZ	Unknown
+PA	HMDB_PA	HMDBP00527	Phospholipase DDHD1	Q8NEL9	DDHD1	Enzyme
+PA	HMDB_PA	HMDBP00636	"cAMP-specific 3',5'-cyclic phosphodiesterase 4D"	Q08499	PDE4D	Unknown
+PA	HMDB_PA	HMDBP00746	Phosphatidate cytidylyltransferase 2	O95674	CDS2	Enzyme
+PA	HMDB_PA	HMDBP00764	Phosphatidate cytidylyltransferase 1	Q92903	CDS1	Unknown
+PA	HMDB_PA	HMDBP01131	Probable phospholipid-transporting ATPase IG	Q8NB49	ATP11C	Unknown
+PA	HMDB_PA	HMDBP01132	Probable phospholipid-transporting ATPase IH	P98196	ATP11A	Unknown
+PA	HMDB_PA	HMDBP01169	Probable phospholipid-transporting ATPase VA	O60312	ATP10A	Unknown
+PA	HMDB_PA	HMDBP01192	Probable phospholipid-transporting ATPase IC	O43520	ATP8B1	Unknown
+PA	HMDB_PA	HMDBP01220	Probable phospholipid-transporting ATPase IIA	O75110	ATP9A	Unknown
+PA	HMDB_PA	HMDBP01239	Probable phospholipid-transporting ATPase VD	Q9P241	ATP10D	Unknown
+PA	HMDB_PA	HMDBP01247	Probable phospholipid-transporting ATPase IB	Q9NTI2	ATP8A2	Unknown
+PA	HMDB_PA	HMDBP01359	Probable phospholipid-transporting ATPase IA	Q9Y2Q0	ATP8A1	Unknown
+PA	HMDB_PA	HMDBP01463	Probable phospholipid-transporting ATPase IM	Q8TF62	ATP8B4	Unknown
+PA	HMDB_PA	HMDBP01485	Probable phospholipid-transporting ATPase IF	Q9Y2G3	ATP11B	Unknown
+PA	HMDB_PA	HMDBP01489	Probable phospholipid-transporting ATPase IK	O60423	ATP8B3	Unknown
+PA	HMDB_PA	HMDBP01577	1-acyl-sn-glycerol-3-phosphate acyltransferase gamma	Q9NRZ7	AGPAT3	Enzyme
+PA	HMDB_PA	HMDBP01579	1-acyl-sn-glycerol-3-phosphate acyltransferase beta	O15120	AGPAT2	Enzyme
+PA	HMDB_PA	HMDBP01581	1-acyl-sn-glycerol-3-phosphate acyltransferase alpha	Q99943	AGPAT1	Enzyme
+PA	HMDB_PA	HMDBP01585	Phosphatidylinositol-glycan-specific phospholipase D	P80108	GPLD1	Enzyme
+PA	HMDB_PA	HMDBP01603	"Arf-GAP with GTPase, ANK repeat and PH domain-containing protein 2"	Q99490	AGAP2	Unknown
+PA	HMDB_PA	HMDBP02549	Phospholipid transfer protein	P55058	PLTP	Unknown
+PA	HMDB_PA	HMDBP03003	1-acyl-sn-glycerol-3-phosphate acyltransferase epsilon	Q9NUQ2	AGPAT5	Enzyme
+PA	HMDB_PA	HMDBP03089	2-acylglycerol O-acyltransferase 2	Q3SYC2	MOGAT2	Enzyme
+PA	HMDB_PA	HMDBP04232	Diacylglycerol kinase eta	Q86XP1	DGKH	Unknown
+PA	HMDB_PA	HMDBP04457	"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase delta-3"	Q8N3E9	PLCD3	Unknown
+PA	HMDB_PA	HMDBP04526	1-acyl-sn-glycerol-3-phosphate acyltransferase delta	Q9NRZ5	AGPAT4	Enzyme
+PA	HMDB_PA	HMDBP07285	Diacylglycerol kinase kappa	Q5KSL6	DGKK	Unknown
+PA	HMDB_PA	HMDBP07298	Probable phospholipid-transporting ATPase VB	O94823	ATP10B	Unknown
+PA	HMDB_PA	HMDBP07299	Probable phospholipid-transporting ATPase ID	P98198	ATP8B2	Unknown
+PA	HMDB_PA	HMDBP07303	N-acyl-phosphatidylethanolamine-hydrolyzing phospholipase D	Q6IQ20	NAPEPLD	Unknown
+PA	HMDB_PA	HMDBP07309	Lysocardiolipin acyltransferase 1	Q6UWP7	LCLAT1	Enzyme
+PA	HMDB_PA	HMDBP07317	Lipase member H	Q8WWY8	LIPH	Unknown
+PA	HMDB_PA	HMDBP07318	Lipase member I	Q6XZB0	LIPI	Unknown
+PA	HMDB_PA	HMDBP07319	Lipid phosphate phosphatase-related protein type 4	Q7Z2D5	LPPR4	Enzyme
+PA	HMDB_PA	HMDBP07320	Lipid phosphate phosphatase-related protein type 5	Q32ZL2	LPPR5	Enzyme
+PA	HMDB_PA	HMDBP07321	Presqualene diphosphate phosphatase	Q8IY26	PPAPDC2	Enzyme
+PA	HMDB_PA	HMDBP07322	Probable lipid phosphate phosphatase PPAPDC3	Q8NBV4	PPAPDC3	Enzyme
+PA	HMDB_PA	HMDBP07323	Phosphatidate phosphatase PPAPDC1A	Q5VZY2	PPAPDC1A	Enzyme
+PA	HMDB_PA	HMDBP07324	Phosphatidate phosphatase PPAPDC1B	Q8NEB5	PPAPDC1B	Enzyme
+PA	HMDB_PA	HMDBP08327	"Arf-GAP with coiled-coil, ANK repeat and PH domain-containing protein 1"	Q15027	ACAP1	Unknown
+PA	HMDB_PA	HMDBP08540	Rab11 family-interacting protein 2	Q7L804	RAB11FIP2	Unknown
+PA	HMDB_PA	HMDBP08704	"Acylglycerol kinase, mitochondrial"	Q53H12	AGK	Unknown
+PA	HMDB_PA	HMDBP09354	Phospholipase D1 variant	Q59EA4		Enzyme
+PA	HMDB_PA	HMDBP09413	"1-acylglycerol-3-phosphate O-acyltransferase 6 (Lysophosphatidic acid acyltransferase, zeta), isoform CRA_b"	Q2TU73	AGPAT6	Enzyme
+PA	HMDB_PA	HMDBP09416	"Diacylglycerol kinase, epsilon 64kDa"	A1L4Q0	DGKE	Enzyme
+PA	HMDB_PA	HMDBP10757	"Arf-GAP with GTPase, ANK repeat and PH domain-containing protein 1"	Q9UPQ3	AGAP1	Unknown
+PA	HMDB_PA	HMDBP10946	Phospholipase DDHD2	O94830	DDHD2	Enzyme
+PA	HMDB_PA	HMDBP10974	Oxysterol-binding protein-related protein 2	Q9H1P3	OSBPL2	Unknown
+PA	HMDB_PA	HMDBP10975	Oxysterol-binding protein-related protein 1	Q9BXW6	OSBPL1A	Unknown
+PA	HMDB_PA	HMDBP10976	"Arf-GAP with coiled-coil, ANK repeat and PH domain-containing protein 2"	Q15057	ACAP2	Unknown
+Cer	HMDB_Cer	HMDBP00315	Galactocerebrosidase	P54803	GALC	Enzyme
+Cer	HMDB_Cer	HMDBP00434	"Globoside alpha-1,3-N-acetylgalactosaminyltransferase 1"	Q8N5D6	GBGT1	Unknown
+Cer	HMDB_Cer	HMDBP00557	N-acetylglucosaminyl-phosphatidylinositol de-N-acetylase	Q9Y2B2	PIGL	Enzyme
+Cer	HMDB_Cer	HMDBP00770	Phosphatidylcholine:ceramide cholinephosphotransferase 2	Q8NHU3	SGMS2	Enzyme
+Cer	HMDB_Cer	HMDBP00775	Phosphatidylcholine:ceramide cholinephosphotransferase 1	Q86VZ5	SGMS1	Enzyme
+Cer	HMDB_Cer	HMDBP00776	Sphingomyelin phosphodiesterase	P17405	SMPD1	Enzyme
+Cer	HMDB_Cer	HMDBP00845	Ceramide glucosyltransferase	Q16739	UGCG	Enzyme
+Cer	HMDB_Cer	HMDBP00940	Phosphatidylinositol N-acetylglucosaminyltransferase subunit Q	Q9BRB3	PIGQ	Enzyme
+Cer	HMDB_Cer	HMDBP00941	Phosphatidylinositol N-acetylglucosaminyltransferase subunit A	P37287	PIGA	Enzyme
+Cer	HMDB_Cer	HMDBP00942	Phosphatidylinositol N-acetylglucosaminyltransferase subunit H	Q14442	PIGH	Enzyme
+Cer	HMDB_Cer	HMDBP00943	Phosphatidylinositol N-acetylglucosaminyltransferase subunit P	P57054	PIGP	Enzyme
+Cer	HMDB_Cer	HMDBP00944	Phosphatidylinositol N-acetylglucosaminyltransferase subunit C	Q92535	PIGC	Enzyme
+Cer	HMDB_Cer	HMDBP01052	Sphingosine-1-phosphate lyase 1	O95470	SGPL1	Enzyme
+Cer	HMDB_Cer	HMDBP01082	Sphingosine kinase 1	Q9NYA1	SPHK1	Unknown
+Cer	HMDB_Cer	HMDBP01084	Acid ceramidase	Q13510	ASAH1	Enzyme
+Cer	HMDB_Cer	HMDBP01089	Ectonucleotide pyrophosphatase/phosphodiesterase family member 7	Q6UWV6	ENPP7	Unknown
+Cer	HMDB_Cer	HMDBP01090	Sphingomyelin phosphodiesterase 2	O60906	SMPD2	Unknown
+Cer	HMDB_Cer	HMDBP01101	2-hydroxyacylsphingosine 1-beta-galactosyltransferase	Q16880	UGT8	Enzyme
+Cer	HMDB_Cer	HMDBP01298	Collagen type IV alpha-3-binding protein	Q9Y5P4	COL4A3BP	Enzyme
+Cer	HMDB_Cer	HMDBP01405	Ceramide kinase	Q8TCT0	CERK	Unknown
+Cer	HMDB_Cer	HMDBP01719	Ganglioside GM2 activator	P17900	GM2A	Enzyme
+Cer	HMDB_Cer	HMDBP01795	Glucosylceramidase	P04062	GBA	Enzyme
+Cer	HMDB_Cer	HMDBP02412	"T-cell surface glycoprotein CD1e, membrane-associated"	P15812	CD1E	Enzyme
+Cer	HMDB_Cer	HMDBP02675	Epididymal secretory protein E1	P61916	NPC2	Enzyme
+Cer	HMDB_Cer	HMDBP02779	Ceramide synthase 1	P27544	CERS1	Enzyme
+Cer	HMDB_Cer	HMDBP02783	Antigen-presenting glycoprotein CD1d	P15813	CD1D	Enzyme
+Cer	HMDB_Cer	HMDBP02955	GPI mannosyltransferase 1	Q9H3S5	PIGM	Enzyme
+Cer	HMDB_Cer	HMDBP02977	Phosphatidylinositol-glycan biosynthesis class W protein	Q7Z7B1	PIGW	Enzyme
+Cer	HMDB_Cer	HMDBP03084	Phosphatidylinositol-glycan biosynthesis class X protein	Q8TBF5	PIGX	Enzyme
+Cer	HMDB_Cer	HMDBP03088	GPI mannosyltransferase 4	Q86VD9	PIGZ	Enzyme
+Cer	HMDB_Cer	HMDBP06380	"Lactosylceramide 1,3-N-acetyl-beta-D-glucosaminyltransferase"	Q9BYG0	B3GNT5	Enzyme
+Cer	HMDB_Cer	HMDBP06631	Sphingomyelin phosphodiesterase 3	Q9NY59	SMPD3	Unknown
+Cer	HMDB_Cer	HMDBP06939	"Beta-1,3-galactosyltransferase 5"	Q9Y2C3	B3GALT5	Enzyme
+Cer	HMDB_Cer	HMDBP07325	GPI mannosyltransferase 3	Q92521	PIGB	Enzyme
+Cer	HMDB_Cer	HMDBP07326	Phosphatidylinositol-glycan biosynthesis class F protein	Q07326	PIGF	Enzyme
+Cer	HMDB_Cer	HMDBP07327	GPI ethanolamine phosphate transferase 2	Q5H8A4	PIGG	Enzyme
+Cer	HMDB_Cer	HMDBP07328	GPI ethanolamine phosphate transferase 1	O95427	PIGN	Enzyme
+Cer	HMDB_Cer	HMDBP07329	GPI ethanolamine phosphate transferase 3	Q8TEQ8	PIGO	Enzyme
+Cer	HMDB_Cer	HMDBP07330	GPI transamidase component PIG-S	Q96S52	PIGS	Enzyme
+Cer	HMDB_Cer	HMDBP07331	GPI transamidase component PIG-T	Q969N2	PIGT	Enzyme
+Cer	HMDB_Cer	HMDBP07332	Phosphatidylinositol glycan anchor biosynthesis class U protein	Q9H490	PIGU	Enzyme
+Cer	HMDB_Cer	HMDBP07333	GPI mannosyltransferase 2	Q9NUD9	PIGV	Enzyme
+Cer	HMDB_Cer	HMDBP07334	Phosphatidylinositol N-acetylglucosaminyltransferase subunit Y	Q3MUY2	PIGY	Enzyme
+Cer	HMDB_Cer	HMDBP07339	Pleckstrin homology domain-containing family A member 8	Q96JA3	PLEKHA8	Unknown
+Cer	HMDB_Cer	HMDBP08771	Sphingomyelin phosphodiesterase 4	Q9NXE4	SMPD4	Unknown
+Cer	HMDB_Cer	HMDBP09162	Putative neutral ceramidase C	P0C7U2	ASAH2C	Enzyme
+Cer	HMDB_Cer	HMDBP09163	Alkaline ceramidase 2	Q5QJU3	ACER2	Enzyme
+Cer	HMDB_Cer	HMDBP09165	Neutral ceramidase	Q9NR71	ASAH2	Enzyme
+Cer	HMDB_Cer	HMDBP09169	Non-lysosomal glucosylceramidase	Q9HCG7	GBA2	Enzyme
+Cer	HMDB_Cer	HMDBP10638	Alkaline ceramidase 1	Q8TDN7	ACER1	Enzyme
+Cer	HMDB_Cer	HMDBP10742	Killer cell lectin-like receptor subfamily B member 1	Q12918	KLRB1	Unknown
+Cer	HMDB_Cer	HMDBP10942	Protein FAN	Q92636	NSMAF	Enzyme
+Cer	HMDB_Cer	HMDBP10978	Ceramide synthase 5	Q8N5B7	CERS5	Unknown
+Cer	HMDB_Cer	HMDBP10979	ATP-binding cassette sub-family A member 7	Q8IZY2	ABCA7	Unknown
+Cer	HMDB_Cer	HMDBP11012	GPI-anchor transamidase	Q92643	PIGK	Enzyme
+Cer	HMDB_Cer	HMDBP11439	Glycosylphosphatidylinositol anchor attachment 1 protein	O43292	GPAA1	Unknown
+Cer	HMDB_Cer	HMDBP11440	Protein PLEKHA9	O95397	PLEKHA9	Unknown
+Cer	HMDB_Cer	HMDBP11441	Glycolipid transfer protein domain-containing protein 2	A6NH11	GLTPD2	Unknown
+Cer	HMDB_Cer	HMDBP11442	Putative uncharacterized protein PLEKHA8	B5MDU3	PLEKHA8	Unknown
+Cer	HMDB_Cer	HMDBP11443	T-cell surface glycoprotein CD1a	P06126	CD1A	Unknown
+Cer	HMDB_Cer	HMDBP11444	Glycolipid transfer protein domain-containing protein 1	Q5TA50	GLTPD1	Unknown
+Cer	HMDB_Cer	HMDBP11445	T-cell surface glycoprotein CD1c	P29017	CD1C	Unknown
+Cer	HMDB_Cer	HMDBP11446	Lipopolysaccharide-binding protein	P18428	LBP	Unknown
+Cer	HMDB_Cer	HMDBP11447	Putative uncharacterized protein DKFZp434L0435	Q9UFH6	DKFZp434L0435	Unknown
+Cer	HMDB_Cer	HMDBP11448	T-cell surface glycoprotein CD1b	P29016	CD1B	Unknown
+Cer	HMDB_Cer	HMDBP11449	Glycolipid transfer protein	Q9NZD2	GLTP	Unknown
+Cer	HMDB_Cer	HMDBP00231	Lipid phosphate phosphohydrolase 2	O43688	PPAP2C	Unknown
+Cer	HMDB_Cer	HMDBP00237	Lipid phosphate phosphohydrolase 1	O14494	PPAP2A	Unknown
+Cer	HMDB_Cer	HMDBP00242	Lipid phosphate phosphohydrolase 3	O14495	PPAP2B	Unknown
+Cer	HMDB_Cer	HMDBP00365	Lactase-phlorizin hydrolase	P09848	LCT	Enzyme
+Cer	HMDB_Cer	HMDBP00166	"Isovaleryl-CoA dehydrogenase, mitochondrial"	P26440	IVD	Unknown
+Cer	HMDB_Cer	HMDBP00508	"Methylcrotonoyl-CoA carboxylase beta chain, mitochondrial"	Q9HCC0	MCCC2	Enzyme
+Cer	HMDB_Cer	HMDBP00510	"Methylcrotonoyl-CoA carboxylase subunit alpha, mitochondrial"	Q96RQ3	MCCC1	Enzyme
+Cer	HMDB_Cer	HMDBP00596	"Probable leucine--tRNA ligase, mitochondrial"	Q15031	LARS2	Enzyme
+Cer	HMDB_Cer	HMDBP00648	"Leucine--tRNA ligase, cytoplasmic"	Q9P2J5	LARS	Enzyme
+Cer	HMDB_Cer	HMDBP00982	"Methylglutaconyl-CoA hydratase, mitochondrial"	Q13825	AUH	Enzyme
+Cer	HMDB_Cer	HMDBP00307	Peroxisomal carnitine O-octanoyltransferase	Q9UKG9	CROT	Enzyme
+SM	HMDB_SM	HMDBP00434	"Globoside alpha-1,3-N-acetylgalactosaminyltransferase 1"	Q8N5D6	GBGT1	Unknown
+SM	HMDB_SM	HMDBP00557	N-acetylglucosaminyl-phosphatidylinositol de-N-acetylase	Q9Y2B2	PIGL	Enzyme
+SM	HMDB_SM	HMDBP00770	Phosphatidylcholine:ceramide cholinephosphotransferase 2	Q8NHU3	SGMS2	Enzyme
+SM	HMDB_SM	HMDBP00775	Phosphatidylcholine:ceramide cholinephosphotransferase 1	Q86VZ5	SGMS1	Enzyme
+SM	HMDB_SM	HMDBP00776	Sphingomyelin phosphodiesterase	P17405	SMPD1	Enzyme
+SM	HMDB_SM	HMDBP00935	Galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 1	Q9P2W7	B3GAT1	Unknown
+SM	HMDB_SM	HMDBP00940	Phosphatidylinositol N-acetylglucosaminyltransferase subunit Q	Q9BRB3	PIGQ	Enzyme
+SM	HMDB_SM	HMDBP00941	Phosphatidylinositol N-acetylglucosaminyltransferase subunit A	P37287	PIGA	Enzyme
+SM	HMDB_SM	HMDBP00942	Phosphatidylinositol N-acetylglucosaminyltransferase subunit H	Q14442	PIGH	Enzyme
+SM	HMDB_SM	HMDBP00943	Phosphatidylinositol N-acetylglucosaminyltransferase subunit P	P57054	PIGP	Enzyme
+SM	HMDB_SM	HMDBP00944	Phosphatidylinositol N-acetylglucosaminyltransferase subunit C	Q92535	PIGC	Enzyme
+SM	HMDB_SM	HMDBP01089	Ectonucleotide pyrophosphatase/phosphodiesterase family member 7	Q6UWV6	ENPP7	Unknown
+SM	HMDB_SM	HMDBP01090	Sphingomyelin phosphodiesterase 2	O60906	SMPD2	Unknown
+SM	HMDB_SM	HMDBP01673	Proactivator polypeptide	P07602	PSAP	Enzyme
+SM	HMDB_SM	HMDBP01719	Ganglioside GM2 activator	P17900	GM2A	Enzyme
+SM	HMDB_SM	HMDBP02412	"T-cell surface glycoprotein CD1e, membrane-associated"	P15812	CD1E	Enzyme
+SM	HMDB_SM	HMDBP02675	Epididymal secretory protein E1	P61916	NPC2	Enzyme
+SM	HMDB_SM	HMDBP02783	Antigen-presenting glycoprotein CD1d	P15813	CD1D	Enzyme
+SM	HMDB_SM	HMDBP02955	GPI mannosyltransferase 1	Q9H3S5	PIGM	Enzyme
+SM	HMDB_SM	HMDBP02977	Phosphatidylinositol-glycan biosynthesis class W protein	Q7Z7B1	PIGW	Enzyme
+SM	HMDB_SM	HMDBP03084	Phosphatidylinositol-glycan biosynthesis class X protein	Q8TBF5	PIGX	Enzyme
+SM	HMDB_SM	HMDBP03088	GPI mannosyltransferase 4	Q86VD9	PIGZ	Enzyme
+SM	HMDB_SM	HMDBP04457	"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase delta-3"	Q8N3E9	PLCD3	Unknown
+SM	HMDB_SM	HMDBP06380	"Lactosylceramide 1,3-N-acetyl-beta-D-glucosaminyltransferase"	Q9BYG0	B3GNT5	Enzyme
+SM	HMDB_SM	HMDBP06631	Sphingomyelin phosphodiesterase 3	Q9NY59	SMPD3	Unknown
+SM	HMDB_SM	HMDBP06939	"Beta-1,3-galactosyltransferase 5"	Q9Y2C3	B3GALT5	Enzyme
+SM	HMDB_SM	HMDBP07325	GPI mannosyltransferase 3	Q92521	PIGB	Enzyme
+SM	HMDB_SM	HMDBP07326	Phosphatidylinositol-glycan biosynthesis class F protein	Q07326	PIGF	Enzyme
+SM	HMDB_SM	HMDBP07327	GPI ethanolamine phosphate transferase 2	Q5H8A4	PIGG	Enzyme
+SM	HMDB_SM	HMDBP07328	GPI ethanolamine phosphate transferase 1	O95427	PIGN	Enzyme
+SM	HMDB_SM	HMDBP07329	GPI ethanolamine phosphate transferase 3	Q8TEQ8	PIGO	Enzyme
+SM	HMDB_SM	HMDBP07330	GPI transamidase component PIG-S	Q96S52	PIGS	Enzyme
+SM	HMDB_SM	HMDBP07331	GPI transamidase component PIG-T	Q969N2	PIGT	Enzyme
+SM	HMDB_SM	HMDBP07332	Phosphatidylinositol glycan anchor biosynthesis class U protein	Q9H490	PIGU	Enzyme
+SM	HMDB_SM	HMDBP07333	GPI mannosyltransferase 2	Q9NUD9	PIGV	Enzyme
+SM	HMDB_SM	HMDBP07334	Phosphatidylinositol N-acetylglucosaminyltransferase subunit Y	Q3MUY2	PIGY	Enzyme
+SM	HMDB_SM	HMDBP07339	Pleckstrin homology domain-containing family A member 8	Q96JA3	PLEKHA8	Unknown
+SM	HMDB_SM	HMDBP08771	Sphingomyelin phosphodiesterase 4	Q9NXE4	SMPD4	Unknown
+SM	HMDB_SM	HMDBP09169	Non-lysosomal glucosylceramidase	Q9HCG7	GBA2	Enzyme
+SM	HMDB_SM	HMDBP10983	Sphingomyelin synthase-related protein 1	Q96LT4	SAMD8	Unknown
+SM	HMDB_SM	HMDBP11012	GPI-anchor transamidase	Q92643	PIGK	Enzyme
+SM	HMDB_SM	HMDBP11439	Glycosylphosphatidylinositol anchor attachment 1 protein	O43292	GPAA1	Unknown
+SM	HMDB_SM	HMDBP11440	Protein PLEKHA9	O95397	PLEKHA9	Unknown
+SM	HMDB_SM	HMDBP11441	Glycolipid transfer protein domain-containing protein 2	A6NH11	GLTPD2	Unknown
+SM	HMDB_SM	HMDBP11442	Putative uncharacterized protein PLEKHA8	B5MDU3	PLEKHA8	Unknown
+SM	HMDB_SM	HMDBP11443	T-cell surface glycoprotein CD1a	P06126	CD1A	Unknown
+SM	HMDB_SM	HMDBP11444	Glycolipid transfer protein domain-containing protein 1	Q5TA50	GLTPD1	Unknown
+SM	HMDB_SM	HMDBP11445	T-cell surface glycoprotein CD1c	P29017	CD1C	Unknown
+SM	HMDB_SM	HMDBP11446	Lipopolysaccharide-binding protein	P18428	LBP	Unknown
+SM	HMDB_SM	HMDBP11447	Putative uncharacterized protein DKFZp434L0435	Q9UFH6	DKFZp434L0435	Unknown
+SM	HMDB_SM	HMDBP11448	T-cell surface glycoprotein CD1b	P29016	CD1B	Unknown
+SM	HMDB_SM	HMDBP11449	Glycolipid transfer protein	Q9NZD2	GLTP	Unknown
+LysoPC	HMDB_LPC	HMDBP00056	Acyl-protein thioesterase 1	O75608	LYPLA1	Enzyme
+LysoPC	HMDB_LPC	HMDBP00057	Group XV phospholipase A2	Q8NCC3	PLA2G15	Unknown
+LysoPC	HMDB_LPC	HMDBP00058	Calcium-dependent phospholipase A2	P39877	PLA2G5	Unknown
+LysoPC	HMDB_LPC	HMDBP00059	Group IIF secretory phospholipase A2	Q9BZM2	PLA2G2F	Unknown
+LysoPC	HMDB_LPC	HMDBP00060	Cytosolic phospholipase A2	P47712	PLA2G4A	Unknown
+LysoPC	HMDB_LPC	HMDBP00061	Phospholipase A2	P04054	PLA2G1B	Unknown
+LysoPC	HMDB_LPC	HMDBP00062	Group XIIB secretory phospholipase A2-like protein	Q9BX93	PLA2G12B	Unknown
+LysoPC	HMDB_LPC	HMDBP00063	Group 10 secretory phospholipase A2	O15496	PLA2G10	Unknown
+LysoPC	HMDB_LPC	HMDBP00065	Group IIE secretory phospholipase A2	Q9NZK7	PLA2G2E	Unknown
+LysoPC	HMDB_LPC	HMDBP00066	Acyl-protein thioesterase 2	O95372	LYPLA2	Enzyme
+LysoPC	HMDB_LPC	HMDBP00068	85/88 kDa calcium-independent phospholipase A2	O60733	PLA2G6	Unknown
+LysoPC	HMDB_LPC	HMDBP00069	Phosphatidylcholine-sterol acyltransferase	P04180	LCAT	Enzyme
+LysoPC	HMDB_LPC	HMDBP00070	Eosinophil lysophospholipase	Q05315	CLC	Enzyme
+LysoPC	HMDB_LPC	HMDBP00073	Group IID secretory phospholipase A2	Q9UNK4	PLA2G2D	Unknown
+LysoPC	HMDB_LPC	HMDBP00523	Platelet-activating factor acetylhydrolase	Q13093	PLA2G7	Enzyme
+LysoPC	HMDB_LPC	HMDBP00528	Platelet-activating factor acetylhydrolase IB subunit gamma	Q15102	PAFAH1B3	Enzyme
+LysoPC	HMDB_LPC	HMDBP00530	Platelet-activating factor acetylhydrolase IB subunit beta	P68402	PAFAH1B2	Enzyme
+LysoPC	HMDB_LPC	HMDBP00532	Group 3 secretory phospholipase A2	Q9NZ20	PLA2G3	Unknown
+LysoPC	HMDB_LPC	HMDBP00534	"Platelet-activating factor acetylhydrolase 2, cytoplasmic"	Q99487	PAFAH2	Enzyme
+LysoPC	HMDB_LPC	HMDBP01090	Sphingomyelin phosphodiesterase 2	O60906	SMPD2	Unknown
+LysoPC	HMDB_LPC	HMDBP07287	Lysophospholipid acyltransferase 5	Q6P1A2	LPCAT3	Enzyme
+LysoPC	HMDB_LPC	HMDBP07289	Lysophosphatidylcholine acyltransferase 1	Q8NF37	LPCAT1	Unknown
+LysoPC	HMDB_LPC	HMDBP07290	Lysophosphatidylcholine acyltransferase 2	Q7L5N7	LPCAT2	Enzyme
+LysoPC	HMDB_LPC	HMDBP07300	60 kDa lysophospholipase	Q86U10	ASPG	Enzyme
+LysoPC	HMDB_LPC	HMDBP07301	"Phospholipase B1, membrane-associated"	Q6P1J6	PLB1	Unknown
+LysoPC	HMDB_LPC	HMDBP09120	Cytosolic phospholipase A2 beta	P0C869	PLA2G4B	Unknown
+LysoPC	HMDB_LPC	HMDBP00556	Platelet-activating factor acetylhydrolase IB subunit alpha	P43034	PAFAH1B1	Unknown
+MG	HMDB_MG	HMDBP00314	Monoglyceride lipase	Q99685	MGLL	Enzyme
+MG	HMDB_MG	HMDBP00531	Hormone-sensitive lipase	Q05469	LIPE	Unknown
+MG	HMDB_MG	HMDBP03089	2-acylglycerol O-acyltransferase 2	Q3SYC2	MOGAT2	Enzyme
+MG	HMDB_MG	HMDBP04645	2-acylglycerol O-acyltransferase 1	Q96PD6	MOGAT1	Enzyme
+MG	HMDB_MG	HMDBP07284	2-acylglycerol O-acyltransferase 3	Q86VF5	MOGAT3	Enzyme
+MG	HMDB_MG	HMDBP07315	Lysophosphatidic acid phosphatase type 6	Q9NPH0	ACP6	Enzyme
+MG	HMDB_MG	HMDBP08704	"Acylglycerol kinase, mitochondrial"	Q53H12	AGK	Unknown
+MG	HMDB_MG	HMDBP10943	Ectonucleotide pyrophosphatase/phosphodiesterase family member 6	Q6UWR7	ENPP6	Enzyme
+LacCer	HMDB_LacCer	HMDBP00315	Galactocerebrosidase	P54803	GALC	Enzyme
+LacCer	HMDB_LacCer	HMDBP00317	Sialidase-2	Q9Y3R4	NEU2	Enzyme
+LacCer	HMDB_LacCer	HMDBP00322	Sialidase-4	Q8WWR8	NEU4	Enzyme
+LacCer	HMDB_LacCer	HMDBP00323	Sialidase-1	Q99519	NEU1	Enzyme
+LacCer	HMDB_LacCer	HMDBP00365	Lactase-phlorizin hydrolase	P09848	LCT	Enzyme
+LacCer	HMDB_LacCer	HMDBP00434	"Globoside alpha-1,3-N-acetylgalactosaminyltransferase 1"	Q8N5D6	GBGT1	Unknown
+LacCer	HMDB_LacCer	HMDBP00557	N-acetylglucosaminyl-phosphatidylinositol de-N-acetylase	Q9Y2B2	PIGL	Enzyme
+LacCer	HMDB_LacCer	HMDBP00723	Alpha-galactosidase A	P06280	GLA	Enzyme
+LacCer	HMDB_LacCer	HMDBP00772	"Lactosylceramide alpha-2,3-sialyltransferase"	Q9UNP4	ST3GAL5	Enzyme
+LacCer	HMDB_LacCer	HMDBP00776	Sphingomyelin phosphodiesterase	P17405	SMPD1	Enzyme
+LacCer	HMDB_LacCer	HMDBP00843	Beta-galactosidase	P16278	GLB1	Enzyme
+LacCer	HMDB_LacCer	HMDBP00845	Ceramide glucosyltransferase	Q16739	UGCG	Enzyme
+LacCer	HMDB_LacCer	HMDBP00871	Beta-hexosaminidase subunit beta	P07686	HEXB	Enzyme
+LacCer	HMDB_LacCer	HMDBP00872	Beta-hexosaminidase subunit alpha	P06865	HEXA	Enzyme
+LacCer	HMDB_LacCer	HMDBP00873	"Beta-1,4 N-acetylgalactosaminyltransferase 1"	Q00973	B4GALNT1	Enzyme
+LacCer	HMDB_LacCer	HMDBP00874	Lactosylceramide 4-alpha-galactosyltransferase	Q9NPC4	A4GALT	Enzyme
+LacCer	HMDB_LacCer	HMDBP00940	Phosphatidylinositol N-acetylglucosaminyltransferase subunit Q	Q9BRB3	PIGQ	Enzyme
+LacCer	HMDB_LacCer	HMDBP00941	Phosphatidylinositol N-acetylglucosaminyltransferase subunit A	P37287	PIGA	Enzyme
+LacCer	HMDB_LacCer	HMDBP00942	Phosphatidylinositol N-acetylglucosaminyltransferase subunit H	Q14442	PIGH	Enzyme
+LacCer	HMDB_LacCer	HMDBP00943	Phosphatidylinositol N-acetylglucosaminyltransferase subunit P	P57054	PIGP	Enzyme
+LacCer	HMDB_LacCer	HMDBP00944	Phosphatidylinositol N-acetylglucosaminyltransferase subunit C	Q92535	PIGC	Enzyme
+LacCer	HMDB_LacCer	HMDBP01084	Acid ceramidase	Q13510	ASAH1	Enzyme
+LacCer	HMDB_LacCer	HMDBP01089	Ectonucleotide pyrophosphatase/phosphodiesterase family member 7	Q6UWV6	ENPP7	Unknown
+LacCer	HMDB_LacCer	HMDBP01090	Sphingomyelin phosphodiesterase 2	O60906	SMPD2	Unknown
+LacCer	HMDB_LacCer	HMDBP01298	Collagen type IV alpha-3-binding protein	Q9Y5P4	COL4A3BP	Enzyme
+LacCer	HMDB_LacCer	HMDBP01719	Ganglioside GM2 activator	P17900	GM2A	Enzyme
+LacCer	HMDB_LacCer	HMDBP01795	Glucosylceramidase	P04062	GBA	Enzyme
+LacCer	HMDB_LacCer	HMDBP02412	"T-cell surface glycoprotein CD1e, membrane-associated"	P15812	CD1E	Enzyme
+LacCer	HMDB_LacCer	HMDBP02675	Epididymal secretory protein E1	P61916	NPC2	Enzyme
+LacCer	HMDB_LacCer	HMDBP02779	Ceramide synthase 1	P27544	CERS1	Enzyme
+LacCer	HMDB_LacCer	HMDBP02783	Antigen-presenting glycoprotein CD1d	P15813	CD1D	Enzyme
+LacCer	HMDB_LacCer	HMDBP02955	GPI mannosyltransferase 1	Q9H3S5	PIGM	Enzyme
+LacCer	HMDB_LacCer	HMDBP02977	Phosphatidylinositol-glycan biosynthesis class W protein	Q7Z7B1	PIGW	Enzyme
+LacCer	HMDB_LacCer	HMDBP03084	Phosphatidylinositol-glycan biosynthesis class X protein	Q8TBF5	PIGX	Enzyme
+LacCer	HMDB_LacCer	HMDBP03088	GPI mannosyltransferase 4	Q86VD9	PIGZ	Enzyme
+LacCer	HMDB_LacCer	HMDBP06380	"Lactosylceramide 1,3-N-acetyl-beta-D-glucosaminyltransferase"	Q9BYG0	B3GNT5	Enzyme
+LacCer	HMDB_LacCer	HMDBP06631	Sphingomyelin phosphodiesterase 3	Q9NY59	SMPD3	Unknown
+LacCer	HMDB_LacCer	HMDBP06939	"Beta-1,3-galactosyltransferase 5"	Q9Y2C3	B3GALT5	Enzyme
+LacCer	HMDB_LacCer	HMDBP07258	"Beta-1,4-galactosyltransferase 6"	Q9UBX8	B4GALT6	Unknown
+LacCer	HMDB_LacCer	HMDBP07325	GPI mannosyltransferase 3	Q92521	PIGB	Enzyme
+LacCer	HMDB_LacCer	HMDBP07326	Phosphatidylinositol-glycan biosynthesis class F protein	Q07326	PIGF	Enzyme
+LacCer	HMDB_LacCer	HMDBP07327	GPI ethanolamine phosphate transferase 2	Q5H8A4	PIGG	Enzyme
+LacCer	HMDB_LacCer	HMDBP07328	GPI ethanolamine phosphate transferase 1	O95427	PIGN	Enzyme
+LacCer	HMDB_LacCer	HMDBP07329	GPI ethanolamine phosphate transferase 3	Q8TEQ8	PIGO	Enzyme
+LacCer	HMDB_LacCer	HMDBP07330	GPI transamidase component PIG-S	Q96S52	PIGS	Enzyme
+LacCer	HMDB_LacCer	HMDBP07331	GPI transamidase component PIG-T	Q969N2	PIGT	Enzyme
+LacCer	HMDB_LacCer	HMDBP07332	Phosphatidylinositol glycan anchor biosynthesis class U protein	Q9H490	PIGU	Enzyme
+LacCer	HMDB_LacCer	HMDBP07333	GPI mannosyltransferase 2	Q9NUD9	PIGV	Enzyme
+LacCer	HMDB_LacCer	HMDBP07334	Phosphatidylinositol N-acetylglucosaminyltransferase subunit Y	Q3MUY2	PIGY	Enzyme
+LacCer	HMDB_LacCer	HMDBP07339	Pleckstrin homology domain-containing family A member 8	Q96JA3	PLEKHA8	Unknown
+LacCer	HMDB_LacCer	HMDBP08771	Sphingomyelin phosphodiesterase 4	Q9NXE4	SMPD4	Unknown
+LacCer	HMDB_LacCer	HMDBP09162	Putative neutral ceramidase C	P0C7U2	ASAH2C	Enzyme
+LacCer	HMDB_LacCer	HMDBP09163	Alkaline ceramidase 2	Q5QJU3	ACER2	Enzyme
+LacCer	HMDB_LacCer	HMDBP09165	Neutral ceramidase	Q9NR71	ASAH2	Enzyme
+LacCer	HMDB_LacCer	HMDBP09169	Non-lysosomal glucosylceramidase	Q9HCG7	GBA2	Enzyme
+LacCer	HMDB_LacCer	HMDBP09379	NEU1 protein	Q5JQI0	NEU1	Enzyme
+LacCer	HMDB_LacCer	HMDBP10638	Alkaline ceramidase 1	Q8TDN7	ACER1	Enzyme
+LacCer	HMDB_LacCer	HMDBP10742	Killer cell lectin-like receptor subfamily B member 1	Q12918	KLRB1	Unknown
+LacCer	HMDB_LacCer	HMDBP10978	Ceramide synthase 5	Q8N5B7	CERS5	Unknown
+LacCer	HMDB_LacCer	HMDBP10979	ATP-binding cassette sub-family A member 7	Q8IZY2	ABCA7	Unknown
+LacCer	HMDB_LacCer	HMDBP11012	GPI-anchor transamidase	Q92643	PIGK	Enzyme
+LacCer	HMDB_LacCer	HMDBP11439	Glycosylphosphatidylinositol anchor attachment 1 protein	O43292	GPAA1	Unknown
+LacCer	HMDB_LacCer	HMDBP11440	Protein PLEKHA9	O95397	PLEKHA9	Unknown
+LacCer	HMDB_LacCer	HMDBP11441	Glycolipid transfer protein domain-containing protein 2	A6NH11	GLTPD2	Unknown
+LacCer	HMDB_LacCer	HMDBP11442	Putative uncharacterized protein PLEKHA8	B5MDU3	PLEKHA8	Unknown
+LacCer	HMDB_LacCer	HMDBP11443	T-cell surface glycoprotein CD1a	P06126	CD1A	Unknown
+LacCer	HMDB_LacCer	HMDBP11444	Glycolipid transfer protein domain-containing protein 1	Q5TA50	GLTPD1	Unknown
+LacCer	HMDB_LacCer	HMDBP11445	T-cell surface glycoprotein CD1c	P29017	CD1C	Unknown
+LacCer	HMDB_LacCer	HMDBP11446	Lipopolysaccharide-binding protein	P18428	LBP	Unknown
+LacCer	HMDB_LacCer	HMDBP11447	Putative uncharacterized protein DKFZp434L0435	Q9UFH6	DKFZp434L0435	Unknown
+LacCer	HMDB_LacCer	HMDBP11448	T-cell surface glycoprotein CD1b	P29016	CD1B	Unknown
+LacCer	HMDB_LacCer	HMDBP11449	Glycolipid transfer protein	Q9NZD2	GLTP	Unknown
+GlcCer	HMDB_GlcCer	HMDBP00315	Galactocerebrosidase	P54803	GALC	Enzyme
+GlcCer	HMDB_GlcCer	HMDBP00365	Lactase-phlorizin hydrolase	P09848	LCT	Enzyme
+GlcCer	HMDB_GlcCer	HMDBP00434	"Globoside alpha-1,3-N-acetylgalactosaminyltransferase 1"	Q8N5D6	GBGT1	Unknown
+GlcCer	HMDB_GlcCer	HMDBP00557	N-acetylglucosaminyl-phosphatidylinositol de-N-acetylase	Q9Y2B2	PIGL	Enzyme
+GlcCer	HMDB_GlcCer	HMDBP00776	Sphingomyelin phosphodiesterase	P17405	SMPD1	Enzyme
+GlcCer	HMDB_GlcCer	HMDBP00843	Beta-galactosidase	P16278	GLB1	Enzyme
+GlcCer	HMDB_GlcCer	HMDBP00845	Ceramide glucosyltransferase	Q16739	UGCG	Enzyme
+GlcCer	HMDB_GlcCer	HMDBP00940	Phosphatidylinositol N-acetylglucosaminyltransferase subunit Q	Q9BRB3	PIGQ	Enzyme
+GlcCer	HMDB_GlcCer	HMDBP00941	Phosphatidylinositol N-acetylglucosaminyltransferase subunit A	P37287	PIGA	Enzyme
+GlcCer	HMDB_GlcCer	HMDBP00942	Phosphatidylinositol N-acetylglucosaminyltransferase subunit H	Q14442	PIGH	Enzyme
+GlcCer	HMDB_GlcCer	HMDBP00943	Phosphatidylinositol N-acetylglucosaminyltransferase subunit P	P57054	PIGP	Enzyme
+GlcCer	HMDB_GlcCer	HMDBP00944	Phosphatidylinositol N-acetylglucosaminyltransferase subunit C	Q92535	PIGC	Enzyme
+GlcCer	HMDB_GlcCer	HMDBP01084	Acid ceramidase	Q13510	ASAH1	Enzyme
+GlcCer	HMDB_GlcCer	HMDBP01089	Ectonucleotide pyrophosphatase/phosphodiesterase family member 7	Q6UWV6	ENPP7	Unknown
+GlcCer	HMDB_GlcCer	HMDBP01090	Sphingomyelin phosphodiesterase 2	O60906	SMPD2	Unknown
+GlcCer	HMDB_GlcCer	HMDBP01298	Collagen type IV alpha-3-binding protein	Q9Y5P4	COL4A3BP	Enzyme
+GlcCer	HMDB_GlcCer	HMDBP01719	Ganglioside GM2 activator	P17900	GM2A	Enzyme
+GlcCer	HMDB_GlcCer	HMDBP01795	Glucosylceramidase	P04062	GBA	Enzyme
+GlcCer	HMDB_GlcCer	HMDBP01899	5'-AMP-activated protein kinase catalytic subunit alpha-1	Q13131	PRKAA1	Unknown
+GlcCer	HMDB_GlcCer	HMDBP02412	"T-cell surface glycoprotein CD1e, membrane-associated"	P15812	CD1E	Enzyme
+GlcCer	HMDB_GlcCer	HMDBP02675	Epididymal secretory protein E1	P61916	NPC2	Enzyme
+GlcCer	HMDB_GlcCer	HMDBP02779	Ceramide synthase 1	P27544	CERS1	Enzyme
+GlcCer	HMDB_GlcCer	HMDBP02783	Antigen-presenting glycoprotein CD1d	P15813	CD1D	Enzyme
+GlcCer	HMDB_GlcCer	HMDBP02955	GPI mannosyltransferase 1	Q9H3S5	PIGM	Enzyme
+GlcCer	HMDB_GlcCer	HMDBP02977	Phosphatidylinositol-glycan biosynthesis class W protein	Q7Z7B1	PIGW	Enzyme
+GlcCer	HMDB_GlcCer	HMDBP03084	Phosphatidylinositol-glycan biosynthesis class X protein	Q8TBF5	PIGX	Enzyme
+GlcCer	HMDB_GlcCer	HMDBP03088	GPI mannosyltransferase 4	Q86VD9	PIGZ	Enzyme
+GlcCer	HMDB_GlcCer	HMDBP06380	"Lactosylceramide 1,3-N-acetyl-beta-D-glucosaminyltransferase"	Q9BYG0	B3GNT5	Enzyme
+GlcCer	HMDB_GlcCer	HMDBP06631	Sphingomyelin phosphodiesterase 3	Q9NY59	SMPD3	Unknown
+GlcCer	HMDB_GlcCer	HMDBP06939	"Beta-1,3-galactosyltransferase 5"	Q9Y2C3	B3GALT5	Enzyme
+GlcCer	HMDB_GlcCer	HMDBP07258	"Beta-1,4-galactosyltransferase 6"	Q9UBX8	B4GALT6	Unknown
+GlcCer	HMDB_GlcCer	HMDBP07325	GPI mannosyltransferase 3	Q92521	PIGB	Enzyme
+GlcCer	HMDB_GlcCer	HMDBP07326	Phosphatidylinositol-glycan biosynthesis class F protein	Q07326	PIGF	Enzyme
+GlcCer	HMDB_GlcCer	HMDBP07327	GPI ethanolamine phosphate transferase 2	Q5H8A4	PIGG	Enzyme
+GlcCer	HMDB_GlcCer	HMDBP07328	GPI ethanolamine phosphate transferase 1	O95427	PIGN	Enzyme
+GlcCer	HMDB_GlcCer	HMDBP07329	GPI ethanolamine phosphate transferase 3	Q8TEQ8	PIGO	Enzyme
+GlcCer	HMDB_GlcCer	HMDBP07330	GPI transamidase component PIG-S	Q96S52	PIGS	Enzyme
+GlcCer	HMDB_GlcCer	HMDBP07331	GPI transamidase component PIG-T	Q969N2	PIGT	Enzyme
+GlcCer	HMDB_GlcCer	HMDBP07332	Phosphatidylinositol glycan anchor biosynthesis class U protein	Q9H490	PIGU	Enzyme
+GlcCer	HMDB_GlcCer	HMDBP07333	GPI mannosyltransferase 2	Q9NUD9	PIGV	Enzyme
+GlcCer	HMDB_GlcCer	HMDBP07334	Phosphatidylinositol N-acetylglucosaminyltransferase subunit Y	Q3MUY2	PIGY	Enzyme
+GlcCer	HMDB_GlcCer	HMDBP07339	Pleckstrin homology domain-containing family A member 8	Q96JA3	PLEKHA8	Unknown
+GlcCer	HMDB_GlcCer	HMDBP08771	Sphingomyelin phosphodiesterase 4	Q9NXE4	SMPD4	Unknown
+GlcCer	HMDB_GlcCer	HMDBP09162	Putative neutral ceramidase C	P0C7U2	ASAH2C	Enzyme
+GlcCer	HMDB_GlcCer	HMDBP09163	Alkaline ceramidase 2	Q5QJU3	ACER2	Enzyme
+GlcCer	HMDB_GlcCer	HMDBP09165	Neutral ceramidase	Q9NR71	ASAH2	Enzyme
+GlcCer	HMDB_GlcCer	HMDBP09169	Non-lysosomal glucosylceramidase	Q9HCG7	GBA2	Enzyme
+GlcCer	HMDB_GlcCer	HMDBP10638	Alkaline ceramidase 1	Q8TDN7	ACER1	Enzyme
+GlcCer	HMDB_GlcCer	HMDBP10742	Killer cell lectin-like receptor subfamily B member 1	Q12918	KLRB1	Unknown
+GlcCer	HMDB_GlcCer	HMDBP10978	Ceramide synthase 5	Q8N5B7	CERS5	Unknown
+GlcCer	HMDB_GlcCer	HMDBP10979	ATP-binding cassette sub-family A member 7	Q8IZY2	ABCA7	Unknown
+GlcCer	HMDB_GlcCer	HMDBP11012	GPI-anchor transamidase	Q92643	PIGK	Enzyme
+GlcCer	HMDB_GlcCer	HMDBP11439	Glycosylphosphatidylinositol anchor attachment 1 protein	O43292	GPAA1	Unknown
+GlcCer	HMDB_GlcCer	HMDBP11440	Protein PLEKHA9	O95397	PLEKHA9	Unknown
+GlcCer	HMDB_GlcCer	HMDBP11441	Glycolipid transfer protein domain-containing protein 2	A6NH11	GLTPD2	Unknown
+GlcCer	HMDB_GlcCer	HMDBP11442	Putative uncharacterized protein PLEKHA8	B5MDU3	PLEKHA8	Unknown
+GlcCer	HMDB_GlcCer	HMDBP11443	T-cell surface glycoprotein CD1a	P06126	CD1A	Unknown
+GlcCer	HMDB_GlcCer	HMDBP11444	Glycolipid transfer protein domain-containing protein 1	Q5TA50	GLTPD1	Unknown
+GlcCer	HMDB_GlcCer	HMDBP11445	T-cell surface glycoprotein CD1c	P29017	CD1C	Unknown
+GlcCer	HMDB_GlcCer	HMDBP11446	Lipopolysaccharide-binding protein	P18428	LBP	Unknown
+GlcCer	HMDB_GlcCer	HMDBP11447	Putative uncharacterized protein DKFZp434L0435	Q9UFH6	DKFZp434L0435	Unknown
+GlcCer	HMDB_GlcCer	HMDBP11448	T-cell surface glycoprotein CD1b	P29016	CD1B	Unknown
+GlcCer	HMDB_GlcCer	HMDBP11449	Glycolipid transfer protein	Q9NZD2	GLTP	Unknown
+GlcCer	HMDB_GlcCer	HMDBP02242	Vitamin K epoxide reductase complex subunit 1	Q9BQB6	VKORC1	Enzyme
+GlcCer	HMDB_GlcCer	HMDBP06176	Retinol dehydrogenase 10	Q8IZV5	RDH10	Enzyme
+PE	HMDB_PE	HMDBP00058	Calcium-dependent phospholipase A2	P39877	PLA2G5	Unknown
+PE	HMDB_PE	HMDBP00059	Group IIF secretory phospholipase A2	Q9BZM2	PLA2G2F	Unknown
+PE	HMDB_PE	HMDBP00060	Cytosolic phospholipase A2	P47712	PLA2G4A	Unknown
+PE	HMDB_PE	HMDBP00061	Phospholipase A2	P04054	PLA2G1B	Unknown
+PE	HMDB_PE	HMDBP00062	Group XIIB secretory phospholipase A2-like protein	Q9BX93	PLA2G12B	Unknown
+PE	HMDB_PE	HMDBP00063	Group 10 secretory phospholipase A2	O15496	PLA2G10	Unknown
+PE	HMDB_PE	HMDBP00065	Group IIE secretory phospholipase A2	Q9NZK7	PLA2G2E	Unknown
+PE	HMDB_PE	HMDBP00068	85/88 kDa calcium-independent phospholipase A2	O60733	PLA2G6	Unknown
+PE	HMDB_PE	HMDBP00073	Group IID secretory phospholipase A2	Q9UNK4	PLA2G2D	Unknown
+PE	HMDB_PE	HMDBP00080	Phospholipase D2	O14939	PLD2	Enzyme
+PE	HMDB_PE	HMDBP00081	Phosphatidylethanolamine N-methyltransferase	Q9UBM1	PEMT	Unknown
+PE	HMDB_PE	HMDBP00082	Phospholipase D1	Q13393	PLD1	Unknown
+PE	HMDB_PE	HMDBP00532	Group 3 secretory phospholipase A2	Q9NZ20	PLA2G3	Unknown
+PE	HMDB_PE	HMDBP01131	Probable phospholipid-transporting ATPase IG	Q8NB49	ATP11C	Unknown
+PE	HMDB_PE	HMDBP01132	Probable phospholipid-transporting ATPase IH	P98196	ATP11A	Unknown
+PE	HMDB_PE	HMDBP01169	Probable phospholipid-transporting ATPase VA	O60312	ATP10A	Unknown
+PE	HMDB_PE	HMDBP01192	Probable phospholipid-transporting ATPase IC	O43520	ATP8B1	Unknown
+PE	HMDB_PE	HMDBP01220	Probable phospholipid-transporting ATPase IIA	O75110	ATP9A	Unknown
+PE	HMDB_PE	HMDBP01239	Probable phospholipid-transporting ATPase VD	Q9P241	ATP10D	Unknown
+PE	HMDB_PE	HMDBP01247	Probable phospholipid-transporting ATPase IB	Q9NTI2	ATP8A2	Unknown
+PE	HMDB_PE	HMDBP01359	Probable phospholipid-transporting ATPase IA	Q9Y2Q0	ATP8A1	Unknown
+PE	HMDB_PE	HMDBP01463	Probable phospholipid-transporting ATPase IM	Q8TF62	ATP8B4	Unknown
+PE	HMDB_PE	HMDBP01485	Probable phospholipid-transporting ATPase IF	Q9Y2G3	ATP11B	Unknown
+PE	HMDB_PE	HMDBP01489	Probable phospholipid-transporting ATPase IK	O60423	ATP8B3	Unknown
+PE	HMDB_PE	HMDBP01967	Phospholipid scramblase 1	O15162	PLSCR1	Unknown
+PE	HMDB_PE	HMDBP02255	Phosphatidylserine decarboxylase proenzyme	Q9UG56	PISD	Enzyme
+PE	HMDB_PE	HMDBP02549	Phospholipid transfer protein	P55058	PLTP	Unknown
+PE	HMDB_PE	HMDBP03349	Choline/ethanolaminephosphotransferase 1	Q9Y6K0	CEPT1	Unknown
+PE	HMDB_PE	HMDBP07291	Phospholipase D3	Q8IV08	PLD3	Enzyme
+PE	HMDB_PE	HMDBP07292	Phospholipase D4	Q96BZ4	PLD4	Enzyme
+PE	HMDB_PE	HMDBP07294	Phospholipid scramblase 2	Q9NRY7	PLSCR2	Unknown
+PE	HMDB_PE	HMDBP07295	Phospholipid scramblase 3	Q9NRY6	PLSCR3	Unknown
+PE	HMDB_PE	HMDBP07296	Phospholipid scramblase 4	Q9NRQ2	PLSCR4	Unknown
+PE	HMDB_PE	HMDBP07297	Phospholipid scramblase family member 5	A0PG75	PLSCR5	Unknown
+PE	HMDB_PE	HMDBP07298	Probable phospholipid-transporting ATPase VB	O94823	ATP10B	Unknown
+PE	HMDB_PE	HMDBP07299	Probable phospholipid-transporting ATPase ID	P98198	ATP8B2	Unknown
+PE	HMDB_PE	HMDBP07302	Abhydrolase domain-containing protein 4	Q8TB40	ABHD4	Enzyme
+PE	HMDB_PE	HMDBP07303	N-acyl-phosphatidylethanolamine-hydrolyzing phospholipase D	Q6IQ20	NAPEPLD	Unknown
+PE	HMDB_PE	HMDBP07304	Phosphatidylethanolamine-binding protein 1	P30086	PEBP1	Enzyme
+PE	HMDB_PE	HMDBP07305	Phosphatidylethanolamine-binding protein 4	Q96S96	PEBP4	Enzyme
+PE	HMDB_PE	HMDBP07306	Ethanolaminephosphotransferase 1	Q9C0D9	EPT1	Unknown
+PE	HMDB_PE	HMDBP09120	Cytosolic phospholipase A2 beta	P0C869	PLA2G4B	Unknown
+PE	HMDB_PE	HMDBP09354	Phospholipase D1 variant	Q59EA4		Enzyme
+LysoSM	HMDB_LSM	HMDBP00776	Sphingomyelin phosphodiesterase	P17405	SMPD1	Enzyme
+LysoSM	HMDB_LSM	HMDBP00935	Galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 1	Q9P2W7	B3GAT1	Unknown
+LysoSM	HMDB_LSM	HMDBP01089	Ectonucleotide pyrophosphatase/phosphodiesterase family member 7	Q6UWV6	ENPP7	Unknown
+LysoSM	HMDB_LSM	HMDBP01090	Sphingomyelin phosphodiesterase 2	O60906	SMPD2	Unknown
+LysoSM	HMDB_LSM	HMDBP01673	Proactivator polypeptide	P07602	PSAP	Enzyme
+LysoSM	HMDB_LSM	HMDBP04457	"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase delta-3"	Q8N3E9	PLCD3	Unknown
+LysoSM	HMDB_LSM	HMDBP06631	Sphingomyelin phosphodiesterase 3	Q9NY59	SMPD3	Unknown
+LysoSM	HMDB_LSM	HMDBP08771	Sphingomyelin phosphodiesterase 4	Q9NXE4	SMPD4	Unknown
+LysoSM	HMDB_LSM	HMDBP09169	Non-lysosomal glucosylceramidase	Q9HCG7	GBA2	Enzyme
+LysoSM	HMDB_LSM	HMDBP10983	Sphingomyelin synthase-related protein 1	Q96LT4	SAMD8	Unknown
+CDP-DG	HMDB_CDP-DG	HMDBP00746	Phosphatidate cytidylyltransferase 2	O95674	CDS2	Enzyme
+CDP-DG	HMDB_CDP-DG	HMDBP00764	Phosphatidate cytidylyltransferase 1	Q92903	CDS1	Unknown
+CDP-DG	HMDB_CDP-DG	HMDBP00771	CDP-diacylglycerol--inositol 3-phosphatidyltransferase	O14735	CDIPT	Unknown
+CDP-DG	HMDB_CDP-DG	HMDBP03388	"CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase, mitochondrial"	Q32NB8	PGS1	Unknown
+DG	HMDB_DG	HMDBP00220	Diacylglycerol kinase theta	P52824	DGKQ	Unknown
+DG	HMDB_DG	HMDBP00221	Pancreatic triacylglycerol lipase	P16233	PNLIP	Enzyme
+DG	HMDB_DG	HMDBP00222	"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase beta-1"	Q9NQ66	PLCB1	Unknown
+DG	HMDB_DG	HMDBP00223	"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase beta-4"	Q15147	PLCB4	Unknown
+DG	HMDB_DG	HMDBP00224	"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase beta-2"	Q00722	PLCB2	Unknown
+DG	HMDB_DG	HMDBP00225	Diacylglycerol kinase gamma	P49619	DGKG	Unknown
+DG	HMDB_DG	HMDBP00226	Hepatic triacylglycerol lipase	P11150	LIPC	Enzyme
+DG	HMDB_DG	HMDBP00228	"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase beta-3"	Q01970	PLCB3	Unknown
+DG	HMDB_DG	HMDBP00229	Inactive pancreatic lipase-related protein 1	P54315	PNLIPRP1	Enzyme
+DG	HMDB_DG	HMDBP00230	"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase gamma-2"	P16885	PLCG2	Unknown
+DG	HMDB_DG	HMDBP00231	Lipid phosphate phosphohydrolase 2	O43688	PPAP2C	Unknown
+DG	HMDB_DG	HMDBP00232	Patatin-like phospholipase domain-containing protein 3	Q9NST1	PNPLA3	Enzyme
+DG	HMDB_DG	HMDBP00233	Diacylglycerol kinase alpha	P23743	DGKA	Unknown
+DG	HMDB_DG	HMDBP00234	Diacylglycerol kinase delta	Q16760	DGKD	Unknown
+DG	HMDB_DG	HMDBP00235	Diacylglycerol kinase epsilon	P52429	DGKE	Unknown
+DG	HMDB_DG	HMDBP00236	Gastric triacylglycerol lipase	P07098	LIPF	Enzyme
+DG	HMDB_DG	HMDBP00237	Lipid phosphate phosphohydrolase 1	O14494	PPAP2A	Unknown
+DG	HMDB_DG	HMDBP00238	Diacylglycerol kinase beta	Q9Y6T7	DGKB	Unknown
+DG	HMDB_DG	HMDBP00239	Endothelial lipase	Q9Y5X9	LIPG	Enzyme
+DG	HMDB_DG	HMDBP00240	Diacylglycerol kinase iota	O75912	DGKI	Unknown
+DG	HMDB_DG	HMDBP00241	Bile salt-activated lipase	P19835	CEL	Unknown
+DG	HMDB_DG	HMDBP00242	Lipid phosphate phosphohydrolase 3	O14495	PPAP2B	Unknown
+DG	HMDB_DG	HMDBP00243	Diacylglycerol O-acyltransferase 1	O75907	DGAT1	Enzyme
+DG	HMDB_DG	HMDBP00244	"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase gamma-1"	P19174	PLCG1	Unknown
+DG	HMDB_DG	HMDBP00245	Pancreatic lipase-related protein 2	P54317	PNLIPRP2	Enzyme
+DG	HMDB_DG	HMDBP00246	Diacylglycerol kinase zeta	Q13574	DGKZ	Unknown
+DG	HMDB_DG	HMDBP00247	"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase delta-1"	P51178	PLCD1	Unknown
+DG	HMDB_DG	HMDBP00310	Lipoprotein lipase	P06858	LPL	Enzyme
+DG	HMDB_DG	HMDBP00318	Galactosylceramide sulfotransferase	Q99999	GAL3ST1	Enzyme
+DG	HMDB_DG	HMDBP00531	Hormone-sensitive lipase	Q05469	LIPE	Unknown
+DG	HMDB_DG	HMDBP00746	Phosphatidate cytidylyltransferase 2	O95674	CDS2	Enzyme
+DG	HMDB_DG	HMDBP00755	Choline-phosphate cytidylyltransferase A	P49585	PCYT1A	Enzyme
+DG	HMDB_DG	HMDBP00764	Phosphatidate cytidylyltransferase 1	Q92903	CDS1	Unknown
+DG	HMDB_DG	HMDBP00770	Phosphatidylcholine:ceramide cholinephosphotransferase 2	Q8NHU3	SGMS2	Enzyme
+DG	HMDB_DG	HMDBP00771	CDP-diacylglycerol--inositol 3-phosphatidyltransferase	O14735	CDIPT	Unknown
+DG	HMDB_DG	HMDBP00775	Phosphatidylcholine:ceramide cholinephosphotransferase 1	Q86VZ5	SGMS1	Enzyme
+DG	HMDB_DG	HMDBP01123	Rap guanine nucleotide exchange factor 2	Q9Y4G8	RAPGEF2	Unknown
+DG	HMDB_DG	HMDBP01153	RAF proto-oncogene serine/threonine-protein kinase	P04049	RAF1	Unknown
+DG	HMDB_DG	HMDBP01180	Protein kinase C alpha type	P17252	PRKCA	Unknown
+DG	HMDB_DG	HMDBP01219	Serine/threonine-protein kinase A-Raf	P10398	ARAF	Unknown
+DG	HMDB_DG	HMDBP01337	Citron Rho-interacting kinase	O14578	CIT	Unknown
+DG	HMDB_DG	HMDBP01372	Protein kinase C beta type	P05771	PRKCB	Unknown
+DG	HMDB_DG	HMDBP01374	Protein kinase C zeta type	Q05513	PRKCZ	Unknown
+DG	HMDB_DG	HMDBP01436	Protein kinase C iota type	P41743	PRKCI	Unknown
+DG	HMDB_DG	HMDBP01455	Rho-associated protein kinase 1	Q13464	ROCK1	Unknown
+DG	HMDB_DG	HMDBP01471	Serine/threonine-protein kinase D1	Q15139	PRKD1	Unknown
+DG	HMDB_DG	HMDBP01479	Protein kinase C gamma type	P05129	PRKCG	Unknown
+DG	HMDB_DG	HMDBP01518	Rho-associated protein kinase 2	O75116	ROCK2	Unknown
+DG	HMDB_DG	HMDBP01847	Protein kinase C delta type	Q05655	PRKCD	Unknown
+DG	HMDB_DG	HMDBP01848	Serine/threonine-protein kinase D3	O94806	PRKD3	Unknown
+DG	HMDB_DG	HMDBP01849	Protein kinase C theta type	Q04759	PRKCQ	Unknown
+DG	HMDB_DG	HMDBP01850	Protein kinase C eta type	P24723	PRKCH	Unknown
+DG	HMDB_DG	HMDBP01851	"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase eta-2"	O75038	PLCH2	Unknown
+DG	HMDB_DG	HMDBP01852	Protein kinase C epsilon type	Q02156	PRKCE	Unknown
+DG	HMDB_DG	HMDBP02248	Ras association domain-containing protein 1	Q9NS23	RASSF1	Unknown
+DG	HMDB_DG	HMDBP02597	Serine/threonine-protein kinase B-raf	P15056	BRAF	Unknown
+DG	HMDB_DG	HMDBP02622	Short transient receptor potential channel 3	Q13507	TRPC3	Unknown
+DG	HMDB_DG	HMDBP02855	Cholinephosphotransferase 1	Q8WUD6	CHPT1	Unknown
+DG	HMDB_DG	HMDBP03089	2-acylglycerol O-acyltransferase 2	Q3SYC2	MOGAT2	Enzyme
+DG	HMDB_DG	HMDBP03160	Patatin-like phospholipase domain-containing protein 4	P41247	PNPLA4	Enzyme
+DG	HMDB_DG	HMDBP03388	"CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase, mitochondrial"	Q32NB8	PGS1	Unknown
+DG	HMDB_DG	HMDBP04232	Diacylglycerol kinase eta	Q86XP1	DGKH	Unknown
+DG	HMDB_DG	HMDBP04454	"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase delta-4"	Q9BRC7	PLCD4	Unknown
+DG	HMDB_DG	HMDBP04455	"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase eta-1"	Q4KWH8	PLCH1	Unknown
+DG	HMDB_DG	HMDBP04456	"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase epsilon-1"	Q9P212	PLCE1	Unknown
+DG	HMDB_DG	HMDBP04457	"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase delta-3"	Q8N3E9	PLCD3	Unknown
+DG	HMDB_DG	HMDBP04483	Diacylglycerol O-acyltransferase 2	Q96PD7	DGAT2	Enzyme
+DG	HMDB_DG	HMDBP04645	2-acylglycerol O-acyltransferase 1	Q96PD6	MOGAT1	Enzyme
+DG	HMDB_DG	HMDBP07278	Acyl-CoA wax alcohol acyltransferase 1	Q58HT5	AWAT1	Enzyme
+DG	HMDB_DG	HMDBP07279	Acyl-CoA wax alcohol acyltransferase 2	Q6E213	AWAT2	Enzyme
+DG	HMDB_DG	HMDBP07280	Diacylglycerol O-acyltransferase 2-like protein 6	Q6ZPD8	DGAT2L6	Enzyme
+DG	HMDB_DG	HMDBP07281	Putative diacylglycerol O-acyltransferase 2-like protein 7	Q6IED9	DGAT2L7	Enzyme
+DG	HMDB_DG	HMDBP07282	Sn1-specific diacylglycerol lipase alpha	Q9Y4D2	DAGLA	Unknown
+DG	HMDB_DG	HMDBP07283	Sn1-specific diacylglycerol lipase beta	Q8NCG7	DAGLB	Unknown
+DG	HMDB_DG	HMDBP07284	2-acylglycerol O-acyltransferase 3	Q86VF5	MOGAT3	Enzyme
+DG	HMDB_DG	HMDBP07285	Diacylglycerol kinase kappa	Q5KSL6	DGKK	Unknown
+DG	HMDB_DG	HMDBP07286	Serine/threonine-protein kinase D2	Q9BZL6	PRKD2	Unknown
+DG	HMDB_DG	HMDBP07336	Membrane-associated phosphatidylinositol transfer protein 1	O00562	PITPNM1	Unknown
+DG	HMDB_DG	HMDBP07342	"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase zeta-1"	Q86YW0	PLCZ1	Unknown
+DG	HMDB_DG	HMDBP07347	Patatin-like phospholipase domain-containing protein 2	Q96AD5	PNPLA2	Enzyme
+DG	HMDB_DG	HMDBP07437	A-kinase anchor protein 13	Q12802	AKAP13	Unknown
+DG	HMDB_DG	HMDBP07719	RAS guanyl-releasing protein 1	O95267	RASGRP1	Unknown
+DG	HMDB_DG	HMDBP07720	RAS guanyl-releasing protein 2	Q7LDG7	RASGRP2	Unknown
+DG	HMDB_DG	HMDBP07829	Myosin-IXb	Q13459	MYO9B	Unknown
+DG	HMDB_DG	HMDBP08078	Short transient receptor potential channel 6	Q9Y210	TRPC6	Unknown
+DG	HMDB_DG	HMDBP08079	Short transient receptor potential channel 7	Q9HCX4	TRPC7	Unknown
+DG	HMDB_DG	HMDBP08094	Protein unc-13 homolog A	Q9UPW8	UNC13A	Unknown
+DG	HMDB_DG	HMDBP08095	Protein unc-13 homolog B	O14795	UNC13B	Unknown
+DG	HMDB_DG	HMDBP08096	Protein unc-13 homolog C	Q8NB66	UNC13C	Unknown
+DG	HMDB_DG	HMDBP08310	Rho guanine nucleotide exchange factor 2	Q92974	ARHGEF2	Unknown
+DG	HMDB_DG	HMDBP08437	RAS guanyl-releasing protein 4	Q8TDF6	RASGRP4	Unknown
+DG	HMDB_DG	HMDBP08485	Serine/threonine-protein kinase MRCK alpha	Q5VT25	CDC42BPA	Unknown
+DG	HMDB_DG	HMDBP08486	Serine/threonine-protein kinase MRCK beta	Q9Y5S2	CDC42BPB	Unknown
+DG	HMDB_DG	HMDBP08487	Serine/threonine-protein kinase MRCK gamma	Q6DT37	CDC42BPG	Unknown
+DG	HMDB_DG	HMDBP08615	Guanine nucleotide exchange factor VAV3	Q9UKW4	VAV3	Unknown
+DG	HMDB_DG	HMDBP08704	"Acylglycerol kinase, mitochondrial"	Q53H12	AGK	Unknown
+DG	HMDB_DG	HMDBP10934	Pancreatic lipase-related protein 3	Q17RR3	PNLIPRP3	Enzyme
+DG	HMDB_DG	HMDBP10935	CDC42 binding protein kinase beta (DMPK-like)	A9JR72	CDC42BPB	Enzyme
+DG	HMDB_DG	HMDBP10936	Kinase suppressor of Ras 2	Q6VAB6	KSR2	Enzyme
+DG	HMDB_DG	HMDBP10937	Tensin-like C1 domain-containing phosphatase	Q63HR2	TENC1	Enzyme
+DG	HMDB_DG	HMDBP10938	"Protein kinase C, alpha variant"	Q59FI5		Enzyme
+DG	HMDB_DG	HMDBP10939	Kinase suppressor of Ras 1	Q8IVT5	KSR1	Enzyme
+DG	HMDB_DG	HMDBP10940	"Protein kinase C, gamma variant"	Q59EZ0		Enzyme
+DG	HMDB_DG	HMDBP10941	CDC42-binding protein kinase beta	Q8IWQ7	CDC42BPA	Enzyme
+DG	HMDB_DG	HMDBP10947	PRKCA protein	Q7Z727	PRKCA	Unknown
+DG	HMDB_DG	HMDBP10948	SH3 and cysteine-rich domain-containing protein 3	Q96MF2	STAC3	Unknown
+DG	HMDB_DG	HMDBP10949	GEM-interacting protein	Q9P107	GMIP	Unknown
+DG	HMDB_DG	HMDBP10950	Differentially expressed in FDCP 8 homolog	Q6ZN54	DEF8	Unknown
+DG	HMDB_DG	HMDBP10951	Rho GTPase-activating protein 29	Q52LW3	ARHGAP29	Unknown
+DG	HMDB_DG	HMDBP10952	Pleckstrin homology domain-containing family M member 3	Q6ZWE6	PLEKHM3	Unknown
+DG	HMDB_DG	HMDBP10953	Minor histocompatibility protein HA-1	Q92619	HMHA1	Unknown
+DG	HMDB_DG	HMDBP10954	Guanine nucleotide exchange factor VAV2	P52735	VAV2	Unknown
+DG	HMDB_DG	HMDBP10955	UNC13B variant protein	Q4LE73	UNC13B variant protein	Unknown
+DG	HMDB_DG	HMDBP10956	Rho-guanine nucleotide exchange factor	Q8N1W1	RGNEF	Unknown
+DG	HMDB_DG	HMDBP10957	Pleckstrin homology domain-containing family M member 1	Q9Y4G2	PLEKHM1	Unknown
+DG	HMDB_DG	HMDBP10958	SH3 and cysteine-rich domain-containing protein 2	Q6ZMT1	STAC2	Unknown
+DG	HMDB_DG	HMDBP10959	Beta-chimaerin	P52757	CHN2	Unknown
+DG	HMDB_DG	HMDBP10960	Gamma-1-syntrophin	Q9NSN8	SNTG1	Unknown
+DG	HMDB_DG	HMDBP10961	N-chimaerin	P15882	CHN1	Unknown
+DG	HMDB_DG	HMDBP10963	Unc-13 homolog B (C. elegans)	B1AM27	UNC13B	Unknown
+DG	HMDB_DG	HMDBP10964	Myosin-IXa	B2RTY4	MYO9A	Unknown
+DG	HMDB_DG	HMDBP10965	Ras association domain-containing protein 5	Q8WWW0	RASSF5	Unknown
+DG	HMDB_DG	HMDBP10966	UNC13B protein	Q2NKJ5	UNC13B	Unknown
+DG	HMDB_DG	HMDBP10967	Aging-associated gene 6 protein	Q2TSD3		Unknown
+DG	HMDB_DG	HMDBP10968	PDZ domain-containing protein 8	Q8NEN9	PDZD8	Unknown
+DG	HMDB_DG	HMDBP10969	Proto-oncogene vav	P15498	VAV1	Unknown
+DG	HMDB_DG	HMDBP10970	Putative pleckstrin homology domain-containing family M member 1P	Q69YJ1	PLEKHM1P	Unknown
+DG	HMDB_DG	HMDBP10971	SH3 and cysteine-rich domain-containing protein	Q99469	STAC	Unknown
+DG	HMDB_DG	HMDBP10972	Rac GTPase-activating protein 1	Q9H0H5	RACGAP1	Unknown
+DG	HMDB_DG	HMDBP10973	Ras guanyl-releasing protein 3	Q8IV61	RASGRP3	Unknown
+DG	HMDB_DG	HMDBP00227	Lysosomal acid lipase/cholesteryl ester hydrolase	P38571	LIPA	Enzyme
+DG	HMDB_DG	HMDBP00536	Arylacetamide deacetylase	P22760	AADAC	Enzyme
+DG	HMDB_DG	HMDBP03176	Long-chain fatty acid transport protein 1	Q6PCB7	SLC27A1	Transporter
+LysoPA	HMDB_LPA	HMDBP00080	Phospholipase D2	O14939	PLD2	Enzyme
+LysoPA	HMDB_LPA	HMDBP00167	Ectonucleotide pyrophosphatase/phosphodiesterase family member 2	Q13822	ENPP2	Unknown
+LysoPA	HMDB_LPA	HMDBP00220	Diacylglycerol kinase theta	P52824	DGKQ	Unknown
+LysoPA	HMDB_LPA	HMDBP00231	Lipid phosphate phosphohydrolase 2	O43688	PPAP2C	Unknown
+LysoPA	HMDB_LPA	HMDBP00233	Diacylglycerol kinase alpha	P23743	DGKA	Unknown
+LysoPA	HMDB_LPA	HMDBP00234	Diacylglycerol kinase delta	Q16760	DGKD	Unknown
+LysoPA	HMDB_LPA	HMDBP00237	Lipid phosphate phosphohydrolase 1	O14494	PPAP2A	Unknown
+LysoPA	HMDB_LPA	HMDBP00238	Diacylglycerol kinase beta	Q9Y6T7	DGKB	Unknown
+LysoPA	HMDB_LPA	HMDBP00240	Diacylglycerol kinase iota	O75912	DGKI	Unknown
+LysoPA	HMDB_LPA	HMDBP00242	Lipid phosphate phosphohydrolase 3	O14495	PPAP2B	Unknown
+LysoPA	HMDB_LPA	HMDBP00246	Diacylglycerol kinase zeta	Q13574	DGKZ	Unknown
+LysoPA	HMDB_LPA	HMDBP00746	Phosphatidate cytidylyltransferase 2	O95674	CDS2	Enzyme
+LysoPA	HMDB_LPA	HMDBP00764	Phosphatidate cytidylyltransferase 1	Q92903	CDS1	Unknown
+LysoPA	HMDB_LPA	HMDBP01127	Acyl-CoA:lysophosphatidylglycerol acyltransferase 1	Q92604	LPGAT1	Enzyme
+LysoPA	HMDB_LPA	HMDBP01281	Focal adhesion kinase 1	Q05397	PTK2	Enzyme
+LysoPA	HMDB_LPA	HMDBP01425	Protein-tyrosine kinase 2-beta	Q14289	PTK2B	Unknown
+LysoPA	HMDB_LPA	HMDBP01577	1-acyl-sn-glycerol-3-phosphate acyltransferase gamma	Q9NRZ7	AGPAT3	Enzyme
+LysoPA	HMDB_LPA	HMDBP01579	1-acyl-sn-glycerol-3-phosphate acyltransferase beta	O15120	AGPAT2	Enzyme
+LysoPA	HMDB_LPA	HMDBP01581	1-acyl-sn-glycerol-3-phosphate acyltransferase alpha	Q99943	AGPAT1	Enzyme
+LysoPA	HMDB_LPA	HMDBP01585	Phosphatidylinositol-glycan-specific phospholipase D	P80108	GPLD1	Enzyme
+LysoPA	HMDB_LPA	HMDBP02847	Lysophosphatidic acid receptor 2	Q9HBW0	LPAR2	Enzyme
+LysoPA	HMDB_LPA	HMDBP02852	Lysophosphatidic acid receptor 1	Q92633	LPAR1	Enzyme
+LysoPA	HMDB_LPA	HMDBP03003	1-acyl-sn-glycerol-3-phosphate acyltransferase epsilon	Q9NUQ2	AGPAT5	Enzyme
+LysoPA	HMDB_LPA	HMDBP03293	Glycerol-3-phosphate acyltransferase 4	Q86UL3	AGPAT6	Enzyme
+LysoPA	HMDB_LPA	HMDBP04232	Diacylglycerol kinase eta	Q86XP1	DGKH	Unknown
+LysoPA	HMDB_LPA	HMDBP04526	1-acyl-sn-glycerol-3-phosphate acyltransferase delta	Q9NRZ5	AGPAT4	Enzyme
+LysoPA	HMDB_LPA	HMDBP07289	Lysophosphatidylcholine acyltransferase 1	Q8NF37	LPCAT1	Unknown
+LysoPA	HMDB_LPA	HMDBP07290	Lysophosphatidylcholine acyltransferase 2	Q7L5N7	LPCAT2	Enzyme
+LysoPA	HMDB_LPA	HMDBP07309	Lysocardiolipin acyltransferase 1	Q6UWP7	LCLAT1	Enzyme
+LysoPA	HMDB_LPA	HMDBP07310	Lysophosphatidic acid receptor 3	Q9UBY5	LPAR3	Enzyme
+LysoPA	HMDB_LPA	HMDBP07311	Lysophosphatidic acid receptor 4	Q99677	LPAR4	Unknown
+LysoPA	HMDB_LPA	HMDBP07312	Lysophosphatidic acid receptor 5	Q9H1C0	LPAR5	Enzyme
+LysoPA	HMDB_LPA	HMDBP07313	Lysophospholipid acyltransferase LPCAT4	Q643R3	LPCAT4	Enzyme
+LysoPA	HMDB_LPA	HMDBP07314	Glycerol-3-phosphate acyltransferase 3	Q53EU6	AGPAT9	Enzyme
+LysoPA	HMDB_LPA	HMDBP07315	Lysophosphatidic acid phosphatase type 6	Q9NPH0	ACP6	Enzyme
+LysoPA	HMDB_LPA	HMDBP07316	Lysophosphatidic acid receptor 6	P43657	LPAR6	Unknown
+LysoPA	HMDB_LPA	HMDBP07317	Lipase member H	Q8WWY8	LIPH	Unknown
+LysoPA	HMDB_LPA	HMDBP07318	Lipase member I	Q6XZB0	LIPI	Unknown
+LysoPA	HMDB_LPA	HMDBP07319	Lipid phosphate phosphatase-related protein type 4	Q7Z2D5	LPPR4	Enzyme
+LysoPA	HMDB_LPA	HMDBP08704	"Acylglycerol kinase, mitochondrial"	Q53H12	AGK	Unknown
+LysoPA	HMDB_LPA	HMDBP09354	Phospholipase D1 variant	Q59EA4		Enzyme
+LysoPA	HMDB_LPA	HMDBP09413	"1-acylglycerol-3-phosphate O-acyltransferase 6 (Lysophosphatidic acid acyltransferase, zeta), isoform CRA_b"	Q2TU73	AGPAT6	Enzyme
+LysoPA	HMDB_LPA	HMDBP09416	"Diacylglycerol kinase, epsilon 64kDa"	A1L4Q0	DGKE	Enzyme
+LysoPA	HMDB_LPA	HMDBP10980	Lysophosphatidic acid receptor 1	B1AP63	LPAR1	Unknown
+LysoPA	HMDB_LPA	HMDBP10981	High-affinity lysophosphatidic acid receptor homolog	O43898		Unknown
+LysoPA	HMDB_LPA	HMDBP10982	LPAR1 protein	Q6GPG7	LPAR1	Unknown
+PI	HMDB_PI	HMDBP00222	"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase beta-1"	Q9NQ66	PLCB1	Unknown
+PI	HMDB_PI	HMDBP00223	"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase beta-4"	Q15147	PLCB4	Unknown
+PI	HMDB_PI	HMDBP00224	"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase beta-2"	Q00722	PLCB2	Unknown
+PI	HMDB_PI	HMDBP00228	"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase beta-3"	Q01970	PLCB3	Unknown
+PI	HMDB_PI	HMDBP00230	"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase gamma-2"	P16885	PLCG2	Unknown
+PI	HMDB_PI	HMDBP00244	"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase gamma-1"	P19174	PLCG1	Unknown
+PI	HMDB_PI	HMDBP00247	"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase delta-1"	P51178	PLCD1	Unknown
+PI	HMDB_PI	HMDBP00557	N-acetylglucosaminyl-phosphatidylinositol de-N-acetylase	Q9Y2B2	PIGL	Enzyme
+PI	HMDB_PI	HMDBP00940	Phosphatidylinositol N-acetylglucosaminyltransferase subunit Q	Q9BRB3	PIGQ	Enzyme
+PI	HMDB_PI	HMDBP00941	Phosphatidylinositol N-acetylglucosaminyltransferase subunit A	P37287	PIGA	Enzyme
+PI	HMDB_PI	HMDBP00942	Phosphatidylinositol N-acetylglucosaminyltransferase subunit H	Q14442	PIGH	Enzyme
+PI	HMDB_PI	HMDBP00944	Phosphatidylinositol N-acetylglucosaminyltransferase subunit C	Q92535	PIGC	Enzyme
+PI	HMDB_PI	HMDBP01131	Probable phospholipid-transporting ATPase IG	Q8NB49	ATP11C	Unknown
+PI	HMDB_PI	HMDBP01132	Probable phospholipid-transporting ATPase IH	P98196	ATP11A	Unknown
+PI	HMDB_PI	HMDBP01143	"Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta isoform"	O00329	PIK3CD	Enzyme
+PI	HMDB_PI	HMDBP01169	Probable phospholipid-transporting ATPase VA	O60312	ATP10A	Unknown
+PI	HMDB_PI	HMDBP01192	Probable phospholipid-transporting ATPase IC	O43520	ATP8B1	Unknown
+PI	HMDB_PI	HMDBP01208	"Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta isoform"	P42338	PIK3CB	Enzyme
+PI	HMDB_PI	HMDBP01220	Probable phospholipid-transporting ATPase IIA	O75110	ATP9A	Unknown
+PI	HMDB_PI	HMDBP01236	"Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha isoform"	P42336	PIK3CA	Enzyme
+PI	HMDB_PI	HMDBP01239	Probable phospholipid-transporting ATPase VD	Q9P241	ATP10D	Unknown
+PI	HMDB_PI	HMDBP01247	Probable phospholipid-transporting ATPase IB	Q9NTI2	ATP8A2	Unknown
+PI	HMDB_PI	HMDBP01359	Probable phospholipid-transporting ATPase IA	Q9Y2Q0	ATP8A1	Unknown
+PI	HMDB_PI	HMDBP01392	"Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit gamma isoform"	P48736	PIK3CG	Enzyme
+PI	HMDB_PI	HMDBP01463	Probable phospholipid-transporting ATPase IM	Q8TF62	ATP8B4	Unknown
+PI	HMDB_PI	HMDBP01485	Probable phospholipid-transporting ATPase IF	Q9Y2G3	ATP11B	Unknown
+PI	HMDB_PI	HMDBP01489	Probable phospholipid-transporting ATPase IK	O60423	ATP8B3	Unknown
+PI	HMDB_PI	HMDBP01570	"Phosphatidylinositol 3,4,5-trisphosphate 3-phosphatase and dual-specificity protein phosphatase PTEN"	P60484	PTEN	Unknown
+PI	HMDB_PI	HMDBP01672	Phosphatidylinositol transfer protein beta isoform	P48739	PITPNB	Unknown
+PI	HMDB_PI	HMDBP01851	"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase eta-2"	O75038	PLCH2	Unknown
+PI	HMDB_PI	HMDBP01967	Phospholipid scramblase 1	O15162	PLSCR1	Unknown
+PI	HMDB_PI	HMDBP02190	Phosphatidylserine synthase 1	P48651	PTDSS1	Enzyme
+PI	HMDB_PI	HMDBP02255	Phosphatidylserine decarboxylase proenzyme	Q9UG56	PISD	Enzyme
+PI	HMDB_PI	HMDBP02524	Phosphatidylinositol transfer protein alpha isoform	Q00169	PITPNA	Unknown
+PI	HMDB_PI	HMDBP02549	Phospholipid transfer protein	P55058	PLTP	Unknown
+PI	HMDB_PI	HMDBP02955	GPI mannosyltransferase 1	Q9H3S5	PIGM	Enzyme
+PI	HMDB_PI	HMDBP02960	Phosphatidylserine synthase 2	Q9BVG9	PTDSS2	Enzyme
+PI	HMDB_PI	HMDBP02977	Phosphatidylinositol-glycan biosynthesis class W protein	Q7Z7B1	PIGW	Enzyme
+PI	HMDB_PI	HMDBP03084	Phosphatidylinositol-glycan biosynthesis class X protein	Q8TBF5	PIGX	Enzyme
+PI	HMDB_PI	HMDBP03088	GPI mannosyltransferase 4	Q86VD9	PIGZ	Enzyme
+PI	HMDB_PI	HMDBP03264	"Phosphatidylinositol 3,4,5-trisphosphate 5-phosphatase 2"	O15357	INPPL1	Enzyme
+PI	HMDB_PI	HMDBP03787	"Phosphatidylinositol 3,4,5-trisphosphate 5-phosphatase 1"	Q92835	INPP5D	Enzyme
+PI	HMDB_PI	HMDBP03992	Phosphatidylinositol 3-kinase catalytic subunit type 3	Q8NEB9	PIK3C3	Unknown
+PI	HMDB_PI	HMDBP04453	PI-PLC X domain-containing protein 2	Q0VAA5	PLCXD2	Enzyme
+PI	HMDB_PI	HMDBP04454	"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase delta-4"	Q9BRC7	PLCD4	Unknown
+PI	HMDB_PI	HMDBP04455	"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase eta-1"	Q4KWH8	PLCH1	Unknown
+PI	HMDB_PI	HMDBP04456	"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase epsilon-1"	Q9P212	PLCE1	Unknown
+PI	HMDB_PI	HMDBP04457	"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase delta-3"	Q8N3E9	PLCD3	Unknown
+PI	HMDB_PI	HMDBP07294	Phospholipid scramblase 2	Q9NRY7	PLSCR2	Unknown
+PI	HMDB_PI	HMDBP07295	Phospholipid scramblase 3	Q9NRY6	PLSCR3	Unknown
+PI	HMDB_PI	HMDBP07296	Phospholipid scramblase 4	Q9NRQ2	PLSCR4	Unknown
+PI	HMDB_PI	HMDBP07297	Phospholipid scramblase family member 5	A0PG75	PLSCR5	Unknown
+PI	HMDB_PI	HMDBP07298	Probable phospholipid-transporting ATPase VB	O94823	ATP10B	Unknown
+PI	HMDB_PI	HMDBP07299	Probable phospholipid-transporting ATPase ID	P98198	ATP8B2	Unknown
+PI	HMDB_PI	HMDBP07307	Phospholipase A1 member A	Q53H76	PLA1A	Enzyme
+PI	HMDB_PI	HMDBP07308	Serum deprivation-response protein	O95810	SDPR	Unknown
+PI	HMDB_PI	HMDBP07325	GPI mannosyltransferase 3	Q92521	PIGB	Enzyme
+PI	HMDB_PI	HMDBP07326	Phosphatidylinositol-glycan biosynthesis class F protein	Q07326	PIGF	Enzyme
+PI	HMDB_PI	HMDBP07327	GPI ethanolamine phosphate transferase 2	Q5H8A4	PIGG	Enzyme
+PI	HMDB_PI	HMDBP07328	GPI ethanolamine phosphate transferase 1	O95427	PIGN	Enzyme
+PI	HMDB_PI	HMDBP07329	GPI ethanolamine phosphate transferase 3	Q8TEQ8	PIGO	Enzyme
+PI	HMDB_PI	HMDBP07330	GPI transamidase component PIG-S	Q96S52	PIGS	Enzyme
+PI	HMDB_PI	HMDBP07331	GPI transamidase component PIG-T	Q969N2	PIGT	Enzyme
+PI	HMDB_PI	HMDBP07332	Phosphatidylinositol glycan anchor biosynthesis class U protein	Q9H490	PIGU	Enzyme
+PI	HMDB_PI	HMDBP07333	GPI mannosyltransferase 2	Q9NUD9	PIGV	Enzyme
+PI	HMDB_PI	HMDBP07334	Phosphatidylinositol N-acetylglucosaminyltransferase subunit Y	Q3MUY2	PIGY	Enzyme
+PI	HMDB_PI	HMDBP07335	Cytoplasmic phosphatidylinositol transfer protein 1	Q9UKF7	PITPNC1	Unknown
+PI	HMDB_PI	HMDBP07336	Membrane-associated phosphatidylinositol transfer protein 1	O00562	PITPNM1	Unknown
+PI	HMDB_PI	HMDBP07337	Membrane-associated phosphatidylinositol transfer protein 2	Q9BZ72	PITPNM2	Unknown
+PI	HMDB_PI	HMDBP07338	Membrane-associated phosphatidylinositol transfer protein 3	Q9BZ71	PITPNM3	Unknown
+PI	HMDB_PI	HMDBP07339	Pleckstrin homology domain-containing family A member 8	Q96JA3	PLEKHA8	Unknown
+PI	HMDB_PI	HMDBP07340	PI-PLC X domain-containing protein 1	Q9NUJ7	PLCXD1	Enzyme
+PI	HMDB_PI	HMDBP07341	PI-PLC X domain-containing protein 3	Q63HM9	PLCXD3	Enzyme
+PI	HMDB_PI	HMDBP07342	"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase zeta-1"	Q86YW0	PLCZ1	Unknown
+PI	HMDB_PI	HMDBP07343	"Phosphatidylinositol 3,4,5-trisphosphate-dependent Rac exchanger 1 protein"	Q8TCU6	PREX1	Unknown
+PI	HMDB_PI	HMDBP07344	Transmembrane protein 55A	Q8N4L2	TMEM55A	Unknown
+PI	HMDB_PI	HMDBP07345	Transmembrane protein 55B	Q86T03	TMEM55B	Unknown
+PI	HMDB_PI	HMDBP07346	"Phosphatidylinositol 3,4,5-trisphosphate 3-phosphatase TPTE2"	Q6XPS3	TPTE2	Enzyme
+PI	HMDB_PI	HMDBP08327	"Arf-GAP with coiled-coil, ANK repeat and PH domain-containing protein 1"	Q15027	ACAP1	Unknown
+PI	HMDB_PI	HMDBP10723	"Arf-GAP with SH3 domain, ANK repeat and PH domain-containing protein 1"	Q9ULH1	ASAP1	Unknown
+PIP	HMDB_PIP	HMDBP08327	"Arf-GAP with coiled-coil, ANK repeat and PH domain-containing protein 1"	Q15027	ACAP1	Unknown
+PIP	HMDB_PIP	HMDBP10723	"Arf-GAP with SH3 domain, ANK repeat and PH domain-containing protein 1"	Q9ULH1	ASAP1	Unknown
+PIP	HMDB_PIP	HMDBP01169	Probable phospholipid-transporting ATPase VA	O60312	ATP10A	Unknown
+PIP	HMDB_PIP	HMDBP07298	Probable phospholipid-transporting ATPase VB	O94823	ATP10B	Unknown
+PIP	HMDB_PIP	HMDBP01239	Probable phospholipid-transporting ATPase VD	Q9P241	ATP10D	Unknown
+PIP	HMDB_PIP	HMDBP01132	Probable phospholipid-transporting ATPase IH	P98196	ATP11A	Unknown
+PIP	HMDB_PIP	HMDBP01485	Probable phospholipid-transporting ATPase IF	Q9Y2G3	ATP11B	Unknown
+PIP	HMDB_PIP	HMDBP01131	Probable phospholipid-transporting ATPase IG	Q8NB49	ATP11C	Unknown
+PIP	HMDB_PIP	HMDBP01359	Probable phospholipid-transporting ATPase IA	Q9Y2Q0	ATP8A1	Unknown
+PIP	HMDB_PIP	HMDBP01247	Probable phospholipid-transporting ATPase IB	Q9NTI2	ATP8A2	Unknown
+PIP	HMDB_PIP	HMDBP01192	Probable phospholipid-transporting ATPase IC	O43520	ATP8B1	Unknown
+PIP	HMDB_PIP	HMDBP07299	Probable phospholipid-transporting ATPase ID	P98198	ATP8B2	Unknown
+PIP	HMDB_PIP	HMDBP01489	Probable phospholipid-transporting ATPase IK	O60423	ATP8B3	Unknown
+PIP	HMDB_PIP	HMDBP01463	Probable phospholipid-transporting ATPase IM	Q8TF62	ATP8B4	Unknown
+PIP	HMDB_PIP	HMDBP01220	Probable phospholipid-transporting ATPase IIA	O75110	ATP9A	Unknown
+PIP	HMDB_PIP	HMDBP03787	"Phosphatidylinositol 3,4,5-trisphosphate 5-phosphatase 1"	Q92835	INPP5D	Enzyme
+PIP	HMDB_PIP	HMDBP03264	"Phosphatidylinositol 3,4,5-trisphosphate 5-phosphatase 2"	O15357	INPPL1	Enzyme
+PIP	HMDB_PIP	HMDBP00941	Phosphatidylinositol N-acetylglucosaminyltransferase subunit A	P37287	PIGA	Enzyme
+PIP	HMDB_PIP	HMDBP07325	GPI mannosyltransferase 3	Q92521	PIGB	Enzyme
+PIP	HMDB_PIP	HMDBP00944	Phosphatidylinositol N-acetylglucosaminyltransferase subunit C	Q92535	PIGC	Enzyme
+PIP	HMDB_PIP	HMDBP07326	Phosphatidylinositol-glycan biosynthesis class F protein	Q07326	PIGF	Enzyme
+PIP	HMDB_PIP	HMDBP07327	GPI ethanolamine phosphate transferase 2	Q5H8A4	PIGG	Enzyme
+PIP	HMDB_PIP	HMDBP00942	Phosphatidylinositol N-acetylglucosaminyltransferase subunit H	Q14442	PIGH	Enzyme
+PIP	HMDB_PIP	HMDBP00557	N-acetylglucosaminyl-phosphatidylinositol de-N-acetylase	Q9Y2B2	PIGL	Enzyme
+PIP	HMDB_PIP	HMDBP02955	GPI mannosyltransferase 1	Q9H3S5	PIGM	Enzyme
+PIP	HMDB_PIP	HMDBP07328	GPI ethanolamine phosphate transferase 1	O95427	PIGN	Enzyme
+PIP	HMDB_PIP	HMDBP07329	GPI ethanolamine phosphate transferase 3	Q8TEQ8	PIGO	Enzyme
+PIP	HMDB_PIP	HMDBP00940	Phosphatidylinositol N-acetylglucosaminyltransferase subunit Q	Q9BRB3	PIGQ	Enzyme
+PIP	HMDB_PIP	HMDBP07330	GPI transamidase component PIG-S	Q96S52	PIGS	Enzyme
+PIP	HMDB_PIP	HMDBP07331	GPI transamidase component PIG-T	Q969N2	PIGT	Enzyme
+PIP	HMDB_PIP	HMDBP07332	Phosphatidylinositol glycan anchor biosynthesis class U protein	Q9H490	PIGU	Enzyme
+PIP	HMDB_PIP	HMDBP07333	GPI mannosyltransferase 2	Q9NUD9	PIGV	Enzyme
+PIP	HMDB_PIP	HMDBP02977	Phosphatidylinositol-glycan biosynthesis class W protein	Q7Z7B1	PIGW	Enzyme
+PIP	HMDB_PIP	HMDBP03084	Phosphatidylinositol-glycan biosynthesis class X protein	Q8TBF5	PIGX	Enzyme
+PIP	HMDB_PIP	HMDBP07334	Phosphatidylinositol N-acetylglucosaminyltransferase subunit Y	Q3MUY2	PIGY	Enzyme
+PIP	HMDB_PIP	HMDBP03088	GPI mannosyltransferase 4	Q86VD9	PIGZ	Enzyme
+PIP	HMDB_PIP	HMDBP03992	Phosphatidylinositol 3-kinase catalytic subunit type 3	Q8NEB9	PIK3C3	Unknown
+PIP	HMDB_PIP	HMDBP01236	"Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha isoform"	P42336	PIK3CA	Enzyme
+PIP	HMDB_PIP	HMDBP01208	"Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta isoform"	P42338	PIK3CB	Enzyme
+PIP	HMDB_PIP	HMDBP01143	"Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta isoform"	O00329	PIK3CD	Enzyme
+PIP	HMDB_PIP	HMDBP01392	"Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit gamma isoform"	P48736	PIK3CG	Enzyme
+PIP	HMDB_PIP	HMDBP02255	Phosphatidylserine decarboxylase proenzyme	Q9UG56	PISD	Enzyme
+PIP	HMDB_PIP	HMDBP02524	Phosphatidylinositol transfer protein alpha isoform	Q00169	PITPNA	Unknown
+PIP	HMDB_PIP	HMDBP01672	Phosphatidylinositol transfer protein beta isoform	P48739	PITPNB	Unknown
+PIP	HMDB_PIP	HMDBP07335	Cytoplasmic phosphatidylinositol transfer protein 1	Q9UKF7	PITPNC1	Unknown
+PIP	HMDB_PIP	HMDBP07336	Membrane-associated phosphatidylinositol transfer protein 1	O00562	PITPNM1	Unknown
+PIP	HMDB_PIP	HMDBP07337	Membrane-associated phosphatidylinositol transfer protein 2	Q9BZ72	PITPNM2	Unknown
+PIP	HMDB_PIP	HMDBP07338	Membrane-associated phosphatidylinositol transfer protein 3	Q9BZ71	PITPNM3	Unknown
+PIP	HMDB_PIP	HMDBP07307	Phospholipase A1 member A	Q53H76	PLA1A	Enzyme
+PIP	HMDB_PIP	HMDBP00222	"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase beta-1"	Q9NQ66	PLCB1	Unknown
+PIP	HMDB_PIP	HMDBP00224	"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase beta-2"	Q00722	PLCB2	Unknown
+PIP	HMDB_PIP	HMDBP00228	"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase beta-3"	Q01970	PLCB3	Unknown
+PIP	HMDB_PIP	HMDBP00223	"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase beta-4"	Q15147	PLCB4	Unknown
+PIP	HMDB_PIP	HMDBP00247	"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase delta-1"	P51178	PLCD1	Unknown
+PIP	HMDB_PIP	HMDBP04457	"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase delta-3"	Q8N3E9	PLCD3	Unknown
+PIP	HMDB_PIP	HMDBP04454	"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase delta-4"	Q9BRC7	PLCD4	Unknown
+PIP	HMDB_PIP	HMDBP04456	"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase epsilon-1"	Q9P212	PLCE1	Unknown
+PIP	HMDB_PIP	HMDBP00244	"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase gamma-1"	P19174	PLCG1	Unknown
+PIP	HMDB_PIP	HMDBP00230	"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase gamma-2"	P16885	PLCG2	Unknown
+PIP	HMDB_PIP	HMDBP04455	"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase eta-1"	Q4KWH8	PLCH1	Unknown
+PIP	HMDB_PIP	HMDBP01851	"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase eta-2"	O75038	PLCH2	Unknown
+PIP	HMDB_PIP	HMDBP07340	PI-PLC X domain-containing protein 1	Q9NUJ7	PLCXD1	Enzyme
+PIP	HMDB_PIP	HMDBP04453	PI-PLC X domain-containing protein 2	Q0VAA5	PLCXD2	Enzyme
+PIP	HMDB_PIP	HMDBP07341	PI-PLC X domain-containing protein 3	Q63HM9	PLCXD3	Enzyme
+PIP	HMDB_PIP	HMDBP07342	"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase zeta-1"	Q86YW0	PLCZ1	Unknown
+PIP	HMDB_PIP	HMDBP07339	Pleckstrin homology domain-containing family A member 8	Q96JA3	PLEKHA8	Unknown
+PIP	HMDB_PIP	HMDBP01967	Phospholipid scramblase 1	O15162	PLSCR1	Unknown
+PIP	HMDB_PIP	HMDBP07294	Phospholipid scramblase 2	Q9NRY7	PLSCR2	Unknown
+PIP	HMDB_PIP	HMDBP07295	Phospholipid scramblase 3	Q9NRY6	PLSCR3	Unknown
+PIP	HMDB_PIP	HMDBP07296	Phospholipid scramblase 4	Q9NRQ2	PLSCR4	Unknown
+PIP	HMDB_PIP	HMDBP07297	Phospholipid scramblase family member 5	A0PG75	PLSCR5	Unknown
+PIP	HMDB_PIP	HMDBP02549	Phospholipid transfer protein	P55058	PLTP	Unknown
+PIP	HMDB_PIP	HMDBP07343	"Phosphatidylinositol 3,4,5-trisphosphate-dependent Rac exchanger 1 protein"	Q8TCU6	PREX1	Unknown
+PIP	HMDB_PIP	HMDBP02190	Phosphatidylserine synthase 1	P48651	PTDSS1	Enzyme
+PIP	HMDB_PIP	HMDBP02960	Phosphatidylserine synthase 2	Q9BVG9	PTDSS2	Enzyme
+PIP	HMDB_PIP	HMDBP01570	"Phosphatidylinositol 3,4,5-trisphosphate 3-phosphatase and dual-specificity protein phosphatase PTEN"	P60484	PTEN	Unknown
+PIP	HMDB_PIP	HMDBP07308	Serum deprivation-response protein	O95810	SDPR	Unknown
+PIP	HMDB_PIP	HMDBP07344	Transmembrane protein 55A	Q8N4L2	TMEM55A	Unknown
+PIP	HMDB_PIP	HMDBP07345	Transmembrane protein 55B	Q86T03	TMEM55B	Unknown
+PIP	HMDB_PIP	HMDBP07346	"Phosphatidylinositol 3,4,5-trisphosphate 3-phosphatase TPTE2"	Q6XPS3	TPTE2	Enzyme
+CL	HMDB_CL	HMDBP01717	Beta-2-glycoprotein 1	P02749	APOH	Enzyme
+CL	HMDB_CL	HMDBP03379	Cardiolipin synthase	Q9UJA2	CRLS1	Enzyme
+CL	HMDB_CL	HMDBP07309	Lysocardiolipin acyltransferase 1	Q6UWP7	LCLAT1	Enzyme
+PG	HMDB_PG	HMDBP01127	Acyl-CoA:lysophosphatidylglycerol acyltransferase 1	Q92604	LPGAT1	Enzyme
+LysoPE	HMDB_LPE	HMDBP00167	Ectonucleotide pyrophosphatase/phosphodiesterase family member 2	Q13822	ENPP2	Unknown
+LysoPE	HMDB_LPE	HMDBP00080	Phospholipase D2	O14939	PLD2	Enzyme
+LysoPE	HMDB_LPE	HMDBP00082	Phospholipase D1	Q13393	PLD1	Unknown
+LysoPE	HMDB_LPE	HMDBP01131	Probable phospholipid-transporting ATPase IG	Q8NB49	ATP11C	Unknown
+LysoPE	HMDB_LPE	HMDBP01132	Probable phospholipid-transporting ATPase IH	P98196	ATP11A	Unknown
+LysoPE	HMDB_LPE	HMDBP01169	Probable phospholipid-transporting ATPase VA	O60312	ATP10A	Unknown
+LysoPE	HMDB_LPE	HMDBP01192	Probable phospholipid-transporting ATPase IC	O43520	ATP8B1	Unknown
+LysoPE	HMDB_LPE	HMDBP01220	Probable phospholipid-transporting ATPase IIA	O75110	ATP9A	Unknown
+LysoPE	HMDB_LPE	HMDBP01239	Probable phospholipid-transporting ATPase VD	Q9P241	ATP10D	Unknown
+LysoPE	HMDB_LPE	HMDBP01247	Probable phospholipid-transporting ATPase IB	Q9NTI2	ATP8A2	Unknown
+LysoPE	HMDB_LPE	HMDBP01359	Probable phospholipid-transporting ATPase IA	Q9Y2Q0	ATP8A1	Unknown
+LysoPE	HMDB_LPE	HMDBP01463	Probable phospholipid-transporting ATPase IM	Q8TF62	ATP8B4	Unknown
+LysoPE	HMDB_LPE	HMDBP01485	Probable phospholipid-transporting ATPase IF	Q9Y2G3	ATP11B	Unknown
+LysoPE	HMDB_LPE	HMDBP01489	Probable phospholipid-transporting ATPase IK	O60423	ATP8B3	Unknown
+LysoPE	HMDB_LPE	HMDBP01967	Phospholipid scramblase 1	O15162	PLSCR1	Unknown
+LysoPE	HMDB_LPE	HMDBP02255	Phosphatidylserine decarboxylase proenzyme	Q9UG56	PISD	Enzyme
+LysoPE	HMDB_LPE	HMDBP02549	Phospholipid transfer protein	P55058	PLTP	Unknown
+LysoPE	HMDB_LPE	HMDBP03349	Choline/ethanolaminephosphotransferase 1	Q9Y6K0	CEPT1	Unknown
+LysoPE	HMDB_LPE	HMDBP07291	Phospholipase D3	Q8IV08	PLD3	Enzyme
+LysoPE	HMDB_LPE	HMDBP07292	Phospholipase D4	Q96BZ4	PLD4	Enzyme
+LysoPE	HMDB_LPE	HMDBP07294	Phospholipid scramblase 2	Q9NRY7	PLSCR2	Unknown
+LysoPE	HMDB_LPE	HMDBP07295	Phospholipid scramblase 3	Q9NRY6	PLSCR3	Unknown
+LysoPE	HMDB_LPE	HMDBP07296	Phospholipid scramblase 4	Q9NRQ2	PLSCR4	Unknown
+LysoPE	HMDB_LPE	HMDBP07297	Phospholipid scramblase family member 5	A0PG75	PLSCR5	Unknown
+LysoPE	HMDB_LPE	HMDBP07298	Probable phospholipid-transporting ATPase VB	O94823	ATP10B	Unknown
+LysoPE	HMDB_LPE	HMDBP07299	Probable phospholipid-transporting ATPase ID	P98198	ATP8B2	Unknown
+LysoPE	HMDB_LPE	HMDBP07302	Abhydrolase domain-containing protein 4	Q8TB40	ABHD4	Enzyme
+LysoPE	HMDB_LPE	HMDBP07303	N-acyl-phosphatidylethanolamine-hydrolyzing phospholipase D	Q6IQ20	NAPEPLD	Unknown
+LysoPE	HMDB_LPE	HMDBP07304	Phosphatidylethanolamine-binding protein 1	P30086	PEBP1	Enzyme
+LysoPE	HMDB_LPE	HMDBP07305	Phosphatidylethanolamine-binding protein 4	Q96S96	PEBP4	Enzyme
+LysoPE	HMDB_LPE	HMDBP07306	Ethanolaminephosphotransferase 1	Q9C0D9	EPT1	Unknown
+DHAP	HMDB_DHAP	HMDBP01542	"Alkyldihydroxyacetonephosphate synthase, peroxisomal"	O00116	AGPS	Unknown
+PEP-16:0/18:1	HMDB_PEP-16:0/18:1	HMDBP00080	Phospholipase D2	O14939	PLD2	Enzyme
+PEP-16:0/18:1	HMDB_PEP-16:0/18:1	HMDBP00082	Phospholipase D1	Q13393	PLD1	Unknown
+PEP-16:0/18:1	HMDB_PEP-16:0/18:1	HMDBP01131	Probable phospholipid-transporting ATPase IG	Q8NB49	ATP11C	Unknown
+PEP-16:0/18:1	HMDB_PEP-16:0/18:1	HMDBP01132	Probable phospholipid-transporting ATPase IH	P98196	ATP11A	Unknown
+PEP-16:0/18:1	HMDB_PEP-16:0/18:1	HMDBP01169	Probable phospholipid-transporting ATPase VA	O60312	ATP10A	Unknown
+PEP-16:0/18:1	HMDB_PEP-16:0/18:1	HMDBP01192	Probable phospholipid-transporting ATPase IC	O43520	ATP8B1	Unknown
+PEP-16:0/18:1	HMDB_PEP-16:0/18:1	HMDBP01220	Probable phospholipid-transporting ATPase IIA	O75110	ATP9A	Unknown
+PEP-16:0/18:1	HMDB_PEP-16:0/18:1	HMDBP01239	Probable phospholipid-transporting ATPase VD	Q9P241	ATP10D	Unknown
+PEP-16:0/18:1	HMDB_PEP-16:0/18:1	HMDBP01247	Probable phospholipid-transporting ATPase IB	Q9NTI2	ATP8A2	Unknown
+PEP-16:0/18:1	HMDB_PEP-16:0/18:1	HMDBP01359	Probable phospholipid-transporting ATPase IA	Q9Y2Q0	ATP8A1	Unknown
+PEP-16:0/18:1	HMDB_PEP-16:0/18:1	HMDBP01463	Probable phospholipid-transporting ATPase IM	Q8TF62	ATP8B4	Unknown
+PEP-16:0/18:1	HMDB_PEP-16:0/18:1	HMDBP01485	Probable phospholipid-transporting ATPase IF	Q9Y2G3	ATP11B	Unknown
+PEP-16:0/18:1	HMDB_PEP-16:0/18:1	HMDBP01489	Probable phospholipid-transporting ATPase IK	O60423	ATP8B3	Unknown
+PEP-16:0/18:1	HMDB_PEP-16:0/18:1	HMDBP01967	Phospholipid scramblase 1	O15162	PLSCR1	Unknown
+PEP-16:0/18:1	HMDB_PEP-16:0/18:1	HMDBP02255	Phosphatidylserine decarboxylase proenzyme	Q9UG56	PISD	Enzyme
+PEP-16:0/18:1	HMDB_PEP-16:0/18:1	HMDBP02549	Phospholipid transfer protein	P55058	PLTP	Unknown
+PEP-16:0/18:1	HMDB_PEP-16:0/18:1	HMDBP03349	Choline/ethanolaminephosphotransferase 1	Q9Y6K0	CEPT1	Unknown
+PEP-16:0/18:1	HMDB_PEP-16:0/18:1	HMDBP07291	Phospholipase D3	Q8IV08	PLD3	Enzyme
+PEP-16:0/18:1	HMDB_PEP-16:0/18:1	HMDBP07292	Phospholipase D4	Q96BZ4	PLD4	Enzyme
+PEP-16:0/18:1	HMDB_PEP-16:0/18:1	HMDBP07294	Phospholipid scramblase 2	Q9NRY7	PLSCR2	Unknown
+PEP-16:0/18:1	HMDB_PEP-16:0/18:1	HMDBP07295	Phospholipid scramblase 3	Q9NRY6	PLSCR3	Unknown
+PEP-16:0/18:1	HMDB_PEP-16:0/18:1	HMDBP07296	Phospholipid scramblase 4	Q9NRQ2	PLSCR4	Unknown
+PEP-16:0/18:1	HMDB_PEP-16:0/18:1	HMDBP07297	Phospholipid scramblase family member 5	A0PG75	PLSCR5	Unknown
+PEP-16:0/18:1	HMDB_PEP-16:0/18:1	HMDBP07298	Probable phospholipid-transporting ATPase VB	O94823	ATP10B	Unknown
+PEP-16:0/18:1	HMDB_PEP-16:0/18:1	HMDBP07299	Probable phospholipid-transporting ATPase ID	P98198	ATP8B2	Unknown
+PEP-16:0/18:1	HMDB_PEP-16:0/18:1	HMDBP07302	Abhydrolase domain-containing protein 4	Q8TB40	ABHD4	Enzyme
+PEP-16:0/18:1	HMDB_PEP-16:0/18:1	HMDBP07303	N-acyl-phosphatidylethanolamine-hydrolyzing phospholipase D	Q6IQ20	NAPEPLD	Unknown
+PEP-16:0/18:1	HMDB_PEP-16:0/18:1	HMDBP07304	Phosphatidylethanolamine-binding protein 1	P30086	PEBP1	Enzyme
+PEP-16:0/18:1	HMDB_PEP-16:0/18:1	HMDBP07305	Phosphatidylethanolamine-binding protein 4	Q96S96	PEBP4	Enzyme
+PEP-16:0/18:1	HMDB_PEP-16:0/18:1	HMDBP07306	Ethanolaminephosphotransferase 1	Q9C0D9	EPT1	Unknown

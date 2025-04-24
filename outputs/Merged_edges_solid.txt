@@ -1,0 +1,1921 @@
+sorted_pairs	mappingID1	mappingID2	detectedPair1	detectedPair2	EdgeColor	EdgeLine	8_diff	7_diff	6_diff	5_diff	4_diff	3_diff	2_diff	1_diff	source	Label1	Label2
+100_101	100	101	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Apoa2
+100_102	100	102	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Apoa4
+100_103	100	103	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Apoa5
+100_104	104	100	*	*	SameComplex	Solid	*				*				Reactome	Apob	Apoa1
+100_105	100	105	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Apoc2
+100_106	100	106	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Apoc3
+100_107	100	107	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Apoe
+100_109	100	109	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Apol9a
+100_111	100	111	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	App
+100_1201	100	1201	*	*	Enzyme	Solid	*				*				Reactome, HMDB	Apoa1	cholesterol
+100_176	100	176	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Bmp4
+100_179	100	179	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	C3
+100_186	100	186	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Ccn1
+100_193	100	193	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Cdh2
+100_208	100	208	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Chrdl1
+100_213	100	213	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Ckap4
+100_242	100	242	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Cp
+100_250	100	250	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Csf1
+100_253	100	253	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Cst3
+100_277	100	277	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Dnajc3
+100_313	313	100	*	*	SameComplex	Solid	*				*				Reactome	Fam20c	Apoa1
+100_318	100	318	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Fbn1
+100_321	100	321	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Fga
+100_323	100	323	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Fgg
+100_331	100	331	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Fn1
+100_334	100	334	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Fstl1
+100_335	100	335	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Fstl3
+100_336	100	336	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Fuca2
+100_342	100	342	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Gas6
+100_410	100	410	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Golm1
+100_418	418	100	*	*	SameComplex	Solid	*				*				Reactome	Gpc1	Apoa1
+100_419	419	100	*	*	SameComplex	Solid	*				*				Reactome	Gpc2	Apoa1
+100_420	420	100	*	*	SameComplex	Solid	*				*				Reactome	Gpc3	Apoa1
+100_421	421	100	*	*	SameComplex	Solid	*				*				Reactome	Gpc4	Apoa1
+100_423	423	100	*	*	SameComplex	Solid	*				*				Reactome	Gpc6	Apoa1
+100_473	100	473	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Hrc
+100_485	100	485	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Hsp90b1
+100_488	100	488	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Igfbp1
+100_489	100	489	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Igfbp3
+100_490	100	490	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Igfbp4
+100_491	100	491	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Igfbp5
+100_492	100	492	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Igfbp7
+100_497	100	497	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Itih2
+100_502	100	502	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Ktn1
+100_506	100	506	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	LOC100911486
+100_507	100	507	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	LOC100911615
+100_508	100	508	*	*	SameComplex	Solid	*				*	*	*		Reactome	Apoa1	LOC103689965
+100_518	100	518	*	*	SameComplex	Solid	*	*			*				Reactome	Apoa1	Lgals1
+100_533	100	533	*	*	Others	Solid	*				*				Reactome	Apoa1	Lpl
+100_535	100	535	*	*	Others	Solid	*				*				Reactome	Apoa1	Lrp1
+100_536	100	536	*	*	Others	Solid	*				*				Reactome	Apoa1	Lrp10
+100_537	100	537	*	*	Others	Solid	*				*				Reactome	Apoa1	Lrp12
+100_538	100	538	*	*	Others	Solid	*				*				Reactome	Apoa1	Lrp2
+100_539	100	539	*	*	Others	Solid	*				*				Reactome	Apoa1	Lrp8
+100_540	100	540	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Ltbp1
+100_550	100	550	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Mbtps1
+100_554	100	554	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Men1
+100_556	100	556	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Mfge8
+100_557	100	557	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Mgat4a
+100_561	100	561	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Msln
+100_570	100	570	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Mxra8
+100_601	100	601	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Notum
+100_611	100	611	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Nucb1
+100_620	100	620	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	P4hb
+100_628	100	628	*	*	SameComplex	Solid	*	*			*				Reactome	Apoa1	Pcsk9
+100_637	100	637	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Pdia6
+100_774	100	774	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Prkcsh
+100_775	100	775	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Proc
+100_778	100	778	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Prss23
+100_787	100	787	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Qsox1
+100_789	100	789	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	RGD1309808
+100_817	100	817	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Rcn1
+100_848	848	100	*	*	SameComplex	Solid	*				*				Reactome	Sdc1	Apoa1
+100_849	849	100	*	*	SameComplex	Solid	*				*				Reactome	Sdc2	Apoa1
+100_850	850	100	*	*	SameComplex	Solid	*				*				Reactome	Sdc3	Apoa1
+100_851	851	100	*	*	SameComplex	Solid	*				*				Reactome	Sdc4	Apoa1
+100_858	100	858	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Serpina1
+100_859	100	859	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Serpina10
+100_860	100	860	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Serpinc1
+100_861	100	861	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Serpind1
+100_895	100	895	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Sparcl1
+100_896	100	896	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Spp1
+100_897	100	897	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Spp2
+100_902	100	902	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Stc2
+100_912	100	912	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Tf
+100_915	100	915	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Tgoln2
+100_918	100	918	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Timp1
+100_921	100	921	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Tmem132a
+100_923	100	923	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Tnc
+100_955	100	955	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Vcan
+100_957	100	957	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Vwa1
+100_958	100	958	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	Wfs1
+100_964	100	964	*	*	SameComplex	Solid	*				*	*			Reactome	Apoa1	CE(18:1)_feature1
+100_980	980	100	*	*	Enzyme	Solid	*				*	*			Reactome, HMDB	TG(58:7)>TG(18:0_18:1_22:6)_M+NH3_feature3	Apoa1
+101_106	101	106	*	*	SameComplex	Solid					*				Reactome	Apoa2	Apoc3
+101_848	848	101	*	*	SameComplex	Solid					*				Reactome	Sdc1	Apoa2
+101_964	101	964	*	*	SameComplex	Solid					*	*			Reactome	Apoa2	CE(18:1)_feature1
+101_980	980	101	*	*	SameComplex	Solid					*	*			Reactome	TG(58:7)>TG(18:0_18:1_22:6)_M+NH3_feature3	Apoa2
+102_106	102	106	*	*	SameComplex	Solid					*				Reactome	Apoa4	Apoc3
+102_848	848	102	*	*	SameComplex	Solid					*				Reactome	Sdc1	Apoa4
+102_964	102	964	*	*	SameComplex	Solid					*	*			Reactome	Apoa4	CE(18:1)_feature1
+102_980	980	102	*	*	SameComplex	Solid					*	*			Reactome	TG(58:7)>TG(18:0_18:1_22:6)_M+NH3_feature3	Apoa4
+103_974	974	103	*	*	Unknown	Solid	*				*				HMDB	PC(36:3)_feature5	Apoa5
+103_980	980	103	*	*	Unknown	Solid					*	*			HMDB	TG(58:7)>TG(18:0_18:1_22:6)_M+NH3_feature3	Apoa5
+104_106	104	106	*	*	SameComplex	Solid					*				Reactome	Apob	Apoc3
+104_848	848	104	*	*	SameComplex	Solid					*				Reactome	Sdc1	Apob
+104_964	104	964	*	*	SameComplex	Solid					*	*			Reactome	Apob	CE(18:1)_feature1
+104_980	104	980	*	*	SameComplex	Solid					*	*			Reactome	Apob	TG(58:7)>TG(18:0_18:1_22:6)_M+NH3_feature3
+105_106	105	106	*	*	SameComplex	Solid					*				Reactome	Apoc2	Apoc3
+105_848	848	105	*	*	SameComplex	Solid					*				Reactome	Sdc1	Apoc2
+105_964	105	964	*	*	SameComplex	Solid					*	*			Reactome	Apoc2	CE(18:1)_feature1
+105_980	980	105	*	*	SameComplex	Solid					*	*			Reactome	TG(58:7)>TG(18:0_18:1_22:6)_M+NH3_feature3	Apoc2
+106_107	106	107	*	*	SameComplex	Solid					*				Reactome	Apoc3	Apoe
+106_1201	106	1201	*	*	SameComplex	Solid					*				Reactome	Apoc3	cholesterol
+106_418	418	106	*	*	SameComplex	Solid					*				Reactome	Gpc1	Apoc3
+106_419	419	106	*	*	SameComplex	Solid					*				Reactome	Gpc2	Apoc3
+106_420	420	106	*	*	SameComplex	Solid					*				Reactome	Gpc3	Apoc3
+106_421	421	106	*	*	SameComplex	Solid					*				Reactome	Gpc4	Apoc3
+106_423	423	106	*	*	SameComplex	Solid					*				Reactome	Gpc6	Apoc3
+106_533	106	533	*	*	Others	Solid					*				Reactome	Apoc3	Lpl
+106_535	106	535	*	*	Others	Solid					*				Reactome	Apoc3	Lrp1
+106_536	106	536	*	*	Others	Solid					*				Reactome	Apoc3	Lrp10
+106_537	106	537	*	*	Others	Solid					*				Reactome	Apoc3	Lrp12
+106_538	106	538	*	*	Others	Solid					*				Reactome	Apoc3	Lrp2
+106_539	106	539	*	*	Others	Solid					*				Reactome	Apoc3	Lrp8
+106_848	848	106	*	*	SameComplex	Solid					*				Reactome	Sdc1	Apoc3
+106_849	849	106	*	*	SameComplex	Solid					*				Reactome	Sdc2	Apoc3
+106_850	850	106	*	*	SameComplex	Solid					*				Reactome	Sdc3	Apoc3
+106_851	851	106	*	*	SameComplex	Solid					*				Reactome	Sdc4	Apoc3
+106_964	106	964	*	*	SameComplex	Solid					*	*			Reactome	Apoc3	CE(18:1)_feature1
+106_980	980	106	*	*	Transporter	Solid					*	*			Reactome, HMDB	TG(58:7)>TG(18:0_18:1_22:6)_M+NH3_feature3	Apoc3
+107_848	848	107	*	*	SameComplex	Solid					*				Reactome	Sdc1	Apoe
+107_964	107	964	*	*	SameComplex	Solid					*	*			Reactome	Apoe	CE(18:1)_feature1
+107_980	980	107	*	*	SameComplex	Solid					*	*			Reactome	TG(58:7)>TG(18:0_18:1_22:6)_M+NH3_feature3	Apoe
+10_966	966	10	*	*	Enzyme	Solid					*	*	*	*	KEGG, HMDB	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Aadac
+10_980	980	10	*	*	Enzyme	Solid					*	*			KEGG	TG(58:7)>TG(18:0_18:1_22:6)_M+NH3_feature3	Aadac
+110_1277	110	1277	*	*	SameComplex	Solid							*	*	Reactome	Apom	vitamin A
+112_1222	1222	112	*	*	Enzyme	Solid	*								HMDB	Guanine	Aprt
+112_1381	1381	112	*	*	Enzyme	Solid	*	*					*		HMDB	GMP	Aprt
+114_974	974	114	*	*	Unknown	Solid	*				*				HMDB	PC(36:3)_feature5	Arfgap1
+117_966	966	117	*	*	Unknown	Solid	*				*		*	*	HMDB	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Arhgap29
+118_1381	1381	118	*	*	Enzyme	Solid	*	*					*		HMDB	GMP	Arhgef1
+1194_1212	1194	1212	*	*	SameComplex	Solid	*	*							Reactome	Adenosine	2'-deoxyadenosine
+1194_1223	1194	1223	*	*	SameComplex	Solid						*			Reactome	Adenosine	guanosine
+1194_1243	1194	1243	*	*	Metabolic Transformation	Solid	*	*	*	*		*		*	Reactome	Adenosine	Inosine
+1197_1228	1197	1228	*	*	Metabolic Transformation	Solid					*				KEGG	beta-Alanine	Glutamic acid
+1197_1241	1241	1197	*	*	Metabolic Transformation	Solid	*				*				KEGG	Aspartic acid	beta-Alanine
+1197_1494	1494	1197	*	*	Metabolic Transformation	Solid		*							KEGG	beta-guanidinopropionate	beta-Alanine
+119_1381	1381	119	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Arhgef10l
+11_1228	1228	11	*	*	Enzyme	Solid					*				HMDB	Glutamic acid	Aadat
+1201_1388	1201	1388	*	*	Metabolic Transformation	Solid				*					KEGG	cholesterol	coenzyme A
+1203_1208	1208	1203	*	*	Metabolic Transformation	Solid			*	*			*		KEGG	citrate+isocitrate	cis-aconitate
+1203_1242	1242	1203	*	*	Metabolic Transformation	Solid		*	*	*			*	*	KEGG	Isocitrate	cis-aconitate
+1205_1260	1205	1260	*	*	Metabolic Transformation	Solid	*								KEGG	CTP	phosphoenolpyruvate
+1205_1265	1265	1205	*	*	Metabolic Transformation	Solid	*	*				*	*	*	KEGG	UTP	CTP
+1205_1284	1284	1205	*	*	Metabolic Transformation	Solid	*		*	*	*				KEGG	Glutamine	CTP
+1205_1326	1205	1326	*	*	Metabolic Transformation	Solid	*								KEGG	CTP	fructose 1,6-biphosphate
+1205_1404	1404	1205	*	*	Metabolic Transformation	Solid	*								KEGG	CDP	CTP
+1206_1212	1212	1206	*	*	SameComplex	Solid	*	*							Reactome	2'-deoxyadenosine	deoxyguanosine
+1206_1222	1222	1206	*	*	Metabolic Transformation	Solid	*								Reactome	Guanine	deoxyguanosine
+1206_1223	1223	1206	*	*	SameComplex	Solid						*			Reactome	guanosine	deoxyguanosine
+1206_1243	1206	1243	*	*	SameComplex	Solid	*	*	*	*		*		*	Reactome	deoxyguanosine	Inosine
+1207_1210	1207	1210	*	*	Metabolic Transformation	Solid	*	*			*				KEGG	sn-Glycero-3-phosphocholine	Choline
+1207_1220	1207	1220	*	*	Metabolic Transformation	Solid					*				KEGG	sn-Glycero-3-phosphocholine	glycerol 3-phosphate
+1207_1408	1207	1408	*	*	Metabolic Transformation	Solid					*				KEGG	sn-Glycero-3-phosphocholine	phosphocholine
+1208_1242	1208	1242	*	*	Metabolic Transformation	Solid		*	*	*			*	*	KEGG	citrate+isocitrate	Isocitrate
+120_1381	1381	120	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Arhgef11
+1210_1251	1210	1251	*	*	Metabolic Transformation	Solid	*	*			*				KEGG	Choline	NADPH
+1210_1302	1210	1302	*	*	Metabolic Transformation	Solid	*	*			*			*	Reactome, KEGG	Choline	acetylcholine
+1210_1388	1210	1388	*	*	Metabolic Transformation	Solid	*	*		*	*				KEGG	Choline	coenzyme A
+1210_1395	1210	1395	*	*	Metabolic Transformation	Solid	*	*			*				KEGG	Choline	NADH
+1210_1408	1210	1408	*	*	Metabolic Transformation	Solid	*	*			*				KEGG	Choline	phosphocholine
+1212_1223	1212	1223	*	*	SameComplex	Solid	*	*				*			Reactome	2'-deoxyadenosine	guanosine
+1212_1243	1212	1243	*	*	Metabolic Transformation	Solid	*	*	*	*		*		*	Reactome	2'-deoxyadenosine	Inosine
+1214_1228	1214	1228	*	*	Metabolic Transformation	Solid					*				KEGG	gamma-Amino-N-butyric-acid	Glutamic acid
+1214_1248	1214	1248	*	*	Metabolic Transformation	Solid					*				KEGG	gamma-Amino-N-butyric-acid	Ornithine
+1214_1439	1439	1214	*	*	Metabolic Transformation	Solid					*				KEGG	4-guanidinobutanoate	gamma-Amino-N-butyric-acid
+1216_1382	1382	1216	*	*	Metabolic Transformation	Solid	*								KEGG	hexose phosphate	Glucose
+1217_1219	1217	1219	*	*	Metabolic Transformation	Solid			*	*					KEGG	Glycine	Glutathione
+1217_1228	1217	1228	*	*	Metabolic Transformation	Solid					*				KEGG	Glycine	Glutamic acid
+1217_1388	1217	1388	*	*	Metabolic Transformation	Solid				*					KEGG	Glycine	coenzyme A
+1218_1228	1218	1228	*	*	Metabolic Transformation	Solid	*				*				KEGG	fructose 6-phosphate	Glutamic acid
+1218_1274	1218	1274	*	*	Metabolic Transformation	Solid	*								KEGG	fructose 6-phosphate	UDP
+1218_1326	1326	1218	*	*	Metabolic Transformation	Solid	*								KEGG	fructose 1,6-biphosphate	fructose 6-phosphate
+1218_1333	1333	1218	*	*	Metabolic Transformation	Solid	*								KEGG	glyceraldehyde-3-phosphate	fructose 6-phosphate
+1218_1365	1218	1365	*	*	Metabolic Transformation	Solid	*								KEGG	fructose 6-phosphate	erythrose 4-phosphate
+1218_1382	1382	1218	*	*	Metabolic Transformation	Solid	*								KEGG	hexose phosphate	fructose 6-phosphate
+1218_1403	1403	1218	*	*	Metabolic Transformation	Solid	*								KEGG	dATP	fructose 6-phosphate
+1218_1404	1218	1404	*	*	Metabolic Transformation	Solid	*								KEGG	fructose 6-phosphate	CDP
+1218_1561	1561	1218	*	*	Metabolic Transformation	Solid	*								KEGG	sedoheptulose-7-phosphate	fructose 6-phosphate
+1219_1228	1219	1228	*	*	Metabolic Transformation	Solid			*	*	*				KEGG	Glutathione	Glutamic acid
+1219_1251	1219	1251	*	*	Metabolic Transformation	Solid			*	*					KEGG	Glutathione	NADPH
+1219_1261	1219	1261	*	*	Metabolic Transformation	Solid			*	*					KEGG	Glutathione	pyroglutamate
+1219_1395	1219	1395	*	*	Metabolic Transformation	Solid			*	*					KEGG	Glutathione	NADH
+1219_1435	1435	1219	*	*	Metabolic Transformation	Solid			*	*			*		KEGG	oxidized glutathione	Glutathione
+121_1381	1381	121	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Arhgef12
+1220_1388	1220	1388	*	*	Metabolic Transformation	Solid				*					KEGG	glycerol 3-phosphate	coenzyme A
+1220_1393	1220	1393	*	*	Metabolic Transformation	Solid	*								KEGG	glycerol 3-phosphate	dihydroxyacetone phosphate
+1222_1223	1222	1223	*	*	Metabolic Transformation	Solid	*					*			Reactome, KEGG	Guanine	guanosine
+1222_1231	1222	1231	*	*	SameComplex	Solid	*								Reactome	Guanine	Hypoxanthine
+1222_1271	1222	1271	*	*	Metabolic Transformation	Solid	*								Reactome, KEGG	Guanine	Xanthine
+1222_1381	1381	1222	*	*	Metabolic Transformation	Solid	*	*					*		KEGG	GMP	Guanine
+1223_1243	1223	1243	*	*	SameComplex	Solid	*	*	*	*		*		*	Reactome	guanosine	Inosine
+1223_1381	1381	1223	*	*	Metabolic Transformation	Solid	*	*				*	*		KEGG	GMP	guanosine
+1224_1259	1259	1224	*	*	Metabolic Transformation	Solid							*		KEGG	Succinic acid	Fumaric acid
+1228_1232	1232	1228	*	*	Metabolic Transformation	Solid					*				KEGG	Phenylalanine	Glutamic acid
+1228_1233	1233	1228	*	*	Metabolic Transformation	Solid					*				KEGG	Alanine	Glutamic acid
+1228_1241	1241	1228	*	*	Metabolic Transformation	Solid	*				*				KEGG	Aspartic acid	Glutamic acid
+1228_1246	1246	1228	*	*	Metabolic Transformation	Solid					*				KEGG	Oxoglutaric acid	Glutamic acid
+1228_1248	1248	1228	*	*	Metabolic Transformation	Solid					*				KEGG	Ornithine	Glutamic acid
+1228_1251	1228	1251	*	*	Metabolic Transformation	Solid					*				KEGG	Glutamic acid	NADPH
+1228_1261	1261	1228	*	*	Metabolic Transformation	Solid					*				KEGG	pyroglutamate	Glutamic acid
+1228_1264	1228	1264	*	*	Metabolic Transformation	Solid					*				KEGG	Glutamic acid	PRPP
+1228_1265	1265	1228	*	*	Metabolic Transformation	Solid	*	*			*	*	*	*	KEGG	UTP	Glutamic acid
+1228_1281	1281	1228	*	*	Metabolic Transformation	Solid			*		*		*	*	KEGG	Cysteine	Glutamic acid
+1228_1284	1284	1228	*	*	Metabolic Transformation	Solid			*	*	*				KEGG	Glutamine	Glutamic acid
+1228_1288	1228	1288	*	*	Metabolic Transformation	Solid					*				KEGG	Glutamic acid	Methionine
+1228_1301	1301	1228	*	*	Metabolic Transformation	Solid					*				KEGG	Valine	Glutamic acid
+1228_1395	1228	1395	*	*	Metabolic Transformation	Solid					*				KEGG	Glutamic acid	NADH
+1228_1406	1406	1228	*	*	Metabolic Transformation	Solid					*				KEGG	XMP	Glutamic acid
+1228_1562	1562	1228	*	*	Metabolic Transformation	Solid					*				KEGG	alpha-Aminoadipic-acid	Glutamic acid
+122_1381	1381	122	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Arhgef17
+1231_1243	1231	1243	*	*	Metabolic Transformation	Solid	*	*	*	*		*		*	Reactome	Hypoxanthine	Inosine
+1232_1284	1284	1232	*	*	Metabolic Transformation	Solid			*	*	*				KEGG	Glutamine	Phenylalanine
+1233_1281	1281	1233	*	*	Metabolic Transformation	Solid			*				*	*	KEGG	Cysteine	Alanine
+1234_1259	1234	1259	*	*	Metabolic Transformation	Solid							*		KEGG	Proline	Succinic acid
+1234_1291	1234	1291	*	*	Metabolic Transformation	Solid							*	*	KEGG	Proline	Hydroxyproline
+1235_1241	1235	1241	*	*	Metabolic Transformation	Solid	*				*				KEGG	Asparagine	Aspartic acid
+1235_1284	1284	1235	*	*	Metabolic Transformation	Solid			*	*	*				KEGG	Glutamine	Asparagine
+1237_1381	1237	1381	*	*	Metabolic Transformation	Solid	*	*					*		KEGG	IMP	GMP
+1238_1300	1238	1300	*	*	Metabolic Transformation	Solid			*	*			*		KEGG	Histidine	histamine
+123_1381	1381	123	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Arhgef18
+1241_1251	1241	1251	*	*	Metabolic Transformation	Solid	*				*				KEGG	Aspartic acid	NADPH
+1241_1296	1296	1241	*	*	Metabolic Transformation	Solid	*				*	*			KEGG	N-acetylaspartate	Aspartic acid
+1241_1388	1241	1388	*	*	Metabolic Transformation	Solid	*			*	*				KEGG	Aspartic acid	coenzyme A
+1241_1395	1241	1395	*	*	Metabolic Transformation	Solid	*				*				KEGG	Aspartic acid	NADH
+1242_1246	1242	1246	*	*	Metabolic Transformation	Solid		*	*	*			*	*	KEGG	Isocitrate	Oxoglutaric acid
+1242_1251	1242	1251	*	*	Metabolic Transformation	Solid		*	*	*			*	*	KEGG	Isocitrate	NADPH
+1242_1395	1242	1395	*	*	Metabolic Transformation	Solid		*	*	*			*	*	KEGG	Isocitrate	NADH
+1246_1259	1246	1259	*	*	Metabolic Transformation	Solid							*		KEGG	Oxoglutaric acid	Succinic acid
+1246_1291	1246	1291	*	*	Metabolic Transformation	Solid							*	*	KEGG	Oxoglutaric acid	Hydroxyproline
+1248_1279	1279	1248	*	*	Metabolic Transformation	Solid		*							KEGG	Arginine	Ornithine
+124_966	966	124	*	*	Unknown	Solid					*		*	*	HMDB	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Arhgef2
+1251_1277	1251	1277	*	*	Metabolic Transformation	Solid							*	*	Reactome, KEGG	NADPH	vitamin A
+1251_1281	1281	1251	*	*	Metabolic Transformation	Solid			*				*	*	KEGG	Cysteine	NADPH
+1251_1291	1291	1251	*	*	Metabolic Transformation	Solid							*	*	KEGG	Hydroxyproline	NADPH
+1251_1309	1251	1309	*	*	Metabolic Transformation	Solid			*	*					KEGG	NADPH	trimethylamine-N-oxide
+1251_1382	1382	1251	*	*	Metabolic Transformation	Solid	*								KEGG	hexose phosphate	NADPH
+1251_1388	1388	1251	*	*	Metabolic Transformation	Solid				*					KEGG	coenzyme A	NADPH
+1251_1426	1251	1426	*	*	Metabolic Transformation	Solid				*					KEGG	NADPH	CoA(6:0)
+1255_1383	1255	1383	*	*	Metabolic Transformation	Solid						*	*		KEGG	NMN	Niacinamide
+1256_1281	1281	1256	*	*	Metabolic Transformation	Solid			*				*	*	KEGG	Cysteine	pyruvate
+1259_1339	1339	1259	*	*	Metabolic Transformation	Solid							*		KEGG	butyrobetaine	Succinic acid
+1259_1348	1259	1348	*	*	Metabolic Transformation	Solid							*		KEGG	Succinic acid	GDP
+125_1348	1348	125	*	*	Unknown	Solid	*								HMDB	GDP	Arhgef3
+125_1381	1381	125	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Arhgef3
+1260_1265	1265	1260	*	*	Metabolic Transformation	Solid	*	*				*	*	*	KEGG	UTP	phosphoenolpyruvate
+1262_1388	1262	1388	*	*	Metabolic Transformation	Solid				*					KEGG	Sphinganine	coenzyme A
+1262_1464	1262	1464	*	*	Metabolic Transformation	Solid			*						KEGG	Sphinganine	phytosphingosine
+1264_1381	1381	1264	*	*	Metabolic Transformation	Solid	*	*					*		KEGG	GMP	PRPP
+1264_1405	1405	1264	*	*	Metabolic Transformation	Solid	*								KEGG	ribose 5-phosphate	PRPP
+1265_1267	1265	1267	*	*	Metabolic Transformation	Solid	*	*				*	*	*	KEGG	UTP	UMP
+1265_1270	1265	1270	*	*	Metabolic Transformation	Solid	*	*				*	*	*	KEGG	UTP	UDP-N-acetylglucosamine
+1265_1274	1265	1274	*	*	Metabolic Transformation	Solid	*	*				*	*	*	KEGG	UTP	UDP
+1265_1326	1265	1326	*	*	Metabolic Transformation	Solid	*	*				*	*	*	KEGG	UTP	fructose 1,6-biphosphate
+1266_1267	1266	1267	*	*	Metabolic Transformation	Solid							*		KEGG	UDP-glucose	UMP
+1266_1274	1266	1274	*	*	Metabolic Transformation	Solid							*		KEGG	UDP-glucose	UDP
+1266_1311	1266	1311	*	*	Metabolic Transformation	Solid							*		KEGG	UDP-glucose	UDP-glucuronate
+1266_1395	1266	1395	*	*	Metabolic Transformation	Solid							*		KEGG	UDP-glucose	NADH
+1268_1271	1271	1268	*	*	Metabolic Transformation	Solid					*				KEGG	Xanthine	Uric acid
+126_1381	1381	126	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Arhgef37
+1270_1274	1270	1274	*	*	Metabolic Transformation	Solid							*		KEGG	UDP-N-acetylglucosamine	UDP
+1277_1388	1277	1388	*	*	Metabolic Transformation	Solid				*			*	*	KEGG	vitamin A	coenzyme A
+1277_1395	1277	1395	*	*	Metabolic Transformation	Solid							*	*	KEGG	vitamin A	NADH
+1277_1410	1410	1277	*	*	SameComplex	Solid							*	*	Reactome	retinoate	vitamin A
+1279_1306	1279	1306	*	*	Metabolic Transformation	Solid		*							KEGG	Arginine	Citrulline
+1279_1439	1279	1439	*	*	Metabolic Transformation	Solid		*							KEGG	Arginine	4-guanidinobutanoate
+127_1381	1381	127	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Arhgef6
+1284_1381	1284	1381	*	*	Metabolic Transformation	Solid	*	*	*	*	*		*		KEGG	Glutamine	GMP
+1289_1383	1383	1289	*	*	Metabolic Transformation	Solid	*	*				*	*		Reactome	Niacinamide	1-methylnicotinamide
+1289_1458	1289	1458	*	*	Metabolic Transformation	Solid	*	*							KEGG	1-methylnicotinamide	N1-methyl-2-pyridone-5-carboxamide
+128_1348	1348	128	*	*	Unknown	Solid							*		HMDB	GDP	Arhgef7
+128_1381	1381	128	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Arhgef7
+1291_1395	1291	1395	*	*	Metabolic Transformation	Solid							*	*	KEGG	Hydroxyproline	NADH
+1296_1350	1350	1296	*	*	Metabolic Transformation	Solid						*			KEGG	Acetyl-CoA	N-acetylaspartate
+129_1381	1381	129	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Arhgef9
+12_1228	1228	12	*	*	Enzyme	Solid					*				HMDB	Glutamic acid	Aass
+1302_1350	1350	1302	*	*	Metabolic Transformation	Solid								*	KEGG	Acetyl-CoA	acetylcholine
+130_967	967	130	*	*	Enzyme or transporter	Solid	*								Reactome	HexCer(d42:0-OH)_M+H2CO2_feature1	Arsa
+1326_1393	1326	1393	*	*	Metabolic Transformation	Solid	*								KEGG	fructose 1,6-biphosphate	dihydroxyacetone phosphate
+132_1279	1279	132	*	*	Unknown	Solid		*							HMDB	Arginine	Art3
+132_1383	1383	132	*	*	Unknown	Solid						*	*		HMDB	Niacinamide	Art3
+1333_1393	1333	1393	*	*	Metabolic Transformation	Solid	*								KEGG	glyceraldehyde-3-phosphate	dihydroxyacetone phosphate
+1333_1405	1333	1405	*	*	Metabolic Transformation	Solid	*								KEGG	glyceraldehyde-3-phosphate	ribose 5-phosphate
+133_1279	1279	133	*	*	Unknown	Solid		*							HMDB	Arginine	Art4
+133_1383	1383	133	*	*	Unknown	Solid						*	*		HMDB	Niacinamide	Art4
+1343_1405	1343	1405	*	*	Metabolic Transformation	Solid	*								KEGG	ADP-ribose	ribose 5-phosphate
+1348_1381	1348	1381	*	*	Metabolic Transformation	Solid	*	*					*		KEGG	GDP	GMP
+1348_1388	1388	1348	*	*	Metabolic Transformation	Solid				*					KEGG	coenzyme A	GDP
+1350_1388	1350	1388	*	*	Metabolic Transformation	Solid				*					KEGG	Acetyl-CoA	coenzyme A
+1352_1393	1352	1393	*	*	Metabolic Transformation	Solid	*				*				KEGG	FAD	dihydroxyacetone phosphate
+135_1295	1295	135	*	*	Enzyme	Solid							*		HMDB	FA(14:0)	Asah1
+135_1464	1464	135	*	*	Enzyme	Solid			*						HMDB	phytosphingosine	Asah1
+135_967	967	135	*	*	Enzyme	Solid	*								HMDB	HexCer(d42:0-OH)_M+H2CO2_feature1	Asah1
+1365_1561	1561	1365	*	*	Metabolic Transformation	Solid	*								KEGG	sedoheptulose-7-phosphate	erythrose 4-phosphate
+136_1295	1295	136	*	*	Enzyme	Solid							*		HMDB	FA(14:0)	Asah2
+136_967	967	136	*	*	Enzyme	Solid	*								HMDB	HexCer(d42:0-OH)_M+H2CO2_feature1	Asah2
+137_1224	1224	137	*	*	Enzyme	Solid		*				*			KEGG	Fumaric acid	Asl
+137_1279	1279	137	*	*	Enzyme	Solid		*				*			KEGG, HMDB	Arginine	Asl
+1381_1406	1406	1381	*	*	Metabolic Transformation	Solid	*	*					*		KEGG	XMP	GMP
+1382_1395	1382	1395	*	*	Metabolic Transformation	Solid	*								KEGG	hexose phosphate	NADH
+1382_1403	1403	1382	*	*	Metabolic Transformation	Solid	*								KEGG	dATP	hexose phosphate
+1388_1393	1393	1388	*	*	Metabolic Transformation	Solid	*			*					KEGG	dihydroxyacetone phosphate	coenzyme A
+1388_1395	1388	1395	*	*	Metabolic Transformation	Solid				*					KEGG	coenzyme A	NADH
+1388_1426	1426	1388	*	*	Metabolic Transformation	Solid				*					KEGG	CoA(6:0)	coenzyme A
+1388_1463	1463	1388	*	*	Metabolic Transformation	Solid				*					KEGG	CoA(20:0)	coenzyme A
+1388_1464	1464	1388	*	*	Metabolic Transformation	Solid			*	*					KEGG	phytosphingosine	coenzyme A
+138_1228	1228	138	*	*	Enzyme	Solid					*				KEGG, HMDB	Glutamic acid	Asns
+138_1241	1241	138	*	*	Enzyme	Solid	*				*				KEGG, HMDB	Aspartic acid	Asns
+138_1284	1284	138	*	*	Enzyme	Solid			*	*	*				KEGG, HMDB	Glutamine	Asns
+139_1241	1241	139	*	*	Enzyme	Solid	*				*				KEGG, HMDB	Aspartic acid	Aspa
+139_1295	1295	139	*	*	Enzyme	Solid							*		HMDB	FA(14:0)	Aspa
+139_1296	1296	139	*	*	Enzyme	Solid						*			KEGG	N-acetylaspartate	Aspa
+13_1214	1214	13	*	*	Enzyme	Solid					*				KEGG, HMDB	gamma-Amino-N-butyric-acid	Abat
+13_1228	1228	13	*	*	Enzyme	Solid					*				KEGG, HMDB	Glutamic acid	Abat
+1405_1561	1561	1405	*	*	Metabolic Transformation	Solid	*								KEGG	sedoheptulose-7-phosphate	ribose 5-phosphate
+140_1207	1207	140	*	*	Enzyme	Solid					*				KEGG, HMDB	sn-Glycero-3-phosphocholine	Aspg
+140_1241	1241	140	*	*	Enzyme	Solid	*				*				KEGG, HMDB	Aspartic acid	Aspg
+140_1295	1295	140	*	*	Enzyme	Solid							*		HMDB	FA(14:0)	Aspg
+140_970	970	140	*	*	Enzyme	Solid					*				KEGG	LPE(18:0)>LPE(18:0/0:0)_and_LPE(0:0/18:0)_feature1and2	Aspg
+140_974	974	140	*	*	Enzyme	Solid	*				*				KEGG	PC(36:3)_feature5	Aspg
+141_1241	1241	141	*	*	Unknown	Solid	*				*				HMDB	Aspartic acid	Asph
+141_1259	1259	141	*	*	Unknown	Solid							*		HMDB	Succinic acid	Asph
+142_1241	1241	142	*	*	Enzyme	Solid	*				*	*			KEGG, HMDB	Aspartic acid	Ass1
+142_1279	1279	142	*	*	Enzyme	Solid		*				*			HMDB	Arginine	Ass1
+142_1306	1306	142	*	*	Enzyme	Solid						*			KEGG, HMDB	Citrulline	Ass1
+143_974	974	143	*	*	Unknown	Solid	*				*				HMDB	PC(36:3)_feature5	Atp10a
+143_977	977	143	*	*	Unknown	Solid					*				HMDB	PI(40:6)>PI(18:0_22:6)_feature1	Atp10a
+145_974	974	145	*	*	Unknown	Solid	*				*				HMDB	PC(36:3)_feature5	Atp10d
+145_977	977	145	*	*	Unknown	Solid					*				HMDB	PI(40:6)>PI(18:0_22:6)_feature1	Atp10d
+146_974	974	146	*	*	Unknown	Solid	*				*				HMDB	PC(36:3)_feature5	Atp11a
+146_977	977	146	*	*	Unknown	Solid					*				HMDB	PI(40:6)>PI(18:0_22:6)_feature1	Atp11a
+147_974	974	147	*	*	Unknown	Solid	*				*				HMDB	PC(36:3)_feature5	Atp11b
+147_977	977	147	*	*	Unknown	Solid					*				HMDB	PI(40:6)>PI(18:0_22:6)_feature1	Atp11b
+148_974	974	148	*	*	Unknown	Solid	*				*				HMDB	PC(36:3)_feature5	Atp11c
+148_977	977	148	*	*	Unknown	Solid					*				HMDB	PI(40:6)>PI(18:0_22:6)_feature1	Atp11c
+149_974	974	149	*	*	Unknown	Solid	*				*				HMDB	PC(36:3)_feature5	Atp8a1
+149_977	977	149	*	*	Unknown	Solid					*				HMDB	PI(40:6)>PI(18:0_22:6)_feature1	Atp8a1
+14_974	974	14	*	*	Enzyme or transporter	Solid	*				*				Reactome	PC(36:3)_feature5	Abca3
+14_976	976	14	*	*	Enzyme or transporter	Solid			*	*	*		*	*	Reactome	PG(36:2)>PG(18:0_18:2)_feature2	Abca3
+150_974	974	150	*	*	Unknown	Solid	*				*				HMDB	PC(36:3)_feature5	Atp8a2
+150_977	977	150	*	*	Unknown	Solid					*				HMDB	PI(40:6)>PI(18:0_22:6)_feature1	Atp8a2
+151_974	974	151	*	*	Unknown	Solid	*				*				HMDB	PC(36:3)_feature5	Atp8b1
+151_977	977	151	*	*	Unknown	Solid					*				HMDB	PI(40:6)>PI(18:0_22:6)_feature1	Atp8b1
+152_974	974	152	*	*	Unknown	Solid	*				*				HMDB	PC(36:3)_feature5	Atp8b2
+152_977	977	152	*	*	Unknown	Solid					*				HMDB	PI(40:6)>PI(18:0_22:6)_feature1	Atp8b2
+15_1388	1388	15	*	*	Enzyme	Solid	*			*					KEGG, HMDB	coenzyme A	Abhd5
+15_973	973	15	*	*	Enzyme	Solid	*								KEGG	PA(34:1)_M+NH3_feature1	Abhd5
+161_848	848	161	*	*	Others	Solid					*				Reactome	Sdc1	B3galt6
+163_848	848	163	*	*	Others	Solid					*				Reactome	Sdc1	B4galt7
+165_1225	1225	165	*	*	Enzyme	Solid			*			*		*	HMDB	Glycocholic acid	Baat
+165_1388	1388	165	*	*	Enzyme	Solid				*					KEGG, HMDB	coenzyme A	Baat
+165_1426	1426	165	*	*	Enzyme	Solid				*					HMDB	CoA(6:0)	Baat
+165_964	964	165	*	*	Enzyme	Solid					*	*			KEGG	CE(18:1)_feature1	Baat
+166_1259	1259	166	*	*	Unknown	Solid							*		HMDB	Succinic acid	Bbox1
+166_1355	1355	166	*	*	Unknown	Solid	*	*		*					HMDB	spermine	Bbox1
+167_848	848	167	*	*	SameComplex	Solid					*		*		Reactome	Sdc1	Bcan
+169_1188	1188	169	*	*	Enzyme	Solid								*	HMDB	ketoisovalerate	Bcat2
+169_1228	1228	169	*	*	Enzyme	Solid					*				KEGG, HMDB	Glutamic acid	Bcat2
+16_1381	1381	16	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Abi1
+170_1210	1210	170	*	*	Enzyme	Solid	*	*			*				HMDB	Choline	Bche
+170_1295	1295	170	*	*	Enzyme	Solid							*		HMDB	FA(14:0)	Bche
+171_1188	1188	171	*	*	Unknown	Solid								*	HMDB	ketoisovalerate	Bckdha
+171_1426	1426	171	*	*	Unknown	Solid				*					HMDB	CoA(6:0)	Bckdha
+172_1188	1188	172	*	*	Enzyme	Solid								*	HMDB	ketoisovalerate	Bckdhb
+172_1426	1426	172	*	*	Enzyme	Solid				*					HMDB	CoA(6:0)	Bckdhb
+173_1395	1395	173	*	*	Unknown	Solid	*								HMDB	NADH	Bdh1
+173_974	974	173	*	*	Unknown	Solid	*				*				HMDB	PC(36:3)_feature5	Bdh1
+174_848	848	174	*	*	SameComplex	Solid					*				Reactome	Sdc1	Bgn
+178_966	966	178	*	*	Unknown	Solid					*		*	*	HMDB	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Braf
+17_1388	1388	17	*	*	Enzyme	Solid				*					KEGG	coenzyme A	Acaa1a
+17_1426	1426	17	*	*	Enzyme	Solid				*					KEGG	CoA(6:0)	Acaa1a
+182_1205	1205	182	*	*	Unknown	Solid	*								HMDB	CTP	Cad
+182_1228	1228	182	*	*	Unknown	Solid					*				HMDB	Glutamic acid	Cad
+182_1241	1241	182	*	*	Unknown	Solid	*				*				HMDB	Aspartic acid	Cad
+182_1265	1265	182	*	*	Unknown	Solid	*	*				*	*	*	HMDB	UTP	Cad
+182_1284	1284	182	*	*	Unknown	Solid			*	*	*				HMDB	Glutamine	Cad
+183_1205	1205	183	*	*	Unknown	Solid	*								HMDB	CTP	Cant1
+183_1265	1265	183	*	*	Unknown	Solid	*	*				*	*	*	HMDB	UTP	Cant1
+183_1381	1381	183	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Cant1
+184_1197	1197	184	*	*	Unknown	Solid							*		HMDB	beta-Alanine	Carns1
+184_1214	1214	184	*	*	Unknown	Solid					*		*		HMDB	gamma-Amino-N-butyric-acid	Carns1
+184_1238	1238	184	*	*	Unknown	Solid			*	*			*		HMDB	Histidine	Carns1
+184_1279	1279	184	*	*	Unknown	Solid		*					*		HMDB	Arginine	Carns1
+185_1281	1281	185	*	*	Enzyme	Solid			*		*		*	*	KEGG, HMDB	Cysteine	Cbs
+187_1381	1381	187	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Ccpg1
+188_1464	1464	188	*	*	Enzyme	Solid			*						HMDB	phytosphingosine	Cd1d1
+188_967	967	188	*	*	Enzyme	Solid	*								HMDB	HexCer(d42:0-OH)_M+H2CO2_feature1	Cd1d1
+188_979	979	188	*	*	Enzyme	Solid					*		*	*	HMDB	SM(d34:1)	Cd1d1
+189_1381	1381	189	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Cdc42
+190_966	966	190	*	*	Enzyme	Solid					*		*	*	HMDB	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Cdc42bpa
+191_966	966	191	*	*	Enzyme	Solid					*		*	*	HMDB	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Cdc42bpb
+192_966	966	192	*	*	Unknown	Solid					*		*	*	HMDB	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Cdc42bpg
+194_1205	1205	194	*	*	Enzyme	Solid	*		*						KEGG, HMDB	CTP	Cds1
+194_966	966	194	*	*	Unknown	Solid			*		*		*	*	HMDB	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Cds1
+194_973	973	194	*	*	Enzyme	Solid			*						KEGG	PA(34:1)_M+NH3_feature1	Cds1
+195_1205	1205	195	*	*	Enzyme	Solid	*								HMDB	CTP	Cds2
+195_966	966	195	*	*	Enzyme	Solid					*		*	*	HMDB	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Cds2
+196_1295	1295	196	*	*	Unknown	Solid							*		HMDB	FA(14:0)	Cel
+196_964	964	196	*	*	Unknown	Solid					*	*			HMDB	CE(18:1)_feature1	Cel
+196_966	966	196	*	*	Enzyme	Solid					*		*	*	KEGG, HMDB	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Cel
+196_980	980	196	*	*	Enzyme	Solid					*	*			KEGG, HMDB	TG(58:7)>TG(18:0_18:1_22:6)_M+NH3_feature3	Cel
+197_1210	1210	197	*	*	Unknown	Solid	*	*			*				HMDB	Choline	Cept1
+197_966	966	197	*	*	Enzyme	Solid					*		*	*	Reactome, KEGG	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Cept1
+197_974	974	197	*	*	Enzyme	Solid	*				*				Reactome, KEGG, HMDB	PC(36:3)_feature5	Cept1
+197_975	975	197	*	*	Enzyme	Solid					*				Reactome, KEGG	PE(34:3)>PE(16:0_18:3)_feature2	Cept1
+198_1388	1388	198	*	*	Enzyme	Solid				*					HMDB	coenzyme A	Cers1
+198_967	967	198	*	*	Enzyme	Solid	*								HMDB	HexCer(d42:0-OH)_M+H2CO2_feature1	Cers1
+199_1388	1388	199	*	*	Enzyme	Solid				*					KEGG	coenzyme A	Cers4
+199_1464	1464	199	*	*	Enzyme	Solid			*						KEGG	phytosphingosine	Cers4
+19_1245	1245	19	*	*	Enzyme	Solid					*				KEGG	Oleic acid	Acaa2
+19_1250	1250	19	*	*	Enzyme	Solid					*				KEGG	FA(16:0)	Acaa2
+19_1298	1298	19	*	*	Enzyme	Solid					*				KEGG	FA(18:0)	Acaa2
+19_1350	1350	19	*	*	Enzyme	Solid					*				KEGG, HMDB	Acetyl-CoA	Acaa2
+19_1356	1356	19	*	*	Enzyme	Solid					*				HMDB	spermidine	Acaa2
+19_1388	1388	19	*	*	Enzyme	Solid				*	*				KEGG, HMDB	coenzyme A	Acaa2
+19_1418	1418	19	*	*	Enzyme	Solid					*				KEGG	FA(20:0)	Acaa2
+19_1426	1426	19	*	*	Enzyme	Solid				*	*				KEGG, HMDB	CoA(6:0)	Acaa2
+19_1463	1463	19	*	*	Enzyme	Solid					*				KEGG, HMDB	CoA(20:0)	Acaa2
+200_1388	1388	200	*	*	Unknown	Solid				*					HMDB	coenzyme A	Cers5
+200_967	967	200	*	*	Unknown	Solid	*								HMDB	HexCer(d42:0-OH)_M+H2CO2_feature1	Cers5
+203_1210	1210	203	*	*	Unknown	Solid	*	*			*				HMDB	Choline	Chdh
+203_1352	1352	203	*	*	Unknown	Solid					*				HMDB	FAD	Chdh
+203_1355	1355	203	*	*	Unknown	Solid	*	*		*					HMDB	spermine	Chdh
+205_1210	1210	205	*	*	Enzyme	Solid	*	*			*				HMDB	Choline	Chka
+205_974	974	205	*	*	Enzyme	Solid	*				*				HMDB	PC(36:3)_feature5	Chka
+206_1210	1210	206	*	*	Enzyme	Solid	*	*			*				Reactome, KEGG, HMDB	Choline	Chkb
+206_1229	1229	206	*	*	Enzyme	Solid	*								Reactome, KEGG	Ethanolamine	Chkb
+206_1253	1253	206	*	*	Enzyme	Solid	*								Reactome, KEGG, HMDB	Phosphoethanolamine	Chkb
+206_1408	1408	206	*	*	Enzyme	Solid	*								KEGG	phosphocholine	Chkb
+207_966	966	207	*	*	Enzyme	Solid					*		*	*	Reactome, KEGG, HMDB	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Chpt1
+207_974	974	207	*	*	Enzyme	Solid	*				*				Reactome, KEGG, HMDB	PC(36:3)_feature5	Chpt1
+209_964	209	964	*	*	SameComplex	Solid					*	*			Reactome	Cidea	CE(18:1)_feature1
+209_980	209	980	*	*	SameComplex	Solid					*	*			Reactome	Cidea	TG(58:7)>TG(18:0_18:1_22:6)_M+NH3_feature3
+20_1426	1426	20	*	*	Enzyme	Solid				*					HMDB	CoA(6:0)	Acad11
+210_964	210	964	*	*	SameComplex	Solid					*	*			Reactome	Cidec	CE(18:1)_feature1
+210_980	210	980	*	*	SameComplex	Solid					*	*			Reactome	Cidec	TG(58:7)>TG(18:0_18:1_22:6)_M+NH3_feature3
+211_1228	1228	211	*	*	Enzyme	Solid					*				KEGG	Glutamic acid	Cisd1
+211_1281	1281	211	*	*	Enzyme	Solid			*				*	*	KEGG	Cysteine	Cisd1
+212_966	966	212	*	*	Unknown	Solid					*		*	*	HMDB	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Cit
+214_1219	1219	214	*	*	Enzyme	Solid			*	*					KEGG	Glutathione	Clic1
+214_1435	1435	214	*	*	Enzyme	Solid							*		KEGG	oxidized glutathione	Clic1
+215_1350	1350	215	*	*	Enzyme	Solid		*							KEGG, HMDB	Acetyl-CoA	Clock
+215_1388	1388	215	*	*	Enzyme	Solid		*		*					KEGG, HMDB	coenzyme A	Clock
+216_1388	1388	216	*	*	Enzyme	Solid				*					KEGG	coenzyme A	Clybl
+217_1205	1205	217	*	*	Enzyme	Solid	*								KEGG	CTP	Cmpk1
+217_1265	1265	217	*	*	Enzyme	Solid	*	*				*	*	*	KEGG	UTP	Cmpk1
+218_1214	1214	218	*	*	Enzyme	Solid					*				KEGG	gamma-Amino-N-butyric-acid	Cndp1
+218_1238	1238	218	*	*	Enzyme	Solid			*	*			*		KEGG	Histidine	Cndp1
+219_1214	1214	219	*	*	Enzyme	Solid					*				KEGG	gamma-Amino-N-butyric-acid	Cndp2
+219_1238	1238	219	*	*	Enzyme	Solid			*	*			*		KEGG	Histidine	Cndp2
+21_1352	1352	21	*	*	Unknown	Solid					*				HMDB	FAD	Acad8
+21_1426	1426	21	*	*	Unknown	Solid				*					HMDB	CoA(6:0)	Acad8
+220_222	220	222	*	*	Others	Solid			*						Reactome	Coa3	Coq10b
+220_975	220	975	*	*	SameComplex	Solid					*				Reactome	Coa3	PE(34:3)>PE(16:0_18:3)_feature2
+221_975	975	221	*	*	Enzyme or transporter	Solid					*				Reactome	PE(34:3)>PE(16:0_18:3)_feature2	Coq10a
+222_224	224	222	*	*	Others	Solid			*						Reactome	Cox14	Coq10b
+222_227	227	222	*	*	Others	Solid			*						Reactome	Cox4i1	Coq10b
+222_229	229	222	*	*	Others	Solid			*						Reactome	Cox5a	Coq10b
+222_235	235	222	*	*	Others	Solid			*						Reactome	Cox6c	Coq10b
+222_238	238	222	*	*	Others	Solid			*						Reactome	Cox7b	Coq10b
+222_239	239	222	*	*	Others	Solid			*						Reactome	Cox7c	Coq10b
+222_240	240	222	*	*	Others	Solid			*						Reactome	Cox8a	Coq10b
+222_562	562	222	*	*	Others	Solid			*						Reactome	Mt-co1	Coq10b
+222_563	563	222	*	*	Others	Solid			*						Reactome	Mt-co2	Coq10b
+222_906	906	222	*	*	Others	Solid			*						Reactome	Surf4	Coq10b
+222_917	917	222	*	*	Others	Solid			*						Reactome	Timm21	Coq10b
+222_975	975	222	*	*	Enzyme or transporter	Solid			*		*				Reactome	PE(34:3)>PE(16:0_18:3)_feature2	Coq10b
+223_975	975	223	*	*	Enzyme or transporter	Solid					*				Reactome	PE(34:3)>PE(16:0_18:3)_feature2	Cox11
+224_975	224	975	*	*	SameComplex	Solid					*				Reactome	Cox14	PE(34:3)>PE(16:0_18:3)_feature2
+225_975	975	225	*	*	Enzyme or transporter	Solid					*				Reactome	PE(34:3)>PE(16:0_18:3)_feature2	Cox15
+226_975	975	226	*	*	Enzyme or transporter	Solid					*				Reactome	PE(34:3)>PE(16:0_18:3)_feature2	Cox16
+227_505	505	227	*	*	Others	Solid							*		Reactome	LOC100363502	Cox4i1
+227_975	227	975	*	*	SameComplex	Solid					*				Reactome	Cox4i1	PE(34:3)>PE(16:0_18:3)_feature2
+229_505	505	229	*	*	Others	Solid							*		Reactome	LOC100363502	Cox5a
+229_975	229	975	*	*	SameComplex	Solid					*				Reactome	Cox5a	PE(34:3)>PE(16:0_18:3)_feature2
+22_1352	1352	22	*	*	Unknown	Solid					*				HMDB	FAD	Acad9
+22_1426	1426	22	*	*	Unknown	Solid				*					HMDB	CoA(6:0)	Acad9
+230_505	505	230	*	*	Others	Solid							*		Reactome	LOC100363502	Cox5b
+231_505	505	231	*	*	Others	Solid							*		Reactome	LOC100363502	Cox6a1
+233_505	505	233	*	*	Others	Solid							*		Reactome	LOC100363502	Cox6b1
+235_505	505	235	*	*	Others	Solid							*		Reactome	LOC100363502	Cox6c
+235_975	235	975	*	*	SameComplex	Solid					*				Reactome	Cox6c	PE(34:3)>PE(16:0_18:3)_feature2
+236_505	505	236	*	*	Others	Solid							*		Reactome	LOC100363502	Cox7a2l
+237_505	505	237	*	*	Others	Solid							*		Reactome	LOC100363502	Cox7a2l2
+238_505	505	238	*	*	Others	Solid							*		Reactome	LOC100363502	Cox7b
+238_975	238	975	*	*	SameComplex	Solid					*				Reactome	Cox7b	PE(34:3)>PE(16:0_18:3)_feature2
+239_505	505	239	*	*	Others	Solid							*		Reactome	LOC100363502	Cox7c
+239_975	239	975	*	*	SameComplex	Solid					*				Reactome	Cox7c	PE(34:3)>PE(16:0_18:3)_feature2
+23_1352	1352	23	*	*	Unknown	Solid					*				HMDB	FAD	Acadl
+23_1426	1426	23	*	*	Unknown	Solid				*					HMDB	CoA(6:0)	Acadl
+240_505	505	240	*	*	Others	Solid							*		Reactome	LOC100363502	Cox8a
+240_975	975	240	*	*	SameComplex	Solid					*				Reactome	PE(34:3)>PE(16:0_18:3)_feature2	Cox8a
+242_1219	1219	242	*	*	Enzyme	Solid			*	*					KEGG	Glutathione	Cp
+242_1435	1435	242	*	*	Enzyme	Solid							*		KEGG	oxidized glutathione	Cp
+243_1388	1388	243	*	*	Enzyme	Solid				*					HMDB	coenzyme A	Cpt1a
+243_980	980	243	*	*	Enzyme	Solid					*	*			HMDB	TG(58:7)>TG(18:0_18:1_22:6)_M+NH3_feature3	Cpt1a
+244_1295	1295	244	*	*	Unknown	Solid							*		HMDB	FA(14:0)	Cpt1b
+244_1388	1388	244	*	*	Enzyme	Solid				*					HMDB	coenzyme A	Cpt1b
+244_980	980	244	*	*	Enzyme	Solid					*	*			HMDB	TG(58:7)>TG(18:0_18:1_22:6)_M+NH3_feature3	Cpt1b
+245_1388	1388	245	*	*	Enzyme	Solid				*					HMDB	coenzyme A	Cpt2
+245_980	980	245	*	*	Enzyme	Solid					*	*			HMDB	TG(58:7)>TG(18:0_18:1_22:6)_M+NH3_feature3	Cpt2
+246_976	976	246	*	*	Enzyme or transporter	Solid			*	*	*		*	*	Reactome	PG(36:2)>PG(18:0_18:2)_feature2	Crls1
+247_1283	1283	247	*	*	Enzyme	Solid	*	*		*	*	*	*	*	HMDB	FA(12:0)	Crot
+247_1388	1388	247	*	*	Enzyme	Solid	*	*		*	*	*	*	*	KEGG, HMDB	coenzyme A	Crot
+248_1352	1352	248	*	*	Unknown	Solid	*				*				HMDB	FAD	Cry1
+249_1241	1241	249	*	*	Enzyme	Solid	*				*				KEGG	Aspartic acid	Csad
+24_1352	1352	24	*	*	Enzyme	Solid					*				KEGG, HMDB	FAD	Acadm
+24_1426	1426	24	*	*	Enzyme	Solid				*					KEGG, HMDB	CoA(6:0)	Acadm
+251_848	848	251	*	*	SameComplex	Solid					*				Reactome	Sdc1	Cspg4
+255_1381	1381	255	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Ctnnal1
+256_1205	1205	256	*	*	Unknown	Solid	*								HMDB	CTP	Ctps1
+256_1228	1228	256	*	*	Unknown	Solid					*				HMDB	Glutamic acid	Ctps1
+256_1265	1265	256	*	*	Unknown	Solid	*	*				*	*	*	HMDB	UTP	Ctps1
+256_1284	1284	256	*	*	Unknown	Solid			*	*	*				HMDB	Glutamine	Ctps1
+257_1205	1205	257	*	*	Enzyme	Solid	*								KEGG, HMDB	CTP	Ctps2
+257_1228	1228	257	*	*	Enzyme	Solid					*				KEGG, HMDB	Glutamic acid	Ctps2
+257_1265	1265	257	*	*	Enzyme	Solid	*	*				*	*	*	KEGG, HMDB	UTP	Ctps2
+257_1284	1284	257	*	*	Enzyme	Solid			*	*	*				KEGG, HMDB	Glutamine	Ctps2
+258_1352	1352	258	*	*	Unknown	Solid	*		*		*				HMDB	FAD	Cyb5r3
+258_1395	1395	258	*	*	Unknown	Solid	*		*						HMDB	NADH	Cyb5r3
+259_505	505	259	*	*	Others	Solid							*		Reactome	LOC100363502	Cyc1
+25_1352	1352	25	*	*	Enzyme	Solid					*				KEGG, HMDB	FAD	Acads
+25_1426	1426	25	*	*	Enzyme	Solid				*					KEGG, HMDB	CoA(6:0)	Acads
+262_966	966	262	*	*	Enzyme	Solid					*		*	*	KEGG	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Daglb
+262_980	980	262	*	*	Enzyme	Solid					*	*			KEGG	TG(58:7)>TG(18:0_18:1_22:6)_M+NH3_feature3	Daglb
+263_1291	1291	263	*	*	Unknown	Solid							*	*	HMDB	Hydroxyproline	Dao
+263_1352	1352	263	*	*	Unknown	Solid					*				HMDB	FAD	Dao
+264_1388	1388	264	*	*	Enzyme	Solid				*					HMDB	coenzyme A	Dbt
+264_1426	1426	264	*	*	Enzyme	Solid				*					HMDB	CoA(6:0)	Dbt
+265_848	848	265	*	*	SameComplex	Solid					*				Reactome	Sdc1	Dcn
+266_1238	1238	266	*	*	Enzyme	Solid			*	*			*		HMDB	Histidine	Ddc
+266_1310	1310	266	*	*	Enzyme	Solid					*				HMDB	Tryptophan	Ddc
+267_1381	1381	267	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Def6
+268_1277	1277	268	*	*	Enzyme	Solid							*	*	KEGG, HMDB	vitamin A	Dgat1
+268_1388	1388	268	*	*	Enzyme	Solid				*					KEGG, HMDB	coenzyme A	Dgat1
+268_1426	1426	268	*	*	Enzyme	Solid				*					HMDB	CoA(6:0)	Dgat1
+268_966	966	268	*	*	Enzyme	Solid					*		*	*	Reactome, KEGG, HMDB	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Dgat1
+268_980	980	268	*	*	Enzyme	Solid					*	*			Reactome, KEGG, HMDB	TG(58:7)>TG(18:0_18:1_22:6)_M+NH3_feature3	Dgat1
+269_1277	1277	269	*	*	Enzyme	Solid							*	*	KEGG, HMDB	vitamin A	Dgat2
+269_1388	1388	269	*	*	Enzyme	Solid				*					KEGG, HMDB	coenzyme A	Dgat2
+269_1426	1426	269	*	*	Enzyme	Solid				*					HMDB	CoA(6:0)	Dgat2
+269_966	966	269	*	*	Enzyme	Solid					*		*	*	Reactome, KEGG, HMDB	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Dgat2
+269_980	980	269	*	*	Enzyme	Solid					*	*			Reactome, KEGG, HMDB	TG(58:7)>TG(18:0_18:1_22:6)_M+NH3_feature3	Dgat2
+26_1352	1352	26	*	*	Enzyme	Solid					*				KEGG, HMDB	FAD	Acadsb
+26_1426	1426	26	*	*	Enzyme	Solid				*					KEGG, HMDB	CoA(6:0)	Acadsb
+271_966	966	271	*	*	Enzyme	Solid	*				*		*	*	KEGG, HMDB	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Dgkq
+271_973	973	271	*	*	Enzyme	Solid	*								KEGG	PA(34:1)_M+NH3_feature1	Dgkq
+272_1251	1251	272	*	*	Enzyme	Solid				*					KEGG	NADPH	Dhrs9
+272_1277	1277	272	*	*	Enzyme	Solid				*			*	*	KEGG	vitamin A	Dhrs9
+272_1313	1313	272	*	*	Enzyme	Solid				*					KEGG	taurochenodeoxycholate	Dhrs9
+272_1395	1395	272	*	*	Enzyme	Solid				*					KEGG	NADH	Dhrs9
+273_1188	1188	273	*	*	Enzyme	Solid								*	HMDB	ketoisovalerate	Dlat
+273_1388	1388	273	*	*	Enzyme	Solid				*					HMDB	coenzyme A	Dlat
+274_1352	1352	274	*	*	Unknown	Solid					*				HMDB	FAD	Dld
+274_1388	1388	274	*	*	Unknown	Solid				*					HMDB	coenzyme A	Dld
+275_1352	1352	275	*	*	Unknown	Solid					*				HMDB	FAD	Dmgdh
+275_1355	1355	275	*	*	Unknown	Solid	*	*		*					HMDB	spermine	Dmgdh
+27_1352	1352	27	*	*	Unknown	Solid					*				HMDB	FAD	Acadvl
+27_1426	1426	27	*	*	Unknown	Solid				*					HMDB	CoA(6:0)	Acadvl
+280_1381	1381	280	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Dock3
+281_1381	1381	281	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Dock4
+282_1381	1381	282	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Dock5
+283_1381	1381	283	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Dock6
+284_1381	1381	284	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Dock7
+285_1381	1381	285	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Dock8
+286_1275	1275	286	*	*	Unknown	Solid						*		*	HMDB	uracil	Dpyd
+286_1352	1352	286	*	*	Unknown	Solid					*				HMDB	FAD	Dpyd
+288_1350	1350	288	*	*	Enzyme	Solid	*								HMDB	Acetyl-CoA	Eci2
+288_1426	1426	288	*	*	Enzyme	Solid	*			*					HMDB	CoA(6:0)	Eci2
+288_1463	1463	288	*	*	Enzyme	Solid	*								HMDB	CoA(20:0)	Eci2
+289_1381	1381	289	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Ect2l
+28_977	977	28	*	*	Unknown	Solid					*				HMDB	PI(40:6)>PI(18:0_22:6)_feature1	Acap1
+290_1259	1259	290	*	*	Enzyme	Solid							*		HMDB	Succinic acid	Egln1
+290_1291	1291	290	*	*	Enzyme	Solid							*	*	HMDB	Hydroxyproline	Egln1
+291_1234	1234	291	*	*	Enzyme	Solid			*	*					HMDB	Proline	Egln2
+291_1246	1246	291	*	*	Enzyme	Solid			*	*					HMDB	Oxoglutaric acid	Egln2
+291_1259	1259	291	*	*	Enzyme	Solid			*	*			*		HMDB	Succinic acid	Egln2
+291_1291	1291	291	*	*	Enzyme	Solid			*	*			*	*	HMDB	Hydroxyproline	Egln2
+292_1234	1234	292	*	*	Enzyme	Solid			*						HMDB	Proline	Egln3
+292_1246	1246	292	*	*	Enzyme	Solid			*						HMDB	Oxoglutaric acid	Egln3
+292_1259	1259	292	*	*	Enzyme	Solid			*				*		HMDB	Succinic acid	Egln3
+292_1291	1291	292	*	*	Enzyme	Solid			*				*	*	HMDB	Hydroxyproline	Egln3
+294_1381	1381	294	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Elmo1
+296_1381	1381	296	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Elmo3
+297_1388	1388	297	*	*	Enzyme	Solid				*			*		KEGG, HMDB	coenzyme A	Elovl5
+299_1228	1228	299	*	*	Enzyme	Solid	*				*				HMDB	Glutamic acid	Enpep
+29_1350	1350	29	*	*	Enzyme	Solid					*		*		KEGG, HMDB	Acetyl-CoA	Acat2
+29_1388	1388	29	*	*	Enzyme	Solid				*	*		*		KEGG, HMDB	coenzyme A	Acat2
+2_222	2	222	*	*	Others	Solid			*						Reactome	AABR07015507.1	Coq10b
+2_975	2	975	*	*	SameComplex	Solid					*				Reactome	AABR07015507.1	PE(34:3)>PE(16:0_18:3)_feature2
+300_1205	1205	300	*	*	Enzyme	Solid	*								KEGG	CTP	Enpp1
+300_1265	1265	300	*	*	Enzyme	Solid	*	*				*	*	*	KEGG	UTP	Enpp1
+300_1266	1266	300	*	*	Enzyme	Solid							*		KEGG, HMDB	UDP-glucose	Enpp1
+300_1352	1352	300	*	*	Enzyme	Solid					*				KEGG, HMDB	FAD	Enpp1
+300_1381	1381	300	*	*	Enzyme	Solid	*	*					*		KEGG	GMP	Enpp1
+301_1210	1210	301	*	*	Enzyme	Solid	*	*			*				KEGG	Choline	Enpp2
+301_974	974	301	*	*	Enzyme	Solid	*				*				KEGG	PC(36:3)_feature5	Enpp2
+301_975	975	301	*	*	Enzyme	Solid					*				KEGG	PE(34:3)>PE(16:0_18:3)_feature2	Enpp2
+302_1205	1205	302	*	*	Enzyme	Solid	*					*	*		KEGG	CTP	Enpp3
+302_1255	1255	302	*	*	Enzyme	Solid						*	*		KEGG	NMN	Enpp3
+302_1265	1265	302	*	*	Enzyme	Solid	*	*				*	*	*	KEGG	UTP	Enpp3
+302_1266	1266	302	*	*	Enzyme	Solid						*	*		KEGG, HMDB	UDP-glucose	Enpp3
+302_1267	1267	302	*	*	Enzyme	Solid						*	*		KEGG, HMDB	UMP	Enpp3
+302_1352	1352	302	*	*	Enzyme	Solid					*	*	*		KEGG, HMDB	FAD	Enpp3
+302_1371	1371	302	*	*	Enzyme	Solid						*	*		KEGG	dTTP	Enpp3
+302_1381	1381	302	*	*	Enzyme	Solid	*	*				*	*		KEGG	GMP	Enpp3
+302_1395	1395	302	*	*	Unknown	Solid						*	*		HMDB	NADH	Enpp3
+303_1205	1205	303	*	*	Enzyme	Solid	*								KEGG, HMDB	CTP	Entpd1
+303_1265	1265	303	*	*	Enzyme	Solid	*	*				*	*	*	KEGG, HMDB	UTP	Entpd1
+303_1381	1381	303	*	*	Enzyme	Solid	*	*					*		KEGG, HMDB	GMP	Entpd1
+305_1381	1381	305	*	*	Enzyme	Solid	*	*					*		HMDB	GMP	Entpd4
+306_1237	1237	306	*	*	Enzyme	Solid					*				KEGG	IMP	Entpd5
+306_1267	1267	306	*	*	Enzyme	Solid					*				KEGG, HMDB	UMP	Entpd5
+306_1274	1274	306	*	*	Enzyme	Solid					*				KEGG, HMDB	UDP	Entpd5
+306_1348	1348	306	*	*	Enzyme	Solid					*				KEGG, HMDB	GDP	Entpd5
+306_1381	1381	306	*	*	Enzyme	Solid	*	*			*		*		KEGG, HMDB	GMP	Entpd5
+307_1205	1205	307	*	*	Enzyme	Solid	*								KEGG, HMDB	CTP	Entpd8
+307_1265	1265	307	*	*	Enzyme	Solid	*	*				*	*	*	KEGG, HMDB	UTP	Entpd8
+307_1381	1381	307	*	*	Enzyme	Solid	*	*					*		KEGG, HMDB	GMP	Entpd8
+308_1352	1352	308	*	*	Unknown	Solid					*				HMDB	FAD	Etfb
+30_1426	1426	30	*	*	Unknown	Solid				*					HMDB	CoA(6:0)	Acbd5
+310_848	848	310	*	*	Others	Solid					*				Reactome	Sdc1	Ext1
+311_848	848	311	*	*	Others	Solid					*				Reactome	Sdc1	Ext2
+312_1270	1270	312	*	*	Enzyme	Solid					*		*		HMDB	UDP-N-acetylglucosamine	Extl1
+312_1274	1274	312	*	*	Enzyme	Solid					*				HMDB	UDP	Extl1
+314_1388	1388	314	*	*	Enzyme	Solid				*					HMDB	coenzyme A	Far1
+314_1426	1426	314	*	*	Enzyme	Solid				*					HMDB	CoA(6:0)	Far1
+316_1381	1381	316	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Farp2
+317_1245	1245	317	*	*	Enzyme	Solid					*				KEGG, HMDB	Oleic acid	Fasn
+317_1250	1250	317	*	*	Enzyme	Solid					*				KEGG, HMDB	FA(16:0)	Fasn
+317_1251	1251	317	*	*	Enzyme	Solid					*				KEGG, HMDB	NADPH	Fasn
+317_1295	1295	317	*	*	Enzyme	Solid					*		*		KEGG, HMDB	FA(14:0)	Fasn
+317_1297	1297	317	*	*	Enzyme	Solid					*				HMDB	FA(15:0)	Fasn
+317_1298	1298	317	*	*	Enzyme	Solid					*				KEGG, HMDB	FA(18:0)	Fasn
+317_1350	1350	317	*	*	Enzyme	Solid					*				KEGG, HMDB	Acetyl-CoA	Fasn
+317_1388	1388	317	*	*	Enzyme	Solid				*	*				KEGG, HMDB	coenzyme A	Fasn
+317_1418	1418	317	*	*	Enzyme	Solid					*				HMDB	FA(20:0)	Fasn
+317_1421	1421	317	*	*	Enzyme	Solid					*				HMDB	FA(17:0)	Fasn
+319_1218	1218	319	*	*	Enzyme	Solid	*								KEGG	fructose 6-phosphate	Fbp1
+319_1561	1561	319	*	*	Enzyme	Solid	*								KEGG	sedoheptulose-7-phosphate	Fbp1
+320_1218	1218	320	*	*	Enzyme	Solid	*								KEGG	fructose 6-phosphate	Fbp2
+320_1561	1561	320	*	*	Enzyme	Solid	*								KEGG	sedoheptulose-7-phosphate	Fbp2
+325_980	325	980	*	*	SameComplex	Solid					*	*			Reactome	Fitm2	TG(58:7)>TG(18:0_18:1_22:6)_M+NH3_feature3
+326_1251	1251	326	*	*	Enzyme	Solid						*	*		KEGG, HMDB	NADPH	Fmo1
+326_1309	1309	326	*	*	Enzyme	Solid			*	*		*	*		KEGG, HMDB	trimethylamine-N-oxide	Fmo1
+326_1352	1352	326	*	*	Unknown	Solid					*	*	*		HMDB	FAD	Fmo1
+327_1251	1251	327	*	*	Unknown	Solid								*	HMDB	NADPH	Fmo2
+327_1309	1309	327	*	*	Unknown	Solid			*	*				*	HMDB	trimethylamine-N-oxide	Fmo2
+327_1352	1352	327	*	*	Unknown	Solid					*			*	HMDB	FAD	Fmo2
+328_1309	1309	328	*	*	Unknown	Solid			*	*					HMDB	trimethylamine-N-oxide	Fmo3
+328_1352	1352	328	*	*	Unknown	Solid					*				HMDB	FAD	Fmo3
+329_1309	1309	329	*	*	Unknown	Solid			*	*					HMDB	trimethylamine-N-oxide	Fmo4
+329_1352	1352	329	*	*	Unknown	Solid					*				HMDB	FAD	Fmo4
+32_1295	1295	32	*	*	Enzyme	Solid							*		HMDB	FA(14:0)	Acer2
+32_1464	1464	32	*	*	Enzyme	Solid			*						HMDB	phytosphingosine	Acer2
+32_967	967	32	*	*	Enzyme	Solid	*								HMDB	HexCer(d42:0-OH)_M+H2CO2_feature1	Acer2
+330_1251	1251	330	*	*	Unknown	Solid						*			HMDB	NADPH	Fmo5
+330_1309	1309	330	*	*	Unknown	Solid			*	*		*			HMDB	trimethylamine-N-oxide	Fmo5
+330_1352	1352	330	*	*	Unknown	Solid					*	*			HMDB	FAD	Fmo5
+333_1352	1352	333	*	*	Unknown	Solid				*	*				HMDB	FAD	Foxred1
+337_1251	1251	337	*	*	Enzyme	Solid	*				*				KEGG, HMDB	NADPH	G6pd
+337_1382	1382	337	*	*	Enzyme	Solid	*				*				KEGG, HMDB	hexose phosphate	G6pd
+337_1395	1395	337	*	*	Enzyme	Solid	*				*				KEGG	NADH	G6pd
+33_1210	1210	33	*	*	Enzyme	Solid	*	*			*				KEGG	Choline	Ache
+33_1302	1302	33	*	*	Enzyme	Solid								*	KEGG	acetylcholine	Ache
+340_1266	1266	340	*	*	Enzyme	Solid							*		KEGG	UDP-glucose	Gale
+340_1270	1270	340	*	*	Enzyme	Solid							*		KEGG	UDP-N-acetylglucosamine	Gale
+341_1381	1381	341	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Gapvd1
+343_1228	1228	343	*	*	Enzyme	Solid					*				KEGG	Glutamic acid	Gatb
+343_1284	1284	343	*	*	Enzyme	Solid			*	*	*				KEGG	Glutamine	Gatb
+344_1228	1228	344	*	*	Enzyme	Solid					*				KEGG, HMDB	Glutamic acid	Gatc
+344_1284	1284	344	*	*	Enzyme	Solid			*	*	*				KEGG, HMDB	Glutamine	Gatc
+345_1214	1214	345	*	*	Enzyme	Solid					*				KEGG, HMDB	gamma-Amino-N-butyric-acid	Gatm
+345_1279	1279	345	*	*	Enzyme	Solid		*							KEGG, HMDB	Arginine	Gatm
+345_1355	1355	345	*	*	Enzyme	Solid	*	*		*					HMDB	spermine	Gatm
+346_1226	1226	346	*	*	Enzyme	Solid							*		KEGG	hexose	Gba2
+346_1464	1464	346	*	*	Enzyme	Solid			*						HMDB	phytosphingosine	Gba2
+346_967	967	346	*	*	Enzyme	Solid	*								KEGG, HMDB	HexCer(d42:0-OH)_M+H2CO2_feature1	Gba2
+346_979	979	346	*	*	Enzyme	Solid					*		*	*	HMDB	SM(d34:1)	Gba2
+347_1217	1217	347	*	*	Enzyme	Solid					*				HMDB	Glycine	Gcat
+347_1350	1350	347	*	*	Enzyme	Solid					*				HMDB	Acetyl-CoA	Gcat
+347_1388	1388	347	*	*	Enzyme	Solid				*	*				HMDB	coenzyme A	Gcat
+348_1352	1352	348	*	*	Unknown	Solid					*				HMDB	FAD	Gcdh
+348_1426	1426	348	*	*	Unknown	Solid				*					HMDB	CoA(6:0)	Gcdh
+349_1222	1222	349	*	*	Unknown	Solid	*				*				HMDB	Guanine	Gch1
+34_1208	1208	34	*	*	Enzyme	Solid					*				KEGG	citrate+isocitrate	Acly
+34_1350	1350	34	*	*	Enzyme	Solid					*				KEGG, HMDB	Acetyl-CoA	Acly
+34_1388	1388	34	*	*	Enzyme	Solid				*	*				KEGG, HMDB	coenzyme A	Acly
+350_1216	1216	350	*	*	Enzyme	Solid					*				KEGG, HMDB	Glucose	Gck
+350_1218	1218	350	*	*	Enzyme	Solid	*				*				KEGG	fructose 6-phosphate	Gck
+350_1382	1382	350	*	*	Enzyme	Solid	*				*				KEGG, HMDB	hexose phosphate	Gck
+350_1403	1403	350	*	*	Enzyme	Solid					*				KEGG	dATP	Gck
+351_1216	1216	351	*	*	Enzyme	Solid		*			*		*		HMDB	Glucose	Gckr
+351_1382	1382	351	*	*	Enzyme	Solid	*	*			*		*		HMDB	hexose phosphate	Gckr
+352_1228	1228	352	*	*	Enzyme	Solid					*				HMDB	Glutamic acid	Gclc
+352_1281	1281	352	*	*	Enzyme	Solid			*				*	*	HMDB	Cysteine	Gclc
+353_1228	1228	353	*	*	Enzyme	Solid			*		*				HMDB	Glutamic acid	Gclm
+353_1281	1281	353	*	*	Enzyme	Solid			*				*	*	HMDB	Cysteine	Gclm
+354_1270	1270	354	*	*	Enzyme	Solid							*		HMDB	UDP-N-acetylglucosamine	Gcnt2
+355_1207	1207	355	*	*	Unknown	Solid					*				HMDB	sn-Glycero-3-phosphocholine	Gde1
+355_1210	1210	355	*	*	Unknown	Solid	*	*			*				HMDB	Choline	Gde1
+356_1348	1348	356	*	*	Unknown	Solid					*	*			HMDB	GDP	Gdi1
+357_1381	1381	357	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Gem
+358_1218	1218	358	*	*	Enzyme	Solid	*								KEGG, HMDB	fructose 6-phosphate	Gfpt1
+358_1228	1228	358	*	*	Enzyme	Solid					*				KEGG, HMDB	Glutamic acid	Gfpt1
+358_1284	1284	358	*	*	Enzyme	Solid			*	*	*				KEGG, HMDB	Glutamine	Gfpt1
+359_1218	1218	359	*	*	Enzyme	Solid	*								KEGG, HMDB	fructose 6-phosphate	Gfpt2
+359_1228	1228	359	*	*	Enzyme	Solid					*				KEGG, HMDB	Glutamic acid	Gfpt2
+359_1284	1284	359	*	*	Enzyme	Solid			*	*	*				KEGG, HMDB	Glutamine	Gfpt2
+35_1388	1388	35	*	*	Enzyme	Solid				*					KEGG	coenzyme A	Acnat1
+35_964	964	35	*	*	Enzyme	Solid					*	*			KEGG	CE(18:1)_feature1	Acnat1
+360_1219	1219	360	*	*	Enzyme	Solid			*	*					KEGG, HMDB	Glutathione	Ggt1
+360_1228	1228	360	*	*	Enzyme	Solid					*				KEGG, HMDB	Glutamic acid	Ggt1
+363_1219	1219	363	*	*	Enzyme	Solid			*	*					KEGG, HMDB	Glutathione	Ggt7
+363_1228	1228	363	*	*	Enzyme	Solid					*				KEGG, HMDB	Glutamic acid	Ggt7
+364_1226	1226	364	*	*	Enzyme or transporter	Solid							*		Reactome	hexose	Gla
+364_967	967	364	*	*	Enzyme or transporter	Solid	*								Reactome	HexCer(d42:0-OH)_M+H2CO2_feature1	Gla
+365_1226	1226	365	*	*	Enzyme or transporter	Solid							*		Reactome	hexose	Glb1
+365_378	378	365	*	*	Others	Solid	*								Reactome	Gm2a	Glb1
+366_1226	1226	366	*	*	Enzyme or transporter	Solid							*		Reactome	hexose	Glb1l
+366_378	378	366	*	*	Others	Solid	*								Reactome	Gm2a	Glb1l
+367_1226	1226	367	*	*	Enzyme or transporter	Solid							*		Reactome	hexose	Glb1l2
+367_378	378	367	*	*	Others	Solid	*								Reactome	Gm2a	Glb1l2
+369_1228	1228	369	*	*	Enzyme	Solid					*				HMDB	Glutamic acid	Gls
+369_1284	1284	369	*	*	Enzyme	Solid			*	*	*				HMDB	Glutamine	Gls
+36_1388	1388	36	*	*	Enzyme	Solid				*					KEGG	coenzyme A	Acnat2
+36_964	964	36	*	*	Enzyme	Solid					*	*			KEGG	CE(18:1)_feature1	Acnat2
+370_1228	1228	370	*	*	Enzyme	Solid					*				HMDB	Glutamic acid	Gls2
+370_1284	1284	370	*	*	Enzyme	Solid			*	*	*				HMDB	Glutamine	Gls2
+371_1464	1464	371	*	*	Unknown	Solid			*						HMDB	phytosphingosine	Gltp
+371_967	967	371	*	*	Unknown	Solid	*								HMDB	HexCer(d42:0-OH)_M+H2CO2_feature1	Gltp
+371_979	979	371	*	*	Unknown	Solid					*		*	*	HMDB	SM(d34:1)	Gltp
+372_1464	1464	372	*	*	Unknown	Solid			*						HMDB	phytosphingosine	Gltpd2
+372_967	967	372	*	*	Unknown	Solid	*								HMDB	HexCer(d42:0-OH)_M+H2CO2_feature1	Gltpd2
+372_979	979	372	*	*	Unknown	Solid					*		*	*	HMDB	SM(d34:1)	Gltpd2
+373_1228	1228	373	*	*	Enzyme	Solid					*				KEGG, HMDB	Glutamic acid	Glud1
+373_1241	1241	373	*	*	Unknown	Solid	*				*				HMDB	Aspartic acid	Glud1
+373_1246	1246	373	*	*	Enzyme	Solid					*				KEGG, HMDB	Oxoglutaric acid	Glud1
+373_1251	1251	373	*	*	Enzyme	Solid					*				KEGG, HMDB	NADPH	Glud1
+373_1395	1395	373	*	*	Enzyme	Solid					*				KEGG, HMDB	NADH	Glud1
+374_1214	1214	374	*	*	Enzyme	Solid					*				HMDB	gamma-Amino-N-butyric-acid	Glul
+374_1228	1228	374	*	*	Enzyme	Solid					*				KEGG, HMDB	Glutamic acid	Glul
+374_1284	1284	374	*	*	Enzyme	Solid			*	*	*				KEGG, HMDB	Glutamine	Glul
+374_1388	1388	374	*	*	Enzyme	Solid				*					KEGG	coenzyme A	Glul
+375_1217	1217	375	*	*	Enzyme	Solid	*				*	*			KEGG, HMDB	Glycine	Glyat
+375_1225	1225	375	*	*	Enzyme	Solid	*		*		*	*		*	HMDB	Glycocholic acid	Glyat
+375_1290	1290	375	*	*	Enzyme	Solid	*				*	*			KEGG	Hippuric acid	Glyat
+375_1350	1350	375	*	*	Enzyme	Solid	*				*	*			HMDB	Acetyl-CoA	Glyat
+375_1388	1388	375	*	*	Enzyme	Solid	*			*	*	*			KEGG, HMDB	coenzyme A	Glyat
+375_1426	1426	375	*	*	Enzyme	Solid	*			*	*	*			HMDB	CoA(6:0)	Glyat
+375_1463	1463	375	*	*	Enzyme	Solid	*				*	*			HMDB	CoA(20:0)	Glyat
+376_1217	1217	376	*	*	Enzyme	Solid	*								KEGG	Glycine	Glyatl1
+376_1388	1388	376	*	*	Enzyme	Solid	*			*					KEGG	coenzyme A	Glyatl1
+377_1217	1217	377	*	*	Enzyme	Solid							*		KEGG	Glycine	Glyatl2
+377_1290	1290	377	*	*	Enzyme	Solid							*		KEGG	Hippuric acid	Glyatl2
+377_1388	1388	377	*	*	Enzyme	Solid				*			*		KEGG	coenzyme A	Glyatl2
+378_1226	1226	378	*	*	SameComplex	Solid	*						*		Reactome	hexose	Gm2a
+378_1258	1258	378	*	*	Enzyme	Solid	*								HMDB	Sphingosine	Gm2a
+378_1262	1262	378	*	*	Enzyme	Solid	*								HMDB	Sphinganine	Gm2a
+378_1263	1263	378	*	*	Enzyme	Solid	*								HMDB	Sphingosine 1-phosphate	Gm2a
+378_1283	1283	378	*	*	Enzyme	Solid	*								HMDB	FA(12:0)	Gm2a
+378_1464	1464	378	*	*	Enzyme	Solid	*		*						HMDB	phytosphingosine	Gm2a
+378_458	378	458	*	*	Others	Solid	*								Reactome	Gm2a	Hexa
+378_459	378	459	*	*	Others	Solid	*								Reactome	Gm2a	Hexb
+378_779	378	779	*	*	SameComplex	Solid	*								Reactome	Gm2a	Psap
+378_967	967	378	*	*	Enzyme	Solid	*								HMDB	HexCer(d42:0-OH)_M+H2CO2_feature1	Gm2a
+378_979	979	378	*	*	Enzyme	Solid	*				*		*	*	HMDB	SM(d34:1)	Gm2a
+379_1228	1228	379	*	*	Enzyme	Solid					*				KEGG, HMDB	Glutamic acid	Gmps
+379_1284	1284	379	*	*	Enzyme	Solid			*	*	*				KEGG, HMDB	Glutamine	Gmps
+379_1381	1381	379	*	*	Enzyme	Solid	*	*					*		KEGG, HMDB	GMP	Gmps
+37_1203	1203	37	*	*	Enzyme	Solid			*	*			*		KEGG	cis-aconitate	Aco1
+37_1242	1242	37	*	*	Enzyme	Solid		*	*	*			*	*	KEGG	Isocitrate	Aco1
+380_1381	1381	380	*	*	Enzyme	Solid	*	*					*		HMDB	GMP	Gna11
+381_1381	1381	381	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Gna12
+382_1381	1381	382	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Gna13
+383_1381	1381	383	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Gna14
+384_1381	1381	384	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Gna15
+385_1222	1222	385	*	*	Unknown	Solid	*								HMDB	Guanine	Gnai1
+385_1381	1381	385	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Gnai1
+386_1381	1381	386	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Gnai2
+387_1381	1381	387	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Gnai3
+388_1381	1381	388	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Gnal
+389_1381	1381	389	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Gnao1
+38_1203	1203	38	*	*	Enzyme	Solid			*	*			*		KEGG	cis-aconitate	Aco2
+38_1242	1242	38	*	*	Enzyme	Solid		*	*	*			*	*	KEGG	Isocitrate	Aco2
+390_1222	1222	390	*	*	Enzyme	Solid	*								HMDB	Guanine	Gnas
+390_1381	1381	390	*	*	Enzyme	Solid	*	*					*		HMDB	GMP	Gnas
+391_1381	1381	391	*	*	Enzyme	Solid	*	*					*		HMDB	GMP	Gnat1
+392_1381	1381	392	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Gnat2
+394_1381	1381	394	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Gnb2
+396_1381	1381	396	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Gnb4
+397_1381	1381	397	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Gnb5
+398_1270	1270	398	*	*	Enzyme	Solid	*		*				*		KEGG, HMDB	UDP-N-acetylglucosamine	Gne
+398_1274	1274	398	*	*	Enzyme	Solid	*		*						KEGG, HMDB	UDP	Gne
+39_1388	1388	39	*	*	Enzyme	Solid				*					HMDB	coenzyme A	Acot2
+39_1426	1426	39	*	*	Enzyme	Solid				*					HMDB	CoA(6:0)	Acot2
+3_100	100	3	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	AABR07021988.1
+400_1381	1381	400	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Gng11
+401_1381	1381	401	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Gng12
+403_1381	1381	403	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Gng3
+405_1381	1381	405	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Gng8
+407_1381	1381	407	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Gnl1
+408_1388	1388	408	*	*	Enzyme	Solid				*					KEGG, HMDB	coenzyme A	Gnpat
+408_1393	1393	408	*	*	Enzyme	Solid	*								KEGG, HMDB	dihydroxyacetone phosphate	Gnpat
+408_1426	1426	408	*	*	Enzyme	Solid				*					HMDB	CoA(6:0)	Gnpat
+409_1267	1267	409	*	*	Enzyme	Solid	*								HMDB	UMP	Gnptab
+409_1270	1270	409	*	*	Enzyme	Solid	*						*		HMDB	UDP-N-acetylglucosamine	Gnptab
+40_1388	1388	40	*	*	Enzyme	Solid				*					HMDB	coenzyme A	Acot4
+40_1426	1426	40	*	*	Enzyme	Solid				*					HMDB	CoA(6:0)	Acot4
+411_1228	1228	411	*	*	Enzyme	Solid					*				KEGG, HMDB	Glutamic acid	Got1
+411_1241	1241	411	*	*	Enzyme	Solid	*				*				KEGG, HMDB	Aspartic acid	Got1
+411_1281	1281	411	*	*	Enzyme	Solid			*				*	*	KEGG, HMDB	Cysteine	Got1
+413_1228	1228	413	*	*	Enzyme	Solid					*				KEGG, HMDB	Glutamic acid	Got2
+413_1241	1241	413	*	*	Enzyme	Solid	*				*				KEGG, HMDB	Aspartic acid	Got2
+413_1281	1281	413	*	*	Enzyme	Solid			*				*	*	KEGG, HMDB	Cysteine	Got2
+414_1464	1464	414	*	*	Unknown	Solid			*						HMDB	phytosphingosine	Gpaa1
+414_967	967	414	*	*	Unknown	Solid	*								HMDB	HexCer(d42:0-OH)_M+H2CO2_feature1	Gpaa1
+414_979	979	414	*	*	Unknown	Solid					*		*	*	HMDB	SM(d34:1)	Gpaa1
+415_1388	1388	415	*	*	Enzyme	Solid				*					HMDB	coenzyme A	Gpam
+415_1426	1426	415	*	*	Enzyme	Solid				*					HMDB	CoA(6:0)	Gpam
+416_1388	1388	416	*	*	Enzyme	Solid				*					KEGG, HMDB	coenzyme A	Gpat2
+416_1426	1426	416	*	*	Enzyme	Solid				*					HMDB	CoA(6:0)	Gpat2
+417_1388	1388	417	*	*	Enzyme	Solid				*					KEGG	coenzyme A	Gpat3
+418_848	418	848	*	*	SameComplex	Solid					*				Reactome	Gpc1	Sdc1
+418_964	418	964	*	*	SameComplex	Solid					*	*			Reactome	Gpc1	CE(18:1)_feature1
+418_980	418	980	*	*	SameComplex	Solid					*	*			Reactome	Gpc1	TG(58:7)>TG(18:0_18:1_22:6)_M+NH3_feature3
+419_848	419	848	*	*	SameComplex	Solid					*				Reactome	Gpc2	Sdc1
+419_964	419	964	*	*	SameComplex	Solid					*	*			Reactome	Gpc2	CE(18:1)_feature1
+419_980	419	980	*	*	SameComplex	Solid					*	*			Reactome	Gpc2	TG(58:7)>TG(18:0_18:1_22:6)_M+NH3_feature3
+41_1245	1245	41	*	*	Enzyme	Solid					*				KEGG, HMDB	Oleic acid	Acot7
+41_1250	1250	41	*	*	Enzyme	Solid					*				KEGG, HMDB	FA(16:0)	Acot7
+41_1298	1298	41	*	*	Enzyme	Solid					*				KEGG, HMDB	FA(18:0)	Acot7
+41_1350	1350	41	*	*	Enzyme	Solid					*				HMDB	Acetyl-CoA	Acot7
+41_1388	1388	41	*	*	Enzyme	Solid				*	*				KEGG, HMDB	coenzyme A	Acot7
+41_1418	1418	41	*	*	Enzyme	Solid					*				KEGG, HMDB	FA(20:0)	Acot7
+41_1426	1426	41	*	*	Enzyme	Solid				*	*				HMDB	CoA(6:0)	Acot7
+41_1463	1463	41	*	*	Enzyme	Solid					*				KEGG, HMDB	CoA(20:0)	Acot7
+420_848	420	848	*	*	SameComplex	Solid					*				Reactome	Gpc3	Sdc1
+420_964	420	964	*	*	SameComplex	Solid					*	*			Reactome	Gpc3	CE(18:1)_feature1
+420_980	420	980	*	*	SameComplex	Solid					*	*			Reactome	Gpc3	TG(58:7)>TG(18:0_18:1_22:6)_M+NH3_feature3
+421_848	421	848	*	*	SameComplex	Solid					*				Reactome	Gpc4	Sdc1
+421_964	421	964	*	*	SameComplex	Solid					*	*			Reactome	Gpc4	CE(18:1)_feature1
+421_980	421	980	*	*	SameComplex	Solid					*	*			Reactome	Gpc4	TG(58:7)>TG(18:0_18:1_22:6)_M+NH3_feature3
+423_848	423	848	*	*	SameComplex	Solid					*				Reactome	Gpc6	Sdc1
+423_964	423	964	*	*	SameComplex	Solid					*	*			Reactome	Gpc6	CE(18:1)_feature1
+423_980	423	980	*	*	SameComplex	Solid					*	*			Reactome	Gpc6	TG(58:7)>TG(18:0_18:1_22:6)_M+NH3_feature3
+424_1207	1207	424	*	*	Enzyme	Solid					*				KEGG, HMDB	sn-Glycero-3-phosphocholine	Gpcpd1
+424_1210	1210	424	*	*	Enzyme	Solid	*	*			*				KEGG, HMDB	Choline	Gpcpd1
+425_1220	1220	425	*	*	Enzyme	Solid						*	*		KEGG	glycerol 3-phosphate	Gpd1
+425_1393	1393	425	*	*	Enzyme	Solid	*					*	*		KEGG, HMDB	dihydroxyacetone phosphate	Gpd1
+425_1395	1395	425	*	*	Enzyme	Solid						*	*		KEGG, HMDB	NADH	Gpd1
+426_1352	1352	426	*	*	Enzyme	Solid					*				KEGG, HMDB	FAD	Gpd2
+426_1393	1393	426	*	*	Enzyme	Solid	*								KEGG, HMDB	dihydroxyacetone phosphate	Gpd2
+427_1216	1216	427	*	*	Enzyme	Solid			*						HMDB	Glucose	Gpi
+427_1218	1218	427	*	*	Enzyme	Solid	*		*						KEGG, HMDB	fructose 6-phosphate	Gpi
+427_1382	1382	427	*	*	Enzyme	Solid	*		*						KEGG, HMDB	hexose phosphate	Gpi
+429_1275	1275	429	*	*	Unknown	Solid				*		*		*	HMDB	uracil	Gpr17
+42_1259	1259	42	*	*	Enzyme	Solid							*		KEGG	Succinic acid	Acot8
+42_1388	1388	42	*	*	Enzyme	Solid				*					KEGG, HMDB	coenzyme A	Acot8
+42_1426	1426	42	*	*	Enzyme	Solid				*					HMDB	CoA(6:0)	Acot8
+42_964	964	42	*	*	Enzyme	Solid					*	*			KEGG	CE(18:1)_feature1	Acot8
+430_1381	1381	430	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Gpsm1
+431_1219	1219	431	*	*	Enzyme	Solid			*	*					KEGG	Glutathione	Gpx1
+431_1435	1435	431	*	*	Enzyme	Solid							*		KEGG	oxidized glutathione	Gpx1
+432_1219	1219	432	*	*	Enzyme	Solid			*	*					KEGG	Glutathione	Gpx2
+432_1435	1435	432	*	*	Enzyme	Solid							*		KEGG	oxidized glutathione	Gpx2
+433_1219	1219	433	*	*	Enzyme	Solid			*	*					KEGG	Glutathione	Gpx3
+433_1435	1435	433	*	*	Enzyme	Solid							*		KEGG	oxidized glutathione	Gpx3
+434_1219	1219	434	*	*	Enzyme	Solid			*	*					KEGG	Glutathione	Gpx4
+434_1435	1435	434	*	*	Enzyme	Solid							*		KEGG	oxidized glutathione	Gpx4
+437_1381	1381	437	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Grap
+438_1381	1381	438	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Grb2
+439_1219	1219	439	*	*	Enzyme	Solid			*	*					KEGG, HMDB	Glutathione	Gsr
+439_1228	1228	439	*	*	Unknown	Solid					*				HMDB	Glutamic acid	Gsr
+439_1352	1352	439	*	*	Unknown	Solid					*				HMDB	FAD	Gsr
+439_1435	1435	439	*	*	Enzyme	Solid							*		KEGG	oxidized glutathione	Gsr
+43_1352	1352	43	*	*	Enzyme	Solid					*				KEGG, HMDB	FAD	Acox1
+43_1426	1426	43	*	*	Enzyme	Solid				*					KEGG, HMDB	CoA(6:0)	Acox1
+440_1219	1219	440	*	*	Enzyme	Solid			*	*					HMDB	Glutathione	Gss
+440_1228	1228	440	*	*	Enzyme	Solid					*				HMDB	Glutamic acid	Gss
+440_1281	1281	440	*	*	Enzyme	Solid			*				*	*	HMDB	Cysteine	Gss
+441_1219	1219	441	*	*	Enzyme	Solid	*		*	*					KEGG	Glutathione	Gsta2
+443_1219	1219	443	*	*	Enzyme	Solid			*	*	*				KEGG	Glutathione	Gstm1
+444_1219	1219	444	*	*	Enzyme	Solid			*	*	*				KEGG, HMDB	Glutathione	Gstm2
+445_1219	1219	445	*	*	Enzyme	Solid			*	*					KEGG	Glutathione	Gsto1
+445_1435	1435	445	*	*	Enzyme	Solid							*		KEGG	oxidized glutathione	Gsto1
+446_1219	1219	446	*	*	Enzyme	Solid			*	*					KEGG	Glutathione	Gsto2
+446_1435	1435	446	*	*	Enzyme	Solid							*		KEGG	oxidized glutathione	Gsto2
+447_1219	1219	447	*	*	Enzyme	Solid			*	*					HMDB	Glutathione	Gstt2
+449_1381	1381	449	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Gucy2c
+44_1350	1350	44	*	*	Unknown	Solid						*			HMDB	Acetyl-CoA	Acox2
+44_1352	1352	44	*	*	Unknown	Solid					*	*			HMDB	FAD	Acox2
+44_1426	1426	44	*	*	Unknown	Solid				*		*			HMDB	CoA(6:0)	Acox2
+44_1463	1463	44	*	*	Unknown	Solid						*			HMDB	CoA(20:0)	Acox2
+450_1216	1216	450	*	*	Unknown	Solid				*					HMDB	Glucose	H6pd
+450_1251	1251	450	*	*	Unknown	Solid				*					HMDB	NADPH	H6pd
+450_1364	1364	450	*	*	Unknown	Solid	*			*					HMDB	6-phosphogluconate	H6pd
+450_1382	1382	450	*	*	Unknown	Solid	*			*					HMDB	hexose phosphate	H6pd
+450_1395	1395	450	*	*	Unknown	Solid				*					HMDB	NADH	H6pd
+453_1350	1350	453	*	*	Unknown	Solid					*				HMDB	Acetyl-CoA	Hadha
+453_1395	1395	453	*	*	Unknown	Solid					*				HMDB	NADH	Hadha
+453_1426	1426	453	*	*	Unknown	Solid				*	*				HMDB	CoA(6:0)	Hadha
+453_1463	1463	453	*	*	Unknown	Solid					*				HMDB	CoA(20:0)	Hadha
+454_1388	1388	454	*	*	Enzyme	Solid				*					KEGG, HMDB	coenzyme A	Hadhb
+454_1426	1426	454	*	*	Enzyme	Solid				*					KEGG, HMDB	CoA(6:0)	Hadhb
+455_505	505	455	*	*	Others	Solid							*		Reactome	LOC100363502	Hccs
+456_1238	1238	456	*	*	Enzyme	Solid			*	*			*		KEGG, HMDB	Histidine	Hdc
+456_1300	1300	456	*	*	Enzyme	Solid				*					KEGG	histamine	Hdc
+456_1355	1355	456	*	*	Enzyme	Solid	*	*		*					HMDB	spermine	Hdc
+457_1381	1381	457	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Herc1
+45_1350	1350	45	*	*	Unknown	Solid	*			*	*				HMDB	Acetyl-CoA	Acox3
+45_1352	1352	45	*	*	Enzyme	Solid	*			*	*				KEGG, HMDB	FAD	Acox3
+45_1426	1426	45	*	*	Enzyme	Solid	*			*	*				KEGG, HMDB	CoA(6:0)	Acox3
+45_1463	1463	45	*	*	Unknown	Solid	*			*	*				HMDB	CoA(20:0)	Acox3
+460_1388	1388	460	*	*	Enzyme	Solid				*					KEGG	coenzyme A	Hibch
+461_1218	1218	461	*	*	Enzyme	Solid	*								KEGG	fructose 6-phosphate	Hk1
+461_1382	1382	461	*	*	Enzyme	Solid	*								KEGG	hexose phosphate	Hk1
+462_1218	1218	462	*	*	Enzyme	Solid	*								KEGG	fructose 6-phosphate	Hk2
+462_1382	1382	462	*	*	Enzyme	Solid	*								KEGG	hexose phosphate	Hk2
+463_1218	1218	463	*	*	Enzyme	Solid	*								KEGG	fructose 6-phosphate	Hk3
+463_1382	1382	463	*	*	Enzyme	Solid	*								KEGG	hexose phosphate	Hk3
+464_1251	1251	464	*	*	Enzyme	Solid		*							KEGG, HMDB	NADPH	Hmgcr
+464_1388	1388	464	*	*	Enzyme	Solid		*		*					KEGG, HMDB	coenzyme A	Hmgcr
+465_1350	1350	465	*	*	Enzyme	Solid							*		KEGG, HMDB	Acetyl-CoA	Hmgcs1
+465_1388	1388	465	*	*	Enzyme	Solid				*			*		KEGG, HMDB	coenzyme A	Hmgcs1
+466_1251	1251	466	*	*	Unknown	Solid			*		*				HMDB	NADPH	Hmox1
+466_1316	1316	466	*	*	Unknown	Solid			*		*				HMDB	biliverdin	Hmox1
+466_1352	1352	466	*	*	Unknown	Solid			*		*				HMDB	FAD	Hmox1
+467_1251	1251	467	*	*	Unknown	Solid	*								HMDB	NADPH	Hmox2
+467_1316	1316	467	*	*	Unknown	Solid	*								HMDB	biliverdin	Hmox2
+467_1352	1352	467	*	*	Unknown	Solid	*				*				HMDB	FAD	Hmox2
+468_1222	1222	468	*	*	Enzyme	Solid	*								KEGG, HMDB	Guanine	Hprt1
+468_1381	1381	468	*	*	Enzyme	Solid	*	*					*		KEGG, HMDB	GMP	Hprt1
+469_848	848	469	*	*	Others	Solid					*				Reactome	Sdc1	Hpse
+471_1381	1381	471	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Hras
+472_974	974	472	*	*	Enzyme or transporter	Solid	*				*				Reactome	PC(36:3)_feature5	Hrasls
+472_975	975	472	*	*	Enzyme or transporter	Solid					*				Reactome	PE(34:3)>PE(16:0_18:3)_feature2	Hrasls
+474_848	848	474	*	*	Others	Solid					*				Reactome	Sdc1	Hs2st1
+475_848	848	475	*	*	Others	Solid					*				Reactome	Sdc1	Hs3st1
+476_848	848	476	*	*	Others	Solid					*				Reactome	Sdc1	Hs3st3a1
+477_848	848	477	*	*	Others	Solid			*		*				Reactome	Sdc1	Hs3st3b1
+479_848	848	479	*	*	Others	Solid					*				Reactome	Sdc1	Hs3st6
+480_848	848	480	*	*	Others	Solid					*				Reactome	Sdc1	Hs6st1
+483_964	483	964	*	*	SameComplex	Solid					*	*			Reactome	Hsd17b13	CE(18:1)_feature1
+483_980	483	980	*	*	SameComplex	Solid					*	*			Reactome	Hsd17b13	TG(58:7)>TG(18:0_18:1_22:6)_M+NH3_feature3
+484_1259	1259	484	*	*	Unknown	Solid							*		HMDB	Succinic acid	Hsd17b6
+484_1277	1277	484	*	*	Unknown	Solid							*	*	HMDB	vitamin A	Hsd17b6
+486_1247	1247	486	*	*	Enzyme	Solid					*		*		HMDB	N-acetylgalactosamine	Hyal1
+487_1383	1383	487	*	*	SameComplex	Solid						*	*		Reactome	Niacinamide	Idh2
+48_1388	1388	48	*	*	Enzyme	Solid				*					HMDB	coenzyme A	Acsbg1
+48_1426	1426	48	*	*	Enzyme	Solid				*					HMDB	CoA(6:0)	Acsbg1
+493_1241	1241	493	*	*	Unknown	Solid	*				*				HMDB	Aspartic acid	Il4i1
+493_1310	1310	493	*	*	Unknown	Solid					*				HMDB	Tryptophan	Il4i1
+493_1352	1352	493	*	*	Unknown	Solid					*				HMDB	FAD	Il4i1
+495_1381	1381	495	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Iqsec1
+498_1205	1205	498	*	*	Enzyme	Solid	*								KEGG, HMDB	CTP	Itpa
+498_1265	1265	498	*	*	Enzyme	Solid	*	*				*	*	*	KEGG, HMDB	UTP	Itpa
+498_1266	1266	498	*	*	Enzyme	Solid							*		KEGG	UDP-glucose	Itpa
+498_1352	1352	498	*	*	Enzyme	Solid					*				KEGG	FAD	Itpa
+498_1381	1381	498	*	*	Enzyme	Solid	*	*					*		KEGG, HMDB	GMP	Itpa
+499_1352	1352	499	*	*	Enzyme	Solid					*				KEGG, HMDB	FAD	Ivd
+499_1426	1426	499	*	*	Enzyme	Solid				*					KEGG, HMDB	CoA(6:0)	Ivd
+500_1381	1381	500	*	*	Enzyme	Solid	*	*					*		HMDB	GMP	Kndc1
+503_1228	1228	503	*	*	Enzyme	Solid					*				KEGG	Glutamic acid	Kyat1
+503_1281	1281	503	*	*	Enzyme	Solid			*				*	*	KEGG	Cysteine	Kyat1
+503_1284	1284	503	*	*	Enzyme	Solid			*	*	*				KEGG	Glutamine	Kyat1
+504_1228	1228	504	*	*	Enzyme	Solid					*				KEGG	Glutamic acid	Kyat3
+504_1281	1281	504	*	*	Enzyme	Solid			*				*	*	KEGG	Cysteine	Kyat3
+504_1284	1284	504	*	*	Enzyme	Solid			*	*	*				KEGG	Glutamine	Kyat3
+505_1493	505	1493	*	*	SameComplex	Solid							*		Reactome	LOC100363502	Ubiquinol Q10_M+NH3_feature1
+505_562	505	562	*	*	Others	Solid							*		Reactome	LOC100363502	Mt-co1
+505_563	505	563	*	*	Others	Solid							*		Reactome	LOC100363502	Mt-co2
+505_564	505	564	*	*	Others	Solid							*		Reactome	LOC100363502	Mt-co3
+505_565	505	565	*	*	Others	Solid							*		Reactome	LOC100363502	Mt-cyb
+505_583	505	583	*	*	Others	Solid							*		Reactome	LOC100363502	Ndufa4
+505_945	505	945	*	*	Others	Solid							*		Reactome	LOC100363502	Uqcr10
+505_946	505	946	*	*	Others	Solid							*		Reactome	LOC100363502	Uqcrb
+505_947	505	947	*	*	Others	Solid							*		Reactome	LOC100363502	Uqcrc1
+505_948	505	948	*	*	Others	Solid							*		Reactome	LOC100363502	Uqcrc2
+505_949	505	949	*	*	Others	Solid							*		Reactome	LOC100363502	Uqcrfs1
+505_950	505	950	*	*	Others	Solid							*		Reactome	LOC100363502	Uqcrh
+505_951	505	951	*	*	Others	Solid							*		Reactome	LOC100363502	Uqcrq
+505_975	505	975	*	*	Others	Solid					*		*		Reactome	LOC100363502	PE(34:3)>PE(16:0_18:3)_feature2
+507_966	966	507	*	*	Enzyme or transporter	Solid					*		*	*	Reactome	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	LOC100911615
+507_980	980	507	*	*	Enzyme or transporter	Solid					*	*			Reactome	TG(58:7)>TG(18:0_18:1_22:6)_M+NH3_feature3	LOC100911615
+50_1350	1350	50	*	*	Enzyme	Solid	*		*		*			*	HMDB	Acetyl-CoA	Acsf2
+50_1388	1388	50	*	*	Enzyme	Solid	*		*	*	*			*	KEGG	coenzyme A	Acsf2
+50_1426	1426	50	*	*	Enzyme	Solid	*		*	*	*			*	HMDB	CoA(6:0)	Acsf2
+50_1463	1463	50	*	*	Enzyme	Solid	*		*		*			*	HMDB	CoA(20:0)	Acsf2
+511_1383	1383	511	*	*	SameComplex	Solid						*	*		Reactome	Niacinamide	LOC679881
+512_1219	1219	512	*	*	Enzyme	Solid	*		*	*					KEGG	Glutathione	Lancl1
+514_1258	1258	514	*	*	Unknown	Solid					*				HMDB	Sphingosine	Lbp
+514_1262	1262	514	*	*	Unknown	Solid					*				HMDB	Sphinganine	Lbp
+514_1263	1263	514	*	*	Unknown	Solid					*				HMDB	Sphingosine 1-phosphate	Lbp
+514_1464	1464	514	*	*	Unknown	Solid			*		*				HMDB	phytosphingosine	Lbp
+514_967	967	514	*	*	Unknown	Solid	*				*				HMDB	HexCer(d42:0-OH)_M+H2CO2_feature1	Lbp
+514_979	979	514	*	*	Unknown	Solid					*		*	*	HMDB	SM(d34:1)	Lbp
+515_964	964	515	*	*	Enzyme	Solid					*	*			HMDB	CE(18:1)_feature1	Lcat
+515_974	974	515	*	*	Enzyme	Solid	*				*				KEGG, HMDB	PC(36:3)_feature5	Lcat
+516_1388	1388	516	*	*	Enzyme	Solid				*					HMDB	coenzyme A	Lclat1
+516_1426	1426	516	*	*	Enzyme	Solid				*					HMDB	CoA(6:0)	Lclat1
+519_1207	1207	519	*	*	Enzyme	Solid					*				HMDB	sn-Glycero-3-phosphocholine	Lgals9
+519_1295	1295	519	*	*	Enzyme	Solid							*		HMDB	FA(14:0)	Lgals9
+51_1388	1388	51	*	*	Unknown	Solid				*					HMDB	coenzyme A	Acsl1
+51_1426	1426	51	*	*	Unknown	Solid				*					HMDB	CoA(6:0)	Acsl1
+520_1381	1381	520	*	*	Enzyme	Solid	*	*					*		KEGG	GMP	Lig1
+521_1201	1201	521	*	*	Enzyme	Solid					*				KEGG, HMDB	cholesterol	Lipa
+521_964	964	521	*	*	Enzyme	Solid					*	*			HMDB	CE(18:1)_feature1	Lipa
+521_966	966	521	*	*	Enzyme	Solid					*		*	*	HMDB	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Lipa
+521_980	980	521	*	*	Enzyme	Solid					*	*			HMDB	TG(58:7)>TG(18:0_18:1_22:6)_M+NH3_feature3	Lipa
+522_1207	1207	522	*	*	Enzyme	Solid					*		*		KEGG	sn-Glycero-3-phosphocholine	Lipc
+522_1250	1250	522	*	*	Enzyme	Solid							*		HMDB	FA(16:0)	Lipc
+522_1295	1295	522	*	*	Enzyme	Solid							*		HMDB	FA(14:0)	Lipc
+522_1297	1297	522	*	*	Enzyme	Solid							*		HMDB	FA(15:0)	Lipc
+522_1298	1298	522	*	*	Enzyme	Solid							*		HMDB	FA(18:0)	Lipc
+522_1350	1350	522	*	*	Enzyme	Solid							*		HMDB	Acetyl-CoA	Lipc
+522_1418	1418	522	*	*	Enzyme	Solid							*		HMDB	FA(20:0)	Lipc
+522_1421	1421	522	*	*	Enzyme	Solid							*		HMDB	FA(17:0)	Lipc
+522_1426	1426	522	*	*	Enzyme	Solid				*			*		HMDB	CoA(6:0)	Lipc
+522_1463	1463	522	*	*	Enzyme	Solid							*		HMDB	CoA(20:0)	Lipc
+522_966	966	522	*	*	Enzyme	Solid					*		*	*	KEGG, HMDB	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Lipc
+522_970	970	522	*	*	Enzyme	Solid					*		*		KEGG	LPE(18:0)>LPE(18:0/0:0)_and_LPE(0:0/18:0)_feature1and2	Lipc
+522_974	974	522	*	*	Enzyme	Solid	*				*		*		KEGG	PC(36:3)_feature5	Lipc
+522_975	975	522	*	*	Enzyme	Solid					*		*		KEGG	PE(34:3)>PE(16:0_18:3)_feature2	Lipc
+522_978	978	522	*	*	Enzyme	Solid			*				*	*	KEGG	PS(40:5)_feature3	Lipc
+522_980	980	522	*	*	Enzyme	Solid					*	*	*		KEGG, HMDB	TG(58:7)>TG(18:0_18:1_22:6)_M+NH3_feature3	Lipc
+523_1295	1295	523	*	*	Unknown	Solid							*		HMDB	FA(14:0)	Lipe
+523_966	966	523	*	*	Unknown	Solid					*		*	*	HMDB	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Lipe
+523_980	980	523	*	*	Unknown	Solid					*	*			HMDB	TG(58:7)>TG(18:0_18:1_22:6)_M+NH3_feature3	Lipe
+525_1295	1295	525	*	*	Enzyme	Solid							*		HMDB	FA(14:0)	Lipg
+525_966	966	525	*	*	Enzyme	Solid					*		*	*	KEGG, HMDB	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Lipg
+525_974	974	525	*	*	Enzyme	Solid	*				*				KEGG	PC(36:3)_feature5	Lipg
+525_975	975	525	*	*	Enzyme	Solid					*				KEGG	PE(34:3)>PE(16:0_18:3)_feature2	Lipg
+525_978	978	525	*	*	Enzyme	Solid			*					*	KEGG	PS(40:5)_feature3	Lipg
+525_980	980	525	*	*	Enzyme	Solid					*	*			KEGG, HMDB	TG(58:7)>TG(18:0_18:1_22:6)_M+NH3_feature3	Lipg
+526_1381	1381	526	*	*	Enzyme	Solid	*	*					*		HMDB	GMP	Lpar2
+527_1388	1388	527	*	*	Enzyme	Solid				*					KEGG, HMDB	coenzyme A	Lpcat1
+527_1426	1426	527	*	*	Unknown	Solid				*					HMDB	CoA(6:0)	Lpcat1
+527_970	970	527	*	*	Enzyme	Solid					*				KEGG	LPE(18:0)>LPE(18:0/0:0)_and_LPE(0:0/18:0)_feature1and2	Lpcat1
+527_974	974	527	*	*	Enzyme	Solid	*				*				Reactome, KEGG, HMDB	PC(36:3)_feature5	Lpcat1
+527_975	975	527	*	*	Enzyme	Solid					*				KEGG	PE(34:3)>PE(16:0_18:3)_feature2	Lpcat1
+527_976	976	527	*	*	Enzyme or transporter	Solid			*	*	*		*	*	Reactome	PG(36:2)>PG(18:0_18:2)_feature2	Lpcat1
+528_1388	1388	528	*	*	Enzyme	Solid				*					KEGG, HMDB	coenzyme A	Lpcat2
+528_970	970	528	*	*	Enzyme	Solid					*				KEGG	LPE(18:0)>LPE(18:0/0:0)_and_LPE(0:0/18:0)_feature1and2	Lpcat2
+528_974	974	528	*	*	Enzyme	Solid	*				*				KEGG, HMDB	PC(36:3)_feature5	Lpcat2
+528_975	975	528	*	*	Enzyme	Solid					*				KEGG	PE(34:3)>PE(16:0_18:3)_feature2	Lpcat2
+52_1388	1388	52	*	*	Unknown	Solid				*					HMDB	coenzyme A	Acsl3
+52_1426	1426	52	*	*	Unknown	Solid				*					HMDB	CoA(6:0)	Acsl3
+530_1388	1388	530	*	*	Enzyme	Solid				*					KEGG, HMDB	coenzyme A	Lpcat3
+530_1426	1426	530	*	*	Enzyme	Solid				*					HMDB	CoA(6:0)	Lpcat3
+530_970	970	530	*	*	Enzyme	Solid					*				Reactome, KEGG	LPE(18:0)>LPE(18:0/0:0)_and_LPE(0:0/18:0)_feature1and2	Lpcat3
+530_974	974	530	*	*	Enzyme	Solid	*				*				Reactome, KEGG, HMDB	PC(36:3)_feature5	Lpcat3
+530_975	975	530	*	*	Enzyme	Solid					*				Reactome, KEGG	PE(34:3)>PE(16:0_18:3)_feature2	Lpcat3
+530_978	978	530	*	*	Enzyme or transporter	Solid			*					*	Reactome	PS(40:5)_feature3	Lpcat3
+531_970	970	531	*	*	Enzyme or transporter	Solid					*				Reactome	LPE(18:0)>LPE(18:0/0:0)_and_LPE(0:0/18:0)_feature1and2	Lpcat4
+531_974	974	531	*	*	Enzyme or transporter	Solid	*				*				Reactome	PC(36:3)_feature5	Lpcat4
+531_975	975	531	*	*	Enzyme or transporter	Solid					*				Reactome	PE(34:3)>PE(16:0_18:3)_feature2	Lpcat4
+531_976	976	531	*	*	Enzyme or transporter	Solid			*	*	*		*	*	Reactome	PG(36:2)>PG(18:0_18:2)_feature2	Lpcat4
+531_978	978	531	*	*	Enzyme or transporter	Solid			*					*	Reactome	PS(40:5)_feature3	Lpcat4
+532_966	966	532	*	*	Enzyme or transporter	Solid				*	*	*	*	*	Reactome	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Lpin1
+533_1295	1295	533	*	*	Enzyme	Solid							*		HMDB	FA(14:0)	Lpl
+533_964	964	533	*	*	Enzyme or transporter	Solid					*	*			Reactome	CE(18:1)_feature1	Lpl
+533_966	966	533	*	*	Enzyme	Solid					*		*	*	HMDB	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Lpl
+533_974	974	533	*	*	Enzyme	Solid	*				*				KEGG	PC(36:3)_feature5	Lpl
+533_975	975	533	*	*	Enzyme	Solid					*				KEGG	PE(34:3)>PE(16:0_18:3)_feature2	Lpl
+533_978	978	533	*	*	Enzyme	Solid			*					*	KEGG	PS(40:5)_feature3	Lpl
+533_980	980	533	*	*	Enzyme	Solid					*	*			Reactome, KEGG, HMDB	TG(58:7)>TG(18:0_18:1_22:6)_M+NH3_feature3	Lpl
+534_1277	1277	534	*	*	Enzyme	Solid							*	*	KEGG, HMDB	vitamin A	Lrat
+534_974	974	534	*	*	Enzyme	Solid	*				*				KEGG, HMDB	PC(36:3)_feature5	Lrat
+535_848	848	535	*	*	Others	Solid					*				Reactome	Sdc1	Lrp1
+535_964	964	535	*	*	Enzyme or transporter	Solid					*	*			Reactome	CE(18:1)_feature1	Lrp1
+535_980	980	535	*	*	Enzyme or transporter	Solid					*	*			Reactome	TG(58:7)>TG(18:0_18:1_22:6)_M+NH3_feature3	Lrp1
+536_848	848	536	*	*	Others	Solid					*				Reactome	Sdc1	Lrp10
+536_964	964	536	*	*	Enzyme or transporter	Solid					*	*			Reactome	CE(18:1)_feature1	Lrp10
+536_980	980	536	*	*	Enzyme or transporter	Solid					*	*			Reactome	TG(58:7)>TG(18:0_18:1_22:6)_M+NH3_feature3	Lrp10
+537_848	848	537	*	*	Others	Solid					*				Reactome	Sdc1	Lrp12
+537_964	964	537	*	*	Enzyme or transporter	Solid					*	*			Reactome	CE(18:1)_feature1	Lrp12
+537_980	980	537	*	*	Enzyme or transporter	Solid					*	*			Reactome	TG(58:7)>TG(18:0_18:1_22:6)_M+NH3_feature3	Lrp12
+538_848	848	538	*	*	Others	Solid					*				Reactome	Sdc1	Lrp2
+538_964	964	538	*	*	Enzyme or transporter	Solid					*	*			Reactome	CE(18:1)_feature1	Lrp2
+538_980	980	538	*	*	Enzyme or transporter	Solid					*	*			Reactome	TG(58:7)>TG(18:0_18:1_22:6)_M+NH3_feature3	Lrp2
+539_848	848	539	*	*	Others	Solid					*				Reactome	Sdc1	Lrp8
+539_964	964	539	*	*	Enzyme or transporter	Solid					*	*			Reactome	CE(18:1)_feature1	Lrp8
+539_980	980	539	*	*	Enzyme or transporter	Solid					*	*			Reactome	TG(58:7)>TG(18:0_18:1_22:6)_M+NH3_feature3	Lrp8
+53_1388	1388	53	*	*	Unknown	Solid				*					HMDB	coenzyme A	Acsl4
+53_1426	1426	53	*	*	Unknown	Solid				*					HMDB	CoA(6:0)	Acsl4
+541_1219	1219	541	*	*	Enzyme	Solid			*	*			*		KEGG	Glutathione	Ltc4s
+542_1207	1207	542	*	*	Enzyme	Solid					*				KEGG	sn-Glycero-3-phosphocholine	Lypla1
+542_1388	1388	542	*	*	Enzyme	Solid				*					KEGG	coenzyme A	Lypla1
+542_970	970	542	*	*	Enzyme	Solid					*				KEGG	LPE(18:0)>LPE(18:0/0:0)_and_LPE(0:0/18:0)_feature1and2	Lypla1
+542_974	974	542	*	*	Enzyme	Solid	*				*				KEGG	PC(36:3)_feature5	Lypla1
+543_1207	1207	543	*	*	Enzyme	Solid					*				KEGG, HMDB	sn-Glycero-3-phosphocholine	Lypla2
+543_1388	1388	543	*	*	Enzyme	Solid				*					KEGG	coenzyme A	Lypla2
+543_970	970	543	*	*	Enzyme	Solid					*				KEGG	LPE(18:0)>LPE(18:0/0:0)_and_LPE(0:0/18:0)_feature1and2	Lypla2
+543_974	974	543	*	*	Enzyme	Solid	*				*				KEGG, HMDB	PC(36:3)_feature5	Lypla2
+545_966	545	966	*	*	Others	Solid					*		*	*	Reactome	Marcks	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1
+547_1388	1388	547	*	*	Enzyme	Solid				*					KEGG	coenzyme A	Mboat1
+547_970	970	547	*	*	Enzyme or transporter	Solid					*				Reactome	LPE(18:0)>LPE(18:0/0:0)_and_LPE(0:0/18:0)_feature1and2	Mboat1
+547_975	975	547	*	*	Enzyme or transporter	Solid					*				Reactome	PE(34:3)>PE(16:0_18:3)_feature2	Mboat1
+547_978	978	547	*	*	Enzyme or transporter	Solid			*					*	Reactome	PS(40:5)_feature3	Mboat1
+549_1388	1388	549	*	*	Unknown	Solid				*	*	*			HMDB	coenzyme A	Mboat7
+54_1388	1388	54	*	*	Unknown	Solid				*					HMDB	coenzyme A	Acsl5
+54_1426	1426	54	*	*	Unknown	Solid				*					HMDB	CoA(6:0)	Acsl5
+551_1388	1388	551	*	*	Enzyme	Solid				*					HMDB	coenzyme A	Mcat
+553_1348	1348	553	*	*	Unknown	Solid					*				HMDB	GDP	Mcf2l
+553_1381	1381	553	*	*	Unknown	Solid	*	*			*		*		HMDB	GMP	Mcf2l
+558_1270	1270	558	*	*	Enzyme	Solid	*						*		HMDB	UDP-N-acetylglucosamine	Mgat4b
+558_1274	1274	558	*	*	Enzyme	Solid	*								HMDB	UDP	Mgat4b
+560_1388	1388	560	*	*	Enzyme	Solid				*					HMDB	coenzyme A	Mogat2
+560_1426	1426	560	*	*	Enzyme	Solid				*					HMDB	CoA(6:0)	Mogat2
+560_966	966	560	*	*	Enzyme	Solid					*		*	*	HMDB	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Mogat2
+560_974	974	560	*	*	Enzyme	Solid	*				*				HMDB	PC(36:3)_feature5	Mogat2
+560_980	980	560	*	*	Enzyme	Solid					*	*			HMDB	TG(58:7)>TG(18:0_18:1_22:6)_M+NH3_feature3	Mogat2
+562_975	562	975	*	*	SameComplex	Solid					*				Reactome	Mt-co1	PE(34:3)>PE(16:0_18:3)_feature2
+563_975	975	563	*	*	SameComplex	Solid					*				Reactome	PE(34:3)>PE(16:0_18:3)_feature2	Mt-co2
+566_1352	1352	566	*	*	Unknown	Solid					*				HMDB	FAD	Mt-nd1
+566_1395	1395	566	*	*	Unknown	Solid					*				HMDB	NADH	Mt-nd1
+567_1352	1352	567	*	*	Unknown	Solid					*				HMDB	FAD	Mt-nd2
+567_1395	1395	567	*	*	Unknown	Solid					*				HMDB	NADH	Mt-nd2
+568_1352	1352	568	*	*	Unknown	Solid					*				HMDB	FAD	Mt-nd4
+568_1395	1395	568	*	*	Unknown	Solid					*				HMDB	NADH	Mt-nd4
+569_1352	1352	569	*	*	Unknown	Solid					*				HMDB	FAD	Mt-nd6
+569_1395	1395	569	*	*	Unknown	Solid					*				HMDB	NADH	Mt-nd6
+575_1228	1228	575	*	*	Enzyme	Solid					*				KEGG, HMDB	Glutamic acid	Nadsyn1
+575_1284	1284	575	*	*	Enzyme	Solid			*	*	*				KEGG, HMDB	Glutamine	Nadsyn1
+576_1228	1228	576	*	*	Enzyme	Solid					*				HMDB	Glutamic acid	Nags
+576_1388	1388	576	*	*	Enzyme	Solid				*					HMDB	coenzyme A	Nags
+577_1388	1388	577	*	*	Enzyme	Solid				*					HMDB	coenzyme A	Nat1
+578_1350	1350	578	*	*	Enzyme	Solid			*						KEGG	Acetyl-CoA	Nat8f1
+578_1388	1388	578	*	*	Enzyme	Solid			*	*					KEGG	coenzyme A	Nat8f1
+57_1388	1388	57	*	*	Unknown	Solid				*					HMDB	coenzyme A	Acsm3
+57_1426	1426	57	*	*	Unknown	Solid				*					HMDB	CoA(6:0)	Acsm3
+581_848	848	581	*	*	Others	Solid	*				*				Reactome	Sdc1	Ndst1
+582_848	848	582	*	*	Others	Solid					*				Reactome	Sdc1	Ndst2
+584_1352	1352	584	*	*	Enzyme	Solid					*				HMDB	FAD	Ndufa5
+584_1395	1395	584	*	*	Enzyme	Solid					*				HMDB	NADH	Ndufa5
+585_1352	1352	585	*	*	Enzyme	Solid					*			*	HMDB	FAD	Ndufa8
+585_1395	1395	585	*	*	Enzyme	Solid								*	HMDB	NADH	Ndufa8
+586_1348	1348	586	*	*	Unknown	Solid	*								HMDB	GDP	Net1
+586_1381	1381	586	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Net1
+587_967	967	587	*	*	Enzyme	Solid	*								KEGG	HexCer(d42:0-OH)_M+H2CO2_feature1	Neu1
+588_1233	1233	588	*	*	Enzyme	Solid	*								KEGG, HMDB	Alanine	Nfs1
+588_1281	1281	588	*	*	Enzyme	Solid	*		*				*	*	KEGG, HMDB	Cysteine	Nfs1
+589_1381	1381	589	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Ngef
+590_1205	1205	590	*	*	Enzyme	Solid	*								KEGG, HMDB	CTP	Nme1
+590_1265	1265	590	*	*	Enzyme	Solid	*	*				*	*	*	KEGG, HMDB	UTP	Nme1
+591_1205	1205	591	*	*	Enzyme	Solid	*								KEGG, HMDB	CTP	Nme2
+591_1265	1265	591	*	*	Enzyme	Solid	*	*				*	*	*	KEGG, HMDB	UTP	Nme2
+592_1205	1205	592	*	*	Unknown	Solid	*								HMDB	CTP	Nme3
+592_1265	1265	592	*	*	Unknown	Solid	*	*				*	*	*	HMDB	UTP	Nme3
+593_1205	1205	593	*	*	Unknown	Solid	*								HMDB	CTP	Nme5
+593_1265	1265	593	*	*	Unknown	Solid	*	*				*	*	*	HMDB	UTP	Nme5
+594_1205	1205	594	*	*	Enzyme	Solid	*								KEGG, HMDB	CTP	Nme6
+594_1265	1265	594	*	*	Enzyme	Solid	*	*				*	*	*	KEGG, HMDB	UTP	Nme6
+595_1205	1205	595	*	*	Enzyme	Solid	*								KEGG, HMDB	CTP	Nme7
+595_1265	1265	595	*	*	Enzyme	Solid	*	*				*	*	*	KEGG, HMDB	UTP	Nme7
+596_1289	1289	596	*	*	Enzyme or transporter	Solid	*	*			*			*	Reactome, HMDB	1-methylnicotinamide	Nnmt
+596_1383	1383	596	*	*	Enzyme or transporter	Solid					*	*	*	*	Reactome, HMDB	Niacinamide	Nnmt
+598_1279	1279	598	*	*	Enzyme	Solid		*							HMDB	Arginine	Nos1
+598_1352	1352	598	*	*	Unknown	Solid					*				HMDB	FAD	Nos1
+59_1350	1350	59	*	*	Unknown	Solid							*		HMDB	Acetyl-CoA	Acsm5
+59_1388	1388	59	*	*	Enzyme	Solid				*			*		KEGG, HMDB	coenzyme A	Acsm5
+59_1426	1426	59	*	*	Unknown	Solid				*			*		HMDB	CoA(6:0)	Acsm5
+59_1463	1463	59	*	*	Unknown	Solid							*		HMDB	CoA(20:0)	Acsm5
+5_100	5	100	*	*	SameComplex	Solid	*				*				Reactome	AABR07034632.1	Apoa1
+600_1279	1279	600	*	*	Unknown	Solid		*							HMDB	Arginine	Nos3
+600_1352	1352	600	*	*	Unknown	Solid					*				HMDB	FAD	Nos3
+602_1464	1464	602	*	*	Enzyme	Solid			*						HMDB	phytosphingosine	Npc2
+602_967	967	602	*	*	Enzyme	Solid	*								HMDB	HexCer(d42:0-OH)_M+H2CO2_feature1	Npc2
+602_979	979	602	*	*	Enzyme	Solid					*		*	*	HMDB	SM(d34:1)	Npc2
+603_1381	1381	603	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Npr1
+604_1381	1381	604	*	*	Unknown	Solid	*	*					*	*	HMDB	GMP	Npr2
+605_1223	1223	605	*	*	Enzyme	Solid						*			Reactome, KEGG	guanosine	Nt5c
+605_1243	1243	605	*	*	Enzyme or transporter	Solid	*	*	*	*		*		*	Reactome	Inosine	Nt5c
+605_1381	1381	605	*	*	Enzyme	Solid	*	*					*		KEGG	GMP	Nt5c
+607_1223	1223	607	*	*	Enzyme	Solid						*			Reactome, KEGG	guanosine	Nt5c2
+607_1243	1243	607	*	*	Enzyme or transporter	Solid	*	*	*	*		*		*	Reactome	Inosine	Nt5c2
+607_1381	1381	607	*	*	Enzyme	Solid	*	*					*		KEGG	GMP	Nt5c2
+608_1223	1223	608	*	*	Enzyme	Solid						*			KEGG	guanosine	Nt5c3b
+608_1381	1381	608	*	*	Enzyme	Solid	*	*					*		KEGG	GMP	Nt5c3b
+609_1212	1212	609	*	*	Enzyme or transporter	Solid	*	*							Reactome	2'-deoxyadenosine	Nt5e
+609_1223	1223	609	*	*	Enzyme	Solid						*			Reactome, KEGG	guanosine	Nt5e
+609_1243	1243	609	*	*	Enzyme or transporter	Solid	*	*	*	*		*		*	Reactome	Inosine	Nt5e
+609_1381	1381	609	*	*	Enzyme	Solid	*	*					*		KEGG	GMP	Nt5e
+60_1350	1350	60	*	*	Enzyme	Solid					*	*			HMDB	Acetyl-CoA	Acss2
+60_1388	1388	60	*	*	Enzyme	Solid				*	*	*			HMDB	coenzyme A	Acss2
+610_1223	1223	610	*	*	Enzyme	Solid						*			KEGG	guanosine	Nt5m
+610_1381	1381	610	*	*	Enzyme	Solid	*	*					*		KEGG	GMP	Nt5m
+612_1265	1265	612	*	*	Enzyme	Solid	*	*				*	*	*	KEGG, HMDB	UTP	Nudt2
+612_1381	1381	612	*	*	Enzyme	Solid	*	*					*		KEGG, HMDB	GMP	Nudt2
+613_1405	1405	613	*	*	Enzyme	Solid	*								KEGG	ribose 5-phosphate	Nudt5
+614_1248	1248	614	*	*	Enzyme	Solid								*	HMDB	Ornithine	Oaz1
+614_1355	1355	614	*	*	Enzyme	Solid	*	*		*				*	HMDB	spermine	Oaz1
+614_1356	1356	614	*	*	Enzyme	Solid								*	HMDB	spermidine	Oaz1
+614_1385	1385	614	*	*	Enzyme	Solid								*	HMDB	putrescine	Oaz1
+615_1248	1248	615	*	*	Enzyme	Solid	*								HMDB	Ornithine	Odc1
+615_1355	1355	615	*	*	Enzyme	Solid	*	*		*					HMDB	spermine	Odc1
+615_1356	1356	615	*	*	Enzyme	Solid	*								HMDB	spermidine	Odc1
+615_1385	1385	615	*	*	Enzyme	Solid	*								HMDB	putrescine	Odc1
+616_1246	1246	616	*	*	Enzyme	Solid		*							HMDB	Oxoglutaric acid	Ogdhl
+616_1388	1388	616	*	*	Enzyme	Solid		*		*					HMDB	coenzyme A	Ogdhl
+616_1395	1395	616	*	*	Enzyme	Solid		*							HMDB	NADH	Ogdhl
+617_1259	1259	617	*	*	Enzyme	Solid							*		KEGG, HMDB	Succinic acid	P4ha1
+617_1291	1291	617	*	*	Enzyme	Solid							*	*	KEGG, HMDB	Hydroxyproline	P4ha1
+618_1234	1234	618	*	*	Enzyme	Solid					*				HMDB	Proline	P4ha2
+618_1246	1246	618	*	*	Enzyme	Solid					*				HMDB	Oxoglutaric acid	P4ha2
+618_1259	1259	618	*	*	Enzyme	Solid					*		*		HMDB	Succinic acid	P4ha2
+618_1291	1291	618	*	*	Enzyme	Solid					*		*	*	HMDB	Hydroxyproline	P4ha2
+619_1259	1259	619	*	*	Enzyme	Solid							*		KEGG, HMDB	Succinic acid	P4ha3
+619_1291	1291	619	*	*	Enzyme	Solid							*	*	KEGG, HMDB	Hydroxyproline	P4ha3
+61_1241	1241	61	*	*	Unknown	Solid	*				*				HMDB	Aspartic acid	Acy1
+61_1295	1295	61	*	*	Unknown	Solid							*		HMDB	FA(14:0)	Acy1
+626_1241	1241	626	*	*	Enzyme	Solid	*				*	*			KEGG	Aspartic acid	Paics
+629_974	629	974	*	*	SameComplex	Solid	*				*				Reactome	Pctp	PC(36:3)_feature5
+62_1241	1241	62	*	*	Enzyme	Solid	*				*				HMDB	Aspartic acid	Acy3
+62_1295	1295	62	*	*	Enzyme	Solid							*		HMDB	FA(14:0)	Acy3
+630_1281	1281	630	*	*	Unknown	Solid			*				*	*	HMDB	Cysteine	Pcyox1
+630_1352	1352	630	*	*	Unknown	Solid					*				HMDB	FAD	Pcyox1
+631_1205	1205	631	*	*	Enzyme	Solid	*								HMDB	CTP	Pcyt1a
+631_1210	1210	631	*	*	Enzyme	Solid	*	*			*				HMDB	Choline	Pcyt1a
+631_966	966	631	*	*	Enzyme	Solid					*		*	*	HMDB	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Pcyt1a
+631_974	974	631	*	*	Enzyme	Solid	*				*				HMDB	PC(36:3)_feature5	Pcyt1a
+633_1205	1205	633	*	*	Enzyme	Solid	*								KEGG, HMDB	CTP	Pcyt2
+633_1253	1253	633	*	*	Enzyme	Solid	*								KEGG, HMDB	Phosphoethanolamine	Pcyt2
+634_1381	1381	634	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Pde4b
+636_1188	1188	636	*	*	Enzyme	Solid								*	HMDB	ketoisovalerate	Pdhb
+636_1388	1388	636	*	*	Enzyme	Solid				*					HMDB	coenzyme A	Pdhb
+638_1352	1352	638	*	*	Unknown	Solid				*	*				HMDB	FAD	Pdp2
+639_974	974	639	*	*	Enzyme	Solid	*				*				Reactome, KEGG	PC(36:3)_feature5	Pemt
+639_975	975	639	*	*	Enzyme	Solid					*				Reactome, KEGG	PE(34:3)>PE(16:0_18:3)_feature2	Pemt
+63_1212	1212	63	*	*	Enzyme or transporter	Solid	*	*							Reactome	2'-deoxyadenosine	Ada
+63_1243	1243	63	*	*	Enzyme or transporter	Solid	*	*	*	*		*		*	Reactome	Inosine	Ada
+641_1228	1228	641	*	*	Enzyme	Solid					*				HMDB	Glutamic acid	Pfas
+641_1284	1284	641	*	*	Enzyme	Solid			*	*	*				HMDB	Glutamine	Pfas
+642_1218	1218	642	*	*	Enzyme	Solid	*								KEGG	fructose 6-phosphate	Pfkfb1
+643_1218	1218	643	*	*	Enzyme	Solid	*								KEGG	fructose 6-phosphate	Pfkfb2
+644_1218	1218	644	*	*	Enzyme	Solid	*								KEGG	fructose 6-phosphate	Pfkfb3
+646_1205	1205	646	*	*	Enzyme	Solid	*								KEGG, HMDB	CTP	Pfkl
+646_1218	1218	646	*	*	Enzyme	Solid	*								KEGG, HMDB	fructose 6-phosphate	Pfkl
+646_1265	1265	646	*	*	Enzyme	Solid	*	*				*	*	*	KEGG, HMDB	UTP	Pfkl
+646_1561	1561	646	*	*	Enzyme	Solid	*								KEGG	sedoheptulose-7-phosphate	Pfkl
+647_1205	1205	647	*	*	Enzyme	Solid	*								KEGG, HMDB	CTP	Pfkm
+647_1218	1218	647	*	*	Enzyme	Solid	*								KEGG, HMDB	fructose 6-phosphate	Pfkm
+647_1265	1265	647	*	*	Enzyme	Solid	*	*				*	*	*	KEGG, HMDB	UTP	Pfkm
+647_1561	1561	647	*	*	Enzyme	Solid	*								KEGG	sedoheptulose-7-phosphate	Pfkm
+648_1205	1205	648	*	*	Enzyme	Solid	*								KEGG, HMDB	CTP	Pfkp
+648_1218	1218	648	*	*	Enzyme	Solid	*								KEGG, HMDB	fructose 6-phosphate	Pfkp
+648_1265	1265	648	*	*	Enzyme	Solid	*	*				*	*	*	KEGG, HMDB	UTP	Pfkp
+648_1561	1561	648	*	*	Enzyme	Solid	*								KEGG	sedoheptulose-7-phosphate	Pfkp
+649_1382	1382	649	*	*	Enzyme	Solid	*								KEGG, HMDB	hexose phosphate	Pgm1
+649_1405	1405	649	*	*	Enzyme	Solid	*								KEGG, HMDB	ribose 5-phosphate	Pgm1
+64_100	64	100	*	*	SameComplex	Solid	*				*				Reactome	Adam10	Apoa1
+650_1382	1382	650	*	*	Unknown	Solid	*								HMDB	hexose phosphate	Pgm2
+650_1405	1405	650	*	*	Unknown	Solid	*								HMDB	ribose 5-phosphate	Pgm2
+651_977	977	651	*	*	Enzyme	Solid					*	*			KEGG	PI(40:6)>PI(18:0_22:6)_feature1	Pi4k2a
+652_1270	1270	652	*	*	Enzyme	Solid							*		HMDB	UDP-N-acetylglucosamine	Piga
+652_1464	1464	652	*	*	Enzyme	Solid			*						HMDB	phytosphingosine	Piga
+652_967	967	652	*	*	Enzyme	Solid	*								HMDB	HexCer(d42:0-OH)_M+H2CO2_feature1	Piga
+652_977	977	652	*	*	Enzyme	Solid					*				HMDB	PI(40:6)>PI(18:0_22:6)_feature1	Piga
+652_979	979	652	*	*	Enzyme	Solid					*		*	*	HMDB	SM(d34:1)	Piga
+653_1464	1464	653	*	*	Enzyme	Solid			*						HMDB	phytosphingosine	Pigb
+653_967	967	653	*	*	Enzyme	Solid	*								HMDB	HexCer(d42:0-OH)_M+H2CO2_feature1	Pigb
+653_977	977	653	*	*	Enzyme	Solid					*				HMDB	PI(40:6)>PI(18:0_22:6)_feature1	Pigb
+653_979	979	653	*	*	Enzyme	Solid					*		*	*	HMDB	SM(d34:1)	Pigb
+654_1270	1270	654	*	*	Enzyme	Solid							*		HMDB	UDP-N-acetylglucosamine	Pigc
+654_1464	1464	654	*	*	Enzyme	Solid			*						HMDB	phytosphingosine	Pigc
+654_967	967	654	*	*	Enzyme	Solid	*								HMDB	HexCer(d42:0-OH)_M+H2CO2_feature1	Pigc
+654_977	977	654	*	*	Enzyme	Solid					*				HMDB	PI(40:6)>PI(18:0_22:6)_feature1	Pigc
+654_979	979	654	*	*	Enzyme	Solid					*		*	*	HMDB	SM(d34:1)	Pigc
+655_1464	1464	655	*	*	Enzyme	Solid			*						HMDB	phytosphingosine	Pigf
+655_967	967	655	*	*	Enzyme	Solid	*								HMDB	HexCer(d42:0-OH)_M+H2CO2_feature1	Pigf
+655_977	977	655	*	*	Enzyme	Solid					*				HMDB	PI(40:6)>PI(18:0_22:6)_feature1	Pigf
+655_979	979	655	*	*	Enzyme	Solid					*		*	*	HMDB	SM(d34:1)	Pigf
+656_1464	1464	656	*	*	Enzyme	Solid			*						HMDB	phytosphingosine	Pigg
+656_967	967	656	*	*	Enzyme	Solid	*								HMDB	HexCer(d42:0-OH)_M+H2CO2_feature1	Pigg
+656_977	977	656	*	*	Enzyme	Solid					*				HMDB	PI(40:6)>PI(18:0_22:6)_feature1	Pigg
+656_979	979	656	*	*	Enzyme	Solid					*		*	*	HMDB	SM(d34:1)	Pigg
+657_1270	1270	657	*	*	Enzyme	Solid							*		HMDB	UDP-N-acetylglucosamine	Pigh
+657_1464	1464	657	*	*	Enzyme	Solid			*						HMDB	phytosphingosine	Pigh
+657_967	967	657	*	*	Enzyme	Solid	*								HMDB	HexCer(d42:0-OH)_M+H2CO2_feature1	Pigh
+657_977	977	657	*	*	Enzyme	Solid					*				HMDB	PI(40:6)>PI(18:0_22:6)_feature1	Pigh
+657_979	979	657	*	*	Enzyme	Solid					*		*	*	HMDB	SM(d34:1)	Pigh
+658_1464	1464	658	*	*	Enzyme	Solid			*						HMDB	phytosphingosine	Pigk
+658_967	967	658	*	*	Enzyme	Solid	*								HMDB	HexCer(d42:0-OH)_M+H2CO2_feature1	Pigk
+658_979	979	658	*	*	Enzyme	Solid					*		*	*	HMDB	SM(d34:1)	Pigk
+659_1464	1464	659	*	*	Enzyme	Solid			*						HMDB	phytosphingosine	Pigl
+659_967	967	659	*	*	Enzyme	Solid	*								HMDB	HexCer(d42:0-OH)_M+H2CO2_feature1	Pigl
+659_977	977	659	*	*	Enzyme	Solid					*				HMDB	PI(40:6)>PI(18:0_22:6)_feature1	Pigl
+659_979	979	659	*	*	Enzyme	Solid					*		*	*	HMDB	SM(d34:1)	Pigl
+660_1464	1464	660	*	*	Enzyme	Solid			*						HMDB	phytosphingosine	Pigm
+660_967	967	660	*	*	Enzyme	Solid	*								HMDB	HexCer(d42:0-OH)_M+H2CO2_feature1	Pigm
+660_977	977	660	*	*	Enzyme	Solid					*				HMDB	PI(40:6)>PI(18:0_22:6)_feature1	Pigm
+660_979	979	660	*	*	Enzyme	Solid					*		*	*	HMDB	SM(d34:1)	Pigm
+661_1464	1464	661	*	*	Enzyme	Solid			*						HMDB	phytosphingosine	Pign
+661_966	966	661	*	*	Enzyme or transporter	Solid					*		*	*	Reactome	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Pign
+661_967	967	661	*	*	Enzyme	Solid	*								HMDB	HexCer(d42:0-OH)_M+H2CO2_feature1	Pign
+661_975	975	661	*	*	Enzyme or transporter	Solid					*				Reactome	PE(34:3)>PE(16:0_18:3)_feature2	Pign
+661_977	977	661	*	*	Enzyme	Solid					*				HMDB	PI(40:6)>PI(18:0_22:6)_feature1	Pign
+661_979	979	661	*	*	Enzyme	Solid					*		*	*	HMDB	SM(d34:1)	Pign
+662_1464	1464	662	*	*	Enzyme	Solid			*						HMDB	phytosphingosine	Pigo
+662_967	967	662	*	*	Enzyme	Solid	*								HMDB	HexCer(d42:0-OH)_M+H2CO2_feature1	Pigo
+662_977	977	662	*	*	Enzyme	Solid					*				HMDB	PI(40:6)>PI(18:0_22:6)_feature1	Pigo
+662_979	979	662	*	*	Enzyme	Solid					*		*	*	HMDB	SM(d34:1)	Pigo
+663_1270	1270	663	*	*	Enzyme	Solid							*		HMDB	UDP-N-acetylglucosamine	Pigp
+663_1464	1464	663	*	*	Enzyme	Solid			*						HMDB	phytosphingosine	Pigp
+663_967	967	663	*	*	Enzyme	Solid	*								HMDB	HexCer(d42:0-OH)_M+H2CO2_feature1	Pigp
+663_979	979	663	*	*	Enzyme	Solid					*		*	*	HMDB	SM(d34:1)	Pigp
+664_1270	1270	664	*	*	Enzyme	Solid							*		HMDB	UDP-N-acetylglucosamine	Pigq
+664_1464	1464	664	*	*	Enzyme	Solid			*						HMDB	phytosphingosine	Pigq
+664_967	967	664	*	*	Enzyme	Solid	*								HMDB	HexCer(d42:0-OH)_M+H2CO2_feature1	Pigq
+664_977	977	664	*	*	Enzyme	Solid					*				HMDB	PI(40:6)>PI(18:0_22:6)_feature1	Pigq
+664_979	979	664	*	*	Enzyme	Solid					*		*	*	HMDB	SM(d34:1)	Pigq
+665_1464	1464	665	*	*	Enzyme	Solid			*						HMDB	phytosphingosine	Pigs
+665_967	967	665	*	*	Enzyme	Solid	*								HMDB	HexCer(d42:0-OH)_M+H2CO2_feature1	Pigs
+665_977	977	665	*	*	Enzyme	Solid					*				HMDB	PI(40:6)>PI(18:0_22:6)_feature1	Pigs
+665_979	979	665	*	*	Enzyme	Solid					*		*	*	HMDB	SM(d34:1)	Pigs
+666_1464	1464	666	*	*	Enzyme	Solid			*						HMDB	phytosphingosine	Pigt
+666_967	967	666	*	*	Enzyme	Solid	*								HMDB	HexCer(d42:0-OH)_M+H2CO2_feature1	Pigt
+666_977	977	666	*	*	Enzyme	Solid					*				HMDB	PI(40:6)>PI(18:0_22:6)_feature1	Pigt
+666_979	979	666	*	*	Enzyme	Solid					*		*	*	HMDB	SM(d34:1)	Pigt
+667_1464	1464	667	*	*	Enzyme	Solid			*						HMDB	phytosphingosine	Pigu
+667_967	967	667	*	*	Enzyme	Solid	*								HMDB	HexCer(d42:0-OH)_M+H2CO2_feature1	Pigu
+667_977	977	667	*	*	Enzyme	Solid					*				HMDB	PI(40:6)>PI(18:0_22:6)_feature1	Pigu
+667_979	979	667	*	*	Enzyme	Solid					*		*	*	HMDB	SM(d34:1)	Pigu
+668_1464	1464	668	*	*	Enzyme	Solid			*						HMDB	phytosphingosine	Pigv
+668_967	967	668	*	*	Enzyme	Solid	*								HMDB	HexCer(d42:0-OH)_M+H2CO2_feature1	Pigv
+668_977	977	668	*	*	Enzyme	Solid					*				HMDB	PI(40:6)>PI(18:0_22:6)_feature1	Pigv
+668_979	979	668	*	*	Enzyme	Solid					*		*	*	HMDB	SM(d34:1)	Pigv
+669_1258	1258	669	*	*	Enzyme	Solid			*						HMDB	Sphingosine	Pigx
+669_1262	1262	669	*	*	Enzyme	Solid			*						HMDB	Sphinganine	Pigx
+669_1263	1263	669	*	*	Enzyme	Solid			*						HMDB	Sphingosine 1-phosphate	Pigx
+669_1464	1464	669	*	*	Enzyme	Solid			*						HMDB	phytosphingosine	Pigx
+669_967	967	669	*	*	Enzyme	Solid	*		*						HMDB	HexCer(d42:0-OH)_M+H2CO2_feature1	Pigx
+669_977	977	669	*	*	Enzyme	Solid			*		*				HMDB	PI(40:6)>PI(18:0_22:6)_feature1	Pigx
+669_979	979	669	*	*	Enzyme	Solid			*		*		*	*	HMDB	SM(d34:1)	Pigx
+66_1210	1210	66	*	*	Enzyme	Solid	*	*			*				KEGG	Choline	Adh4
+66_1277	1277	66	*	*	Enzyme	Solid							*	*	KEGG	vitamin A	Adh4
+670_975	975	670	*	*	Enzyme	Solid					*				KEGG	PE(34:3)>PE(16:0_18:3)_feature2	Pisd
+670_978	978	670	*	*	Enzyme	Solid			*					*	KEGG	PS(40:5)_feature3	Pisd
+671_974	974	671	*	*	Unknown	Solid	*				*				HMDB	PC(36:3)_feature5	Pitpna
+671_977	977	671	*	*	Unknown	Solid					*				HMDB	PI(40:6)>PI(18:0_22:6)_feature1	Pitpna
+672_974	974	672	*	*	Enzyme or transporter	Solid	*				*				Reactome, HMDB	PC(36:3)_feature5	Pitpnb
+672_977	977	672	*	*	Unknown	Solid					*				HMDB	PI(40:6)>PI(18:0_22:6)_feature1	Pitpnb
+673_966	966	673	*	*	Unknown	Solid					*		*	*	HMDB	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Pitpnm1
+673_974	974	673	*	*	Unknown	Solid	*				*				HMDB	PC(36:3)_feature5	Pitpnm1
+673_977	977	673	*	*	Unknown	Solid					*				HMDB	PI(40:6)>PI(18:0_22:6)_feature1	Pitpnm1
+674_974	974	674	*	*	Unknown	Solid	*				*				HMDB	PC(36:3)_feature5	Pitpnm2
+674_977	977	674	*	*	Unknown	Solid					*				HMDB	PI(40:6)>PI(18:0_22:6)_feature1	Pitpnm2
+675_974	974	675	*	*	Unknown	Solid	*				*				HMDB	PC(36:3)_feature5	Pitpnm3
+675_977	977	675	*	*	Unknown	Solid					*				HMDB	PI(40:6)>PI(18:0_22:6)_feature1	Pitpnm3
+676_1205	1205	676	*	*	Enzyme	Solid	*								KEGG, HMDB	CTP	Pklr
+676_1265	1265	676	*	*	Enzyme	Solid	*	*				*	*	*	KEGG, HMDB	UTP	Pklr
+677_1205	1205	677	*	*	Enzyme	Solid	*								KEGG	CTP	Pkm
+677_1265	1265	677	*	*	Enzyme	Solid	*	*				*	*	*	KEGG	UTP	Pkm
+680_1295	1295	680	*	*	Unknown	Solid							*		HMDB	FA(14:0)	Pla2g12a
+680_970	970	680	*	*	Enzyme or transporter	Solid					*				Reactome	LPE(18:0)>LPE(18:0/0:0)_and_LPE(0:0/18:0)_feature1and2	Pla2g12a
+680_974	974	680	*	*	Enzyme or transporter	Solid	*				*				Reactome, HMDB	PC(36:3)_feature5	Pla2g12a
+680_975	975	680	*	*	Enzyme or transporter	Solid					*				Reactome	PE(34:3)>PE(16:0_18:3)_feature2	Pla2g12a
+680_976	976	680	*	*	Enzyme or transporter	Solid			*	*	*		*	*	Reactome	PG(36:2)>PG(18:0_18:2)_feature2	Pla2g12a
+680_978	978	680	*	*	Enzyme or transporter	Solid			*					*	Reactome	PS(40:5)_feature3	Pla2g12a
+681_970	970	681	*	*	Enzyme	Solid					*				KEGG	LPE(18:0)>LPE(18:0/0:0)_and_LPE(0:0/18:0)_feature1and2	Pla2g12b
+681_974	974	681	*	*	Enzyme	Solid	*				*				KEGG	PC(36:3)_feature5	Pla2g12b
+681_975	975	681	*	*	Enzyme	Solid					*				KEGG	PE(34:3)>PE(16:0_18:3)_feature2	Pla2g12b
+682_1207	1207	682	*	*	Enzyme	Solid					*				Reactome, KEGG, HMDB	sn-Glycero-3-phosphocholine	Pla2g15
+682_969	969	682	*	*	Enzyme or transporter	Solid						*			Reactome	C22:4 LPC	Pla2g15
+682_970	970	682	*	*	Enzyme	Solid					*				KEGG	LPE(18:0)>LPE(18:0/0:0)_and_LPE(0:0/18:0)_feature1and2	Pla2g15
+682_974	974	682	*	*	Enzyme	Solid	*				*				KEGG, HMDB	PC(36:3)_feature5	Pla2g15
+682_975	975	682	*	*	Enzyme	Solid					*				KEGG	PE(34:3)>PE(16:0_18:3)_feature2	Pla2g15
+682_978	978	682	*	*	Enzyme	Solid			*					*	KEGG	PS(40:5)_feature3	Pla2g15
+683_970	970	683	*	*	Enzyme or transporter	Solid					*				Reactome	LPE(18:0)>LPE(18:0/0:0)_and_LPE(0:0/18:0)_feature1and2	Pla2g16
+683_974	974	683	*	*	Enzyme or transporter	Solid	*				*				Reactome	PC(36:3)_feature5	Pla2g16
+683_975	975	683	*	*	Enzyme or transporter	Solid					*				Reactome	PE(34:3)>PE(16:0_18:3)_feature2	Pla2g16
+683_978	978	683	*	*	Enzyme or transporter	Solid			*					*	Reactome	PS(40:5)_feature3	Pla2g16
+685_1295	1295	685	*	*	Unknown	Solid							*		HMDB	FA(14:0)	Pla2g2a
+685_970	970	685	*	*	Enzyme	Solid					*				Reactome, KEGG	LPE(18:0)>LPE(18:0/0:0)_and_LPE(0:0/18:0)_feature1and2	Pla2g2a
+685_974	974	685	*	*	Enzyme	Solid	*				*				Reactome, KEGG, HMDB	PC(36:3)_feature5	Pla2g2a
+685_975	975	685	*	*	Enzyme	Solid					*				Reactome, KEGG	PE(34:3)>PE(16:0_18:3)_feature2	Pla2g2a
+685_976	976	685	*	*	Enzyme or transporter	Solid			*	*	*		*	*	Reactome	PG(36:2)>PG(18:0_18:2)_feature2	Pla2g2a
+685_978	978	685	*	*	Enzyme or transporter	Solid			*					*	Reactome	PS(40:5)_feature3	Pla2g2a
+687_1295	1295	687	*	*	Unknown	Solid							*		HMDB	FA(14:0)	Pla2g2d
+687_970	970	687	*	*	Enzyme or transporter	Solid					*				Reactome	LPE(18:0)>LPE(18:0/0:0)_and_LPE(0:0/18:0)_feature1and2	Pla2g2d
+687_974	974	687	*	*	Enzyme or transporter	Solid	*				*				Reactome, HMDB	PC(36:3)_feature5	Pla2g2d
+687_975	975	687	*	*	Enzyme or transporter	Solid					*				Reactome	PE(34:3)>PE(16:0_18:3)_feature2	Pla2g2d
+687_976	976	687	*	*	Enzyme or transporter	Solid			*	*	*		*	*	Reactome	PG(36:2)>PG(18:0_18:2)_feature2	Pla2g2d
+687_978	978	687	*	*	Enzyme or transporter	Solid			*					*	Reactome	PS(40:5)_feature3	Pla2g2d
+68_1210	1210	68	*	*	Enzyme	Solid	*	*			*				KEGG, HMDB	Choline	Adh6
+68_1277	1277	68	*	*	Enzyme	Solid							*	*	KEGG, HMDB	vitamin A	Adh6
+690_1207	1207	690	*	*	Enzyme	Solid					*				Reactome, KEGG, HMDB	sn-Glycero-3-phosphocholine	Pla2g4a
+690_1295	1295	690	*	*	Unknown	Solid							*		HMDB	FA(14:0)	Pla2g4a
+690_970	970	690	*	*	Enzyme	Solid					*				Reactome, KEGG	LPE(18:0)>LPE(18:0/0:0)_and_LPE(0:0/18:0)_feature1and2	Pla2g4a
+690_974	974	690	*	*	Enzyme	Solid	*				*				Reactome, KEGG, HMDB	PC(36:3)_feature5	Pla2g4a
+690_975	975	690	*	*	Enzyme	Solid					*				Reactome, KEGG	PE(34:3)>PE(16:0_18:3)_feature2	Pla2g4a
+690_976	976	690	*	*	Enzyme or transporter	Solid			*	*	*		*	*	Reactome	PG(36:2)>PG(18:0_18:2)_feature2	Pla2g4a
+690_978	978	690	*	*	Enzyme or transporter	Solid			*					*	Reactome	PS(40:5)_feature3	Pla2g4a
+691_1207	1207	691	*	*	Enzyme or transporter	Solid					*				Reactome	sn-Glycero-3-phosphocholine	Pla2g4b
+691_1295	1295	691	*	*	Unknown	Solid							*		HMDB	FA(14:0)	Pla2g4b
+691_970	970	691	*	*	Enzyme or transporter	Solid					*				Reactome	LPE(18:0)>LPE(18:0/0:0)_and_LPE(0:0/18:0)_feature1and2	Pla2g4b
+691_974	974	691	*	*	Enzyme or transporter	Solid	*				*				Reactome, HMDB	PC(36:3)_feature5	Pla2g4b
+691_975	975	691	*	*	Enzyme or transporter	Solid					*				Reactome	PE(34:3)>PE(16:0_18:3)_feature2	Pla2g4b
+691_976	976	691	*	*	Enzyme or transporter	Solid			*	*	*		*	*	Reactome	PG(36:2)>PG(18:0_18:2)_feature2	Pla2g4b
+691_978	978	691	*	*	Enzyme or transporter	Solid			*					*	Reactome	PS(40:5)_feature3	Pla2g4b
+692_1207	1207	692	*	*	Enzyme or transporter	Solid					*				Reactome	sn-Glycero-3-phosphocholine	Pla2g4c
+692_1295	1295	692	*	*	Unknown	Solid							*		HMDB	FA(14:0)	Pla2g4c
+692_970	970	692	*	*	Enzyme or transporter	Solid					*				Reactome	LPE(18:0)>LPE(18:0/0:0)_and_LPE(0:0/18:0)_feature1and2	Pla2g4c
+692_974	974	692	*	*	Enzyme or transporter	Solid	*				*				Reactome, HMDB	PC(36:3)_feature5	Pla2g4c
+692_975	975	692	*	*	Enzyme or transporter	Solid					*				Reactome	PE(34:3)>PE(16:0_18:3)_feature2	Pla2g4c
+697_1207	1207	697	*	*	Enzyme	Solid					*				KEGG	sn-Glycero-3-phosphocholine	Pla2g6
+697_1295	1295	697	*	*	Unknown	Solid							*		HMDB	FA(14:0)	Pla2g6
+697_1388	1388	697	*	*	Enzyme	Solid				*					KEGG	coenzyme A	Pla2g6
+697_970	970	697	*	*	Enzyme	Solid					*				Reactome, KEGG	LPE(18:0)>LPE(18:0/0:0)_and_LPE(0:0/18:0)_feature1and2	Pla2g6
+697_974	974	697	*	*	Enzyme	Solid	*				*				Reactome, KEGG, HMDB	PC(36:3)_feature5	Pla2g6
+697_975	975	697	*	*	Enzyme	Solid					*				Reactome, KEGG	PE(34:3)>PE(16:0_18:3)_feature2	Pla2g6
+69_1210	1210	69	*	*	Enzyme	Solid	*	*			*				KEGG, HMDB	Choline	Adh7
+69_1277	1277	69	*	*	Enzyme	Solid							*	*	KEGG, HMDB	vitamin A	Adh7
+702_1207	1207	702	*	*	Enzyme or transporter	Solid					*				Reactome	sn-Glycero-3-phosphocholine	Plbd1
+702_970	970	702	*	*	Enzyme or transporter	Solid					*				Reactome	LPE(18:0)>LPE(18:0/0:0)_and_LPE(0:0/18:0)_feature1and2	Plbd1
+702_974	974	702	*	*	Enzyme or transporter	Solid	*				*				Reactome	PC(36:3)_feature5	Plbd1
+702_975	975	702	*	*	Enzyme or transporter	Solid					*				Reactome	PE(34:3)>PE(16:0_18:3)_feature2	Plbd1
+703_966	966	703	*	*	Enzyme	Solid					*		*	*	KEGG, HMDB	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Plcb1
+703_977	977	703	*	*	Enzyme	Solid					*				KEGG, HMDB	PI(40:6)>PI(18:0_22:6)_feature1	Plcb1
+704_966	966	704	*	*	Enzyme	Solid					*		*	*	KEGG, HMDB	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Plcb2
+704_977	977	704	*	*	Enzyme	Solid					*				KEGG, HMDB	PI(40:6)>PI(18:0_22:6)_feature1	Plcb2
+705_966	966	705	*	*	Enzyme	Solid					*		*	*	KEGG, HMDB	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Plcb3
+705_977	977	705	*	*	Enzyme	Solid					*				KEGG, HMDB	PI(40:6)>PI(18:0_22:6)_feature1	Plcb3
+706_966	966	706	*	*	Enzyme	Solid					*		*	*	KEGG, HMDB	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Plcb4
+706_977	977	706	*	*	Enzyme	Solid					*				KEGG, HMDB	PI(40:6)>PI(18:0_22:6)_feature1	Plcb4
+707_966	966	707	*	*	Enzyme	Solid					*		*	*	KEGG, HMDB	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Plcd1
+707_977	977	707	*	*	Enzyme	Solid					*				KEGG, HMDB	PI(40:6)>PI(18:0_22:6)_feature1	Plcd1
+708_966	966	708	*	*	Unknown	Solid					*		*	*	HMDB	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Plcd3
+708_974	974	708	*	*	Unknown	Solid	*				*				HMDB	PC(36:3)_feature5	Plcd3
+708_977	977	708	*	*	Unknown	Solid					*				HMDB	PI(40:6)>PI(18:0_22:6)_feature1	Plcd3
+708_979	979	708	*	*	Unknown	Solid					*		*	*	HMDB	SM(d34:1)	Plcd3
+70_1216	1216	70	*	*	Unknown	Solid	*								HMDB	Glucose	Adpgk
+70_1382	1382	70	*	*	Unknown	Solid	*								HMDB	hexose phosphate	Adpgk
+710_966	966	710	*	*	Enzyme	Solid					*		*	*	KEGG, HMDB	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Plce1
+710_977	977	710	*	*	Enzyme	Solid					*				KEGG, HMDB	PI(40:6)>PI(18:0_22:6)_feature1	Plce1
+711_966	966	711	*	*	Enzyme	Solid					*		*	*	KEGG, HMDB	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Plcg1
+711_977	977	711	*	*	Enzyme	Solid					*				KEGG, HMDB	PI(40:6)>PI(18:0_22:6)_feature1	Plcg1
+712_966	966	712	*	*	Enzyme	Solid					*		*	*	KEGG, HMDB	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Plcg2
+712_977	977	712	*	*	Enzyme	Solid					*				KEGG, HMDB	PI(40:6)>PI(18:0_22:6)_feature1	Plcg2
+716_1210	1210	716	*	*	Enzyme	Solid	*	*			*				Reactome, KEGG, HMDB	Choline	Pld1
+716_974	974	716	*	*	Enzyme	Solid	*				*				Reactome, KEGG, HMDB	PC(36:3)_feature5	Pld1
+716_975	975	716	*	*	Enzyme	Solid					*				KEGG	PE(34:3)>PE(16:0_18:3)_feature2	Pld1
+717_1210	1210	717	*	*	Enzyme	Solid	*	*			*				Reactome, KEGG, HMDB	Choline	Pld2
+717_974	974	717	*	*	Enzyme	Solid	*				*				Reactome, KEGG, HMDB	PC(36:3)_feature5	Pld2
+717_975	975	717	*	*	Enzyme	Solid					*				KEGG	PE(34:3)>PE(16:0_18:3)_feature2	Pld2
+718_1210	1210	718	*	*	Enzyme	Solid	*	*			*				KEGG, HMDB	Choline	Pld3
+718_974	974	718	*	*	Enzyme	Solid	*				*				KEGG, HMDB	PC(36:3)_feature5	Pld3
+718_975	975	718	*	*	Enzyme	Solid					*				KEGG	PE(34:3)>PE(16:0_18:3)_feature2	Pld3
+719_1210	1210	719	*	*	Enzyme	Solid	*	*			*				KEGG, HMDB	Choline	Pld4
+719_974	974	719	*	*	Enzyme	Solid	*				*				KEGG, HMDB	PC(36:3)_feature5	Pld4
+719_975	975	719	*	*	Enzyme	Solid					*				KEGG	PE(34:3)>PE(16:0_18:3)_feature2	Pld4
+71_100	71	100	*	*	SameComplex	Solid	*				*				Reactome	Afp	Apoa1
+720_1210	1210	720	*	*	Enzyme	Solid	*	*			*				HMDB	Choline	Pld6
+720_974	974	720	*	*	Enzyme	Solid	*				*				HMDB	PC(36:3)_feature5	Pld6
+721_1464	1464	721	*	*	Unknown	Solid			*						HMDB	phytosphingosine	Plekha8
+721_967	967	721	*	*	Unknown	Solid	*								HMDB	HexCer(d42:0-OH)_M+H2CO2_feature1	Plekha8
+721_977	977	721	*	*	Unknown	Solid					*				HMDB	PI(40:6)>PI(18:0_22:6)_feature1	Plekha8
+721_979	979	721	*	*	Unknown	Solid					*		*	*	HMDB	SM(d34:1)	Plekha8
+722_1381	1381	722	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Plekhg6
+723_1259	1259	723	*	*	Enzyme	Solid							*		KEGG, HMDB	Succinic acid	Plod3
+723_1266	1266	723	*	*	Enzyme	Solid							*		KEGG, HMDB	UDP-glucose	Plod3
+725_974	974	725	*	*	Unknown	Solid	*				*				HMDB	PC(36:3)_feature5	Plscr3
+725_977	977	725	*	*	Unknown	Solid					*				HMDB	PI(40:6)>PI(18:0_22:6)_feature1	Plscr3
+726_974	974	726	*	*	Unknown	Solid	*				*				HMDB	PC(36:3)_feature5	Plscr4
+726_977	977	726	*	*	Unknown	Solid					*				HMDB	PI(40:6)>PI(18:0_22:6)_feature1	Plscr4
+728_974	974	728	*	*	Unknown	Solid	*				*				HMDB	PC(36:3)_feature5	Pltp
+728_977	977	728	*	*	Unknown	Solid					*				HMDB	PI(40:6)>PI(18:0_22:6)_feature1	Pltp
+72_966	966	72	*	*	Enzyme or transporter	Solid					*		*	*	Reactome	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Agk
+72_972	972	72	*	*	Enzyme or transporter	Solid						*	*	*	Reactome	MG(18:1_0:0_0:0)	Agk
+733_1222	1222	733	*	*	Enzyme	Solid	*								Reactome, KEGG	Guanine	Pnp
+733_1223	1223	733	*	*	Enzyme	Solid						*			Reactome, KEGG	guanosine	Pnp
+733_1243	1243	733	*	*	Enzyme or transporter	Solid	*	*	*	*		*		*	Reactome	Inosine	Pnp
+733_1383	1383	733	*	*	Enzyme	Solid						*	*		KEGG	Niacinamide	Pnp
+734_1295	1295	734	*	*	Enzyme	Solid							*		HMDB	FA(14:0)	Pnpla2
+734_966	966	734	*	*	Enzyme	Solid					*		*	*	KEGG, HMDB	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Pnpla2
+734_970	970	734	*	*	Enzyme	Solid					*				KEGG	LPE(18:0)>LPE(18:0/0:0)_and_LPE(0:0/18:0)_feature1and2	Pnpla2
+734_974	974	734	*	*	Enzyme	Solid	*				*				KEGG	PC(36:3)_feature5	Pnpla2
+734_975	975	734	*	*	Enzyme	Solid					*				KEGG	PE(34:3)>PE(16:0_18:3)_feature2	Pnpla2
+734_980	980	734	*	*	Enzyme	Solid					*	*			KEGG, HMDB	TG(58:7)>TG(18:0_18:1_22:6)_M+NH3_feature3	Pnpla2
+735_1295	1295	735	*	*	Enzyme	Solid							*		HMDB	FA(14:0)	Pnpla3
+735_966	966	735	*	*	Enzyme	Solid					*		*	*	Reactome, HMDB	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Pnpla3
+735_980	980	735	*	*	Enzyme	Solid					*	*			Reactome, HMDB	TG(58:7)>TG(18:0_18:1_22:6)_M+NH3_feature3	Pnpla3
+736_1277	1277	736	*	*	Enzyme or transporter	Solid							*	*	Reactome	vitamin A	Pnpla4
+736_1295	1295	736	*	*	Enzyme	Solid							*		HMDB	FA(14:0)	Pnpla4
+736_966	966	736	*	*	Enzyme	Solid					*		*	*	Reactome, HMDB	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Pnpla4
+736_980	980	736	*	*	Enzyme	Solid					*	*			Reactome, HMDB	TG(58:7)>TG(18:0_18:1_22:6)_M+NH3_feature3	Pnpla4
+737_966	966	737	*	*	Enzyme or transporter	Solid					*		*	*	Reactome	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Pnpla5
+737_980	980	737	*	*	Enzyme or transporter	Solid					*	*			Reactome	TG(58:7)>TG(18:0_18:1_22:6)_M+NH3_feature3	Pnpla5
+738_1207	1207	738	*	*	Enzyme	Solid					*				HMDB	sn-Glycero-3-phosphocholine	Pnpla6
+738_1295	1295	738	*	*	Enzyme	Solid							*		HMDB	FA(14:0)	Pnpla6
+738_974	974	738	*	*	Enzyme	Solid	*				*				HMDB	PC(36:3)_feature5	Pnpla6
+739_1207	1207	739	*	*	Enzyme	Solid					*	*			KEGG, HMDB	sn-Glycero-3-phosphocholine	Pnpla7
+739_970	970	739	*	*	Enzyme	Solid					*	*			KEGG	LPE(18:0)>LPE(18:0/0:0)_and_LPE(0:0/18:0)_feature1and2	Pnpla7
+739_974	974	739	*	*	Enzyme	Solid	*				*	*			KEGG	PC(36:3)_feature5	Pnpla7
+73_1197	1197	73	*	*	Enzyme	Solid	*								KEGG	beta-Alanine	Agmat
+73_1214	1214	73	*	*	Enzyme	Solid	*				*				KEGG	gamma-Amino-N-butyric-acid	Agmat
+73_1248	1248	73	*	*	Enzyme	Solid	*								KEGG	Ornithine	Agmat
+73_1279	1279	73	*	*	Enzyme	Solid	*	*							KEGG	Arginine	Agmat
+73_1355	1355	73	*	*	Unknown	Solid	*	*		*					HMDB	spermine	Agmat
+73_1356	1356	73	*	*	Unknown	Solid	*								HMDB	spermidine	Agmat
+73_1385	1385	73	*	*	Unknown	Solid	*								HMDB	putrescine	Agmat
+73_1439	1439	73	*	*	Enzyme	Solid	*								KEGG	4-guanidinobutanoate	Agmat
+73_1494	1494	73	*	*	Enzyme	Solid	*	*							KEGG	beta-guanidinopropionate	Agmat
+740_1207	1207	740	*	*	Enzyme	Solid					*				KEGG, HMDB	sn-Glycero-3-phosphocholine	Pnpla8
+740_1295	1295	740	*	*	Unknown	Solid							*		HMDB	FA(14:0)	Pnpla8
+740_970	970	740	*	*	Enzyme	Solid					*				Reactome, KEGG	LPE(18:0)>LPE(18:0/0:0)_and_LPE(0:0/18:0)_feature1and2	Pnpla8
+740_974	974	740	*	*	Enzyme	Solid	*				*				Reactome, KEGG	PC(36:3)_feature5	Pnpla8
+740_975	975	740	*	*	Enzyme or transporter	Solid					*				Reactome	PE(34:3)>PE(16:0_18:3)_feature2	Pnpla8
+741_1205	1205	741	*	*	Enzyme	Solid	*								KEGG, HMDB	CTP	Polr1a
+741_1265	1265	741	*	*	Enzyme	Solid	*	*				*	*	*	KEGG, HMDB	UTP	Polr1a
+742_1205	1205	742	*	*	Enzyme	Solid	*								KEGG, HMDB	CTP	Polr1b
+742_1265	1265	742	*	*	Enzyme	Solid	*	*				*	*	*	KEGG, HMDB	UTP	Polr1b
+743_1205	1205	743	*	*	Enzyme	Solid	*								HMDB	CTP	Polr1c
+743_1265	1265	743	*	*	Enzyme	Solid	*	*				*	*	*	HMDB	UTP	Polr1c
+744_1205	1205	744	*	*	Enzyme	Solid	*								HMDB	CTP	Polr1d
+744_1265	1265	744	*	*	Enzyme	Solid	*	*				*	*	*	HMDB	UTP	Polr1d
+745_1205	1205	745	*	*	Enzyme	Solid	*								HMDB	CTP	Polr1e
+745_1265	1265	745	*	*	Enzyme	Solid	*	*				*	*	*	HMDB	UTP	Polr1e
+746_1205	1205	746	*	*	Unknown	Solid	*								HMDB	CTP	Polr2a
+746_1265	1265	746	*	*	Unknown	Solid	*	*				*	*	*	HMDB	UTP	Polr2a
+747_1205	1205	747	*	*	Unknown	Solid	*								HMDB	CTP	Polr2b
+747_1265	1265	747	*	*	Unknown	Solid	*	*				*	*	*	HMDB	UTP	Polr2b
+748_1205	1205	748	*	*	Unknown	Solid	*								HMDB	CTP	Polr2c
+748_1265	1265	748	*	*	Unknown	Solid	*	*				*	*	*	HMDB	UTP	Polr2c
+749_1205	1205	749	*	*	Unknown	Solid	*								HMDB	CTP	Polr2d
+749_1265	1265	749	*	*	Unknown	Solid	*	*				*	*	*	HMDB	UTP	Polr2d
+74_1388	1388	74	*	*	Enzyme	Solid				*					HMDB	coenzyme A	Agpat1
+74_1426	1426	74	*	*	Enzyme	Solid				*					HMDB	CoA(6:0)	Agpat1
+750_1205	1205	750	*	*	Unknown	Solid	*								HMDB	CTP	Polr2e
+750_1265	1265	750	*	*	Unknown	Solid	*	*				*	*	*	HMDB	UTP	Polr2e
+751_1205	1205	751	*	*	Unknown	Solid	*								HMDB	CTP	Polr2f
+751_1265	1265	751	*	*	Unknown	Solid	*	*				*	*	*	HMDB	UTP	Polr2f
+752_1205	1205	752	*	*	Unknown	Solid	*								HMDB	CTP	Polr2g
+752_1265	1265	752	*	*	Unknown	Solid	*	*				*	*	*	HMDB	UTP	Polr2g
+753_1205	1205	753	*	*	Unknown	Solid	*								HMDB	CTP	Polr2j
+753_1265	1265	753	*	*	Unknown	Solid	*	*				*	*	*	HMDB	UTP	Polr2j
+756_1205	1205	756	*	*	Enzyme	Solid	*								KEGG, HMDB	CTP	Polr3a
+756_1265	1265	756	*	*	Enzyme	Solid	*	*				*	*	*	KEGG, HMDB	UTP	Polr3a
+757_1205	1205	757	*	*	Enzyme	Solid	*								HMDB	CTP	Polr3b
+757_1265	1265	757	*	*	Enzyme	Solid	*	*				*	*	*	HMDB	UTP	Polr3b
+758_1205	1205	758	*	*	Unknown	Solid	*								HMDB	CTP	Polr3c
+758_1265	1265	758	*	*	Unknown	Solid	*	*				*	*	*	HMDB	UTP	Polr3c
+759_1205	1205	759	*	*	Enzyme	Solid	*								HMDB	CTP	Polr3d
+759_1265	1265	759	*	*	Enzyme	Solid	*	*				*	*	*	HMDB	UTP	Polr3d
+75_1388	1388	75	*	*	Enzyme	Solid				*					HMDB	coenzyme A	Agpat2
+75_1426	1426	75	*	*	Enzyme	Solid				*					HMDB	CoA(6:0)	Agpat2
+760_1205	1205	760	*	*	Unknown	Solid	*								HMDB	CTP	Polr3e
+760_1265	1265	760	*	*	Unknown	Solid	*	*				*	*	*	HMDB	UTP	Polr3e
+761_1205	1205	761	*	*	Unknown	Solid	*								HMDB	CTP	Polr3f
+761_1265	1265	761	*	*	Unknown	Solid	*	*				*	*	*	HMDB	UTP	Polr3f
+762_1205	1205	762	*	*	Enzyme	Solid	*								HMDB	CTP	Polr3h
+762_1265	1265	762	*	*	Enzyme	Solid	*	*				*	*	*	HMDB	UTP	Polr3h
+763_1205	1205	763	*	*	Unknown	Solid	*								HMDB	CTP	Polr3k
+763_1265	1265	763	*	*	Unknown	Solid	*	*				*	*	*	HMDB	UTP	Polr3k
+764_1205	1205	764	*	*	Enzyme	Solid	*								HMDB	CTP	Polrmt
+764_1265	1265	764	*	*	Enzyme	Solid	*	*				*	*	*	HMDB	UTP	Polrmt
+765_1295	1295	765	*	*	Enzyme	Solid							*		HMDB	FA(14:0)	Pparg
+765_1426	1426	765	*	*	Enzyme	Solid				*					HMDB	CoA(6:0)	Pparg
+766_1228	1228	766	*	*	Enzyme	Solid					*				KEGG, HMDB	Glutamic acid	Ppat
+766_1284	1284	766	*	*	Enzyme	Solid			*	*	*				KEGG, HMDB	Glutamine	Ppat
+767_1205	1205	767	*	*	Enzyme	Solid	*								HMDB	CTP	Ppcs
+767_1281	1281	767	*	*	Enzyme	Solid			*				*	*	HMDB	Cysteine	Ppcs
+768_1295	1295	768	*	*	Enzyme	Solid							*		HMDB	FA(14:0)	Ppt2
+768_1388	1388	768	*	*	Enzyme	Solid				*					HMDB	coenzyme A	Ppt2
+769_1219	1219	769	*	*	Enzyme	Solid			*	*					KEGG	Glutathione	Prdx6
+769_1388	1388	769	*	*	Enzyme	Solid				*					KEGG	coenzyme A	Prdx6
+769_1435	1435	769	*	*	Enzyme	Solid							*		KEGG	oxidized glutathione	Prdx6
+769_970	970	769	*	*	Enzyme	Solid					*				KEGG	LPE(18:0)>LPE(18:0/0:0)_and_LPE(0:0/18:0)_feature1and2	Prdx6
+769_974	974	769	*	*	Enzyme	Solid	*				*				KEGG	PC(36:3)_feature5	Prdx6
+769_975	975	769	*	*	Enzyme	Solid					*				KEGG	PE(34:3)>PE(16:0_18:3)_feature2	Prdx6
+76_1388	1388	76	*	*	Enzyme	Solid				*					HMDB	coenzyme A	Agpat3
+76_1426	1426	76	*	*	Enzyme	Solid				*					HMDB	CoA(6:0)	Agpat3
+770_1381	1381	770	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Preb
+771_1381	1381	771	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Prex1
+771_977	977	771	*	*	Unknown	Solid					*				HMDB	PI(40:6)>PI(18:0_22:6)_feature1	Prex1
+772_1381	1381	772	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Prex2
+773_966	773	966	*	*	SameComplex	Solid					*		*	*	Reactome, HMDB	Prkca	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1
+777_1405	1405	777	*	*	Enzyme	Solid	*								HMDB	ribose 5-phosphate	Prps2
+779_1226	1226	779	*	*	SameComplex	Solid							*		Reactome	hexose	Psap
+779_967	967	779	*	*	SameComplex	Solid	*								Reactome	HexCer(d42:0-OH)_M+H2CO2_feature1	Psap
+77_1388	1388	77	*	*	Enzyme	Solid				*					KEGG, HMDB	coenzyme A	Agpat4
+77_1426	1426	77	*	*	Enzyme	Solid				*					HMDB	CoA(6:0)	Agpat4
+781_1381	1381	781	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Psd3
+782_1381	1381	782	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Psd4
+783_1210	1210	783	*	*	Enzyme or transporter	Solid	*	*			*				Reactome	Choline	Ptdss1
+783_974	974	783	*	*	Enzyme	Solid	*				*				Reactome, HMDB	PC(36:3)_feature5	Ptdss1
+783_975	975	783	*	*	Enzyme	Solid					*				KEGG	PE(34:3)>PE(16:0_18:3)_feature2	Ptdss1
+783_977	977	783	*	*	Enzyme	Solid					*				HMDB	PI(40:6)>PI(18:0_22:6)_feature1	Ptdss1
+783_978	978	783	*	*	Enzyme	Solid			*					*	Reactome, KEGG	PS(40:5)_feature3	Ptdss1
+784_975	975	784	*	*	Enzyme	Solid					*				Reactome, KEGG	PE(34:3)>PE(16:0_18:3)_feature2	Ptdss2
+784_978	978	784	*	*	Enzyme	Solid			*					*	Reactome, KEGG	PS(40:5)_feature3	Ptdss2
+785_1234	1234	785	*	*	Enzyme	Solid	*								KEGG	Proline	Pycr3
+785_1251	1251	785	*	*	Enzyme	Solid	*								KEGG	NADPH	Pycr3
+785_1291	1291	785	*	*	Enzyme	Solid	*						*	*	KEGG	Hydroxyproline	Pycr3
+785_1395	1395	785	*	*	Enzyme	Solid	*								KEGG	NADH	Pycr3
+786_1228	1228	786	*	*	Enzyme	Solid					*				KEGG, HMDB	Glutamic acid	Qrsl1
+786_1284	1284	786	*	*	Enzyme	Solid			*	*	*				KEGG, HMDB	Glutamine	Qrsl1
+78_1388	1388	78	*	*	Enzyme	Solid				*					HMDB	coenzyme A	Agpat5
+78_1426	1426	78	*	*	Enzyme	Solid				*					HMDB	CoA(6:0)	Agpat5
+790_1381	1381	790	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Rab3il1
+792_1348	1348	792	*	*	Unknown	Solid					*				HMDB	GDP	Rab5b
+792_1381	1381	792	*	*	Unknown	Solid	*	*			*		*		HMDB	GMP	Rab5b
+793_1381	1381	793	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Rac1
+794_1381	1381	794	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Rac2
+795_1348	1348	795	*	*	Enzyme	Solid					*				KEGG	GDP	Ralb
+796_1219	1219	796	*	*	Unknown	Solid			*	*					HMDB	Glutathione	Ralbp1
+799_1381	1381	799	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Ralgps1
+79_100	79	100	*	*	SameComplex	Solid	*				*				Reactome	Agrn	Apoa1
+79_106	79	106	*	*	SameComplex	Solid					*				Reactome	Agrn	Apoc3
+79_848	79	848	*	*	SameComplex	Solid					*				Reactome	Agrn	Sdc1
+79_964	79	964	*	*	SameComplex	Solid					*	*			Reactome	Agrn	CE(18:1)_feature1
+79_980	79	980	*	*	SameComplex	Solid					*	*			Reactome	Agrn	TG(58:7)>TG(18:0_18:1_22:6)_M+NH3_feature3
+7_100	100	7	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	AABR07058464.1
+800_1381	1381	800	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Ralgps2
+801_1381	1381	801	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Ranbp3
+802_1381	1381	802	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Rapgef3
+803_1348	1348	803	*	*	Unknown	Solid			*	*					HMDB	GDP	Rapgef4
+803_1381	1381	803	*	*	Unknown	Solid	*	*	*	*			*		HMDB	GMP	Rapgef4
+804_1381	1381	804	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Rapgef5
+805_1381	1381	805	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Rapgef6
+808_1381	1381	808	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Rasgef1b
+810_966	966	810	*	*	Unknown	Solid			*		*		*	*	HMDB	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Rasgrp1
+811_966	966	811	*	*	Unknown	Solid					*		*	*	HMDB	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Rasgrp2
+812_1381	1381	812	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Rasgrp3
+812_966	966	812	*	*	Unknown	Solid					*		*	*	HMDB	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Rasgrp3
+813_966	966	813	*	*	Unknown	Solid					*		*	*	HMDB	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Rasgrp4
+814_1277	1277	814	*	*	SameComplex	Solid							*	*	Reactome	vitamin A	Rbp1
+815_1277	1277	815	*	*	SameComplex	Solid							*	*	Reactome	vitamin A	Rbp4
+815_927	815	927	*	*	SameComplex	Solid					*				Reactome	Rbp4	Ttr
+816_1381	1381	816	*	*	Enzyme	Solid	*	*					*		HMDB	GMP	Rcc2
+818_1277	1277	818	*	*	Enzyme	Solid							*	*	HMDB	vitamin A	Rdh10
+818_967	967	818	*	*	Enzyme	Solid	*								HMDB	HexCer(d42:0-OH)_M+H2CO2_feature1	Rdh10
+819_1277	1277	819	*	*	Enzyme	Solid					*		*	*	KEGG, HMDB	vitamin A	Retsat
+819_1352	1352	819	*	*	Unknown	Solid					*				HMDB	FAD	Retsat
+81_1205	1205	81	*	*	Enzyme	Solid	*				*		*		KEGG	CTP	Ak4
+81_1265	1265	81	*	*	Enzyme	Solid	*	*			*	*	*	*	KEGG	UTP	Ak4
+81_1274	1274	81	*	*	Enzyme	Solid					*		*		KEGG	UDP	Ak4
+81_1348	1348	81	*	*	Enzyme	Solid					*		*		KEGG	GDP	Ak4
+81_1371	1371	81	*	*	Enzyme	Solid					*		*		KEGG	dTTP	Ak4
+81_1403	1403	81	*	*	Enzyme	Solid					*		*		KEGG	dATP	Ak4
+81_1404	1404	81	*	*	Enzyme	Solid					*		*		KEGG	CDP	Ak4
+821_1381	1381	821	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Rhoq
+822_1381	1381	822	*	*	Enzyme	Solid	*	*					*		HMDB	GMP	Rhou
+823_1381	1381	823	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Ric8a
+824_1381	1381	824	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Ric8b
+826_1381	1381	826	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Rin1
+827_1381	1381	827	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Rin2
+828_1381	1381	828	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Rin3
+829_1246	1246	829	*	*	Enzyme	Solid				*					KEGG	Oxoglutaric acid	Riox2
+829_1259	1259	829	*	*	Enzyme	Solid				*			*		KEGG	Succinic acid	Riox2
+830_1381	1381	830	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Rit1
+832_966	966	832	*	*	Unknown	Solid					*		*	*	HMDB	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Rock1
+833_966	966	833	*	*	Unknown	Solid					*		*	*	HMDB	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Rock2
+834_1381	1381	834	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Rp2
+835_1381	1381	835	*	*	Unknown	Solid	*	*					*		HMDB	GMP	RragB
+836_1381	1381	836	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Rraga
+837_1381	1381	837	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Rragc
+838_1381	1381	838	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Rragd
+840_1352	1352	840	*	*	Unknown	Solid					*				HMDB	FAD	Sardh
+840_1355	1355	840	*	*	Unknown	Solid	*	*		*					HMDB	spermine	Sardh
+841_1343	1343	841	*	*	Enzyme	Solid					*				KEGG	ADP-ribose	Sarm1
+841_1383	1383	841	*	*	Enzyme	Solid					*	*	*		KEGG	Niacinamide	Sarm1
+842_1355	1355	842	*	*	Enzyme	Solid	*	*		*					HMDB	spermine	Sat1
+842_1388	1388	842	*	*	Enzyme	Solid				*					HMDB	coenzyme A	Sat1
+843_1355	1355	843	*	*	Enzyme	Solid	*	*		*					HMDB	spermine	Sat2
+843_1388	1388	843	*	*	Enzyme	Solid				*					HMDB	coenzyme A	Sat2
+846_975	975	846	*	*	Enzyme or transporter	Solid					*				Reactome	PE(34:3)>PE(16:0_18:3)_feature2	Sco1
+847_1388	1388	847	*	*	Enzyme	Solid				*					KEGG	coenzyme A	Scp2
+847_1426	1426	847	*	*	Enzyme	Solid				*					KEGG	CoA(6:0)	Scp2
+848_1201	848	1201	*	*	SameComplex	Solid					*				Reactome	Sdc1	cholesterol
+848_849	848	849	*	*	SameComplex	Solid					*				Reactome	Sdc1	Sdc2
+848_850	848	850	*	*	SameComplex	Solid					*				Reactome	Sdc1	Sdc3
+848_851	848	851	*	*	SameComplex	Solid					*				Reactome	Sdc1	Sdc4
+848_955	848	955	*	*	SameComplex	Solid					*				Reactome	Sdc1	Vcan
+848_960	848	960	*	*	Others	Solid					*				Reactome	Sdc1	Xylt1
+848_961	848	961	*	*	Others	Solid					*				Reactome	Sdc1	Xylt2
+848_964	848	964	*	*	SameComplex	Solid					*	*			Reactome	Sdc1	CE(18:1)_feature1
+848_980	848	980	*	*	SameComplex	Solid					*	*			Reactome	Sdc1	TG(58:7)>TG(18:0_18:1_22:6)_M+NH3_feature3
+849_964	849	964	*	*	SameComplex	Solid					*	*			Reactome	Sdc2	CE(18:1)_feature1
+849_980	849	980	*	*	SameComplex	Solid					*	*			Reactome	Sdc2	TG(58:7)>TG(18:0_18:1_22:6)_M+NH3_feature3
+84_1226	1226	84	*	*	Enzyme	Solid							*		KEGG	hexose	Akr1b1
+84_1277	1277	84	*	*	Enzyme	Solid							*	*	KEGG	vitamin A	Akr1b1
+850_964	850	964	*	*	SameComplex	Solid					*	*			Reactome	Sdc3	CE(18:1)_feature1
+850_980	850	980	*	*	SameComplex	Solid					*	*			Reactome	Sdc3	TG(58:7)>TG(18:0_18:1_22:6)_M+NH3_feature3
+851_964	851	964	*	*	SameComplex	Solid					*	*			Reactome	Sdc4	CE(18:1)_feature1
+851_980	851	980	*	*	SameComplex	Solid					*	*			Reactome	Sdc4	TG(58:7)>TG(18:0_18:1_22:6)_M+NH3_feature3
+852_1259	1259	852	*	*	Unknown	Solid							*		HMDB	Succinic acid	Sdha
+852_1352	1352	852	*	*	Unknown	Solid					*				HMDB	FAD	Sdha
+853_1259	1259	853	*	*	Unknown	Solid							*		HMDB	Succinic acid	Sdhb
+853_1352	1352	853	*	*	Unknown	Solid					*				HMDB	FAD	Sdhb
+854_1259	1259	854	*	*	Unknown	Solid							*		HMDB	Succinic acid	Sdhc
+854_1352	1352	854	*	*	Unknown	Solid					*				HMDB	FAD	Sdhc
+855_966	966	855	*	*	Enzyme or transporter	Solid					*		*	*	Reactome	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Selenoi
+855_975	975	855	*	*	Enzyme or transporter	Solid					*				Reactome	PE(34:3)>PE(16:0_18:3)_feature2	Selenoi
+856_1219	1219	856	*	*	Enzyme	Solid			*	*					KEGG	Glutathione	Selenot
+856_1281	1281	856	*	*	Enzyme	Solid			*				*	*	KEGG	Cysteine	Selenot
+857_1381	1381	857	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Sergef
+85_1226	1226	85	*	*	Enzyme	Solid	*						*		KEGG	hexose	Akr1b7
+85_1251	1251	85	*	*	Enzyme	Solid	*								KEGG	NADPH	Akr1b7
+85_1395	1395	85	*	*	Enzyme	Solid	*								KEGG	NADH	Akr1b7
+864_966	966	864	*	*	Enzyme	Solid					*		*	*	Reactome, KEGG, HMDB	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Sgms1
+864_974	974	864	*	*	Enzyme	Solid	*				*				Reactome, KEGG, HMDB	PC(36:3)_feature5	Sgms1
+864_979	979	864	*	*	Enzyme	Solid					*		*	*	Reactome, KEGG, HMDB	SM(d34:1)	Sgms1
+865_966	966	865	*	*	Enzyme	Solid					*		*	*	Reactome, KEGG, HMDB	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Sgms2
+865_974	974	865	*	*	Enzyme	Solid	*				*				Reactome, KEGG, HMDB	PC(36:3)_feature5	Sgms2
+865_979	979	865	*	*	Enzyme	Solid					*		*	*	Reactome, KEGG, HMDB	SM(d34:1)	Sgms2
+866_1279	1279	866	*	*	Unknown	Solid		*							HMDB	Arginine	Sirt6
+866_1383	1383	866	*	*	Unknown	Solid						*	*		HMDB	Niacinamide	Sirt6
+867_1259	1259	867	*	*	Unknown	Solid						*	*		HMDB	Succinic acid	Slc13a3
+868_1188	1188	868	*	*	Transporter	Solid	*							*	HMDB	ketoisovalerate	Slc16a1
+868_1228	1228	868	*	*	Transporter	Solid	*				*				HMDB	Glutamic acid	Slc16a1
+868_1256	1256	868	*	*	Transporter	Solid	*								HMDB	pyruvate	Slc16a1
+869_1197	1197	869	*	*	Transporter	Solid					*	*			HMDB	beta-Alanine	Slc16a10
+869_1217	1217	869	*	*	Transporter	Solid					*	*			HMDB	Glycine	Slc16a10
+869_1228	1228	869	*	*	Transporter	Solid					*	*			HMDB	Glutamic acid	Slc16a10
+869_1233	1233	869	*	*	Transporter	Solid					*	*			HMDB	Alanine	Slc16a10
+869_1234	1234	869	*	*	Transporter	Solid					*	*			HMDB	Proline	Slc16a10
+869_1238	1238	869	*	*	Transporter	Solid			*	*	*	*	*		HMDB	Histidine	Slc16a10
+869_1241	1241	869	*	*	Transporter	Solid	*				*	*			HMDB	Aspartic acid	Slc16a10
+869_1256	1256	869	*	*	Transporter	Solid					*	*			HMDB	pyruvate	Slc16a10
+869_1281	1281	869	*	*	Transporter	Solid			*		*	*	*	*	HMDB	Cysteine	Slc16a10
+869_1284	1284	869	*	*	Transporter	Solid			*	*	*	*			HMDB	Glutamine	Slc16a10
+869_1310	1310	869	*	*	Transporter	Solid					*	*			HMDB	Tryptophan	Slc16a10
+86_1251	1251	86	*	*	Enzyme or transporter	Solid		*							Reactome	NADPH	Akr1b8
+86_1277	1277	86	*	*	Enzyme or transporter	Solid		*					*	*	Reactome	vitamin A	Akr1b8
+871_1210	1210	871	*	*	Transporter	Solid	*	*			*				HMDB	Choline	Slc22a1
+871_1355	1355	871	*	*	Transporter	Solid	*	*		*					HMDB	spermine	Slc22a1
+872_1286	1286	872	*	*	Transporter	Solid					*	*	*	*	HMDB	glutarate	Slc22a7
+873_1228	1228	873	*	*	Enzyme	Solid	*				*				HMDB	Glutamic acid	Slc25a22
+874_1295	1295	874	*	*	Transporter	Solid							*		HMDB	FA(14:0)	Slc27a1
+874_1426	1426	874	*	*	Transporter	Solid				*					HMDB	CoA(6:0)	Slc27a1
+874_966	966	874	*	*	Transporter	Solid					*		*	*	HMDB	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Slc27a1
+874_980	980	874	*	*	Transporter	Solid					*	*			HMDB	TG(58:7)>TG(18:0_18:1_22:6)_M+NH3_feature3	Slc27a1
+875_1388	1388	875	*	*	Enzyme	Solid				*					KEGG, HMDB	coenzyme A	Slc27a2
+875_1426	1426	875	*	*	Enzyme	Solid				*					HMDB	CoA(6:0)	Slc27a2
+875_964	964	875	*	*	Enzyme	Solid					*	*			KEGG	CE(18:1)_feature1	Slc27a2
+876_1295	1295	876	*	*	Enzyme	Solid							*		HMDB	FA(14:0)	Slc27a3
+876_1426	1426	876	*	*	Enzyme	Solid				*					HMDB	CoA(6:0)	Slc27a3
+877_1295	1295	877	*	*	Enzyme	Solid							*		HMDB	FA(14:0)	Slc27a4
+877_1426	1426	877	*	*	Enzyme	Solid				*					HMDB	CoA(6:0)	Slc27a4
+878_1250	1250	878	*	*	Enzyme	Solid						*	*	*	KEGG	FA(16:0)	Slc27a5
+878_1350	1350	878	*	*	Enzyme	Solid						*	*	*	HMDB	Acetyl-CoA	Slc27a5
+878_1388	1388	878	*	*	Enzyme	Solid				*		*	*	*	KEGG, HMDB	coenzyme A	Slc27a5
+878_1426	1426	878	*	*	Enzyme	Solid				*		*	*	*	HMDB	CoA(6:0)	Slc27a5
+878_1463	1463	878	*	*	Enzyme	Solid						*	*	*	HMDB	CoA(20:0)	Slc27a5
+878_964	964	878	*	*	Enzyme	Solid					*	*	*	*	KEGG	CE(18:1)_feature1	Slc27a5
+879_1238	1238	879	*	*	Transporter	Solid			*	*			*		HMDB	Histidine	Slc38a3
+879_1284	1284	879	*	*	Transporter	Solid			*	*	*				HMDB	Glutamine	Slc38a3
+87_100	87	100	*	*	SameComplex	Solid	*				*		*		Reactome	Alb	Apoa1
+880_1279	1279	880	*	*	Unknown	Solid		*							HMDB	Arginine	Slc3a2
+880_1281	1281	880	*	*	Unknown	Solid			*				*	*	HMDB	Cysteine	Slc3a2
+881_1210	1210	881	*	*	Enzyme or transporter	Solid	*	*			*				Reactome	Choline	Slc44a1
+882_1210	1210	882	*	*	Enzyme or transporter	Solid	*	*			*				Reactome	Choline	Slc44a2
+883_1210	1210	883	*	*	Enzyme or transporter	Solid	*	*			*				Reactome, HMDB	Choline	Slc44a3
+884_1210	1210	884	*	*	Enzyme or transporter	Solid	*	*			*				Reactome	Choline	Slc44a4
+886_1281	1281	886	*	*	Transporter	Solid			*				*	*	HMDB	Cysteine	Slc7a8
+886_1284	1284	886	*	*	Transporter	Solid			*	*	*				HMDB	Glutamine	Slc7a8
+887_1352	1352	887	*	*	Unknown	Solid					*				HMDB	FAD	Smox
+887_1355	1355	887	*	*	Unknown	Solid	*	*		*					HMDB	spermine	Smox
+888_967	967	888	*	*	Enzyme	Solid	*								HMDB	HexCer(d42:0-OH)_M+H2CO2_feature1	Smpd1
+888_979	979	888	*	*	Enzyme	Solid					*		*	*	HMDB	SM(d34:1)	Smpd1
+889_967	967	889	*	*	Unknown	Solid	*								HMDB	HexCer(d42:0-OH)_M+H2CO2_feature1	Smpd2
+889_979	979	889	*	*	Unknown	Solid					*		*	*	HMDB	SM(d34:1)	Smpd2
+88_1388	1388	88	*	*	Unknown	Solid				*					HMDB	coenzyme A	Aldh6a1
+88_1426	1426	88	*	*	Unknown	Solid				*					HMDB	CoA(6:0)	Aldh6a1
+890_967	967	890	*	*	Unknown	Solid	*								HMDB	HexCer(d42:0-OH)_M+H2CO2_feature1	Smpd3
+890_979	979	890	*	*	Unknown	Solid					*		*	*	HMDB	SM(d34:1)	Smpd3
+891_967	967	891	*	*	Unknown	Solid	*								HMDB	HexCer(d42:0-OH)_M+H2CO2_feature1	Smpd4
+891_979	979	891	*	*	Unknown	Solid					*		*	*	HMDB	SM(d34:1)	Smpd4
+892_1388	1388	892	*	*	Enzyme	Solid				*					KEGG, HMDB	coenzyme A	Soat1
+892_1426	1426	892	*	*	Enzyme	Solid				*					HMDB	CoA(6:0)	Soat1
+892_964	964	892	*	*	Enzyme	Solid					*	*			HMDB	CE(18:1)_feature1	Soat1
+893_1388	1388	893	*	*	Enzyme	Solid				*					KEGG, HMDB	coenzyme A	Soat2
+893_1426	1426	893	*	*	Enzyme	Solid				*					HMDB	CoA(6:0)	Soat2
+893_964	964	893	*	*	Enzyme	Solid					*	*			HMDB	CE(18:1)_feature1	Soat2
+894_1348	1348	894	*	*	Enzyme	Solid						*			HMDB	GDP	Sorbs3
+894_1381	1381	894	*	*	Enzyme	Solid	*	*				*	*		HMDB	GMP	Sorbs3
+899_1251	1251	899	*	*	Unknown	Solid							*		HMDB	NADPH	Sqle
+899_1352	1352	899	*	*	Unknown	Solid					*		*		HMDB	FAD	Sqle
+89_1197	1197	89	*	*	Enzyme	Solid	*								KEGG, HMDB	beta-Alanine	Aldh7a1
+89_1214	1214	89	*	*	Enzyme	Solid	*				*				KEGG, HMDB	gamma-Amino-N-butyric-acid	Aldh7a1
+89_1246	1246	89	*	*	Enzyme	Solid	*								KEGG	Oxoglutaric acid	Aldh7a1
+89_1251	1251	89	*	*	Enzyme	Solid	*								KEGG, HMDB	NADPH	Aldh7a1
+89_1339	1339	89	*	*	Enzyme	Solid	*								KEGG	butyrobetaine	Aldh7a1
+89_1395	1395	89	*	*	Enzyme	Solid	*								KEGG, HMDB	NADH	Aldh7a1
+89_1562	1562	89	*	*	Enzyme	Solid	*								KEGG	alpha-Aminoadipic-acid	Aldh7a1
+8_100	100	8	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	AABR07058476.1
+900_974	900	974	*	*	SameComplex	Solid	*				*				Reactome	Stard10	PC(36:3)_feature5
+901_974	974	901	*	*	SameComplex	Solid	*				*				Reactome	PC(36:3)_feature5	Stard7
+903_1259	1259	903	*	*	Enzyme	Solid							*		KEGG, HMDB	Succinic acid	Sucla2
+903_1388	1388	903	*	*	Enzyme	Solid				*					KEGG, HMDB	coenzyme A	Sucla2
+904_1259	1259	904	*	*	Enzyme	Solid							*		KEGG, HMDB	Succinic acid	Suclg1
+904_1388	1388	904	*	*	Enzyme	Solid				*					KEGG, HMDB	coenzyme A	Suclg1
+905_1259	1259	905	*	*	Enzyme	Solid							*		KEGG, HMDB	Succinic acid	Suclg2
+905_1388	1388	905	*	*	Enzyme	Solid				*					KEGG, HMDB	coenzyme A	Suclg2
+906_975	906	975	*	*	SameComplex	Solid					*				Reactome	Surf4	PE(34:3)>PE(16:0_18:3)_feature2
+907_1381	1381	907	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Swap70
+908_1218	1218	908	*	*	Enzyme	Solid	*								KEGG	fructose 6-phosphate	Taldo1
+908_1561	1561	908	*	*	Enzyme	Solid	*								KEGG	sedoheptulose-7-phosphate	Taldo1
+909_1228	1228	909	*	*	Enzyme	Solid					*				KEGG	Glutamic acid	Tat
+90_1214	1214	90	*	*	Unknown	Solid					*				HMDB	gamma-Amino-N-butyric-acid	Aldh9a1
+90_1355	1355	90	*	*	Unknown	Solid	*	*		*					HMDB	spermine	Aldh9a1
+910_970	970	910	*	*	Enzyme or transporter	Solid					*				Reactome	LPE(18:0)>LPE(18:0/0:0)_and_LPE(0:0/18:0)_feature1and2	Taz
+910_974	974	910	*	*	Enzyme or transporter	Solid	*				*				Reactome	PC(36:3)_feature5	Taz
+910_975	975	910	*	*	Enzyme or transporter	Solid					*				Reactome	PE(34:3)>PE(16:0_18:3)_feature2	Taz
+911_1310	1310	911	*	*	Enzyme	Solid					*	*			KEGG, HMDB	Tryptophan	Tdo2
+913_1284	1284	913	*	*	Unknown	Solid			*	*	*	*			HMDB	Glutamine	Tgm2
+916_1381	1381	916	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Tiam2
+917_975	917	975	*	*	SameComplex	Solid					*				Reactome	Timm21	PE(34:3)>PE(16:0_18:3)_feature2
+919_1352	1352	919	*	*	Enzyme	Solid					*				KEGG	FAD	Tkfc
+919_1393	1393	919	*	*	Enzyme	Solid	*								KEGG	dihydroxyacetone phosphate	Tkfc
+91_1326	1326	91	*	*	Enzyme	Solid							*		KEGG, HMDB	fructose 1,6-biphosphate	Aldoc
+91_1333	1333	91	*	*	Enzyme	Solid							*		KEGG, HMDB	glyceraldehyde-3-phosphate	Aldoc
+91_1365	1365	91	*	*	Enzyme	Solid							*		KEGG, HMDB	erythrose 4-phosphate	Aldoc
+91_1393	1393	91	*	*	Enzyme	Solid	*						*		KEGG, HMDB	dihydroxyacetone phosphate	Aldoc
+920_1218	1218	920	*	*	Enzyme	Solid	*				*				KEGG, HMDB	fructose 6-phosphate	Tkt
+920_1333	1333	920	*	*	Enzyme	Solid					*				KEGG, HMDB	glyceraldehyde-3-phosphate	Tkt
+920_1365	1365	920	*	*	Enzyme	Solid					*				KEGG, HMDB	erythrose 4-phosphate	Tkt
+920_1405	1405	920	*	*	Enzyme	Solid	*				*				KEGG, HMDB	ribose 5-phosphate	Tkt
+920_1561	1561	920	*	*	Enzyme	Solid	*				*				KEGG	sedoheptulose-7-phosphate	Tkt
+922_1259	1259	922	*	*	Unknown	Solid							*		HMDB	Succinic acid	Tmlhe
+922_1355	1355	922	*	*	Unknown	Solid	*	*		*					HMDB	spermine	Tmlhe
+924_1393	1393	924	*	*	Enzyme	Solid	*								KEGG	dihydroxyacetone phosphate	Tpi1
+925_1343	1343	925	*	*	Enzyme	Solid						*			KEGG	ADP-ribose	Trpm2
+925_1405	1405	925	*	*	Enzyme	Solid	*					*			KEGG, HMDB	ribose 5-phosphate	Trpm2
+927_1277	927	1277	*	*	SameComplex	Solid					*		*	*	Reactome	Ttr	vitamin A
+92_1381	1381	92	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Als2cl
+930_1219	1219	930	*	*	Enzyme	Solid			*	*					KEGG	Glutathione	Txndc12
+930_1435	1435	930	*	*	Enzyme	Solid							*		KEGG	oxidized glutathione	Txndc12
+931_1219	1219	931	*	*	Enzyme	Solid			*	*					KEGG	Glutathione	Txnrd1
+931_1251	1251	931	*	*	Enzyme	Solid			*						KEGG, HMDB	NADPH	Txnrd1
+931_1281	1281	931	*	*	Enzyme	Solid			*				*	*	KEGG	Cysteine	Txnrd1
+931_1352	1352	931	*	*	Unknown	Solid			*		*				HMDB	FAD	Txnrd1
+931_1356	1356	931	*	*	Unknown	Solid			*						HMDB	spermidine	Txnrd1
+932_1219	1219	932	*	*	Enzyme	Solid	*		*	*					KEGG	Glutathione	Txnrd2
+932_1251	1251	932	*	*	Enzyme	Solid	*								KEGG, HMDB	NADPH	Txnrd2
+932_1281	1281	932	*	*	Enzyme	Solid	*		*				*	*	KEGG	Cysteine	Txnrd2
+932_1352	1352	932	*	*	Unknown	Solid	*				*				HMDB	FAD	Txnrd2
+933_1222	1222	933	*	*	Enzyme	Solid	*								KEGG	Guanine	Tymp
+934_1265	1265	934	*	*	Enzyme	Solid	*	*				*	*	*	HMDB	UTP	Uap1
+934_1270	1270	934	*	*	Enzyme	Solid							*		HMDB	UDP-N-acetylglucosamine	Uap1
+935_1265	1265	935	*	*	Enzyme	Solid	*	*				*	*	*	KEGG, HMDB	UTP	Uap1l1
+935_1270	1270	935	*	*	Enzyme	Solid							*		KEGG, HMDB	UDP-N-acetylglucosamine	Uap1l1
+937_1265	1265	937	*	*	Unknown	Solid	*	*				*	*	*	HMDB	UTP	Uck1
+938_1205	1205	938	*	*	Unknown	Solid	*								HMDB	CTP	Uck2
+938_1265	1265	938	*	*	Unknown	Solid	*	*				*	*	*	HMDB	UTP	Uck2
+939_1265	1265	939	*	*	Enzyme	Solid	*	*				*	*	*	HMDB	UTP	Uckl1
+939_1275	1275	939	*	*	Enzyme	Solid						*		*	HMDB	uracil	Uckl1
+940_1266	1266	940	*	*	Enzyme	Solid							*		HMDB	UDP-glucose	Ugcg
+940_967	967	940	*	*	Enzyme	Solid	*								HMDB	HexCer(d42:0-OH)_M+H2CO2_feature1	Ugcg
+941_1266	1266	941	*	*	Enzyme	Solid					*		*		KEGG, HMDB	UDP-glucose	Ugdh
+941_1311	1311	941	*	*	Enzyme	Solid					*				KEGG	UDP-glucuronate	Ugdh
+941_1395	1395	941	*	*	Enzyme	Solid					*				KEGG, HMDB	NADH	Ugdh
+942_1265	1265	942	*	*	Enzyme	Solid	*	*			*	*	*	*	HMDB	UTP	Ugp2
+942_1266	1266	942	*	*	Enzyme	Solid					*		*		HMDB	UDP-glucose	Ugp2
+943_966	966	943	*	*	Unknown	Solid					*		*	*	HMDB	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Unc13b
+944_1268	1268	944	*	*	Enzyme	Solid					*			*	KEGG	Uric acid	Uox
+952_966	966	952	*	*	Unknown	Solid	*				*		*	*	HMDB	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Vav1
+953_1381	1381	953	*	*	Unknown	Solid	*	*					*		HMDB	GMP	Vav2
+953_966	966	953	*	*	Unknown	Solid					*		*	*	HMDB	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Vav2
+954_966	966	954	*	*	Unknown	Solid					*		*	*	HMDB	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	Vav3
+959_1352	1352	959	*	*	Unknown	Solid					*				HMDB	FAD	Xdh
+959_1355	1355	959	*	*	Unknown	Solid	*	*		*					HMDB	spermine	Xdh
+963_1388	1388	963	*	*	Enzyme	Solid				*					HMDB	coenzyme A	Znhit3
+963_1464	1464	963	*	*	Enzyme	Solid			*						HMDB	phytosphingosine	Znhit3
+963_967	967	963	*	*	Enzyme	Solid	*								HMDB	HexCer(d42:0-OH)_M+H2CO2_feature1	Znhit3
+963_977	977	963	*	*	Enzyme	Solid					*				HMDB	PI(40:6)>PI(18:0_22:6)_feature1	Znhit3
+963_979	979	963	*	*	Enzyme	Solid					*		*	*	HMDB	SM(d34:1)	Znhit3
+964_1201	1201	964	*	*	SameComplex	Solid					*	*			Reactome	cholesterol	CE(18:1)_feature1
+964_980	980	964	*	*	Metabolic Transformation	Solid					*	*			Reactome	TG(58:7)>TG(18:0_18:1_22:6)_M+NH3_feature3	CE(18:1)_feature1
+966_1388	966	1388	*	*	Metabolic Transformation	Solid				*	*		*	*	KEGG	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	coenzyme A
+966_972	972	966	*	*	Metabolic Transformation	Solid					*	*	*	*	Reactome	MG(18:1_0:0_0:0)	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1
+966_973	966	973	*	*	Metabolic Transformation	Solid					*		*	*	KEGG	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	PA(34:1)_M+NH3_feature1
+966_974	966	974	*	*	Metabolic Transformation	Solid	*				*		*	*	Reactome, KEGG	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	PC(36:3)_feature5
+966_975	966	975	*	*	Metabolic Transformation	Solid					*		*	*	Reactome, KEGG	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	PE(34:3)>PE(16:0_18:3)_feature2
+966_977	977	966	*	*	Metabolic Transformation	Solid					*		*	*	KEGG	PI(40:6)>PI(18:0_22:6)_feature1	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1
+966_979	979	966	*	*	SameComplex	Solid					*		*	*	Reactome	SM(d34:1)	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1
+966_980	966	980	*	*	Metabolic Transformation	Solid					*	*	*	*	Reactome, KEGG	DG(36:5)>DG(18:2_18:3_0:0)_M+NH3_feature1	TG(58:7)>TG(18:0_18:1_22:6)_M+NH3_feature3
+967_1226	1226	967	*	*	Metabolic Transformation	Solid	*						*		Reactome, KEGG	hexose	HexCer(d42:0-OH)_M+H2CO2_feature1
+967_1274	967	1274	*	*	SameComplex	Solid	*								Reactome	HexCer(d42:0-OH)_M+H2CO2_feature1	UDP
+969_1207	969	1207	*	*	Metabolic Transformation	Solid					*	*			Reactome	C22:4 LPC	sn-Glycero-3-phosphocholine
+969_1408	969	1408	*	*	Metabolic Transformation	Solid						*			Reactome	C22:4 LPC	phosphocholine
+969_972	969	972	*	*	Metabolic Transformation	Solid						*	*	*	Reactome	C22:4 LPC	MG(18:1_0:0_0:0)
+96_100	96	100	*	*	SameComplex	Solid	*				*				Reactome	Ano8	Apoa1
+970_1388	1388	970	*	*	Metabolic Transformation	Solid				*	*				KEGG	coenzyme A	LPE(18:0)>LPE(18:0/0:0)_and_LPE(0:0/18:0)_feature1and2
+970_975	970	975	*	*	Metabolic Transformation	Solid					*				Reactome, KEGG	LPE(18:0)>LPE(18:0/0:0)_and_LPE(0:0/18:0)_feature1and2	PE(34:3)>PE(16:0_18:3)_feature2
+972_1408	1408	972	*	*	SameComplex	Solid						*	*	*	Reactome	phosphocholine	MG(18:1_0:0_0:0)
+973_974	974	973	*	*	Metabolic Transformation	Solid	*				*				KEGG	PC(36:3)_feature5	PA(34:1)_M+NH3_feature1
+973_975	975	973	*	*	Metabolic Transformation	Solid					*				KEGG	PE(34:3)>PE(16:0_18:3)_feature2	PA(34:1)_M+NH3_feature1
+974_1207	974	1207	*	*	Metabolic Transformation	Solid	*				*				KEGG	PC(36:3)_feature5	sn-Glycero-3-phosphocholine
+974_1210	974	1210	*	*	Metabolic Transformation	Solid	*	*			*				Reactome, KEGG	PC(36:3)_feature5	Choline
+974_975	975	974	*	*	Metabolic Transformation	Solid	*				*				Reactome	PE(34:3)>PE(16:0_18:3)_feature2	PC(36:3)_feature5
+974_976	974	976	*	*	SameComplex	Solid	*		*	*	*		*	*	Reactome	PC(36:3)_feature5	PG(36:2)>PG(18:0_18:2)_feature2
+974_978	974	978	*	*	Metabolic Transformation	Solid	*		*		*			*	Reactome	PC(36:3)_feature5	PS(40:5)_feature3
+974_979	974	979	*	*	Metabolic Transformation	Solid	*				*		*	*	Reactome, KEGG	PC(36:3)_feature5	SM(d34:1)
+975_1229	975	1229	*	*	Metabolic Transformation	Solid					*				Reactome, KEGG	PE(34:3)>PE(16:0_18:3)_feature2	Ethanolamine
+975_978	975	978	*	*	Metabolic Transformation	Solid			*		*			*	Reactome, KEGG	PE(34:3)>PE(16:0_18:3)_feature2	PS(40:5)_feature3
+978_1210	978	1210	*	*	SameComplex	Solid	*	*	*		*			*	Reactome	PS(40:5)_feature3	Choline
+978_1229	978	1229	*	*	SameComplex	Solid			*					*	Reactome	PS(40:5)_feature3	Ethanolamine
+979_1408	979	1408	*	*	Metabolic Transformation	Solid					*		*	*	KEGG	SM(d34:1)	phosphocholine
+97_1289	1289	97	*	*	Unknown	Solid	*	*							HMDB	1-methylnicotinamide	Aox1
+97_1352	1352	97	*	*	Unknown	Solid					*				HMDB	FAD	Aox1
+980_1201	980	1201	*	*	SameComplex	Solid					*	*			Reactome	TG(58:7)>TG(18:0_18:1_22:6)_M+NH3_feature3	cholesterol
+98_1289	1289	98	*	*	Enzyme	Solid	*	*							KEGG	1-methylnicotinamide	Aox3
+98_1410	1410	98	*	*	Enzyme	Solid	*								KEGG	retinoate	Aox3
+98_1458	1458	98	*	*	Enzyme	Solid	*								KEGG	N1-methyl-2-pyridone-5-carboxamide	Aox3
+99_100	99	100	*	*	SameComplex	Solid	*				*				Reactome	Aplp2	Apoa1
+9_100	100	9	*	*	SameComplex	Solid	*				*				Reactome	Apoa1	AABR07058479.1
